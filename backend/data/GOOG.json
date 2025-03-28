@@ -1,0 +1,2402 @@
+[
+  {
+    "ticker": "GOOG",
+    "open": 5.0,
+    "close": 5.12,
+    "high": 5.67,
+    "low": 4.8,
+    "volume": 1336616540,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 5.13,
+    "close": 6.48,
+    "high": 6.75,
+    "low": 4.95,
+    "volume": 2121990380,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 6.54,
+    "close": 9.53,
+    "high": 10.0,
+    "low": 6.45,
+    "volume": 5149658060,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 9.68,
+    "close": 9.1,
+    "high": 10.08,
+    "low": 8.07,
+    "volume": 5553728840,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 9.09,
+    "close": 9.64,
+    "high": 9.99,
+    "low": 8.42,
+    "volume": 2908125480,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 9.87,
+    "close": 9.78,
+    "high": 10.27,
+    "low": 8.81,
+    "volume": 4111173300,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 9.72,
+    "close": 9.4,
+    "high": 10.84,
+    "low": 9.05,
+    "volume": 6521581340,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 9.46,
+    "close": 9.03,
+    "high": 9.49,
+    "low": 8.63,
+    "volume": 3447551900,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 9.09,
+    "close": 11,
+    "high": 11.24,
+    "low": 8.99,
+    "volume": 4553760300,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 11.1,
+    "close": 13.86,
+    "high": 13.92,
+    "low": 11.01,
+    "volume": 5082680260,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 14.16,
+    "close": 14.71,
+    "high": 15.46,
+    "low": 13.37,
+    "volume": 7841584900,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 14.75,
+    "close": 14.39,
+    "high": 15.89,
+    "low": 14.35,
+    "volume": 4139381920,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 14.41,
+    "close": 14.3,
+    "high": 14.99,
+    "low": 13.67,
+    "volume": 2869183500,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 14.3,
+    "close": 15.82,
+    "high": 16.05,
+    "low": 14.25,
+    "volume": 3406881100,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 15.68,
+    "close": 18.61,
+    "high": 18.74,
+    "low": 14.53,
+    "volume": 3877456520,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 18.59,
+    "close": 20.25,
+    "high": 21.56,
+    "low": 18.45,
+    "volume": 4232101060,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 20.46,
+    "close": 20.74,
+    "high": 22.31,
+    "low": 19.95,
+    "volume": 3973697100,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 21.13,
+    "close": 21.63,
+    "high": 23.76,
+    "low": 19.74,
+    "volume": 5992191520,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 19.45,
+    "close": 18.13,
+    "high": 20.32,
+    "low": 16.89,
+    "volume": 5947894980,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 18.43,
+    "close": 19.5,
+    "high": 19.95,
+    "low": 16.58,
+    "volume": 6152028780,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 19.48,
+    "close": 20.9,
+    "high": 22.54,
+    "low": 19.4,
+    "volume": 3710947520,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 20.92,
+    "close": 18.59,
+    "high": 20.97,
+    "low": 18.03,
+    "volume": 3496059460,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 18.68,
+    "close": 20.97,
+    "high": 20.97,
+    "low": 18.58,
+    "volume": 2847807560,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 21.0,
+    "close": 19.33,
+    "high": 21.39,
+    "low": 18.88,
+    "volume": 2553969700,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 19.25,
+    "close": 18.93,
+    "high": 19.5,
+    "low": 18.17,
+    "volume": 2142812740,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 19.05,
+    "close": 20.09,
+    "high": 20.93,
+    "low": 18.84,
+    "volume": 2434087620,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 20.09,
+    "close": 23.82,
+    "high": 24.6,
+    "low": 19.91,
+    "volume": 3178510800,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 23.94,
+    "close": 24.24,
+    "high": 25.65,
+    "low": 23.25,
+    "volume": 2369604840,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 24.3,
+    "close": 23.02,
+    "high": 24.62,
+    "low": 22.62,
+    "volume": 1836498280,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 23.3,
+    "close": 25.07,
+    "high": 25.65,
+    "low": 23.06,
+    "volume": 2499355000,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 25.3,
+    "close": 22.47,
+    "high": 25.3,
+    "low": 22.15,
+    "volume": 2281661780,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 22.13,
+    "close": 22.91,
+    "high": 23.3,
+    "low": 21.85,
+    "volume": 2361548880,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 22.91,
+    "close": 23.57,
+    "high": 24.62,
+    "low": 22.61,
+    "volume": 1866120060,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 23.61,
+    "close": 24.9,
+    "high": 25.44,
+    "low": 22.87,
+    "volume": 1995220540,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 25.05,
+    "close": 26.14,
+    "high": 26.75,
+    "low": 24.88,
+    "volume": 2585082360,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.26,
+    "close": 25.5,
+    "high": 27.93,
+    "low": 24.94,
+    "volume": 2336861460,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 25.52,
+    "close": 25.76,
+    "high": 26.34,
+    "low": 24.02,
+    "volume": 1774612080,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 25.75,
+    "close": 28.36,
+    "high": 28.59,
+    "low": 25.54,
+    "volume": 1389037760,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 28.5,
+    "close": 35.35,
+    "high": 35.35,
+    "low": 28.48,
+    "volume": 3111188460,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 35.14,
+    "close": 34.65,
+    "high": 37.36,
+    "low": 30.8,
+    "volume": 3430611640,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 34.55,
+    "close": 34.57,
+    "high": 36.24,
+    "low": 32.62,
+    "volume": 1708323960,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 34.64,
+    "close": 28.21,
+    "high": 34.87,
+    "low": 25.95,
+    "volume": 3156875780,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.43,
+    "close": 23.56,
+    "high": 27.05,
+    "low": 22.34,
+    "volume": 3544060460,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 23.58,
+    "close": 22.02,
+    "high": 23.64,
+    "low": 20.61,
+    "volume": 2911605340,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 22.39,
+    "close": 28.71,
+    "high": 29.24,
+    "low": 22.05,
+    "volume": 2862563280,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 28.92,
+    "close": 29.29,
+    "high": 30.12,
+    "low": 26.89,
+    "volume": 2093485240,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 29.12,
+    "close": 26.32,
+    "high": 29.4,
+    "low": 25.75,
+    "volume": 1876830920,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 25.98,
+    "close": 23.69,
+    "high": 27.78,
+    "low": 23.28,
+    "volume": 2082805020,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 23.63,
+    "close": 23.16,
+    "high": 25.53,
+    "low": 23.09,
+    "volume": 1376544400,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 23.84,
+    "close": 16.15,
+    "high": 24.18,
+    "low": 12.5,
+    "volume": 2797747820,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 20.56,
+    "close": 17.97,
+    "high": 20.85,
+    "low": 15.47,
+    "volume": 3990432060,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 17.88,
+    "close": 14.65,
+    "high": 18.62,
+    "low": 12.37,
+    "volume": 3161983540,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 14.33,
+    "close": 15.38,
+    "high": 16.48,
+    "low": 13.13,
+    "volume": 2264823080,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 15.43,
+    "close": 16.93,
+    "high": 17.62,
+    "low": 14.14,
+    "volume": 2200413520,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 16.71,
+    "close": 16.9,
+    "high": 19.05,
+    "low": 16.48,
+    "volume": 2232369900,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 16.67,
+    "close": 17.4,
+    "high": 17.96,
+    "low": 14.47,
+    "volume": 2288238020,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 17.19,
+    "close": 19.8,
+    "high": 20.19,
+    "low": 17.03,
+    "volume": 1757082500,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 19.75,
+    "close": 20.86,
+    "high": 20.86,
+    "low": 19.23,
+    "volume": 1141422560,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 20.94,
+    "close": 21.08,
+    "high": 22.37,
+    "low": 20.09,
+    "volume": 1409597580,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 21.21,
+    "close": 22.15,
+    "high": 22.64,
+    "low": 19.8,
+    "volume": 1460912620,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 22.44,
+    "close": 23.08,
+    "high": 23.72,
+    "low": 21.93,
+    "volume": 975448720,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 22.98,
+    "close": 24.79,
+    "high": 25.35,
+    "low": 22.63,
+    "volume": 1021914700,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 24.65,
+    "close": 26.81,
+    "high": 28.08,
+    "low": 24.13,
+    "volume": 1538055920,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.85,
+    "close": 29.15,
+    "high": 29.35,
+    "low": 26.41,
+    "volume": 818523720,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 29.41,
+    "close": 31.0,
+    "high": 31.3,
+    "low": 28.96,
+    "volume": 852894720,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 31.35,
+    "close": 26.5,
+    "high": 31.48,
+    "low": 26.28,
+    "volume": 1782681100,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.73,
+    "close": 26.34,
+    "high": 27.38,
+    "low": 26,
+    "volume": 1040998140,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.46,
+    "close": 28.36,
+    "high": 29.41,
+    "low": 26.39,
+    "volume": 1676131700,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 28.57,
+    "close": 26.28,
+    "high": 29.89,
+    "low": 26.05,
+    "volume": 1461846560,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.32,
+    "close": 24.28,
+    "high": 26.65,
+    "low": 23,
+    "volume": 1632337900,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 24.02,
+    "close": 22.25,
+    "high": 25.46,
+    "low": 22.24,
+    "volume": 1197977260,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 22.26,
+    "close": 24.24,
+    "high": 24.88,
+    "low": 21.68,
+    "volume": 1386660360,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 24.45,
+    "close": 22.5,
+    "high": 25.43,
+    "low": 22.38,
+    "volume": 1058170800,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 22.75,
+    "close": 26.29,
+    "high": 26.84,
+    "low": 22.62,
+    "volume": 1194754920,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.5,
+    "close": 30.68,
+    "high": 31.24,
+    "low": 25.94,
+    "volume": 1588025580,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 30.79,
+    "close": 27.79,
+    "high": 31.54,
+    "low": 27.67,
+    "volume": 1169429040,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 28.15,
+    "close": 29.7,
+    "high": 30.35,
+    "low": 28.12,
+    "volume": 845707120,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 29.82,
+    "close": 30.02,
+    "high": 32.15,
+    "low": 29.78,
+    "volume": 1200401200,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 30.22,
+    "close": 30.67,
+    "high": 31.56,
+    "low": 30.07,
+    "volume": 838072680,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 30.89,
+    "close": 29.34,
+    "high": 30.96,
+    "low": 27.56,
+    "volume": 1201729640,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 29.44,
+    "close": 27.2,
+    "high": 29.76,
+    "low": 25.95,
+    "volume": 1405941020,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 27.29,
+    "close": 26.45,
+    "high": 27.29,
+    "low": 25.67,
+    "volume": 905416840,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.4,
+    "close": 25.32,
+    "high": 26.66,
+    "low": 23.65,
+    "volume": 1182429960,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 25.34,
+    "close": 30.18,
+    "high": 31.38,
+    "low": 25.32,
+    "volume": 1621353200,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 30.56,
+    "close": 27.05,
+    "high": 30.77,
+    "low": 24.54,
+    "volume": 2136177520,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 27.04,
+    "close": 25.75,
+    "high": 27.93,
+    "low": 25.52,
+    "volume": 1172887260,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 25.49,
+    "close": 29.63,
+    "high": 30.14,
+    "low": 24.03,
+    "volume": 1543585280,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 29.0,
+    "close": 29.97,
+    "high": 30.91,
+    "low": 28.07,
+    "volume": 1206149060,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 30,
+    "close": 32.3,
+    "high": 32.34,
+    "low": 29.95,
+    "volume": 1101273360,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 32.65,
+    "close": 29.01,
+    "high": 33.51,
+    "low": 28.23,
+    "volume": 1473145720,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 29.25,
+    "close": 30.91,
+    "high": 31.28,
+    "low": 28.96,
+    "volume": 947445680,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 31.11,
+    "close": 32.06,
+    "high": 32.93,
+    "low": 29.69,
+    "volume": 946802960,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 32.04,
+    "close": 30.24,
+    "high": 32.66,
+    "low": 29.51,
+    "volume": 1177873920,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 30.19,
+    "close": 29.04,
+    "high": 31.89,
+    "low": 28.95,
+    "volume": 1173733640,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 28.59,
+    "close": 29.0,
+    "high": 29.39,
+    "low": 27.83,
+    "volume": 930342100,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 29.09,
+    "close": 31.65,
+    "high": 32.13,
+    "low": 28.1,
+    "volume": 1026017200,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 31.86,
+    "close": 34.25,
+    "high": 34.45,
+    "low": 31.17,
+    "volume": 941414900,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 34.23,
+    "close": 37.73,
+    "high": 38.24,
+    "low": 33.67,
+    "volume": 1203863640,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 37.95,
+    "close": 34.01,
+    "high": 38.72,
+    "low": 33.48,
+    "volume": 1436284120,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 33.98,
+    "close": 34.92,
+    "high": 34.96,
+    "low": 31.8,
+    "volume": 933833560,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 35.11,
+    "close": 35.37,
+    "high": 36.91,
+    "low": 34.12,
+    "volume": 834165160,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 35.97,
+    "close": 37.78,
+    "high": 38.05,
+    "low": 34.78,
+    "volume": 1048316240,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 37.91,
+    "close": 40.06,
+    "high": 40.45,
+    "low": 37.91,
+    "volume": 927243400,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 39.89,
+    "close": 39.71,
+    "high": 42.2,
+    "low": 39.66,
+    "volume": 851171500,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 39.75,
+    "close": 41.23,
+    "high": 41.38,
+    "low": 38.06,
+    "volume": 1071481980,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 41.16,
+    "close": 43.56,
+    "high": 46.03,
+    "low": 40.82,
+    "volume": 989056340,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 43.65,
+    "close": 44.02,
+    "high": 45.54,
+    "low": 42.36,
+    "volume": 971962120,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 44.32,
+    "close": 44.39,
+    "high": 46.4,
+    "low": 43.78,
+    "volume": 1025559320,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 44.75,
+    "close": 42.34,
+    "high": 45.49,
+    "low": 42.28,
+    "volume": 670162500,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 42.72,
+    "close": 43.8,
+    "high": 45.3,
+    "low": 42.7,
+    "volume": 662944200,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 44.01,
+    "close": 51.53,
+    "high": 52.08,
+    "low": 42.15,
+    "volume": 1104202000,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 51.59,
+    "close": 52.98,
+    "high": 53.4,
+    "low": 50.25,
+    "volume": 525530600,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 53.18,
+    "close": 56.04,
+    "high": 56.05,
+    "low": 52.45,
+    "volume": 677549700,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 55.77,
+    "close": 59.05,
+    "high": 59.33,
+    "low": 54.11,
+    "volume": 1094803120,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 58.96,
+    "close": 60.78,
+    "high": 61.44,
+    "low": 56.4,
+    "volume": 812862100,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 60.34,
+    "close": 55.73,
+    "high": 61.35,
+    "low": 55.1,
+    "volume": 874047780,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 56.01,
+    "close": 26.33,
+    "high": 57.24,
+    "low": 25.14,
+    "volume": 1427065480,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.36,
+    "close": 27.99,
+    "high": 28.39,
+    "low": 25.16,
+    "volume": 730948820,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 28.04,
+    "close": 28.76,
+    "high": 29.12,
+    "low": 26.94,
+    "volume": 758343820,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 28.92,
+    "close": 28.58,
+    "high": 29.98,
+    "low": 28.25,
+    "volume": 691029460,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 28.52,
+    "close": 28.58,
+    "high": 29.37,
+    "low": 28,
+    "volume": 552052840,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 28.59,
+    "close": 28.87,
+    "high": 29.82,
+    "low": 28.41,
+    "volume": 669330680,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 28.8,
+    "close": 27.95,
+    "high": 29.05,
+    "low": 25.41,
+    "volume": 1041660280,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 27.77,
+    "close": 27.09,
+    "high": 27.89,
+    "low": 26.5,
+    "volume": 568914300,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.95,
+    "close": 26.32,
+    "high": 27.07,
+    "low": 24.45,
+    "volume": 915866940,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.45,
+    "close": 26.73,
+    "high": 27.11,
+    "low": 24.38,
+    "volume": 1001967680,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.59,
+    "close": 27.92,
+    "high": 28.24,
+    "low": 25.93,
+    "volume": 649879780,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 28.03,
+    "close": 27.4,
+    "high": 28.9,
+    "low": 27.21,
+    "volume": 770853500,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 27.43,
+    "close": 26.87,
+    "high": 28.56,
+    "low": 26.05,
+    "volume": 840668840,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.92,
+    "close": 26.61,
+    "high": 27.21,
+    "low": 26.05,
+    "volume": 637334580,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.84,
+    "close": 26.03,
+    "high": 27.19,
+    "low": 26.02,
+    "volume": 686715420,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 26.24,
+    "close": 31.28,
+    "high": 33.93,
+    "low": 25.76,
+    "volume": 1266388940,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 31.27,
+    "close": 30.91,
+    "high": 33.74,
+    "low": 28.25,
+    "volume": 1074408980,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 30.12,
+    "close": 30.42,
+    "high": 32.55,
+    "low": 29.47,
+    "volume": 959084480,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 30.42,
+    "close": 35.54,
+    "high": 36.5,
+    "low": 29.99,
+    "volume": 990264960,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 35.55,
+    "close": 37.13,
+    "high": 38.14,
+    "low": 35.29,
+    "volume": 678772160,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 37.36,
+    "close": 37.94,
+    "high": 39.0,
+    "low": 36.21,
+    "volume": 862214160,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 37.15,
+    "close": 37.15,
+    "high": 37.6,
+    "low": 33.66,
+    "volume": 930787980,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 37.52,
+    "close": 34.89,
+    "high": 39.49,
+    "low": 33.15,
+    "volume": 1287339320,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 35.18,
+    "close": 37.25,
+    "high": 37.89,
+    "low": 34.27,
+    "volume": 834892300,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 36.93,
+    "close": 34.65,
+    "high": 38.49,
+    "low": 34.45,
+    "volume": 843094260,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 34.88,
+    "close": 36.79,
+    "high": 36.99,
+    "low": 34.45,
+    "volume": 699999180,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 36.73,
+    "close": 34.6,
+    "high": 36.86,
+    "low": 33.16,
+    "volume": 787315720,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 34.61,
+    "close": 38.44,
+    "high": 38.93,
+    "low": 34.41,
+    "volume": 598282880,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 38.05,
+    "close": 38.35,
+    "high": 39.49,
+    "low": 38.05,
+    "volume": 527706420,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 38.46,
+    "close": 38.86,
+    "high": 39.49,
+    "low": 37.7,
+    "volume": 551514240,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 38.71,
+    "close": 39.23,
+    "high": 40.83,
+    "low": 38.48,
+    "volume": 678951520,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 39.14,
+    "close": 37.9,
+    "high": 39.78,
+    "low": 36.38,
+    "volume": 853680720,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 37.87,
+    "close": 38.59,
+    "high": 40.22,
+    "low": 36.85,
+    "volume": 641959600,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 38.94,
+    "close": 39.84,
+    "high": 42.1,
+    "low": 38.79,
+    "volume": 666656420,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 39.98,
+    "close": 41.16,
+    "high": 41.67,
+    "low": 39.56,
+    "volume": 513790440,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 41.44,
+    "close": 41.48,
+    "high": 42.67,
+    "low": 40.17,
+    "volume": 674806840,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 41.46,
+    "close": 45.3,
+    "high": 45.84,
+    "low": 40.85,
+    "volume": 504375820,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 45.1,
+    "close": 48.24,
+    "high": 48.96,
+    "low": 45.07,
+    "volume": 643804480,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 48.45,
+    "close": 45.44,
+    "high": 49.41,
+    "low": 45.42,
+    "volume": 871590600,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 45.61,
+    "close": 46.52,
+    "high": 49.31,
+    "low": 44.74,
+    "volume": 733589960,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 46.62,
+    "close": 46.97,
+    "high": 47.1,
+    "low": 45.17,
+    "volume": 556972200,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 47.06,
+    "close": 47.96,
+    "high": 47.99,
+    "low": 45.48,
+    "volume": 561515400,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 48.0,
+    "close": 50.83,
+    "high": 52.42,
+    "low": 47.39,
+    "volume": 635613300,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 50.86,
+    "close": 51.07,
+    "high": 53.12,
+    "low": 50.65,
+    "volume": 485334760,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 50.79,
+    "close": 52.32,
+    "high": 53.92,
+    "low": 49.41,
+    "volume": 563258600,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 52.42,
+    "close": 58.5,
+    "high": 59.34,
+    "low": 52.26,
+    "volume": 574769700,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 58.13,
+    "close": 55.24,
+    "high": 58.7,
+    "low": 49.63,
+    "volume": 847682100,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 55.39,
+    "close": 51.59,
+    "high": 58.85,
+    "low": 49.03,
+    "volume": 908600980,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 51.14,
+    "close": 50.87,
+    "high": 54.71,
+    "low": 49.52,
+    "volume": 835142500,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 50.68,
+    "close": 54.25,
+    "high": 55.54,
+    "low": 50.31,
+    "volume": 636274940,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 54.97,
+    "close": 55.78,
+    "high": 59.31,
+    "low": 54.8,
+    "volume": 642072840,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 54.95,
+    "close": 60.86,
+    "high": 63.69,
+    "low": 54.69,
+    "volume": 639020920,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 61.4,
+    "close": 60.91,
+    "high": 62.83,
+    "low": 59.41,
+    "volume": 576387580,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 60.21,
+    "close": 59.67,
+    "high": 60.65,
+    "low": 57.35,
+    "volume": 577263980,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 59.99,
+    "close": 53.84,
+    "high": 60.5,
+    "low": 49.79,
+    "volume": 969923340,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 53.79,
+    "close": 54.72,
+    "high": 54.78,
+    "low": 49.8,
+    "volume": 734311400,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 56.16,
+    "close": 51.78,
+    "high": 56.23,
+    "low": 48.51,
+    "volume": 805129220,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 50.83,
+    "close": 55.82,
+    "high": 55.87,
+    "low": 50.7,
+    "volume": 614090880,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 55.62,
+    "close": 56.0,
+    "high": 57.35,
+    "low": 54.3,
+    "volume": 577752920,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 56.24,
+    "close": 58.67,
+    "high": 61.59,
+    "low": 56.16,
+    "volume": 633178720,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 59.2,
+    "close": 59.42,
+    "high": 64.46,
+    "low": 58.75,
+    "volume": 557051180,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 59.4,
+    "close": 55.18,
+    "high": 59.54,
+    "low": 55.01,
+    "volume": 666475240,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 53.27,
+    "close": 54.05,
+    "high": 56.21,
+    "low": 51.25,
+    "volume": 681976640,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 54.9,
+    "close": 60.83,
+    "high": 63.28,
+    "low": 54.69,
+    "volume": 658952500,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 60.7,
+    "close": 59.41,
+    "high": 61.71,
+    "low": 57.01,
+    "volume": 578962540,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 58.85,
+    "close": 60.95,
+    "high": 62.41,
+    "low": 58.16,
+    "volume": 543702400,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 60.95,
+    "close": 63.01,
+    "high": 64.97,
+    "low": 58.12,
+    "volume": 587000460,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 63.25,
+    "close": 65.25,
+    "high": 66.78,
+    "low": 63.02,
+    "volume": 499138120,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 65.05,
+    "close": 66.85,
+    "high": 68.25,
+    "low": 63.95,
+    "volume": 552083940,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 67.08,
+    "close": 71.71,
+    "high": 75.16,
+    "low": 67.08,
+    "volume": 674201160,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 73.1,
+    "close": 66.97,
+    "high": 76.61,
+    "low": 63.55,
+    "volume": 742062800,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 67.58,
+    "close": 58.14,
+    "high": 70.51,
+    "low": 50.68,
+    "volume": 1427968380,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 56.1,
+    "close": 67.43,
+    "high": 68.0,
+    "low": 53.99,
+    "volume": 926726400,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 66.42,
+    "close": 71.45,
+    "high": 72.05,
+    "low": 64.95,
+    "volume": 637810640,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 70.92,
+    "close": 70.68,
+    "high": 73.8,
+    "low": 67.35,
+    "volume": 776639400,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 70.56,
+    "close": 74.15,
+    "high": 79.35,
+    "low": 70.49,
+    "volume": 704794380,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 74.33,
+    "close": 81.71,
+    "high": 82.96,
+    "low": 72.93,
+    "volume": 744510400,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 81.83,
+    "close": 73.48,
+    "high": 86.66,
+    "low": 70.33,
+    "volume": 810913020,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 74.21,
+    "close": 81.05,
+    "high": 84.35,
+    "low": 71.8,
+    "volume": 785004360,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 81.41,
+    "close": 88.04,
+    "high": 90.9,
+    "low": 80.8,
+    "volume": 700504720,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 88.72,
+    "close": 87.59,
+    "high": 92.36,
+    "low": 84.95,
+    "volume": 629212120,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 87.88,
+    "close": 91.79,
+    "high": 96.74,
+    "low": 84.95,
+    "volume": 661680420,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 92.68,
+    "close": 101.84,
+    "high": 107.63,
+    "low": 92.58,
+    "volume": 588610340,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 102.83,
+    "close": 103.43,
+    "high": 106.44,
+    "low": 100.5,
+    "volume": 695891480,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 104.9,
+    "close": 120.51,
+    "high": 122.62,
+    "low": 104.84,
+    "volume": 614373920,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 120.14,
+    "close": 120.58,
+    "high": 122.15,
+    "low": 111.5,
+    "volume": 508428080,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 121.1,
+    "close": 125.32,
+    "high": 127.8,
+    "low": 119.14,
+    "volume": 548460880,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 124.85,
+    "close": 135.22,
+    "high": 140.01,
+    "low": 124.85,
+    "volume": 456809180,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 135.48,
+    "close": 145.46,
+    "high": 146.49,
+    "low": 134.18,
+    "volume": 372204800,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 145.65,
+    "close": 133.27,
+    "high": 146.82,
+    "low": 133,
+    "volume": 506129220,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 133.55,
+    "close": 148.27,
+    "high": 149.12,
+    "low": 131.17,
+    "volume": 495883720,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 148.16,
+    "close": 142.45,
+    "high": 151.85,
+    "low": 142.07,
+    "volume": 443087240,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 144.21,
+    "close": 144.68,
+    "high": 149.6,
+    "low": 140.25,
+    "volume": 479166280,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 144.48,
+    "close": 135.7,
+    "high": 146.61,
+    "low": 124.64,
+    "volume": 614471580,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 137.84,
+    "close": 134.89,
+    "high": 152.1,
+    "low": 124.76,
+    "volume": 732611080,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 134.48,
+    "close": 139.65,
+    "high": 144.16,
+    "low": 125.86,
+    "volume": 637438680,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 140.01,
+    "close": 114.97,
+    "high": 144.04,
+    "low": 113.12,
+    "volume": 563480020,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 113.91,
+    "close": 114.04,
+    "high": 123.14,
+    "low": 102.21,
+    "volume": 717430720,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 114.93,
+    "close": 109.37,
+    "high": 119.4,
+    "low": 105.63,
+    "volume": 626479580,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 108.34,
+    "close": 116.64,
+    "high": 120.44,
+    "low": 104.76,
+    "volume": 638180558,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 115.53,
+    "close": 109.15,
+    "high": 123.26,
+    "low": 108.8,
+    "volume": 430953358,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 109.2,
+    "close": 96.15,
+    "high": 112.64,
+    "low": 96.03,
+    "volume": 532935069,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 97.22,
+    "close": 94.66,
+    "high": 105.1,
+    "low": 91.9,
+    "volume": 584015310,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 95.59,
+    "close": 101.45,
+    "high": 101.45,
+    "low": 83.45,
+    "volume": 603439611,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 101.4,
+    "close": 88.73,
+    "high": 102.59,
+    "low": 86.37,
+    "volume": 497539177,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 89.83,
+    "close": 99.87,
+    "high": 101.58,
+    "low": 85.57,
+    "volume": 526059141,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 99.74,
+    "close": 90.3,
+    "high": 108.82,
+    "low": 88.86,
+    "volume": 754222609,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 90.16,
+    "close": 104,
+    "high": 107.51,
+    "low": 89.77,
+    "volume": 725518655,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 102.67,
+    "close": 108.22,
+    "high": 109.63,
+    "low": 102.38,
+    "volume": 461621943,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 107.72,
+    "close": 123.37,
+    "high": 127.05,
+    "low": 104.5,
+    "volume": 620363520,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 123.5,
+    "close": 120.97,
+    "high": 129.55,
+    "low": 116.91,
+    "volume": 521018478,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 120.32,
+    "close": 133.11,
+    "high": 134.07,
+    "low": 115.83,
+    "volume": 525519399,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 130.85,
+    "close": 137.35,
+    "high": 138.4,
+    "low": 127,
+    "volume": 463648497,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 138.43,
+    "close": 131.85,
+    "high": 139.93,
+    "low": 128.19,
+    "volume": 389514054,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 132.16,
+    "close": 125.3,
+    "high": 142.38,
+    "low": 121.46,
+    "volume": 514547667,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 125.34,
+    "close": 133.92,
+    "high": 141.1,
+    "low": 124.92,
+    "volume": 404891609,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 133.32,
+    "close": 140.93,
+    "high": 143.94,
+    "low": 129.4,
+    "volume": 482036275,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 139.6,
+    "close": 141.8,
+    "high": 155.2,
+    "low": 136.85,
+    "volume": 427588764,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 143.69,
+    "close": 139.78,
+    "high": 150.69,
+    "low": 136.64,
+    "volume": 475212070,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 139.61,
+    "close": 152.26,
+    "high": 153.2,
+    "low": 131.55,
+    "volume": 507054653,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 151.83,
+    "close": 164.64,
+    "high": 176.42,
+    "low": 151.08,
+    "volume": 480149395,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 166.18,
+    "close": 173.96,
+    "high": 179.95,
+    "low": 164.9,
+    "volume": 372467241,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 173.88,
+    "close": 183.42,
+    "high": 187.5,
+    "low": 172.45,
+    "volume": 328690210,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "GOOG",
+    "open": 184.48,
+    "close": 184.49,
+    "high": 185.34,
+    "low": 182.73,
+    "volume": 11541130,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  }
+]

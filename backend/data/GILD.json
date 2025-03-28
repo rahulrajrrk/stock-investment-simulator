@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "GILD",
+    "open": 8.56,
+    "close": 7.0,
+    "high": 8.71,
+    "low": 6.67,
+    "volume": 615561584,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 6.97,
+    "close": 6.82,
+    "high": 7.71,
+    "low": 6.28,
+    "volume": 963004168,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 6.84,
+    "close": 7.33,
+    "high": 7.43,
+    "low": 6.46,
+    "volume": 549309152,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 7.34,
+    "close": 7.29,
+    "high": 7.67,
+    "low": 6.9,
+    "volume": 496220184,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 7.3,
+    "close": 6.85,
+    "high": 8.31,
+    "low": 6.64,
+    "volume": 751287656,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 6.89,
+    "close": 6.78,
+    "high": 7.46,
+    "low": 6.66,
+    "volume": 460627016,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 6.82,
+    "close": 6.93,
+    "high": 7.22,
+    "low": 6.44,
+    "volume": 498952328,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 6.95,
+    "close": 7.62,
+    "high": 7.98,
+    "low": 6.91,
+    "volume": 455345872,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 7.62,
+    "close": 8.17,
+    "high": 8.36,
+    "low": 6.77,
+    "volume": 502358008,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 8.13,
+    "close": 8.38,
+    "high": 8.47,
+    "low": 7.63,
+    "volume": 617266608,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 8.38,
+    "close": 8.08,
+    "high": 8.54,
+    "low": 6.95,
+    "volume": 600097944,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 8.03,
+    "close": 8.64,
+    "high": 8.85,
+    "low": 7.69,
+    "volume": 613020944,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 8.66,
+    "close": 9.35,
+    "high": 9.37,
+    "low": 8.47,
+    "volume": 326005312,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 9.38,
+    "close": 8.66,
+    "high": 9.78,
+    "low": 8.02,
+    "volume": 419472204,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 8.73,
+    "close": 8.62,
+    "high": 9.51,
+    "low": 8.38,
+    "volume": 280493100,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 8.61,
+    "close": 8.75,
+    "high": 9.32,
+    "low": 8.38,
+    "volume": 303703048,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 8.88,
+    "close": 8.28,
+    "high": 8.88,
+    "low": 7.84,
+    "volume": 366881360,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 8.26,
+    "close": 8.64,
+    "high": 8.91,
+    "low": 7.6,
+    "volume": 362648980,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 8.68,
+    "close": 8.95,
+    "high": 9.1,
+    "low": 8.47,
+    "volume": 307339484,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 8.99,
+    "close": 9.28,
+    "high": 10.02,
+    "low": 8.69,
+    "volume": 383920060,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 9.31,
+    "close": 10.2,
+    "high": 10.33,
+    "low": 9.28,
+    "volume": 274194228,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 10.25,
+    "close": 11.0,
+    "high": 11.54,
+    "low": 10.21,
+    "volume": 356504720,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 11.05,
+    "close": 11.2,
+    "high": 12.0,
+    "low": 10.53,
+    "volume": 346312900,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 11.4,
+    "close": 10.75,
+    "high": 11.59,
+    "low": 10.06,
+    "volume": 300200272,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 10.77,
+    "close": 12.19,
+    "high": 12.3,
+    "low": 10.58,
+    "volume": 244605164,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 12.23,
+    "close": 11.81,
+    "high": 12.36,
+    "low": 11.18,
+    "volume": 380148144,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 11.81,
+    "close": 12.67,
+    "high": 14.13,
+    "low": 11.63,
+    "volume": 433904804,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 12.79,
+    "close": 13.14,
+    "high": 13.94,
+    "low": 12.53,
+    "volume": 287645292,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 13.25,
+    "close": 15.22,
+    "high": 15.32,
+    "low": 13.12,
+    "volume": 352067944,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 15.21,
+    "close": 15.57,
+    "high": 15.99,
+    "low": 14.35,
+    "volume": 312346064,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 15.59,
+    "close": 15.55,
+    "high": 16.16,
+    "low": 14.6,
+    "volume": 273254000,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 15.69,
+    "close": 14.38,
+    "high": 16.55,
+    "low": 13.97,
+    "volume": 462406400,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 14.46,
+    "close": 14.33,
+    "high": 14.69,
+    "low": 13.14,
+    "volume": 511904264,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 14.5,
+    "close": 14.79,
+    "high": 14.92,
+    "low": 13.63,
+    "volume": 372892496,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 14.79,
+    "close": 15.38,
+    "high": 15.74,
+    "low": 14.51,
+    "volume": 348945488,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 15.36,
+    "close": 15.85,
+    "high": 16.25,
+    "low": 15.09,
+    "volume": 271093812,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 15.91,
+    "close": 17.19,
+    "high": 17.32,
+    "low": 15.23,
+    "volume": 291958968,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 16.23,
+    "close": 17.23,
+    "high": 17.46,
+    "low": 15.38,
+    "volume": 418119060,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 17.27,
+    "close": 16.49,
+    "high": 17.5,
+    "low": 16.2,
+    "volume": 262068712,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 16.57,
+    "close": 16.23,
+    "high": 17.06,
+    "low": 15.78,
+    "volume": 296563240,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 16.32,
+    "close": 16.08,
+    "high": 16.75,
+    "low": 15.48,
+    "volume": 340486936,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 17.48,
+    "close": 17.89,
+    "high": 18.74,
+    "low": 17.38,
+    "volume": 407629992,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 17.51,
+    "close": 19.16,
+    "high": 19.27,
+    "low": 17.07,
+    "volume": 392928060,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 19.23,
+    "close": 20.43,
+    "high": 21.07,
+    "low": 18.93,
+    "volume": 367878536,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 20.5,
+    "close": 20.69,
+    "high": 21.12,
+    "low": 20.16,
+    "volume": 313591684,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 20.69,
+    "close": 19.4,
+    "high": 21.0,
+    "low": 19.19,
+    "volume": 338525044,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 19.48,
+    "close": 18.61,
+    "high": 20.32,
+    "low": 18.31,
+    "volume": 375827594,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 18.51,
+    "close": 18.18,
+    "high": 19.48,
+    "low": 17.61,
+    "volume": 322484110,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 18.23,
+    "close": 20.43,
+    "high": 20.68,
+    "low": 18.07,
+    "volume": 266391650,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 20.62,
+    "close": 23.09,
+    "high": 23.34,
+    "low": 20.4,
+    "volume": 351791144,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 23,
+    "close": 23.27,
+    "high": 23.82,
+    "low": 20.89,
+    "volume": 320634640,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 23.24,
+    "close": 23.0,
+    "high": 23.95,
+    "low": 22.5,
+    "volume": 233193334,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 22.98,
+    "close": 22.84,
+    "high": 24.52,
+    "low": 21.08,
+    "volume": 471664932,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 22.98,
+    "close": 23.66,
+    "high": 24.12,
+    "low": 21.18,
+    "volume": 372014326,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 23.9,
+    "close": 25.77,
+    "high": 25.82,
+    "low": 22.95,
+    "volume": 389710880,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 25.93,
+    "close": 25.88,
+    "high": 26.6,
+    "low": 20.52,
+    "volume": 325024088,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 25.93,
+    "close": 27.66,
+    "high": 27.79,
+    "low": 25.82,
+    "volume": 234062402,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 27.38,
+    "close": 26.48,
+    "high": 28.48,
+    "low": 26.18,
+    "volume": 284712714,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 26.4,
+    "close": 26.99,
+    "high": 27.96,
+    "low": 24.59,
+    "volume": 498996210,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 27.27,
+    "close": 26.34,
+    "high": 28.82,
+    "low": 26.17,
+    "volume": 279254864,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 25.75,
+    "close": 22.82,
+    "high": 26.23,
+    "low": 19.9,
+    "volume": 501495062,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 22.88,
+    "close": 22.93,
+    "high": 23.88,
+    "low": 17.8,
+    "volume": 624901604,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 22.88,
+    "close": 22.39,
+    "high": 24.42,
+    "low": 19.68,
+    "volume": 402692702,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 21.86,
+    "close": 25.57,
+    "high": 26.13,
+    "low": 21.23,
+    "volume": 367889796,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 25.45,
+    "close": 25.39,
+    "high": 26.18,
+    "low": 23.45,
+    "volume": 329017618,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 25.27,
+    "close": 22.4,
+    "high": 26.64,
+    "low": 22.39,
+    "volume": 343236068,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 22.02,
+    "close": 23.16,
+    "high": 23.45,
+    "low": 20.31,
+    "volume": 476463216,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 22.55,
+    "close": 22.9,
+    "high": 24.23,
+    "low": 21.75,
+    "volume": 408978414,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 22.98,
+    "close": 21.55,
+    "high": 22.98,
+    "low": 20.66,
+    "volume": 324266482,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 21.57,
+    "close": 23.42,
+    "high": 23.99,
+    "low": 21.14,
+    "volume": 347015046,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 23.43,
+    "close": 24.46,
+    "high": 25,
+    "low": 22.07,
+    "volume": 335179864,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 24.58,
+    "close": 22.53,
+    "high": 24.78,
+    "low": 21.91,
+    "volume": 294797930,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 22.44,
+    "close": 23.25,
+    "high": 23.91,
+    "low": 22.34,
+    "volume": 275630736,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 23.17,
+    "close": 21.27,
+    "high": 23.5,
+    "low": 21.16,
+    "volume": 391683414,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 21.48,
+    "close": 23.05,
+    "high": 23.77,
+    "low": 21.2,
+    "volume": 262130080,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 22.89,
+    "close": 21.64,
+    "high": 23.59,
+    "low": 21.3,
+    "volume": 326002422,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 21.7,
+    "close": 24.14,
+    "high": 24.25,
+    "low": 21.35,
+    "volume": 428262930,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 24.12,
+    "close": 23.8,
+    "high": 24.75,
+    "low": 22.73,
+    "volume": 438456756,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 24.0,
+    "close": 22.73,
+    "high": 24.32,
+    "low": 22.49,
+    "volume": 408435690,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 22.76,
+    "close": 19.86,
+    "high": 23.31,
+    "low": 19.77,
+    "volume": 643621474,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 19.84,
+    "close": 17.96,
+    "high": 20.18,
+    "low": 17.39,
+    "volume": 693501922,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 17.91,
+    "close": 17.14,
+    "high": 18.41,
+    "low": 16.42,
+    "volume": 516110450,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 17.12,
+    "close": 16.66,
+    "high": 17.75,
+    "low": 15.87,
+    "volume": 650317240,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 16.91,
+    "close": 15.91,
+    "high": 18.07,
+    "low": 15.88,
+    "volume": 551415930,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 16.05,
+    "close": 17.8,
+    "high": 18.38,
+    "low": 16.02,
+    "volume": 368543070,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 17.89,
+    "close": 19.84,
+    "high": 19.99,
+    "low": 17.63,
+    "volume": 367839608,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 19.95,
+    "close": 18.25,
+    "high": 20.36,
+    "low": 18.12,
+    "volume": 385117308,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 18.57,
+    "close": 18.12,
+    "high": 18.95,
+    "low": 17.92,
+    "volume": 366268116,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 18.32,
+    "close": 19.19,
+    "high": 19.93,
+    "low": 18.21,
+    "volume": 378610734,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 19.37,
+    "close": 19.49,
+    "high": 19.89,
+    "low": 18.91,
+    "volume": 287321016,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 19.55,
+    "close": 21.23,
+    "high": 21.45,
+    "low": 19.23,
+    "volume": 406584476,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 21.07,
+    "close": 19.42,
+    "high": 21.46,
+    "low": 19.39,
+    "volume": 385787640,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 19.54,
+    "close": 20.87,
+    "high": 20.96,
+    "low": 19.5,
+    "volume": 361914104,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 20.79,
+    "close": 20.7,
+    "high": 20.92,
+    "low": 19.62,
+    "volume": 282331310,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 20.72,
+    "close": 21.18,
+    "high": 21.75,
+    "low": 20.16,
+    "volume": 266799140,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 21.3,
+    "close": 19.94,
+    "high": 21.48,
+    "low": 17.64,
+    "volume": 493964740,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 19.92,
+    "close": 19.4,
+    "high": 20.64,
+    "low": 18.61,
+    "volume": 316665412,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 19.4,
+    "close": 20.83,
+    "high": 21.49,
+    "low": 18.36,
+    "volume": 271591168,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 20.5,
+    "close": 19.93,
+    "high": 20.75,
+    "low": 17.23,
+    "volume": 452329034,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 19.84,
+    "close": 20.46,
+    "high": 20.53,
+    "low": 18.49,
+    "volume": 346326822,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 20.73,
+    "close": 24.43,
+    "high": 24.5,
+    "low": 20.68,
+    "volume": 363434134,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 24.52,
+    "close": 22.77,
+    "high": 28.25,
+    "low": 21.91,
+    "volume": 577075252,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 22.95,
+    "close": 24.43,
+    "high": 24.49,
+    "low": 22.4,
+    "volume": 272456354,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 24.36,
+    "close": 26.01,
+    "high": 27.38,
+    "low": 22.66,
+    "volume": 358983404,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 25.98,
+    "close": 24.98,
+    "high": 26.53,
+    "low": 24.46,
+    "volume": 276045316,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 24.7,
+    "close": 25.64,
+    "high": 25.68,
+    "low": 24.12,
+    "volume": 200774954,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 25.59,
+    "close": 27.16,
+    "high": 28.02,
+    "low": 24.8,
+    "volume": 219128764,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 27.23,
+    "close": 28.84,
+    "high": 29.42,
+    "low": 26.75,
+    "volume": 272664252,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 28.75,
+    "close": 33.16,
+    "high": 34.04,
+    "low": 28.51,
+    "volume": 331137262,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 33.74,
+    "close": 33.59,
+    "high": 35.2,
+    "low": 32.2,
+    "volume": 320874376,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 33.85,
+    "close": 37.5,
+    "high": 38.14,
+    "low": 32.07,
+    "volume": 343792284,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 37.48,
+    "close": 36.73,
+    "high": 38.56,
+    "low": 35.68,
+    "volume": 191379736,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 37.16,
+    "close": 39.45,
+    "high": 40.39,
+    "low": 36.94,
+    "volume": 181722193,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 40.17,
+    "close": 42.72,
+    "high": 43.35,
+    "low": 39.48,
+    "volume": 186866946,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 42.63,
+    "close": 48.94,
+    "high": 49.48,
+    "low": 42.38,
+    "volume": 208628728,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 49.01,
+    "close": 50.64,
+    "high": 55.16,
+    "low": 46.52,
+    "volume": 280302340,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 50.45,
+    "close": 54.48,
+    "high": 58.06,
+    "low": 49.86,
+    "volume": 275122402,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 54.56,
+    "close": 51.27,
+    "high": 54.64,
+    "low": 46.7,
+    "volume": 220106727,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 51.97,
+    "close": 61.4,
+    "high": 64.04,
+    "low": 51.42,
+    "volume": 216241536,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 62.05,
+    "close": 60.27,
+    "high": 62.2,
+    "low": 55.96,
+    "volume": 146908054,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 60.9,
+    "close": 62.87,
+    "high": 64.74,
+    "low": 59.42,
+    "volume": 122191813,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 63.02,
+    "close": 71.17,
+    "high": 73.2,
+    "low": 58.81,
+    "volume": 218324813,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 71.39,
+    "close": 74.81,
+    "high": 75.43,
+    "low": 65.53,
+    "volume": 200462936,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 74.84,
+    "close": 75.1,
+    "high": 76.11,
+    "low": 69.05,
+    "volume": 241977155,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 75.2,
+    "close": 80.65,
+    "high": 84.4,
+    "low": 72.53,
+    "volume": 232977583,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 81.77,
+    "close": 82.79,
+    "high": 84.88,
+    "low": 75.7,
+    "volume": 236337111,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 81.68,
+    "close": 70.86,
+    "high": 83.44,
+    "low": 67.63,
+    "volume": 342059787,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 73.34,
+    "close": 78.49,
+    "high": 78.67,
+    "low": 63.5,
+    "volume": 472586081,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 78.62,
+    "close": 81.21,
+    "high": 83.7,
+    "low": 76.63,
+    "volume": 241686468,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 81.32,
+    "close": 82.91,
+    "high": 84.45,
+    "low": 78.5,
+    "volume": 209286914,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 83.37,
+    "close": 91.55,
+    "high": 94.34,
+    "low": 83.32,
+    "volume": 288729819,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 91,
+    "close": 107.56,
+    "high": 108.77,
+    "low": 90.69,
+    "volume": 270403121,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 108.17,
+    "close": 106.45,
+    "high": 110.64,
+    "low": 97.54,
+    "volume": 316950810,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 106.99,
+    "close": 112,
+    "high": 116.83,
+    "low": 91.73,
+    "volume": 358625757,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 112.31,
+    "close": 100.32,
+    "high": 112.8,
+    "low": 98.37,
+    "volume": 302411267,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 100,
+    "close": 94.26,
+    "high": 109.49,
+    "low": 85.95,
+    "volume": 440603246,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 95.14,
+    "close": 104.83,
+    "high": 107.77,
+    "low": 93.18,
+    "volume": 301657040,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 106.1,
+    "close": 103.53,
+    "high": 107.31,
+    "low": 95.81,
+    "volume": 271728102,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 104.3,
+    "close": 98.13,
+    "high": 104.45,
+    "low": 98.07,
+    "volume": 237939008,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 98.16,
+    "close": 100.51,
+    "high": 105.75,
+    "low": 95.38,
+    "volume": 218659749,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 103.2,
+    "close": 112.27,
+    "high": 113.43,
+    "low": 99.66,
+    "volume": 241170505,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 113.17,
+    "close": 117.08,
+    "high": 123.37,
+    "low": 112.52,
+    "volume": 233813268,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 118.11,
+    "close": 117.86,
+    "high": 119.72,
+    "low": 108,
+    "volume": 235334347,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 118.5,
+    "close": 105.07,
+    "high": 120.37,
+    "low": 86,
+    "volume": 230301408,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 102.22,
+    "close": 98.19,
+    "high": 113.31,
+    "low": 93.19,
+    "volume": 255099415,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 98.54,
+    "close": 108.13,
+    "high": 111.11,
+    "low": 94.37,
+    "volume": 273355440,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 108.76,
+    "close": 105.96,
+    "high": 109.95,
+    "low": 101.64,
+    "volume": 151216834,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 106.35,
+    "close": 101.19,
+    "high": 107.38,
+    "low": 98.66,
+    "volume": 185132982,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 99.77,
+    "close": 83,
+    "high": 100.68,
+    "low": 82.33,
+    "volume": 266470137,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 82.32,
+    "close": 87.25,
+    "high": 91.5,
+    "low": 81.89,
+    "volume": 281941882,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 87.9,
+    "close": 91.86,
+    "high": 94.31,
+    "low": 86.85,
+    "volume": 257438374,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 91.34,
+    "close": 88.21,
+    "high": 103.1,
+    "low": 87.8,
+    "volume": 232777333,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 88.7,
+    "close": 87.06,
+    "high": 89.45,
+    "low": 81.28,
+    "volume": 196065467,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 87.23,
+    "close": 83.42,
+    "high": 88.24,
+    "low": 77.92,
+    "volume": 197776372,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 83.15,
+    "close": 79.47,
+    "high": 88.85,
+    "low": 79.37,
+    "volume": 235444439,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 79.81,
+    "close": 78.38,
+    "high": 82.1,
+    "low": 77.58,
+    "volume": 228586267,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 78.43,
+    "close": 79.12,
+    "high": 82.07,
+    "low": 76.67,
+    "volume": 208181194,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 78.63,
+    "close": 73.63,
+    "high": 78.97,
+    "low": 72.21,
+    "volume": 187664372,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 73.63,
+    "close": 73.7,
+    "high": 80,
+    "low": 71.4,
+    "volume": 212873906,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 73.97,
+    "close": 71.61,
+    "high": 76.32,
+    "low": 70.83,
+    "volume": 196572494,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 72.34,
+    "close": 72.45,
+    "high": 76.98,
+    "low": 69.78,
+    "volume": 202147348,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 72.72,
+    "close": 70.48,
+    "high": 73.3,
+    "low": 65.38,
+    "volume": 257101978,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 70.82,
+    "close": 67.92,
+    "high": 70.99,
+    "low": 66.8,
+    "volume": 192625157,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 67.85,
+    "close": 68.55,
+    "high": 68.96,
+    "low": 65.7,
+    "volume": 143807112,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 68.54,
+    "close": 64.89,
+    "high": 69.16,
+    "low": 63.88,
+    "volume": 164044651,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 65.01,
+    "close": 70.78,
+    "high": 72.17,
+    "low": 63.76,
+    "volume": 238200939,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 71.11,
+    "close": 76.09,
+    "high": 76.49,
+    "low": 68.54,
+    "volume": 156166482,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 76.35,
+    "close": 83.71,
+    "high": 84.13,
+    "low": 71.82,
+    "volume": 236106163,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 83.36,
+    "close": 81.02,
+    "high": 86.27,
+    "low": 79.21,
+    "volume": 198773321,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 81.21,
+    "close": 74.96,
+    "high": 84.23,
+    "low": 72.76,
+    "volume": 189786314,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 74.69,
+    "close": 74.78,
+    "high": 75.85,
+    "low": 70.05,
+    "volume": 155238671,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 74.44,
+    "close": 71.64,
+    "high": 77.15,
+    "low": 71.61,
+    "volume": 156692314,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 72.19,
+    "close": 83.8,
+    "high": 89.54,
+    "low": 71.72,
+    "volume": 196676891,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 83.2,
+    "close": 78.73,
+    "high": 84.58,
+    "low": 76.02,
+    "volume": 175970442,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 78.94,
+    "close": 75.39,
+    "high": 82.72,
+    "low": 72.73,
+    "volume": 153504157,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 74.93,
+    "close": 72.23,
+    "high": 76.25,
+    "low": 71.87,
+    "volume": 120945360,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 72.29,
+    "close": 67.4,
+    "high": 72.83,
+    "low": 64.27,
+    "volume": 188650726,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 67.62,
+    "close": 70.84,
+    "high": 72.28,
+    "low": 67.52,
+    "volume": 151175266,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 70.7,
+    "close": 77.83,
+    "high": 79.04,
+    "low": 70.3,
+    "volume": 140919898,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 77.5,
+    "close": 75.73,
+    "high": 78.62,
+    "low": 71.9,
+    "volume": 139514688,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 75.36,
+    "close": 77.21,
+    "high": 77.24,
+    "low": 71.49,
+    "volume": 116202130,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 77.32,
+    "close": 68.18,
+    "high": 79.61,
+    "low": 66.5,
+    "volume": 169254382,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 68.2,
+    "close": 71.94,
+    "high": 72.8,
+    "low": 65.81,
+    "volume": 143885597,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 72.74,
+    "close": 62.55,
+    "high": 72.9,
+    "low": 60.32,
+    "volume": 168061417,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 61.76,
+    "close": 70.01,
+    "high": 70.32,
+    "low": 61.5,
+    "volume": 164270881,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 70,
+    "close": 65.02,
+    "high": 70.5,
+    "low": 63.96,
+    "volume": 140625023,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 65.62,
+    "close": 65.01,
+    "high": 66.47,
+    "low": 61.95,
+    "volume": 156281554,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 65.54,
+    "close": 65.04,
+    "high": 68.07,
+    "low": 61.55,
+    "volume": 148562046,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 64.82,
+    "close": 62.25,
+    "high": 67.8,
+    "low": 62.17,
+    "volume": 139492308,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 62.5,
+    "close": 67.56,
+    "high": 69.98,
+    "low": 62.18,
+    "volume": 135073217,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 68,
+    "close": 65.52,
+    "high": 69.34,
+    "low": 64.16,
+    "volume": 127133529,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 65.66,
+    "close": 63.54,
+    "high": 66.78,
+    "low": 62.19,
+    "volume": 127726923,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 63.15,
+    "close": 63.38,
+    "high": 68.16,
+    "low": 62.27,
+    "volume": 126712669,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 63.6,
+    "close": 63.71,
+    "high": 66.75,
+    "low": 60.89,
+    "volume": 137601103,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 63.97,
+    "close": 67.24,
+    "high": 67.65,
+    "low": 62.38,
+    "volume": 116232861,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 67.25,
+    "close": 64.98,
+    "high": 68.16,
+    "low": 64.35,
+    "volume": 151075617,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 65.53,
+    "close": 63.2,
+    "high": 66.24,
+    "low": 62.23,
+    "volume": 192744413,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 67.73,
+    "close": 69.36,
+    "high": 78.88,
+    "low": 64.07,
+    "volume": 448792786,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 70.32,
+    "close": 74.76,
+    "high": 85.97,
+    "low": 64.41,
+    "volume": 582298178,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 74.32,
+    "close": 84,
+    "high": 85.79,
+    "low": 71.38,
+    "volume": 570268476,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 81.2,
+    "close": 77.83,
+    "high": 81.76,
+    "low": 72.3,
+    "volume": 280967819,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 75.47,
+    "close": 76.94,
+    "high": 79.31,
+    "low": 71.91,
+    "volume": 232249884,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 77.1,
+    "close": 69.53,
+    "high": 78.94,
+    "low": 68.52,
+    "volume": 164352173,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 69.72,
+    "close": 66.75,
+    "high": 72.31,
+    "low": 64.98,
+    "volume": 192842425,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 66.33,
+    "close": 63.19,
+    "high": 67.92,
+    "low": 61.65,
+    "volume": 198575576,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 63.33,
+    "close": 58.15,
+    "high": 64.99,
+    "low": 57.04,
+    "volume": 229015273,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 58.78,
+    "close": 60.67,
+    "high": 61.64,
+    "low": 57.83,
+    "volume": 172793974,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 60.82,
+    "close": 58.26,
+    "high": 61.98,
+    "low": 56.56,
+    "volume": 201955477,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 58.67,
+    "close": 65.6,
+    "high": 68.38,
+    "low": 57.93,
+    "volume": 192184348,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 66.03,
+    "close": 61.4,
+    "high": 69.36,
+    "low": 61.39,
+    "volume": 146265193,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 61.76,
+    "close": 64.63,
+    "high": 66.66,
+    "low": 61.49,
+    "volume": 198636585,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 65.75,
+    "close": 63.47,
+    "high": 67.09,
+    "low": 61.95,
+    "volume": 144074462,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 63.92,
+    "close": 66.11,
+    "high": 70.11,
+    "low": 63.77,
+    "volume": 144817079,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 66.44,
+    "close": 68.86,
+    "high": 69.7,
+    "low": 65.12,
+    "volume": 150824097,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 68.75,
+    "close": 68.29,
+    "high": 70.4,
+    "low": 67.37,
+    "volume": 125039952,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 68.34,
+    "close": 72.78,
+    "high": 73.34,
+    "low": 67.83,
+    "volume": 131989079,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 72.68,
+    "close": 69.85,
+    "high": 72.72,
+    "low": 69.67,
+    "volume": 136944254,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 68.6,
+    "close": 64.88,
+    "high": 69.41,
+    "low": 64.06,
+    "volume": 132470417,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 64.82,
+    "close": 68.93,
+    "high": 71.32,
+    "low": 64.64,
+    "volume": 156586777,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 69.03,
+    "close": 72.61,
+    "high": 74.12,
+    "low": 68.65,
+    "volume": 152792733,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 72.27,
+    "close": 68.68,
+    "high": 73.39,
+    "low": 66.78,
+    "volume": 181460517,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 68.79,
+    "close": 60.4,
+    "high": 68.8,
+    "low": 59.18,
+    "volume": 252358534,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 59.94,
+    "close": 59.45,
+    "high": 62.25,
+    "low": 57.19,
+    "volume": 266126900,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 59.44,
+    "close": 59.34,
+    "high": 64.28,
+    "low": 58.58,
+    "volume": 161939154,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 59.55,
+    "close": 64.85,
+    "high": 65.46,
+    "low": 59.15,
+    "volume": 178243250,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 65.27,
+    "close": 61.81,
+    "high": 65.34,
+    "low": 57.16,
+    "volume": 163027890,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 61.47,
+    "close": 59.75,
+    "high": 63.2,
+    "low": 59.51,
+    "volume": 115401079,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 59.77,
+    "close": 63.47,
+    "high": 66.89,
+    "low": 59.27,
+    "volume": 141442151,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "GILD",
+    "open": 63.41,
+    "close": 61.69,
+    "high": 68.88,
+    "low": 61.61,
+    "volume": 177006271,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 62.4,
+    "close": 78.46,
+    "high": 79.61,
+    "low": 61.45,
+    "volume": 179369455,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 78.26,
+    "close": 87.83,
+    "high": 88.2,
+    "low": 77.16,
+    "volume": 173749208,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 88.2,
+    "close": 85.85,
+    "high": 89.74,
+    "low": 81.81,
+    "volume": 158185772,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 85.08,
+    "close": 83.94,
+    "high": 88.29,
+    "low": 82.11,
+    "volume": 126113577,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "GILD",
+    "open": 84.01,
+    "close": 80.53,
+    "high": 87.82,
+    "low": 79.92,
+    "volume": 128991462,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 80.34,
+    "close": 82.97,
+    "high": 83.14,
+    "low": 76.53,
+    "volume": 132321927,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "GILD",
+    "open": 82.94,
+    "close": 82.21,
+    "high": 87.37,
+    "low": 80.08,
+    "volume": 100934247,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 82.47,
+    "close": 76.94,
+    "high": 82.55,
+    "low": 76.01,
+    "volume": 113447062,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "GILD",
+    "open": 77.54,
+    "close": 77.07,
+    "high": 79.53,
+    "low": 74.96,
+    "volume": 126515679,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "GILD",
+    "open": 76.25,
+    "close": 80.64,
+    "high": 81.13,
+    "low": 74.33,
+    "volume": 80582681,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

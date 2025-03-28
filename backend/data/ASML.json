@@ -1,0 +1,2402 @@
+[
+  {
+    "ticker": "ASML",
+    "open": 22.81,
+    "close": 19.17,
+    "high": 23.06,
+    "low": 18.98,
+    "volume": 48911683,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 19.26,
+    "close": 25.64,
+    "high": 25.86,
+    "low": 19.26,
+    "volume": 71224214,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 26.31,
+    "close": 27.5,
+    "high": 28.04,
+    "low": 24.97,
+    "volume": 45701143,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 28.21,
+    "close": 29.29,
+    "high": 29.79,
+    "low": 25.89,
+    "volume": 42814439,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 29.88,
+    "close": 28.14,
+    "high": 33.13,
+    "low": 27.89,
+    "volume": 52537291,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 28.52,
+    "close": 26.68,
+    "high": 31.4,
+    "low": 26.52,
+    "volume": 47933648,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 26.74,
+    "close": 26.78,
+    "high": 28.44,
+    "low": 23.61,
+    "volume": 55739096,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 26.94,
+    "close": 22.75,
+    "high": 28.46,
+    "low": 22.4,
+    "volume": 55894005,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 23.23,
+    "close": 25.73,
+    "high": 25.83,
+    "low": 21.08,
+    "volume": 43563401,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 25.14,
+    "close": 25.0,
+    "high": 25.92,
+    "low": 22.49,
+    "volume": 34031932,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 25.2,
+    "close": 20.73,
+    "high": 25.22,
+    "low": 19.42,
+    "volume": 55118883,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 20.5,
+    "close": 18.91,
+    "high": 20.81,
+    "low": 18.01,
+    "volume": 36513693,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 18.99,
+    "close": 18.8,
+    "high": 21.13,
+    "low": 18.01,
+    "volume": 49171118,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 19.14,
+    "close": 20.82,
+    "high": 21.13,
+    "low": 18.26,
+    "volume": 46864230,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 20.82,
+    "close": 22.3,
+    "high": 23.68,
+    "low": 20.43,
+    "volume": 44108348,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 22.18,
+    "close": 23.26,
+    "high": 24.62,
+    "low": 22.16,
+    "volume": 24838329,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 23.48,
+    "close": 24.0,
+    "high": 24.09,
+    "low": 21.11,
+    "volume": 41961505,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 23.89,
+    "close": 26.77,
+    "high": 27.53,
+    "low": 23.44,
+    "volume": 44181581,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 27,
+    "close": 24.5,
+    "high": 27.38,
+    "low": 23.96,
+    "volume": 40293032,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 24.46,
+    "close": 21.17,
+    "high": 24.6,
+    "low": 20.37,
+    "volume": 42008133,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 21.21,
+    "close": 23.55,
+    "high": 24.19,
+    "low": 20.95,
+    "volume": 30257026,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 23.38,
+    "close": 22.88,
+    "high": 24.91,
+    "low": 22.88,
+    "volume": 25649604,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 22.95,
+    "close": 25.71,
+    "high": 26.49,
+    "low": 22.57,
+    "volume": 37456422,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 25.76,
+    "close": 24.69,
+    "high": 26.21,
+    "low": 24.19,
+    "volume": 21940958,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 24.55,
+    "close": 24.12,
+    "high": 25.89,
+    "low": 23.26,
+    "volume": 31245903,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 24.27,
+    "close": 24.81,
+    "high": 25.52,
+    "low": 23.74,
+    "volume": 43915090,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 24.68,
+    "close": 27.98,
+    "high": 28.83,
+    "low": 24.52,
+    "volume": 39061827,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 28.53,
+    "close": 29.34,
+    "high": 29.83,
+    "low": 28.37,
+    "volume": 34599807,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 29.75,
+    "close": 33.02,
+    "high": 34.54,
+    "low": 29.45,
+    "volume": 62912772,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 32.87,
+    "close": 30.21,
+    "high": 33.87,
+    "low": 30.13,
+    "volume": 32572738,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 30.62,
+    "close": 29.76,
+    "high": 31.35,
+    "low": 28.27,
+    "volume": 38592953,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 29.45,
+    "close": 30.89,
+    "high": 31.89,
+    "low": 29.07,
+    "volume": 42331757,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 31.15,
+    "close": 29.72,
+    "high": 32.9,
+    "low": 26.75,
+    "volume": 42625302,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 29.51,
+    "close": 29.54,
+    "high": 30.89,
+    "low": 27.91,
+    "volume": 35314412,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 29.72,
+    "close": 29.07,
+    "high": 29.91,
+    "low": 26.69,
+    "volume": 43937668,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 28.68,
+    "close": 32.23,
+    "high": 32.25,
+    "low": 28.08,
+    "volume": 33330930,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 31.97,
+    "close": 34.01,
+    "high": 34.29,
+    "low": 31.51,
+    "volume": 33006958,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 33.85,
+    "close": 33.37,
+    "high": 35.65,
+    "low": 32.17,
+    "volume": 41239054,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 33.81,
+    "close": 36.38,
+    "high": 37.87,
+    "low": 33.0,
+    "volume": 37738196,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 36.7,
+    "close": 35.99,
+    "high": 37.77,
+    "low": 34.79,
+    "volume": 31364134,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 35.69,
+    "close": 37.23,
+    "high": 38.82,
+    "low": 35.14,
+    "volume": 63034502,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 37.08,
+    "close": 35.91,
+    "high": 38.12,
+    "low": 35.44,
+    "volume": 38953486,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 34.19,
+    "close": 36.16,
+    "high": 36.37,
+    "low": 33.09,
+    "volume": 52729129,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 36.41,
+    "close": 39.81,
+    "high": 41.01,
+    "low": 36.03,
+    "volume": 40062880,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 40.02,
+    "close": 37.65,
+    "high": 40.3,
+    "low": 35.56,
+    "volume": 45443087,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 38.44,
+    "close": 40.09,
+    "high": 41.06,
+    "low": 36.41,
+    "volume": 47468861,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 41.13,
+    "close": 43.19,
+    "high": 45.07,
+    "low": 40.3,
+    "volume": 56118628,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 43.06,
+    "close": 43.35,
+    "high": 43.71,
+    "low": 37.83,
+    "volume": 42991282,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 44.08,
+    "close": 48.01,
+    "high": 48.59,
+    "low": 42.98,
+    "volume": 31789695,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 45.36,
+    "close": 45.35,
+    "high": 46.22,
+    "low": 44.71,
+    "volume": 3059762,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 44.58,
+    "close": 45.13,
+    "high": 45.83,
+    "low": 41.69,
+    "volume": 29261664,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 44.78,
+    "close": 40.64,
+    "high": 45.9,
+    "low": 40.53,
+    "volume": 29697470,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 40.79,
+    "close": 34.53,
+    "high": 40.81,
+    "low": 31.9,
+    "volume": 66830372,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 34.7,
+    "close": 31.27,
+    "high": 36.35,
+    "low": 31.14,
+    "volume": 40410239,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 31,
+    "close": 32.22,
+    "high": 32.35,
+    "low": 28.36,
+    "volume": 38814793,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 32.88,
+    "close": 36.83,
+    "high": 38.55,
+    "low": 30.99,
+    "volume": 68578657,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 37.14,
+    "close": 38.91,
+    "high": 39.47,
+    "low": 36.62,
+    "volume": 47814869,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 37.94,
+    "close": 31.69,
+    "high": 38.7,
+    "low": 31.16,
+    "volume": 48752663,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 31.25,
+    "close": 29.6,
+    "high": 31.97,
+    "low": 27.96,
+    "volume": 66413175,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 29.78,
+    "close": 30.71,
+    "high": 32.87,
+    "low": 29.04,
+    "volume": 35861284,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 31.96,
+    "close": 22.87,
+    "high": 32.04,
+    "low": 20.95,
+    "volume": 71487847,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 23,
+    "close": 22.79,
+    "high": 23.32,
+    "low": 18.06,
+    "volume": 81549150,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 22.58,
+    "close": 19.91,
+    "high": 24.77,
+    "low": 16.42,
+    "volume": 45017832,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 18.62,
+    "close": 23.47,
+    "high": 23.56,
+    "low": 17.61,
+    "volume": 46336682,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 22.99,
+    "close": 21.48,
+    "high": 24.32,
+    "low": 19.66,
+    "volume": 40582769,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 21.29,
+    "close": 19.65,
+    "high": 24.22,
+    "low": 19.04,
+    "volume": 43804263,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 19.08,
+    "close": 22.74,
+    "high": 23.87,
+    "low": 18.22,
+    "volume": 67199289,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 22.3,
+    "close": 27.47,
+    "high": 27.86,
+    "low": 22.23,
+    "volume": 59816358,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 27.42,
+    "close": 26.88,
+    "high": 28.79,
+    "low": 23.79,
+    "volume": 39574237,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 27.32,
+    "close": 28.12,
+    "high": 28.84,
+    "low": 25.53,
+    "volume": 39819428,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 29.05,
+    "close": 33.78,
+    "high": 34.04,
+    "low": 27.13,
+    "volume": 49960391,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 34.03,
+    "close": 35.68,
+    "high": 37.43,
+    "low": 32.25,
+    "volume": 38920465,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 35.36,
+    "close": 38.4,
+    "high": 39.45,
+    "low": 33.48,
+    "volume": 49641982,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 38.34,
+    "close": 34.99,
+    "high": 42.04,
+    "low": 34.6,
+    "volume": 49182249,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 35.48,
+    "close": 40.25,
+    "high": 41.95,
+    "low": 34.75,
+    "volume": 34763027,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 41.27,
+    "close": 44.27,
+    "high": 45.13,
+    "low": 41.05,
+    "volume": 17344597,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 45.18,
+    "close": 40.58,
+    "high": 45.96,
+    "low": 40.25,
+    "volume": 44554219,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 41.01,
+    "close": 40.04,
+    "high": 42.75,
+    "low": 38.71,
+    "volume": 33431806,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 40.17,
+    "close": 45.97,
+    "high": 46.6,
+    "low": 40.17,
+    "volume": 38979401,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 46.79,
+    "close": 42.42,
+    "high": 47.19,
+    "low": 42.32,
+    "volume": 35466484,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 42.48,
+    "close": 36.7,
+    "high": 43.47,
+    "low": 34.64,
+    "volume": 53564550,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 36.69,
+    "close": 35.68,
+    "high": 40.79,
+    "low": 35.05,
+    "volume": 42641940,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 36.19,
+    "close": 41.81,
+    "high": 42.66,
+    "low": 35.36,
+    "volume": 56310530,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 42.62,
+    "close": 32.12,
+    "high": 43.17,
+    "low": 32,
+    "volume": 52830489,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 33.27,
+    "close": 38.61,
+    "high": 40.06,
+    "low": 33.03,
+    "volume": 33369623,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 39.14,
+    "close": 43.06,
+    "high": 44.14,
+    "low": 37.86,
+    "volume": 39900297,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 43.53,
+    "close": 42.38,
+    "high": 45.31,
+    "low": 40.99,
+    "volume": 45967279,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 43.75,
+    "close": 49.79,
+    "high": 50.48,
+    "low": 43.73,
+    "volume": 33866391,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 50.4,
+    "close": 54.56,
+    "high": 55.94,
+    "low": 45.65,
+    "volume": 70040264,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 55.9,
+    "close": 56.62,
+    "high": 58.91,
+    "low": 54.65,
+    "volume": 41109534,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 57.38,
+    "close": 57.79,
+    "high": 59.64,
+    "low": 50.65,
+    "volume": 36202671,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 57.32,
+    "close": 54.23,
+    "high": 58.17,
+    "low": 49.36,
+    "volume": 56393991,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 54.52,
+    "close": 50.66,
+    "high": 55.3,
+    "low": 48.53,
+    "volume": 42703748,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 50.32,
+    "close": 48,
+    "high": 50.71,
+    "low": 44.48,
+    "volume": 29782665,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 48.31,
+    "close": 46.3,
+    "high": 50.38,
+    "low": 43.79,
+    "volume": 50478478,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 46.92,
+    "close": 45.81,
+    "high": 47.14,
+    "low": 39.81,
+    "volume": 56828171,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 45.66,
+    "close": 44.86,
+    "high": 49.06,
+    "low": 41.65,
+    "volume": 46982115,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 43.81,
+    "close": 54.45,
+    "high": 56.99,
+    "low": 42.92,
+    "volume": 61355129,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 52.08,
+    "close": 51.34,
+    "high": 56.14,
+    "low": 47,
+    "volume": 35293815,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 50.83,
+    "close": 54.27,
+    "high": 54.97,
+    "low": 50.39,
+    "volume": 39193428,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 55.81,
+    "close": 55.83,
+    "high": 57.04,
+    "low": 52.69,
+    "volume": 37093911,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 57.36,
+    "close": 59.16,
+    "high": 62.04,
+    "low": 57.21,
+    "volume": 35981682,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 59.05,
+    "close": 65.12,
+    "high": 65.35,
+    "low": 57.25,
+    "volume": 28813240,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 65.27,
+    "close": 66.22,
+    "high": 67.22,
+    "low": 61.1,
+    "volume": 38870457,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 66.3,
+    "close": 59.49,
+    "high": 67.03,
+    "low": 58.25,
+    "volume": 29071907,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 57.83,
+    "close": 66.78,
+    "high": 68.08,
+    "low": 56.81,
+    "volume": 35419658,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 67.45,
+    "close": 74.68,
+    "high": 76.88,
+    "low": 62.78,
+    "volume": 42681888,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 75.19,
+    "close": 73.73,
+    "high": 76.78,
+    "low": 72.05,
+    "volume": 28131901,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 73.75,
+    "close": 69.71,
+    "high": 75.55,
+    "low": 67.31,
+    "volume": 33091267,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 69.91,
+    "close": 71.4,
+    "high": 73.92,
+    "low": 63.29,
+    "volume": 91056530,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 72.03,
+    "close": 62.57,
+    "high": 76.96,
+    "low": 61.92,
+    "volume": 41642169,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 63.02,
+    "close": 64.39,
+    "high": 64.97,
+    "low": 60.9,
+    "volume": 39911336,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 65.98,
+    "close": 75.09,
+    "high": 76.44,
+    "low": 62.72,
+    "volume": 47082692,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 77.64,
+    "close": 70.98,
+    "high": 78.3,
+    "low": 69.67,
+    "volume": 29727846,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 70.32,
+    "close": 67.99,
+    "high": 73.24,
+    "low": 64.93,
+    "volume": 37147635,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 67.89,
+    "close": 74.37,
+    "high": 75.81,
+    "low": 65.06,
+    "volume": 39941022,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 74,
+    "close": 81.27,
+    "high": 84.58,
+    "low": 73.75,
+    "volume": 37672258,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 82.54,
+    "close": 79.11,
+    "high": 83.49,
+    "low": 73.89,
+    "volume": 37246385,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 79.71,
+    "close": 89.95,
+    "high": 90.83,
+    "low": 78.15,
+    "volume": 24027703,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 90.59,
+    "close": 87.06,
+    "high": 93.5,
+    "low": 86.83,
+    "volume": 17367009,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 87.99,
+    "close": 98.76,
+    "high": 99.5,
+    "low": 87.63,
+    "volume": 15444998,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 99.38,
+    "close": 94.69,
+    "high": 101.85,
+    "low": 91.22,
+    "volume": 26490633,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 93.96,
+    "close": 93.38,
+    "high": 94.36,
+    "low": 86.11,
+    "volume": 24969521,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 93.59,
+    "close": 93.7,
+    "high": 94.83,
+    "low": 87.76,
+    "volume": 15456956,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 92.62,
+    "close": 84.63,
+    "high": 92.82,
+    "low": 83.28,
+    "volume": 34575953,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 85.46,
+    "close": 86.14,
+    "high": 90.22,
+    "low": 83.92,
+    "volume": 22601853,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 85.01,
+    "close": 93.36,
+    "high": 93.83,
+    "low": 84.82,
+    "volume": 27311184,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 93.48,
+    "close": 81.39,
+    "high": 93.78,
+    "low": 79.94,
+    "volume": 28461771,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 81.25,
+    "close": 85.88,
+    "high": 86.32,
+    "low": 79.66,
+    "volume": 13460887,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 86.61,
+    "close": 93.27,
+    "high": 94.91,
+    "low": 85.57,
+    "volume": 17685734,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 94.1,
+    "close": 94.16,
+    "high": 96.67,
+    "low": 83.26,
+    "volume": 30523398,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 93.95,
+    "close": 96.12,
+    "high": 96.73,
+    "low": 90.18,
+    "volume": 14719098,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 96.08,
+    "close": 98.82,
+    "high": 102.43,
+    "low": 95.81,
+    "volume": 23372688,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 98.73,
+    "close": 99.68,
+    "high": 99.92,
+    "low": 88.55,
+    "volume": 20807714,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 99.56,
+    "close": 105.68,
+    "high": 106.95,
+    "low": 98.32,
+    "volume": 12256488,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 106.17,
+    "close": 107.83,
+    "high": 109.93,
+    "low": 103.26,
+    "volume": 12171470,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 107.67,
+    "close": 103.94,
+    "high": 108.41,
+    "low": 100.21,
+    "volume": 16821245,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 102.98,
+    "close": 107.68,
+    "high": 110.85,
+    "low": 98.57,
+    "volume": 13932106,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 109.26,
+    "close": 101.03,
+    "high": 111.4,
+    "low": 98.42,
+    "volume": 22423425,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 101.12,
+    "close": 107.04,
+    "high": 111.2,
+    "low": 93.95,
+    "volume": 37358552,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 107.5,
+    "close": 112.3,
+    "high": 114.14,
+    "low": 105.02,
+    "volume": 13696603,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 112.19,
+    "close": 104.13,
+    "high": 113.68,
+    "low": 103.22,
+    "volume": 17055707,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 107.74,
+    "close": 99.17,
+    "high": 108.17,
+    "low": 96.78,
+    "volume": 32573218,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 99.34,
+    "close": 91.02,
+    "high": 100.08,
+    "low": 82.07,
+    "volume": 34015595,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 89.76,
+    "close": 87.98,
+    "high": 94.5,
+    "low": 82.1,
+    "volume": 25907472,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 86.24,
+    "close": 92.79,
+    "high": 94.41,
+    "low": 84.45,
+    "volume": 22935468,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 94.28,
+    "close": 92.72,
+    "high": 96.63,
+    "low": 88.63,
+    "volume": 25489306,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 93.13,
+    "close": 88.77,
+    "high": 93.51,
+    "low": 85.68,
+    "volume": 14162998,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 87.29,
+    "close": 91.84,
+    "high": 91.93,
+    "low": 77.17,
+    "volume": 27520639,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 91.02,
+    "close": 91.02,
+    "high": 92.74,
+    "low": 80.24,
+    "volume": 18463740,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 92.96,
+    "close": 100.39,
+    "high": 101.92,
+    "low": 92.09,
+    "volume": 12394989,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 99.4,
+    "close": 96.6,
+    "high": 102.6,
+    "low": 95.13,
+    "volume": 13042039,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 96.7,
+    "close": 99.98,
+    "high": 100.49,
+    "low": 90.43,
+    "volume": 14847105,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 98.91,
+    "close": 99.21,
+    "high": 101.41,
+    "low": 91.15,
+    "volume": 19653610,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 98.37,
+    "close": 109.62,
+    "high": 110.85,
+    "low": 92.84,
+    "volume": 21127909,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 109.62,
+    "close": 106.55,
+    "high": 111.58,
+    "low": 104.73,
+    "volume": 14458027,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 106.32,
+    "close": 109.58,
+    "high": 110.14,
+    "low": 100.83,
+    "volume": 13885596,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 109.36,
+    "close": 105.62,
+    "high": 109.85,
+    "low": 100.04,
+    "volume": 15365942,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 105.65,
+    "close": 103.13,
+    "high": 105.68,
+    "low": 98.71,
+    "volume": 17100750,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 102.67,
+    "close": 112.2,
+    "high": 112.66,
+    "low": 98.84,
+    "volume": 12815471,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 110.98,
+    "close": 121.4,
+    "high": 125.88,
+    "low": 109.62,
+    "volume": 22120745,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 121.65,
+    "close": 121.69,
+    "high": 127.6,
+    "low": 121,
+    "volume": 21958275,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 122.5,
+    "close": 132.8,
+    "high": 134.29,
+    "low": 119.83,
+    "volume": 19637762,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 132.35,
+    "close": 131.85,
+    "high": 134.95,
+    "low": 126.04,
+    "volume": 16848583,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 132.05,
+    "close": 131.99,
+    "high": 137.27,
+    "low": 131.62,
+    "volume": 15739340,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 132.9,
+    "close": 130.31,
+    "high": 136.07,
+    "low": 126.03,
+    "volume": 20819465,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 131.1,
+    "close": 150.33,
+    "high": 155.73,
+    "low": 129.33,
+    "volume": 20686929,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 151.95,
+    "close": 156.31,
+    "high": 156.67,
+    "low": 148.95,
+    "volume": 13390448,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 157.16,
+    "close": 171.2,
+    "high": 171.53,
+    "low": 153.47,
+    "volume": 17412012,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 170.39,
+    "close": 180.75,
+    "high": 180.97,
+    "low": 167.7,
+    "volume": 19461244,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 182.68,
+    "close": 175.52,
+    "high": 186.37,
+    "low": 172.09,
+    "volume": 17299678,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 174.01,
+    "close": 173.82,
+    "high": 177.49,
+    "low": 168.3,
+    "volume": 17595788,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 174.14,
+    "close": 202.96,
+    "high": 208.58,
+    "low": 173.98,
+    "volume": 23242603,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 202.08,
+    "close": 195.39,
+    "high": 203.4,
+    "low": 175.88,
+    "volume": 21083860,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 193.16,
+    "close": 198.56,
+    "high": 216,
+    "low": 189.03,
+    "volume": 19885808,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 197.47,
+    "close": 188.45,
+    "high": 213.35,
+    "low": 187.63,
+    "volume": 22893630,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 188.5,
+    "close": 196.65,
+    "high": 204.16,
+    "low": 187.97,
+    "volume": 14046092,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 200.39,
+    "close": 197.97,
+    "high": 216.9,
+    "low": 190.04,
+    "volume": 15454444,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 193.62,
+    "close": 214,
+    "high": 221.66,
+    "low": 191.27,
+    "volume": 24210082,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 214.01,
+    "close": 205.05,
+    "high": 216.12,
+    "low": 193.9,
+    "volume": 14283606,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 199.05,
+    "close": 188.02,
+    "high": 199.9,
+    "low": 172.69,
+    "volume": 19194263,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 190.87,
+    "close": 172.36,
+    "high": 192.52,
+    "low": 157.95,
+    "volume": 21598156,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 171.03,
+    "close": 171.35,
+    "high": 178.68,
+    "low": 156.58,
+    "volume": 29728829,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 173.86,
+    "close": 155.62,
+    "high": 178.2,
+    "low": 144.5,
+    "volume": 21465269,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 154.28,
+    "close": 175.03,
+    "high": 177.59,
+    "low": 147.38,
+    "volume": 20183874,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 176.79,
+    "close": 182.87,
+    "high": 188.27,
+    "low": 176.18,
+    "volume": 14557852,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 184.41,
+    "close": 188.05,
+    "high": 195.46,
+    "low": 175.57,
+    "volume": 13071119,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 191.24,
+    "close": 208.82,
+    "high": 209.01,
+    "low": 190.76,
+    "volume": 12298942,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 209.92,
+    "close": 188.05,
+    "high": 210.87,
+    "low": 186.9,
+    "volume": 15230449,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 188.58,
+    "close": 207.93,
+    "high": 209.76,
+    "low": 186.31,
+    "volume": 10913738,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 215.97,
+    "close": 222.81,
+    "high": 234.5,
+    "low": 204.36,
+    "volume": 15123767,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 225.98,
+    "close": 222.61,
+    "high": 229.97,
+    "low": 207.07,
+    "volume": 10709505,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 220.65,
+    "close": 248.42,
+    "high": 252.11,
+    "low": 218.9,
+    "volume": 12841895,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 249.17,
+    "close": 261.97,
+    "high": 269.39,
+    "low": 238.29,
+    "volume": 18945484,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 267.21,
+    "close": 270.62,
+    "high": 276.23,
+    "low": 264.69,
+    "volume": 10470411,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 270.11,
+    "close": 295.94,
+    "high": 298.5,
+    "low": 261.11,
+    "volume": 10837725,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 301.27,
+    "close": 280.66,
+    "high": 305.9,
+    "low": 280.17,
+    "volume": 15389137,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 283.63,
+    "close": 276.71,
+    "high": 319.22,
+    "low": 265.98,
+    "volume": 18868887,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 279.62,
+    "close": 261.64,
+    "high": 301.99,
+    "low": 191.25,
+    "volume": 36116512,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 253.13,
+    "close": 288.43,
+    "high": 304.76,
+    "low": 242.25,
+    "volume": 17361639,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 283.86,
+    "close": 329.51,
+    "high": 329.98,
+    "low": 275.96,
+    "volume": 15489445,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 323.88,
+    "close": 368.03,
+    "high": 371.8,
+    "low": 323.5,
+    "volume": 15694023,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 368.03,
+    "close": 353.72,
+    "high": 402.87,
+    "low": 350.74,
+    "volume": 21056978,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 361.02,
+    "close": 374.18,
+    "high": 386.8,
+    "low": 359.54,
+    "volume": 11417612,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 384.11,
+    "close": 369.27,
+    "high": 401.15,
+    "low": 343.25,
+    "volume": 17962519,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 375.53,
+    "close": 361.21,
+    "high": 409.11,
+    "low": 357.38,
+    "volume": 15564640,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 364.48,
+    "close": 437.73,
+    "high": 441.29,
+    "low": 361.72,
+    "volume": 16379339,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 447.1,
+    "close": 487.72,
+    "high": 492.66,
+    "low": 444.26,
+    "volume": 12522359,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 499.99,
+    "close": 534.16,
+    "high": 573.8,
+    "low": 489.74,
+    "volume": 19393907,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 547.4,
+    "close": 567.09,
+    "high": 608.71,
+    "low": 541.95,
+    "volume": 14592445,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 572.37,
+    "close": 617.36,
+    "high": 627.3,
+    "low": 501.11,
+    "volume": 25842191,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 619.8,
+    "close": 648.1,
+    "high": 675.65,
+    "low": 612.78,
+    "volume": 20570251,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 657.71,
+    "close": 675.47,
+    "high": 679.44,
+    "low": 600.26,
+    "volume": 18274281,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 684.74,
+    "close": 690.84,
+    "high": 710.97,
+    "low": 660.11,
+    "volume": 14295422,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 687.24,
+    "close": 766.74,
+    "high": 768.7,
+    "low": 664.83,
+    "volume": 15856147,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 770.81,
+    "close": 833.04,
+    "high": 844.16,
+    "low": 761.21,
+    "volume": 11866162,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 838.72,
+    "close": 745.11,
+    "high": 895.93,
+    "low": 742.29,
+    "volume": 20965977,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 745,
+    "close": 812.88,
+    "high": 821.92,
+    "low": 709.03,
+    "volume": 22324934,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 806.91,
+    "close": 791.51,
+    "high": 881.12,
+    "low": 776.01,
+    "volume": 16710813,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 812.56,
+    "close": 796.14,
+    "high": 832.68,
+    "low": 741.4,
+    "volume": 17024551,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 795.74,
+    "close": 677.2,
+    "high": 799.36,
+    "low": 620.67,
+    "volume": 30657718,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 682.55,
+    "close": 666.51,
+    "high": 691.24,
+    "low": 599.68,
+    "volume": 19409540,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 660.21,
+    "close": 667.93,
+    "high": 714.62,
+    "low": 558.77,
+    "volume": 27769345,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 675.29,
+    "close": 563.77,
+    "high": 681.54,
+    "low": 544,
+    "volume": 23286169,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 558.74,
+    "close": 576.29,
+    "high": 594.25,
+    "low": 509.55,
+    "volume": 22159053,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 577.44,
+    "close": 475.88,
+    "high": 583.46,
+    "low": 461.85,
+    "volume": 17434849,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 455.3,
+    "close": 574.44,
+    "high": 576.92,
+    "low": 412.67,
+    "volume": 27555676,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 573.24,
+    "close": 489.94,
+    "high": 592.75,
+    "low": 486.7,
+    "volume": 18677795,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "ASML",
+    "open": 477.92,
+    "close": 415.35,
+    "high": 511,
+    "low": 413.95,
+    "volume": 21046536,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 423.6,
+    "close": 472.42,
+    "high": 496.2,
+    "low": 363.15,
+    "volume": 36072659,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 483.38,
+    "close": 608.12,
+    "high": 610,
+    "low": 437.12,
+    "volume": 29740992,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 611.71,
+    "close": 546.4,
+    "high": 643.36,
+    "low": 529.01,
+    "volume": 20749878,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 561.28,
+    "close": 660.84,
+    "high": 684.94,
+    "low": 545.77,
+    "volume": 22395188,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "ASML",
+    "open": 659.53,
+    "close": 617.73,
+    "high": 698.59,
+    "low": 610.14,
+    "volume": 18508331,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 621.07,
+    "close": 680.71,
+    "high": 683.18,
+    "low": 589.89,
+    "volume": 22214706,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "ASML",
+    "open": 674.8,
+    "close": 636.86,
+    "high": 681.6,
+    "low": 605.76,
+    "volume": 20221573,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 635,
+    "close": 722.93,
+    "high": 747.13,
+    "low": 628.53,
+    "volume": 21407663,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "ASML",
+    "open": 724.2,
+    "close": 724.75,
+    "high": 744.44,
+    "low": 695.92,
+    "volume": 18445067,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 733.99,
+    "close": 716.41,
+    "high": 771.98,
+    "low": 673.34,
+    "volume": 26588695,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "ASML",
+    "open": 711.45,
+    "close": 655.33,
+    "high": 712.5,
+    "low": 642.88,
+    "volume": 11196090,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "ticker": "PANW",
+    "open": 9.19,
+    "close": 9.52,
+    "high": 10.35,
+    "low": 8.52,
+    "volume": 61591170,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 9.79,
+    "close": 10.73,
+    "high": 11.42,
+    "low": 8.88,
+    "volume": 34239198,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 10.88,
+    "close": 10.26,
+    "high": 12.1,
+    "low": 10.21,
+    "volume": 75779526,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 10.27,
+    "close": 9.16,
+    "high": 11.17,
+    "low": 9,
+    "volume": 87381918,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 9.29,
+    "close": 9.07,
+    "high": 9.56,
+    "low": 8.34,
+    "volume": 56178648,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 9.07,
+    "close": 8.92,
+    "high": 9.17,
+    "low": 7.94,
+    "volume": 82665474,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 9.09,
+    "close": 9.23,
+    "high": 9.61,
+    "low": 7.83,
+    "volume": 124202310,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 9.28,
+    "close": 10.19,
+    "high": 10.19,
+    "low": 8.81,
+    "volume": 81625818,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 9.76,
+    "close": 9.43,
+    "high": 10.37,
+    "low": 8.88,
+    "volume": 181024614,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 9.42,
+    "close": 9.02,
+    "high": 9.42,
+    "low": 8.38,
+    "volume": 96467778,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 8.98,
+    "close": 8.09,
+    "high": 9.43,
+    "low": 7.83,
+    "volume": 157363302,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 8.12,
+    "close": 7.03,
+    "high": 8.12,
+    "low": 6.51,
+    "volume": 167914446,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 7.04,
+    "close": 8.16,
+    "high": 8.48,
+    "low": 6.82,
+    "volume": 103114920,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 8.21,
+    "close": 8.0,
+    "high": 8.35,
+    "low": 7.84,
+    "volume": 51797310,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 7.96,
+    "close": 7.64,
+    "high": 8.42,
+    "low": 7.43,
+    "volume": 183498438,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 7.61,
+    "close": 7.03,
+    "high": 8.01,
+    "low": 7.01,
+    "volume": 124753506,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 7.02,
+    "close": 8.32,
+    "high": 8.4,
+    "low": 6.73,
+    "volume": 135308502,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 8.19,
+    "close": 9.58,
+    "high": 9.65,
+    "low": 8.02,
+    "volume": 146538858,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 9.45,
+    "close": 9.91,
+    "high": 10.82,
+    "low": 9.12,
+    "volume": 157996404,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 10.18,
+    "close": 11.86,
+    "high": 13.33,
+    "low": 9.5,
+    "volume": 226355676,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 11.63,
+    "close": 11.43,
+    "high": 13.47,
+    "low": 11.06,
+    "volume": 262777230,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 11.75,
+    "close": 10.6,
+    "high": 12.08,
+    "low": 9.87,
+    "volume": 263344032,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 10.65,
+    "close": 12.48,
+    "high": 13,
+    "low": 9.58,
+    "volume": 250620162,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 12.52,
+    "close": 13.97,
+    "high": 14.3,
+    "low": 12,
+    "volume": 222979452,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 14.04,
+    "close": 13.48,
+    "high": 14.27,
+    "low": 12.19,
+    "volume": 189900300,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 13.39,
+    "close": 14.16,
+    "high": 14.63,
+    "low": 12.81,
+    "volume": 137965758,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 14.23,
+    "close": 16.35,
+    "high": 17.07,
+    "low": 14.23,
+    "volume": 307828554,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 16.3,
+    "close": 17.62,
+    "high": 18.08,
+    "low": 14.64,
+    "volume": 335656998,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 17.62,
+    "close": 20.5,
+    "high": 20.54,
+    "low": 17.0,
+    "volume": 193151970,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 20.5,
+    "close": 20.43,
+    "high": 21.37,
+    "low": 18.7,
+    "volume": 165883368,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 20.43,
+    "close": 21.07,
+    "high": 21.67,
+    "low": 19.6,
+    "volume": 125355576,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 21.03,
+    "close": 23.7,
+    "high": 24.38,
+    "low": 20.22,
+    "volume": 127706292,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 24,
+    "close": 24.35,
+    "high": 25.07,
+    "low": 22.34,
+    "volume": 237058302,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 24.41,
+    "close": 24.62,
+    "high": 26.37,
+    "low": 23.26,
+    "volume": 145248714,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 25.01,
+    "close": 28.25,
+    "high": 28.31,
+    "low": 24.07,
+    "volume": 167778990,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 28.32,
+    "close": 29.12,
+    "high": 30.83,
+    "low": 27.9,
+    "volume": 195231006,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 29.43,
+    "close": 30.97,
+    "high": 33.42,
+    "low": 27.97,
+    "volume": 181664502,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 31.06,
+    "close": 27.37,
+    "high": 31.83,
+    "low": 23.4,
+    "volume": 212235498,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 26.71,
+    "close": 28.67,
+    "high": 31.62,
+    "low": 26.43,
+    "volume": 223711368,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 28.42,
+    "close": 26.83,
+    "high": 29.79,
+    "low": 25.04,
+    "volume": 211925760,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 26.97,
+    "close": 31.22,
+    "high": 31.38,
+    "low": 25.48,
+    "volume": 216519474,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 31.25,
+    "close": 29.36,
+    "high": 32.45,
+    "low": 28.94,
+    "volume": 164815536,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 28.82,
+    "close": 24.91,
+    "high": 28.96,
+    "low": 22.65,
+    "volume": 224043768,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 24.65,
+    "close": 24.13,
+    "high": 25.66,
+    "low": 18.52,
+    "volume": 416279424,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 24.46,
+    "close": 27.19,
+    "high": 27.55,
+    "low": 23.96,
+    "volume": 193043490,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 26.86,
+    "close": 25.14,
+    "high": 27.29,
+    "low": 22.46,
+    "volume": 225320910,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 25.27,
+    "close": 21.74,
+    "high": 25.33,
+    "low": 21.38,
+    "volume": 287306256,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 21.54,
+    "close": 20.44,
+    "high": 23.47,
+    "low": 19.11,
+    "volume": 238901418,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 20.45,
+    "close": 21.82,
+    "high": 22.45,
+    "low": 19.5,
+    "volume": 147245520,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 21.81,
+    "close": 22.2,
+    "high": 24.04,
+    "low": 20.79,
+    "volume": 233518374,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 22.21,
+    "close": 26.55,
+    "high": 26.67,
+    "low": 22.21,
+    "volume": 211477296,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 26.51,
+    "close": 25.64,
+    "high": 27.17,
+    "low": 24.31,
+    "volume": 140851026,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 25.62,
+    "close": 22.39,
+    "high": 27.61,
+    "low": 22.02,
+    "volume": 278857272,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 22.4,
+    "close": 20.84,
+    "high": 22.46,
+    "low": 20.59,
+    "volume": 173180286,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 20.98,
+    "close": 24.59,
+    "high": 24.73,
+    "low": 20.97,
+    "volume": 197043636,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 24.67,
+    "close": 25.32,
+    "high": 26.27,
+    "low": 24.1,
+    "volume": 172179636,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 19.99,
+    "close": 18.78,
+    "high": 20.16,
+    "low": 18.34,
+    "volume": 424778442,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 18.8,
+    "close": 18.07,
+    "high": 19.03,
+    "low": 17.89,
+    "volume": 199734708,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 18.12,
+    "close": 19.77,
+    "high": 20.35,
+    "low": 18.02,
+    "volume": 244138548,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 22.19,
+    "close": 22.3,
+    "high": 23.55,
+    "low": 21.41,
+    "volume": 311501742,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 22.48,
+    "close": 21.96,
+    "high": 23.98,
+    "low": 21.73,
+    "volume": 128705880,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 22.1,
+    "close": 22.11,
+    "high": 22.48,
+    "low": 21.09,
+    "volume": 140619558,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 24.14,
+    "close": 24.02,
+    "high": 24.79,
+    "low": 22.78,
+    "volume": 222985914,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 24.1,
+    "close": 24.53,
+    "high": 25.56,
+    "low": 23.9,
+    "volume": 152640660,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 24.6,
+    "close": 24.29,
+    "high": 26.14,
+    "low": 22.64,
+    "volume": 269349702,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 24.27,
+    "close": 24.16,
+    "high": 24.9,
+    "low": 23.35,
+    "volume": 115188726,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 24.33,
+    "close": 26.31,
+    "high": 26.8,
+    "low": 24.18,
+    "volume": 148253760,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 26.1,
+    "close": 28.89,
+    "high": 29.86,
+    "low": 24.73,
+    "volume": 211913598,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 28.89,
+    "close": 30.25,
+    "high": 31.92,
+    "low": 28.17,
+    "volume": 185162724,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 29.99,
+    "close": 32.09,
+    "high": 32.87,
+    "low": 29.6,
+    "volume": 186044670,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 31.96,
+    "close": 34.68,
+    "high": 35.28,
+    "low": 31.64,
+    "volume": 137483598,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 35,
+    "close": 34.24,
+    "high": 36.23,
+    "low": 32.63,
+    "volume": 225632154,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 34.15,
+    "close": 33.04,
+    "high": 36.56,
+    "low": 32.27,
+    "volume": 139783086,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 33.43,
+    "close": 38.52,
+    "high": 38.72,
+    "low": 33.0,
+    "volume": 160644132,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 38.4,
+    "close": 37.54,
+    "high": 39.92,
+    "low": 36.48,
+    "volume": 147068352,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 37.8,
+    "close": 30.51,
+    "high": 38.18,
+    "low": 29.24,
+    "volume": 205953486,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 30.75,
+    "close": 28.82,
+    "high": 32.05,
+    "low": 26.68,
+    "volume": 209666070,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 29.45,
+    "close": 31.39,
+    "high": 32.13,
+    "low": 28.13,
+    "volume": 189082638,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 30.84,
+    "close": 35.8,
+    "high": 36.21,
+    "low": 29.8,
+    "volume": 151200372,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 35.85,
+    "close": 41.05,
+    "high": 43.44,
+    "low": 35.73,
+    "volume": 188633844,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 41.01,
+    "close": 40.48,
+    "high": 41.71,
+    "low": 38.39,
+    "volume": 164935398,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 41,
+    "close": 41.47,
+    "high": 41.72,
+    "low": 38.56,
+    "volume": 124846896,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 41.58,
+    "close": 33.36,
+    "high": 41.82,
+    "low": 32.85,
+    "volume": 197508402,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 33.31,
+    "close": 33.96,
+    "high": 35.73,
+    "low": 32.45,
+    "volume": 166352700,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 34.73,
+    "close": 37.76,
+    "high": 38.24,
+    "low": 33.89,
+    "volume": 125060262,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 37.77,
+    "close": 33.94,
+    "high": 38.32,
+    "low": 32.03,
+    "volume": 174195162,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 33.63,
+    "close": 33.97,
+    "high": 36.44,
+    "low": 32.72,
+    "volume": 215650902,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 34.33,
+    "close": 37.9,
+    "high": 38.15,
+    "low": 33.75,
+    "volume": 136073490,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 38,
+    "close": 37.87,
+    "high": 41.83,
+    "low": 35.82,
+    "volume": 202265976,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 37.98,
+    "close": 38.54,
+    "high": 39.2,
+    "low": 36.84,
+    "volume": 117589512,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 38.87,
+    "close": 39.13,
+    "high": 41.29,
+    "low": 38.82,
+    "volume": 111232818,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 39.14,
+    "close": 30.77,
+    "high": 41.85,
+    "low": 30.18,
+    "volume": 214886040,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 30.82,
+    "close": 27.33,
+    "high": 31.86,
+    "low": 20.91,
+    "volume": 271323240,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 26.33,
+    "close": 32.75,
+    "high": 33.44,
+    "low": 26.33,
+    "volume": 163231122,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 32.17,
+    "close": 39.21,
+    "high": 40.52,
+    "low": 31.76,
+    "volume": 196133688,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 39.17,
+    "close": 38.28,
+    "high": 40.14,
+    "low": 36.25,
+    "volume": 189609084,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 38.23,
+    "close": 42.65,
+    "high": 42.65,
+    "low": 37.95,
+    "volume": 145283202,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 42.65,
+    "close": 42.9,
+    "high": 45.84,
+    "low": 41.79,
+    "volume": 166492656,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 43.15,
+    "close": 40.79,
+    "high": 43.52,
+    "low": 37.86,
+    "volume": 159203382,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 41.45,
+    "close": 36.87,
+    "high": 43.36,
+    "low": 36.56,
+    "volume": 104006790,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 37.13,
+    "close": 48.99,
+    "high": 49.75,
+    "low": 36.83,
+    "volume": 153190278,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 49.49,
+    "close": 59.23,
+    "high": 62.5,
+    "low": 48.34,
+    "volume": 170038812,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 59.23,
+    "close": 58.46,
+    "high": 62.37,
+    "low": 55.76,
+    "volume": 124482102,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 59.15,
+    "close": 59.72,
+    "high": 67.17,
+    "low": 58.67,
+    "volume": 153947220,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 60.71,
+    "close": 53.68,
+    "high": 61.45,
+    "low": 51.93,
+    "volume": 167294442,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 54.5,
+    "close": 58.9,
+    "high": 62.17,
+    "low": 54.31,
+    "volume": 112749732,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 59.26,
+    "close": 60.54,
+    "high": 62.38,
+    "low": 53.7,
+    "volume": 139254102,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 61.01,
+    "close": 61.84,
+    "high": 64.45,
+    "low": 58.49,
+    "volume": 113208330,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 61.67,
+    "close": 66.51,
+    "high": 67.53,
+    "low": 61.05,
+    "volume": 112265454,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 66.67,
+    "close": 76.84,
+    "high": 77.48,
+    "low": 59.73,
+    "volume": 232364754,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 76.16,
+    "close": 79.83,
+    "high": 82.65,
+    "low": 75.97,
+    "volume": 164117658,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 80.09,
+    "close": 84.85,
+    "high": 86.58,
+    "low": 77.19,
+    "volume": 133216452,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 85.08,
+    "close": 91.16,
+    "high": 93.26,
+    "low": 80.88,
+    "volume": 174956526,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 91.58,
+    "close": 92.79,
+    "high": 95.44,
+    "low": 83.04,
+    "volume": 184440168,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 93.07,
+    "close": 86.23,
+    "high": 93.4,
+    "low": 75.96,
+    "volume": 218049288,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 86.31,
+    "close": 99.04,
+    "high": 99.22,
+    "low": 77.75,
+    "volume": 218218884,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 98.56,
+    "close": 103.75,
+    "high": 105.98,
+    "low": 84.85,
+    "volume": 248200566,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 103.55,
+    "close": 93.55,
+    "high": 106.82,
+    "low": 92.91,
+    "volume": 136764606,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 93.04,
+    "close": 83.8,
+    "high": 95.48,
+    "low": 70.26,
+    "volume": 292099212,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 84.54,
+    "close": 82.32,
+    "high": 89.14,
+    "low": 76.62,
+    "volume": 165693498,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 82.5,
+    "close": 83.18,
+    "high": 87.79,
+    "low": 77.2,
+    "volume": 144679254,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 83.29,
+    "close": 92.8,
+    "high": 96.47,
+    "low": 80.68,
+    "volume": 215836956,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 91.41,
+    "close": 81.89,
+    "high": 95.0,
+    "low": 80.27,
+    "volume": 165596598,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 83,
+    "close": 85.8,
+    "high": 89.5,
+    "low": 74.0,
+    "volume": 142873504,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 86.97,
+    "close": 84.95,
+    "high": 88.05,
+    "low": 70.04,
+    "volume": 232588406,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 85.58,
+    "close": 69.77,
+    "high": 89.48,
+    "low": 68.37,
+    "volume": 147019276,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 70.66,
+    "close": 79.32,
+    "high": 80.61,
+    "low": 66.11,
+    "volume": 179723040,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 78.67,
+    "close": 94.19,
+    "high": 96.23,
+    "low": 77.06,
+    "volume": 214184716,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 93.44,
+    "close": 99.87,
+    "high": 100.15,
+    "low": 90.81,
+    "volume": 167889776,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 99.0,
+    "close": 91.23,
+    "high": 101.72,
+    "low": 90.5,
+    "volume": 97933664,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 90.33,
+    "close": 106.69,
+    "high": 109.75,
+    "low": 88.15,
+    "volume": 234643314,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 105.5,
+    "close": 127.75,
+    "high": 128.41,
+    "low": 105.06,
+    "volume": 341650734,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 127.55,
+    "close": 124.98,
+    "high": 129.44,
+    "low": 115.91,
+    "volume": 182696522,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 124.94,
+    "close": 121.65,
+    "high": 127.02,
+    "low": 100.58,
+    "volume": 264069316,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 121.62,
+    "close": 117.22,
+    "high": 127.11,
+    "low": 112.32,
+    "volume": 94319692,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 117.5,
+    "close": 121.51,
+    "high": 132.95,
+    "low": 115.05,
+    "volume": 126508722,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 122.5,
+    "close": 147.54,
+    "high": 148.08,
+    "low": 116.9,
+    "volume": 231530560,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 146.16,
+    "close": 147.44,
+    "high": 159,
+    "low": 140.33,
+    "volume": 153960676,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 145.97,
+    "close": 169.25,
+    "high": 175.3,
+    "low": 140.92,
+    "volume": 132254444,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 169.5,
+    "close": 155.28,
+    "high": 190.42,
+    "low": 130.04,
+    "volume": 381638700,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 155.76,
+    "close": 142.06,
+    "high": 155.76,
+    "low": 138.28,
+    "volume": 219331510,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 142.51,
+    "close": 145.44,
+    "high": 151.94,
+    "low": 132.5,
+    "volume": 154289964,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 144.44,
+    "close": 147.46,
+    "high": 162.34,
+    "low": 142,
+    "volume": 186493038,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "PANW",
+    "open": 148.21,
+    "close": 169.5,
+    "high": 172.95,
+    "low": 144.46,
+    "volume": 117269536,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 169,
+    "close": 162.37,
+    "high": 172.78,
+    "low": 157.5,
+    "volume": 96721230,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "PANW",
+    "open": 161.71,
+    "close": 181.36,
+    "high": 187.68,
+    "low": 142.01,
+    "volume": 165318092,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "PANW",
+    "open": 179.78,
+    "close": 170.9,
+    "high": 182.75,
+    "low": 164.36,
+    "volume": 92403162,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 170.8,
+    "close": 180.16,
+    "high": 192,
+    "low": 164.12,
+    "volume": 95356488,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "PANW",
+    "open": 179.51,
+    "close": 193.91,
+    "high": 204.26,
+    "low": 178,
+    "volume": 113529212,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "PANW",
+    "open": 195.12,
+    "close": 181.96,
+    "high": 207.24,
+    "low": 181.26,
+    "volume": 89347068,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

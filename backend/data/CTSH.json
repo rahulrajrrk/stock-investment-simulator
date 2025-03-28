@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "CTSH",
+    "open": 18.48,
+    "close": 18.23,
+    "high": 20.41,
+    "low": 17.76,
+    "volume": 28824926,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 18.3,
+    "close": 22.7,
+    "high": 23.0,
+    "low": 18.27,
+    "volume": 49512656,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 22.87,
+    "close": 22.93,
+    "high": 23.85,
+    "low": 21.57,
+    "volume": 27575808,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 22.96,
+    "close": 22.82,
+    "high": 24.8,
+    "low": 20.41,
+    "volume": 49336734,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 23.09,
+    "close": 27.03,
+    "high": 28.59,
+    "low": 22.96,
+    "volume": 71199202,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 27.12,
+    "close": 23.64,
+    "high": 27.47,
+    "low": 23.03,
+    "volume": 50379108,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 23.55,
+    "close": 22.62,
+    "high": 24.08,
+    "low": 20.18,
+    "volume": 53396988,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 22.61,
+    "close": 21.63,
+    "high": 24.66,
+    "low": 21.55,
+    "volume": 38281386,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 21.64,
+    "close": 23.12,
+    "high": 23.27,
+    "low": 19.6,
+    "volume": 47060910,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 22.83,
+    "close": 12.71,
+    "high": 24.79,
+    "low": 12.1,
+    "volume": 48604860,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 12.81,
+    "close": 13.78,
+    "high": 13.96,
+    "low": 11.42,
+    "volume": 57166154,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 13.62,
+    "close": 13.71,
+    "high": 13.75,
+    "low": 12.01,
+    "volume": 43098332,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 13.72,
+    "close": 15.26,
+    "high": 15.32,
+    "low": 13.55,
+    "volume": 46444024,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 15.19,
+    "close": 17,
+    "high": 17.59,
+    "low": 14.82,
+    "volume": 80081908,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 17.3,
+    "close": 19.07,
+    "high": 19.88,
+    "low": 15.49,
+    "volume": 64690092,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 19.15,
+    "close": 21.16,
+    "high": 21.46,
+    "low": 18.25,
+    "volume": 73042472,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 21.88,
+    "close": 18.95,
+    "high": 22.04,
+    "low": 17.79,
+    "volume": 85902686,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 19.1,
+    "close": 23.61,
+    "high": 24.09,
+    "low": 18.25,
+    "volume": 86297810,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 23.79,
+    "close": 23.1,
+    "high": 24.75,
+    "low": 21.62,
+    "volume": 67532106,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 23.35,
+    "close": 21.0,
+    "high": 24.2,
+    "low": 19.06,
+    "volume": 91940184,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 21.0,
+    "close": 24,
+    "high": 24.11,
+    "low": 20.7,
+    "volume": 58017198,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 24.05,
+    "close": 23.57,
+    "high": 25.16,
+    "low": 22.75,
+    "volume": 61778684,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 23.62,
+    "close": 24.54,
+    "high": 25.73,
+    "low": 22.7,
+    "volume": 62507286,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 24.6,
+    "close": 22.77,
+    "high": 24.98,
+    "low": 21.88,
+    "volume": 67917682,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 22.67,
+    "close": 23.3,
+    "high": 24.45,
+    "low": 21.22,
+    "volume": 51624002,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 23.34,
+    "close": 21.99,
+    "high": 23.67,
+    "low": 21.12,
+    "volume": 75474442,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 22.02,
+    "close": 24.3,
+    "high": 24.74,
+    "low": 21.5,
+    "volume": 54996636,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 24.3,
+    "close": 25.14,
+    "high": 26.23,
+    "low": 24.03,
+    "volume": 58313136,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 24.97,
+    "close": 26.18,
+    "high": 26.32,
+    "low": 24.25,
+    "volume": 55398186,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 25.98,
+    "close": 28.8,
+    "high": 29.52,
+    "low": 24.82,
+    "volume": 58238914,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 28.79,
+    "close": 29.75,
+    "high": 30.29,
+    "low": 27.45,
+    "volume": 48619674,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 29.91,
+    "close": 31.8,
+    "high": 32.54,
+    "low": 28.23,
+    "volume": 49397150,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 32.2,
+    "close": 29.5,
+    "high": 34.84,
+    "low": 28.68,
+    "volume": 78320778,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 29.5,
+    "close": 33.69,
+    "high": 34.18,
+    "low": 28.62,
+    "volume": 73590750,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 33.9,
+    "close": 32.74,
+    "high": 34.27,
+    "low": 30.09,
+    "volume": 57506454,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 32.25,
+    "close": 34.95,
+    "high": 35.99,
+    "low": 31.55,
+    "volume": 59485290,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 35.21,
+    "close": 37.01,
+    "high": 38.33,
+    "low": 34.05,
+    "volume": 53667474,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 37.21,
+    "close": 37.64,
+    "high": 39.73,
+    "low": 35.92,
+    "volume": 50394938,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 37.77,
+    "close": 40.78,
+    "high": 40.78,
+    "low": 35.76,
+    "volume": 113996468,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 40.99,
+    "close": 38.58,
+    "high": 41.24,
+    "low": 37.63,
+    "volume": 47489838,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 38.85,
+    "close": 42.65,
+    "high": 42.69,
+    "low": 37.88,
+    "volume": 55770752,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 42.7,
+    "close": 45.1,
+    "high": 47.77,
+    "low": 42.34,
+    "volume": 68636928,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 43.58,
+    "close": 44.13,
+    "high": 47.34,
+    "low": 42.61,
+    "volume": 71263230,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 44.24,
+    "close": 44.7,
+    "high": 45.48,
+    "low": 41.33,
+    "volume": 79118442,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 45.09,
+    "close": 39.28,
+    "high": 45.09,
+    "low": 37.24,
+    "volume": 124953840,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 39.58,
+    "close": 37.5,
+    "high": 40.42,
+    "low": 37,
+    "volume": 86961736,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 37.69,
+    "close": 40.49,
+    "high": 44.2,
+    "low": 37.02,
+    "volume": 113582234,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 40.14,
+    "close": 36.76,
+    "high": 44.44,
+    "low": 34.86,
+    "volume": 111312090,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 36.81,
+    "close": 39.9,
+    "high": 40.41,
+    "low": 33.8,
+    "volume": 87214604,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 40.22,
+    "close": 41.46,
+    "high": 43,
+    "low": 38.31,
+    "volume": 70677816,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 41.4,
+    "close": 31.1,
+    "high": 42,
+    "low": 29.44,
+    "volume": 131969873,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 31.32,
+    "close": 33.94,
+    "high": 36.27,
+    "low": 30.73,
+    "volume": 65410871,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 33.83,
+    "close": 27.9,
+    "high": 34,
+    "low": 23.37,
+    "volume": 118896231,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 28.1,
+    "close": 30.21,
+    "high": 33.99,
+    "low": 26.06,
+    "volume": 104566099,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 30.07,
+    "close": 28.83,
+    "high": 31.5,
+    "low": 25.75,
+    "volume": 84081845,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 29.17,
+    "close": 32.25,
+    "high": 32.84,
+    "low": 26.32,
+    "volume": 87814789,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 31.5,
+    "close": 35.28,
+    "high": 35.8,
+    "low": 28.84,
+    "volume": 119743608,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 35.33,
+    "close": 32.51,
+    "high": 37.1,
+    "low": 32.16,
+    "volume": 107272970,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 32.27,
+    "close": 28.07,
+    "high": 32.53,
+    "low": 26.6,
+    "volume": 144435873,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 28.27,
+    "close": 29.32,
+    "high": 31.69,
+    "low": 28.2,
+    "volume": 96107115,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 30,
+    "close": 22.83,
+    "high": 30.3,
+    "low": 20.68,
+    "volume": 133088362,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 22.32,
+    "close": 19.2,
+    "high": 22.69,
+    "low": 15.47,
+    "volume": 163795013,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 19.2,
+    "close": 19.2,
+    "high": 21.12,
+    "low": 14.38,
+    "volume": 99023462,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 18.66,
+    "close": 18.06,
+    "high": 19.19,
+    "low": 15.39,
+    "volume": 105069168,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 17.78,
+    "close": 18.73,
+    "high": 21.65,
+    "low": 17.78,
+    "volume": 134372073,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 18.74,
+    "close": 18.4,
+    "high": 21.95,
+    "low": 17.82,
+    "volume": 139915347,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 17.59,
+    "close": 20.79,
+    "high": 22.18,
+    "low": 17.26,
+    "volume": 151507037,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 20.75,
+    "close": 24.79,
+    "high": 25.14,
+    "low": 20.35,
+    "volume": 113275385,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 24.53,
+    "close": 25.19,
+    "high": 27.51,
+    "low": 24.06,
+    "volume": 121331203,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 25.7,
+    "close": 26.7,
+    "high": 27.9,
+    "low": 24.44,
+    "volume": 105497319,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 27.55,
+    "close": 29.59,
+    "high": 30.82,
+    "low": 25.01,
+    "volume": 101704946,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 29.94,
+    "close": 34.87,
+    "high": 35.95,
+    "low": 29.75,
+    "volume": 105907823,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 34.87,
+    "close": 38.66,
+    "high": 39.4,
+    "low": 33.84,
+    "volume": 75427178,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 38.94,
+    "close": 38.65,
+    "high": 41.66,
+    "low": 36.69,
+    "volume": 80729882,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 38.72,
+    "close": 43.93,
+    "high": 45.75,
+    "low": 38.37,
+    "volume": 68210550,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 44.14,
+    "close": 45.33,
+    "high": 46.61,
+    "low": 43.09,
+    "volume": 63832710,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 45.64,
+    "close": 43.66,
+    "high": 48.95,
+    "low": 43.58,
+    "volume": 74149777,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 43.8,
+    "close": 48.13,
+    "high": 48.34,
+    "low": 42.08,
+    "volume": 75149815,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 48.48,
+    "close": 50.98,
+    "high": 52.68,
+    "low": 48.16,
+    "volume": 72216789,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 51.21,
+    "close": 51.11,
+    "high": 54.35,
+    "low": 50.19,
+    "volume": 65921664,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 51.25,
+    "close": 50.04,
+    "high": 53.3,
+    "low": 45.85,
+    "volume": 95598732,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 48.8,
+    "close": 50.06,
+    "high": 54.81,
+    "low": 48.53,
+    "volume": 79304009,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 49.96,
+    "close": 54.56,
+    "high": 56.08,
+    "low": 48.98,
+    "volume": 72416660,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 55.51,
+    "close": 57.6,
+    "high": 63.94,
+    "low": 54.69,
+    "volume": 69077051,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 58.64,
+    "close": 64.47,
+    "high": 65.75,
+    "low": 58.57,
+    "volume": 61130767,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 65.27,
+    "close": 65.19,
+    "high": 68.87,
+    "low": 62.67,
+    "volume": 56901394,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 66.89,
+    "close": 64.98,
+    "high": 66.9,
+    "low": 61.26,
+    "volume": 59241474,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 65.65,
+    "close": 73.29,
+    "high": 74.79,
+    "low": 65.65,
+    "volume": 44601983,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 74.14,
+    "close": 72.95,
+    "high": 76.45,
+    "low": 70.65,
+    "volume": 45326869,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 73.36,
+    "close": 76.87,
+    "high": 77.74,
+    "low": 73.25,
+    "volume": 47420559,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 77.05,
+    "close": 81.4,
+    "high": 81.85,
+    "low": 70.53,
+    "volume": 52820065,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 81.83,
+    "close": 82.9,
+    "high": 83.23,
+    "low": 76.77,
+    "volume": 40821455,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 83.45,
+    "close": 76.04,
+    "high": 83.48,
+    "low": 71.69,
+    "volume": 65375119,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 75.78,
+    "close": 73.34,
+    "high": 76.36,
+    "low": 64.4,
+    "volume": 75571233,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 73.48,
+    "close": 69.87,
+    "high": 77.71,
+    "low": 68.38,
+    "volume": 42911736,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 70.5,
+    "close": 63.45,
+    "high": 74.49,
+    "low": 53.54,
+    "volume": 109697242,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 64.47,
+    "close": 62.7,
+    "high": 68.52,
+    "low": 58.15,
+    "volume": 72991291,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 62.3,
+    "close": 72.75,
+    "high": 77.44,
+    "low": 59.95,
+    "volume": 61889424,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 71.72,
+    "close": 67.35,
+    "high": 71.97,
+    "low": 61.52,
+    "volume": 63277004,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 67.08,
+    "close": 64.31,
+    "high": 70.84,
+    "low": 62.5,
+    "volume": 48292993,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 66.64,
+    "close": 71.75,
+    "high": 72.48,
+    "low": 64.92,
+    "volume": 45504593,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 72.68,
+    "close": 70.95,
+    "high": 74.19,
+    "low": 69.6,
+    "volume": 46121714,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 71.45,
+    "close": 76.95,
+    "high": 78,
+    "low": 70.16,
+    "volume": 40516677,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 76.72,
+    "close": 73.33,
+    "high": 77.85,
+    "low": 69.97,
+    "volume": 45627309,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 73.31,
+    "close": 58.25,
+    "high": 74.17,
+    "low": 55.7,
+    "volume": 121678095,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 56.87,
+    "close": 60,
+    "high": 60.91,
+    "low": 55.25,
+    "volume": 55561836,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 60.3,
+    "close": 56.77,
+    "high": 60.55,
+    "low": 53.92,
+    "volume": 49554981,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 57.11,
+    "close": 64.28,
+    "high": 65.65,
+    "low": 55.53,
+    "volume": 56988120,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 64.31,
+    "close": 69.89,
+    "high": 71.45,
+    "low": 63.37,
+    "volume": 51165024,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 70.31,
+    "close": 66.65,
+    "high": 72.73,
+    "low": 65.94,
+    "volume": 47026669,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 66.88,
+    "close": 67.23,
+    "high": 68.81,
+    "low": 64.2,
+    "volume": 53320429,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 67.53,
+    "close": 73.88,
+    "high": 74.87,
+    "low": 66.32,
+    "volume": 45432206,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 75.46,
+    "close": 78.18,
+    "high": 79.54,
+    "low": 74.11,
+    "volume": 44058617,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 78.96,
+    "close": 76.77,
+    "high": 79.23,
+    "low": 75.12,
+    "volume": 37670096,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 76.45,
+    "close": 76.62,
+    "high": 81.08,
+    "low": 74.03,
+    "volume": 36764784,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 76.54,
+    "close": 64.8,
+    "high": 77.89,
+    "low": 61.29,
+    "volume": 99568761,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 64.46,
+    "close": 64.65,
+    "high": 68.73,
+    "low": 61.89,
+    "volume": 107253336,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 64.86,
+    "close": 62.64,
+    "high": 66.66,
+    "low": 60.92,
+    "volume": 62892314,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 63.4,
+    "close": 72.39,
+    "high": 74.92,
+    "low": 63.14,
+    "volume": 57776920,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 72.73,
+    "close": 73.3,
+    "high": 76.08,
+    "low": 70,
+    "volume": 48553794,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 74,
+    "close": 82.12,
+    "high": 84.17,
+    "low": 73.58,
+    "volume": 45439195,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 81.78,
+    "close": 86.93,
+    "high": 90.01,
+    "low": 81.24,
+    "volume": 47776057,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 87.29,
+    "close": 93.89,
+    "high": 95.75,
+    "low": 86.14,
+    "volume": 36461703,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 93.14,
+    "close": 100.98,
+    "high": 101.13,
+    "low": 92.59,
+    "volume": 29540116,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 100.25,
+    "close": 96.91,
+    "high": 101.62,
+    "low": 95.43,
+    "volume": 44700606,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 97.14,
+    "close": 104.06,
+    "high": 105.3,
+    "low": 89.91,
+    "volume": 39034552,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 103,
+    "close": 50.6,
+    "high": 108,
+    "low": 47.42,
+    "volume": 74900085,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 50.78,
+    "close": 47.91,
+    "high": 53.4,
+    "low": 47.27,
+    "volume": 71851759,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 47.96,
+    "close": 48.61,
+    "high": 49.66,
+    "low": 45.73,
+    "volume": 79026209,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 48.61,
+    "close": 48.91,
+    "high": 50.31,
+    "low": 46.78,
+    "volume": 72371529,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 49.25,
+    "close": 49.05,
+    "high": 51.38,
+    "low": 48.54,
+    "volume": 71887578,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 49.12,
+    "close": 45.73,
+    "high": 50.62,
+    "low": 41.51,
+    "volume": 147013099,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 45.99,
+    "close": 44.77,
+    "high": 46.5,
+    "low": 44.01,
+    "volume": 114881685,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 44.75,
+    "close": 48.85,
+    "high": 49.11,
+    "low": 42.94,
+    "volume": 116670185,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 48.98,
+    "close": 53.99,
+    "high": 54.55,
+    "low": 48.4,
+    "volume": 84919669,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 53.89,
+    "close": 52.66,
+    "high": 54.89,
+    "low": 50.17,
+    "volume": 82883058,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 52.89,
+    "close": 54.13,
+    "high": 56.62,
+    "low": 50.71,
+    "volume": 83976976,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 54.41,
+    "close": 62.48,
+    "high": 63.15,
+    "low": 53.33,
+    "volume": 83952589,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 62.56,
+    "close": 62.39,
+    "high": 64.69,
+    "low": 60.29,
+    "volume": 75577589,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 62.45,
+    "close": 58.54,
+    "high": 63.23,
+    "low": 58.38,
+    "volume": 64057564,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 58.65,
+    "close": 64.72,
+    "high": 65.58,
+    "low": 58.35,
+    "volume": 70463934,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 65.05,
+    "close": 61.09,
+    "high": 65.96,
+    "low": 60.78,
+    "volume": 63939223,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 61.79,
+    "close": 63.1,
+    "high": 63.67,
+    "low": 57.69,
+    "volume": 67311442,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 63.31,
+    "close": 62.94,
+    "high": 69.35,
+    "low": 57.5,
+    "volume": 89413917,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 61.54,
+    "close": 62.61,
+    "high": 64,
+    "low": 59.91,
+    "volume": 69092327,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 62.95,
+    "close": 68.11,
+    "high": 69.8,
+    "low": 61.27,
+    "volume": 68695534,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 68.54,
+    "close": 64.58,
+    "high": 69.23,
+    "low": 63.27,
+    "volume": 66787289,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 64.65,
+    "close": 60.02,
+    "high": 65.25,
+    "low": 58.15,
+    "volume": 80047720,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 58.81,
+    "close": 63.31,
+    "high": 63.43,
+    "low": 55.53,
+    "volume": 107943428,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 62.48,
+    "close": 56.98,
+    "high": 63.0,
+    "low": 51.22,
+    "volume": 104548246,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 57.87,
+    "close": 62.7,
+    "high": 63.02,
+    "low": 54.65,
+    "volume": 94674108,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 62.32,
+    "close": 58.37,
+    "high": 63.19,
+    "low": 57.78,
+    "volume": 70541862,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 58.37,
+    "close": 61.44,
+    "high": 63.23,
+    "low": 56.21,
+    "volume": 84625537,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 61.43,
+    "close": 57.24,
+    "high": 62.71,
+    "low": 55.16,
+    "volume": 96669078,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 57.16,
+    "close": 57.49,
+    "high": 59.41,
+    "low": 55.41,
+    "volume": 77171896,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 57.58,
+    "close": 57.44,
+    "high": 60.47,
+    "low": 56.32,
+    "volume": 90585123,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 57.75,
+    "close": 47.71,
+    "high": 59,
+    "low": 45.44,
+    "volume": 148668746,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 48.66,
+    "close": 51.35,
+    "high": 51.98,
+    "low": 48.5,
+    "volume": 115999472,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 51.99,
+    "close": 55.08,
+    "high": 58.5,
+    "low": 51.12,
+    "volume": 198005512,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 55.24,
+    "close": 56.03,
+    "high": 57.2,
+    "low": 53.78,
+    "volume": 93893775,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 56.65,
+    "close": 52.59,
+    "high": 58,
+    "low": 51.52,
+    "volume": 100161036,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 52.68,
+    "close": 59.27,
+    "high": 59.67,
+    "low": 51.58,
+    "volume": 133207878,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 59.71,
+    "close": 59.52,
+    "high": 60.39,
+    "low": 57,
+    "volume": 95570781,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 59.55,
+    "close": 60.23,
+    "high": 60.4,
+    "low": 57.5,
+    "volume": 75775294,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 60.4,
+    "close": 66.91,
+    "high": 67.13,
+    "low": 60.16,
+    "volume": 96212213,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 66.91,
+    "close": 66.4,
+    "high": 68.18,
+    "low": 65.59,
+    "volume": 94090941,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 66.93,
+    "close": 69.32,
+    "high": 70.49,
+    "low": 66.05,
+    "volume": 56491151,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 69.39,
+    "close": 70.77,
+    "high": 72.07,
+    "low": 67.72,
+    "volume": 77967907,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 70.85,
+    "close": 72.54,
+    "high": 73,
+    "low": 69.88,
+    "volume": 51992732,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 72.51,
+    "close": 75.67,
+    "high": 76.51,
+    "low": 72.22,
+    "volume": 60416496,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 74.64,
+    "close": 72.28,
+    "high": 75.77,
+    "low": 70.53,
+    "volume": 76183748,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 71.91,
+    "close": 71.02,
+    "high": 73.86,
+    "low": 69.69,
+    "volume": 77619740,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 71.16,
+    "close": 77.98,
+    "high": 78.95,
+    "low": 70.54,
+    "volume": 71925328,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 77.91,
+    "close": 82.02,
+    "high": 83.79,
+    "low": 71.95,
+    "volume": 86374638,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 82.24,
+    "close": 80.5,
+    "high": 85.1,
+    "low": 79.2,
+    "volume": 72072435,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 80.46,
+    "close": 81.82,
+    "high": 83.24,
+    "low": 78.46,
+    "volume": 63202358,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 81.78,
+    "close": 75.35,
+    "high": 82.61,
+    "low": 73.97,
+    "volume": 87549956,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 75.78,
+    "close": 78.99,
+    "high": 80.75,
+    "low": 75.77,
+    "volume": 75675395,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 78.57,
+    "close": 81.5,
+    "high": 83.35,
+    "low": 78.3,
+    "volume": 55657952,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 81.5,
+    "close": 78.43,
+    "high": 82.29,
+    "low": 74.13,
+    "volume": 78926224,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 75.11,
+    "close": 77.15,
+    "high": 77.85,
+    "low": 74.02,
+    "volume": 58637953,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 77.45,
+    "close": 69.03,
+    "high": 77.87,
+    "low": 65.14,
+    "volume": 88436194,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 68.99,
+    "close": 71.23,
+    "high": 71.82,
+    "low": 67.01,
+    "volume": 78980173,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 71.69,
+    "close": 63.48,
+    "high": 72.23,
+    "low": 59.47,
+    "volume": 76367200,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 62.5,
+    "close": 69.68,
+    "high": 70.32,
+    "low": 61.01,
+    "volume": 73438404,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 69.95,
+    "close": 70.98,
+    "high": 74.69,
+    "low": 69.78,
+    "volume": 77010837,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 70.91,
+    "close": 72.45,
+    "high": 72.88,
+    "low": 70.0,
+    "volume": 65551257,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 73,
+    "close": 72.96,
+    "high": 74.84,
+    "low": 70.37,
+    "volume": 62588235,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 73.35,
+    "close": 61.93,
+    "high": 73.38,
+    "low": 56.73,
+    "volume": 217525846,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 61.77,
+    "close": 63.39,
+    "high": 64.72,
+    "low": 58.87,
+    "volume": 110122503,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 64.47,
+    "close": 65.14,
+    "high": 66.5,
+    "low": 63.6,
+    "volume": 68416660,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 66.96,
+    "close": 61.39,
+    "high": 67.88,
+    "low": 59.2,
+    "volume": 73202920,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 60.95,
+    "close": 60.27,
+    "high": 65.62,
+    "low": 58.66,
+    "volume": 66270569,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 60.4,
+    "close": 60.94,
+    "high": 62.2,
+    "low": 58.89,
+    "volume": 67012679,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 61.39,
+    "close": 64.11,
+    "high": 64.37,
+    "low": 60.87,
+    "volume": 49051897,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 64.09,
+    "close": 62.02,
+    "high": 64.16,
+    "low": 60.43,
+    "volume": 52458715,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 62.29,
+    "close": 61.38,
+    "high": 63.38,
+    "low": 59.98,
+    "volume": 64018371,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 61.85,
+    "close": 60.93,
+    "high": 71.48,
+    "low": 59.46,
+    "volume": 84889664,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 60.59,
+    "close": 46.47,
+    "high": 62.88,
+    "low": 40.01,
+    "volume": 130857062,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 44.68,
+    "close": 58.02,
+    "high": 59.7,
+    "low": 42.14,
+    "volume": 90481035,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 56.89,
+    "close": 53,
+    "high": 59.23,
+    "low": 47.39,
+    "volume": 80348146,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 53,
+    "close": 56.82,
+    "high": 59.22,
+    "low": 52.48,
+    "volume": 71789059,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 57,
+    "close": 68.32,
+    "high": 69.49,
+    "low": 54.57,
+    "volume": 70353001,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 66.85,
+    "close": 66.86,
+    "high": 68.67,
+    "low": 65.12,
+    "volume": 45863116,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 66.26,
+    "close": 69.42,
+    "high": 71.81,
+    "low": 65.04,
+    "volume": 67872640,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 70.22,
+    "close": 71.42,
+    "high": 76.45,
+    "low": 67.79,
+    "volume": 83056492,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 71.47,
+    "close": 78.13,
+    "high": 79,
+    "low": 70.29,
+    "volume": 52643786,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 78.11,
+    "close": 81.95,
+    "high": 82.73,
+    "low": 77.75,
+    "volume": 59024860,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 82,
+    "close": 77.95,
+    "high": 82.27,
+    "low": 75.9,
+    "volume": 46351664,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 78.56,
+    "close": 73.48,
+    "high": 80.83,
+    "low": 71.56,
+    "volume": 65555906,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 74.11,
+    "close": 78.12,
+    "high": 79.33,
+    "low": 71.75,
+    "volume": 71436562,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 78.93,
+    "close": 80.4,
+    "high": 81.78,
+    "low": 77.48,
+    "volume": 61579169,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 80.72,
+    "close": 71.56,
+    "high": 82.57,
+    "low": 69.4,
+    "volume": 102875908,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 71.99,
+    "close": 69.26,
+    "high": 72.47,
+    "low": 68.2,
+    "volume": 85328547,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 69.61,
+    "close": 73.53,
+    "high": 75.98,
+    "low": 66.19,
+    "volume": 66865423,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 73.56,
+    "close": 76.31,
+    "high": 78.36,
+    "low": 72.3,
+    "volume": 67404713,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 76.5,
+    "close": 74.21,
+    "high": 78.29,
+    "low": 74.02,
+    "volume": 49104821,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 74.63,
+    "close": 78.09,
+    "high": 82,
+    "low": 73.05,
+    "volume": 53546908,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 78,
+    "close": 77.98,
+    "high": 82.84,
+    "low": 77.47,
+    "volume": 53330946,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 79.0,
+    "close": 88.72,
+    "high": 90.08,
+    "low": 76.79,
+    "volume": 58764301,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 88.68,
+    "close": 85.42,
+    "high": 92.03,
+    "low": 80.97,
+    "volume": 60694669,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 85.38,
+    "close": 86.13,
+    "high": 92.44,
+    "low": 82.36,
+    "volume": 61861197,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 85.58,
+    "close": 89.67,
+    "high": 93.47,
+    "low": 84.41,
+    "volume": 74606310,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 90.01,
+    "close": 80.9,
+    "high": 90.51,
+    "low": 80.87,
+    "volume": 54067248,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 80.95,
+    "close": 74.7,
+    "high": 84.41,
+    "low": 69.35,
+    "volume": 76136331,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 75.04,
+    "close": 67.49,
+    "high": 75.4,
+    "low": 65.23,
+    "volume": 60113564,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 67.43,
+    "close": 67.96,
+    "high": 70.54,
+    "low": 63.26,
+    "volume": 72611221,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 67.76,
+    "close": 63.17,
+    "high": 70.41,
+    "low": 63.15,
+    "volume": 60939906,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 62.81,
+    "close": 57.44,
+    "high": 66.59,
+    "low": 57.42,
+    "volume": 67571591,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 58.24,
+    "close": 62.25,
+    "high": 63.09,
+    "low": 55.4,
+    "volume": 78500938,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 62.71,
+    "close": 62.21,
+    "high": 63.01,
+    "low": 51.33,
+    "volume": 91238560,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 62.59,
+    "close": 57.19,
+    "high": 63.58,
+    "low": 54.25,
+    "volume": 95957026,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 57.64,
+    "close": 66.75,
+    "high": 67.41,
+    "low": 56.78,
+    "volume": 105490589,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 66.37,
+    "close": 62.63,
+    "high": 70.86,
+    "low": 62.48,
+    "volume": 84301799,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 62.58,
+    "close": 60.93,
+    "high": 63.72,
+    "low": 56.45,
+    "volume": 99062112,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 60.77,
+    "close": 59.71,
+    "high": 62.07,
+    "low": 58.09,
+    "volume": 62626863,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 59.68,
+    "close": 62.49,
+    "high": 65.43,
+    "low": 58.47,
+    "volume": 79551999,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 62.5,
+    "close": 65.28,
+    "high": 65.58,
+    "low": 61.12,
+    "volume": 84339495,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "CTSH",
+    "open": 64.85,
+    "close": 66.81,
+    "high": 69.57,
+    "low": 64.11,
+    "volume": 47801334,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

@@ -1,0 +1,2402 @@
+[
+  {
+    "ticker": "CHTR",
+    "open": 4.56,
+    "close": 4.12,
+    "high": 5.08,
+    "low": 4.06,
+    "volume": 86596276,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 4.14,
+    "close": 4.27,
+    "high": 4.71,
+    "low": 4.08,
+    "volume": 65792465,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 4.45,
+    "close": 4.03,
+    "high": 4.46,
+    "low": 3.72,
+    "volume": 85957311,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 4.05,
+    "close": 4.02,
+    "high": 4.25,
+    "low": 3.81,
+    "volume": 60351952,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 4.03,
+    "close": 4.84,
+    "high": 5.69,
+    "low": 4,
+    "volume": 160671540,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 4.86,
+    "close": 4.54,
+    "high": 5.05,
+    "low": 4.06,
+    "volume": 157975710,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 4.62,
+    "close": 4.72,
+    "high": 4.92,
+    "low": 3.87,
+    "volume": 136924978,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 4.77,
+    "close": 4,
+    "high": 4.95,
+    "low": 3.95,
+    "volume": 105347973,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 4.01,
+    "close": 3.85,
+    "high": 4.2,
+    "low": 3.35,
+    "volume": 110241329,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 3.85,
+    "close": 3.91,
+    "high": 4.04,
+    "low": 3.49,
+    "volume": 73049042,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 3.93,
+    "close": 3.09,
+    "high": 4.06,
+    "low": 3.03,
+    "volume": 84849110,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 3.17,
+    "close": 3.19,
+    "high": 3.46,
+    "low": 2.75,
+    "volume": 83437978,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 3.19,
+    "close": 2.66,
+    "high": 3.89,
+    "low": 2.52,
+    "volume": 62407571,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 2.66,
+    "close": 2.52,
+    "high": 3.03,
+    "low": 2.15,
+    "volume": 112696272,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 2.52,
+    "close": 2.16,
+    "high": 2.75,
+    "low": 2,
+    "volume": 347406245,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 2.18,
+    "close": 2.24,
+    "high": 2.4,
+    "low": 2.01,
+    "volume": 309356370,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 2.29,
+    "close": 1.61,
+    "high": 2.36,
+    "low": 1.54,
+    "volume": 303319316,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.62,
+    "close": 1.83,
+    "high": 1.85,
+    "low": 1.52,
+    "volume": 168202529,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.66,
+    "close": 1.6,
+    "high": 1.76,
+    "low": 1.23,
+    "volume": 219385004,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.58,
+    "close": 1.16,
+    "high": 1.61,
+    "low": 1.06,
+    "volume": 141259097,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.16,
+    "close": 1.14,
+    "high": 1.24,
+    "low": 0.88,
+    "volume": 282960832,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.16,
+    "close": 1.18,
+    "high": 1.33,
+    "low": 0.93,
+    "volume": 172302693,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.17,
+    "close": 1.35,
+    "high": 1.44,
+    "low": 1.16,
+    "volume": 176676328,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.33,
+    "close": 1.49,
+    "high": 1.75,
+    "low": 1.11,
+    "volume": 343840548,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.5,
+    "close": 1.5,
+    "high": 2,
+    "low": 1.38,
+    "volume": 200222466,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.5,
+    "close": 1.2,
+    "high": 1.68,
+    "low": 1.09,
+    "volume": 160699905,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.31,
+    "close": 1.19,
+    "high": 1.35,
+    "low": 1.1,
+    "volume": 261403071,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.2,
+    "close": 1.22,
+    "high": 1.35,
+    "low": 1.18,
+    "volume": 149082907,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.23,
+    "close": 1.19,
+    "high": 1.26,
+    "low": 1.13,
+    "volume": 113774574,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.19,
+    "close": 1.15,
+    "high": 1.25,
+    "low": 1.15,
+    "volume": 141990980,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.19,
+    "close": 1.09,
+    "high": 1.2,
+    "low": 0.88,
+    "volume": 175254925,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.13,
+    "close": 1.18,
+    "high": 1.21,
+    "low": 0.97,
+    "volume": 122456073,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.18,
+    "close": 1.05,
+    "high": 1.44,
+    "low": 1.01,
+    "volume": 212163545,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.06,
+    "close": 1.13,
+    "high": 1.22,
+    "low": 1.04,
+    "volume": 100900176,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.11,
+    "close": 1.32,
+    "high": 1.35,
+    "low": 1.09,
+    "volume": 131976522,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.3,
+    "close": 1.39,
+    "high": 1.42,
+    "low": 1.14,
+    "volume": 214450257,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.38,
+    "close": 1.52,
+    "high": 1.64,
+    "low": 1.38,
+    "volume": 232899346,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.51,
+    "close": 2.3,
+    "high": 2.34,
+    "low": 1.44,
+    "volume": 291282202,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 2.5,
+    "close": 2.95,
+    "high": 3.13,
+    "low": 2.39,
+    "volume": 333526378,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 2.97,
+    "close": 3.06,
+    "high": 3.43,
+    "low": 2.63,
+    "volume": 249477271,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 3.07,
+    "close": 3.5,
+    "high": 3.58,
+    "low": 2.97,
+    "volume": 219052735,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 3.5,
+    "close": 3.01,
+    "high": 3.5,
+    "low": 2.91,
+    "volume": 268523622,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 2.95,
+    "close": 2.79,
+    "high": 3.09,
+    "low": 2.7,
+    "volume": 190700220,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 2.78,
+    "close": 3.02,
+    "high": 3.47,
+    "low": 2.62,
+    "volume": 230300558,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 3.03,
+    "close": 4.03,
+    "high": 4.22,
+    "low": 3.02,
+    "volume": 299281042,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 3.9,
+    "close": 4.05,
+    "high": 4.22,
+    "low": 3.71,
+    "volume": 200200831,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 4.07,
+    "close": 4.06,
+    "high": 4.93,
+    "low": 3.67,
+    "volume": 367557585,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 3.95,
+    "close": 2.78,
+    "high": 3.95,
+    "low": 2.2,
+    "volume": 508772331,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 2.75,
+    "close": 2.58,
+    "high": 2.94,
+    "low": 2.44,
+    "volume": 170757113,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 2.65,
+    "close": 2.07,
+    "high": 2.98,
+    "low": 1.97,
+    "volume": 207138236,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 2.03,
+    "close": 1.32,
+    "high": 2.04,
+    "low": 1.1,
+    "volume": 252592987,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.3,
+    "close": 1.17,
+    "high": 1.43,
+    "low": 1.14,
+    "volume": 94389797,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.18,
+    "close": 1.17,
+    "high": 1.22,
+    "low": 0.92,
+    "volume": 107260327,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.17,
+    "close": 0.96,
+    "high": 1.31,
+    "low": 0.95,
+    "volume": 148677009,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 0.97,
+    "close": 0.85,
+    "high": 1.01,
+    "low": 0.61,
+    "volume": 71867031,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 0.89,
+    "close": 1.07,
+    "high": 1.17,
+    "low": 0.86,
+    "volume": 53877412,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.08,
+    "close": 1.59,
+    "high": 1.61,
+    "low": 1.08,
+    "volume": 110946688,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.59,
+    "close": 1.05,
+    "high": 1.68,
+    "low": 1.05,
+    "volume": 109321136,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.05,
+    "close": 1.14,
+    "high": 1.21,
+    "low": 0.93,
+    "volume": 62624606,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.14,
+    "close": 1.05,
+    "high": 1.17,
+    "low": 1.02,
+    "volume": 42078755,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 1.07,
+    "close": 0.73,
+    "high": 1.09,
+    "low": 0.71,
+    "volume": 58957521,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 0.73,
+    "close": 0.44,
+    "high": 0.78,
+    "low": 0.31,
+    "volume": 151513209,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 0.45,
+    "close": 0.19,
+    "high": 0.53,
+    "low": 0.12,
+    "volume": 76521950,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 0.19,
+    "close": 0.08,
+    "high": 0.19,
+    "low": 0.08,
+    "volume": 113692956,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 0.08,
+    "close": 0.09,
+    "high": 0.24,
+    "low": 0.07,
+    "volume": 176201999,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 0.08,
+    "close": 0.02,
+    "high": 0.09,
+    "low": 0.02,
+    "volume": 201991524,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 0.02,
+    "close": 0.02,
+    "high": 0.07,
+    "low": 0.02,
+    "volume": 350466218,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 0.03,
+    "close": 0.02,
+    "high": 0.03,
+    "low": 0.02,
+    "volume": 125398271,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 38,
+    "close": 32.5,
+    "high": 38,
+    "low": 32.01,
+    "volume": 603539,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 33.5,
+    "close": 32.48,
+    "high": 33.75,
+    "low": 31.36,
+    "volume": 3010189,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 33.35,
+    "close": 33.52,
+    "high": 37.17,
+    "low": 31.75,
+    "volume": 2027205,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 33.96,
+    "close": 38.94,
+    "high": 39,
+    "low": 32.83,
+    "volume": 5012201,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 39.08,
+    "close": 42,
+    "high": 42.58,
+    "low": 38.2,
+    "volume": 4120532,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 41.93,
+    "close": 45.77,
+    "high": 47.49,
+    "low": 41.59,
+    "volume": 5708567,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 45.55,
+    "close": 50.63,
+    "high": 50.69,
+    "low": 45.23,
+    "volume": 4852025,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 51.01,
+    "close": 58.94,
+    "high": 61.15,
+    "low": 50.95,
+    "volume": 5318556,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 59.01,
+    "close": 56.49,
+    "high": 60.57,
+    "low": 55.27,
+    "volume": 4146880,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 56.48,
+    "close": 54.26,
+    "high": 58.4,
+    "low": 51.9,
+    "volume": 16276257,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 54.5,
+    "close": 54,
+    "high": 60,
+    "low": 53.83,
+    "volume": 8080592,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 54.01,
+    "close": 49.88,
+    "high": 56.17,
+    "low": 41.33,
+    "volume": 16592874,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 49.99,
+    "close": 46.84,
+    "high": 51.27,
+    "low": 45.69,
+    "volume": 5694549,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 46.58,
+    "close": 45.94,
+    "high": 51.98,
+    "low": 41.84,
+    "volume": 6844172,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 45.24,
+    "close": 52.87,
+    "high": 54.35,
+    "low": 43.98,
+    "volume": 10223588,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 52.79,
+    "close": 56.94,
+    "high": 57.47,
+    "low": 51,
+    "volume": 10583202,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 57.52,
+    "close": 57.64,
+    "high": 59.11,
+    "low": 56.05,
+    "volume": 9515744,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 57.96,
+    "close": 63.41,
+    "high": 64.39,
+    "low": 57.56,
+    "volume": 7117719,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 63.3,
+    "close": 63.45,
+    "high": 65.32,
+    "low": 60.45,
+    "volume": 6265171,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 63.5,
+    "close": 60.47,
+    "high": 64.77,
+    "low": 59.04,
+    "volume": 5891439,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 60.39,
+    "close": 62.7,
+    "high": 68.62,
+    "low": 59.95,
+    "volume": 14814124,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 62.4,
+    "close": 70.87,
+    "high": 71.86,
+    "low": 60.46,
+    "volume": 10694886,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 71.12,
+    "close": 76.92,
+    "high": 77.8,
+    "low": 70.7,
+    "volume": 8460951,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 77.7,
+    "close": 77.8,
+    "high": 80.57,
+    "low": 73.52,
+    "volume": 14855331,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 77.57,
+    "close": 75.06,
+    "high": 83.41,
+    "low": 73.01,
+    "volume": 11550563,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 75.34,
+    "close": 77.41,
+    "high": 79.95,
+    "low": 74.6,
+    "volume": 11194418,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 77.2,
+    "close": 70.85,
+    "high": 78.17,
+    "low": 67.06,
+    "volume": 20317321,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 70.85,
+    "close": 76.24,
+    "high": 76.69,
+    "low": 68.44,
+    "volume": 15661209,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 77.5,
+    "close": 77.97,
+    "high": 82.82,
+    "low": 76.28,
+    "volume": 15386676,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 78.06,
+    "close": 86.39,
+    "high": 89.14,
+    "low": 76.19,
+    "volume": 22942651,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 85.77,
+    "close": 104.18,
+    "high": 106.29,
+    "low": 85.74,
+    "volume": 34393551,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 104.65,
+    "close": 100.74,
+    "high": 106.98,
+    "low": 99.41,
+    "volume": 14391965,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 100.48,
+    "close": 112,
+    "high": 116.42,
+    "low": 100.48,
+    "volume": 19356930,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 112.74,
+    "close": 123.85,
+    "high": 128.57,
+    "low": 109.63,
+    "volume": 23330347,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 124.2,
+    "close": 125.74,
+    "high": 130.59,
+    "low": 121.4,
+    "volume": 26477903,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 125.75,
+    "close": 121.42,
+    "high": 137.29,
+    "low": 119.06,
+    "volume": 19424563,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 122.66,
+    "close": 134.76,
+    "high": 136.32,
+    "low": 122.05,
+    "volume": 10920624,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 134.8,
+    "close": 134.04,
+    "high": 144.02,
+    "low": 130.06,
+    "volume": 11493789,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 134.7,
+    "close": 135.1,
+    "high": 139.14,
+    "low": 125.68,
+    "volume": 21445844,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 134.84,
+    "close": 136.76,
+    "high": 136.76,
+    "low": 126.31,
+    "volume": 18277092,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 137.15,
+    "close": 137,
+    "high": 140.74,
+    "low": 130.58,
+    "volume": 27501123,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 137.73,
+    "close": 126.77,
+    "high": 140.24,
+    "low": 120.5,
+    "volume": 49680367,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 125.4,
+    "close": 123.2,
+    "high": 129.75,
+    "low": 120.75,
+    "volume": 25335654,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 123.71,
+    "close": 135.53,
+    "high": 142.7,
+    "low": 116.78,
+    "volume": 34321881,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 135.36,
+    "close": 143.14,
+    "high": 144.59,
+    "low": 134.14,
+    "volume": 20798147,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 142.89,
+    "close": 158.38,
+    "high": 159.24,
+    "low": 142.85,
+    "volume": 19627210,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 158.68,
+    "close": 154.52,
+    "high": 167.3,
+    "low": 151.59,
+    "volume": 23809437,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 155.68,
+    "close": 156.87,
+    "high": 160.99,
+    "low": 149.66,
+    "volume": 16436033,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 156.67,
+    "close": 151.37,
+    "high": 162.97,
+    "low": 150.48,
+    "volume": 19823594,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 151,
+    "close": 158.39,
+    "high": 159.15,
+    "low": 137.51,
+    "volume": 25213657,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 158.99,
+    "close": 169.7,
+    "high": 169.73,
+    "low": 142.37,
+    "volume": 22282345,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 169.57,
+    "close": 166.62,
+    "high": 169.85,
+    "low": 158,
+    "volume": 15886164,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 167.23,
+    "close": 151.12,
+    "high": 167.29,
+    "low": 149.47,
+    "volume": 19004056,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 151.16,
+    "close": 180.6,
+    "high": 183.24,
+    "low": 150.29,
+    "volume": 19282965,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 180.46,
+    "close": 193.11,
+    "high": 199,
+    "low": 178.69,
+    "volume": 21763983,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 191.94,
+    "close": 187.06,
+    "high": 194,
+    "low": 179.77,
+    "volume": 26662345,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 182.36,
+    "close": 179.02,
+    "high": 191.9,
+    "low": 172.17,
+    "volume": 50466073,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 179.18,
+    "close": 171.25,
+    "high": 181.9,
+    "low": 166.54,
+    "volume": 36091376,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 172.97,
+    "close": 185.86,
+    "high": 189.99,
+    "low": 168.73,
+    "volume": 34255264,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 186.94,
+    "close": 181.61,
+    "high": 195.46,
+    "low": 161.91,
+    "volume": 34825421,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 180.53,
+    "close": 175.85,
+    "high": 195,
+    "low": 166.33,
+    "volume": 33557241,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 176.74,
+    "close": 190.94,
+    "high": 194.91,
+    "low": 175.08,
+    "volume": 33766206,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 193.25,
+    "close": 187.36,
+    "high": 193.63,
+    "low": 183.06,
+    "volume": 23567249,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 187.65,
+    "close": 183.1,
+    "high": 190.68,
+    "low": 173.21,
+    "volume": 25942430,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 180.56,
+    "close": 171.36,
+    "high": 182.04,
+    "low": 160.74,
+    "volume": 33538844,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 169.64,
+    "close": 179.56,
+    "high": 184.72,
+    "low": 156.13,
+    "volume": 53219487,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 181.08,
+    "close": 202.43,
+    "high": 204.61,
+    "low": 179.91,
+    "volume": 47629661,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 203.12,
+    "close": 212.24,
+    "high": 213.31,
+    "low": 193.77,
+    "volume": 46335875,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 212.25,
+    "close": 218.94,
+    "high": 233.7,
+    "low": 201.04,
+    "volume": 111981211,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 222.5,
+    "close": 228.64,
+    "high": 229.8,
+    "low": 214.06,
+    "volume": 57153190,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 228.68,
+    "close": 234.87,
+    "high": 244.51,
+    "low": 226.91,
+    "volume": 28008550,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 235.54,
+    "close": 257.21,
+    "high": 261.75,
+    "low": 233,
+    "volume": 32835556,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 267,
+    "close": 269.97,
+    "high": 279.95,
+    "low": 261.68,
+    "volume": 86312983,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 269.68,
+    "close": 249.89,
+    "high": 270.99,
+    "low": 242.47,
+    "volume": 36244712,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 250,
+    "close": 275.31,
+    "high": 281.43,
+    "low": 241.5,
+    "volume": 51784744,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 273.55,
+    "close": 287.92,
+    "high": 294.87,
+    "low": 265.78,
+    "volume": 28887032,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 290.24,
+    "close": 323.95,
+    "high": 341.5,
+    "low": 282.54,
+    "volume": 42807117,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 323.85,
+    "close": 323.06,
+    "high": 329.1,
+    "low": 317.02,
+    "volume": 25847251,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 325.76,
+    "close": 327.32,
+    "high": 330.91,
+    "low": 318.93,
+    "volume": 22517874,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 327.5,
+    "close": 345.16,
+    "high": 350.38,
+    "low": 325.02,
+    "volume": 22288213,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 346.29,
+    "close": 345.55,
+    "high": 347.25,
+    "low": 312.49,
+    "volume": 41027146,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 346.5,
+    "close": 336.85,
+    "high": 355,
+    "low": 326.4,
+    "volume": 35017694,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 338.26,
+    "close": 391.91,
+    "high": 399.95,
+    "low": 328.65,
+    "volume": 31066125,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 392.84,
+    "close": 398.54,
+    "high": 408.83,
+    "low": 378.26,
+    "volume": 36730678,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 398.93,
+    "close": 363.42,
+    "high": 404.72,
+    "low": 356.11,
+    "volume": 43516300,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 364.52,
+    "close": 334.17,
+    "high": 374.99,
+    "low": 308.3,
+    "volume": 49704554,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 335.62,
+    "close": 326.21,
+    "high": 361.28,
+    "low": 317.93,
+    "volume": 40168110,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 321.94,
+    "close": 335.96,
+    "high": 347.48,
+    "low": 312.53,
+    "volume": 36910544,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 338.43,
+    "close": 377.25,
+    "high": 379.32,
+    "low": 337.77,
+    "volume": 30153600,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 376.11,
+    "close": 341.93,
+    "high": 396.64,
+    "low": 341.71,
+    "volume": 28971647,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 342.72,
+    "close": 311.22,
+    "high": 369.51,
+    "low": 303.78,
+    "volume": 31576256,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 308.91,
+    "close": 271.29,
+    "high": 322.89,
+    "low": 250.1,
+    "volume": 47573049,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 270.58,
+    "close": 261.04,
+    "high": 281.33,
+    "low": 259.48,
+    "volume": 38253094,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 261.7,
+    "close": 293.21,
+    "high": 302.43,
+    "low": 260,
+    "volume": 37240387,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 292.13,
+    "close": 304.58,
+    "high": 314.88,
+    "low": 271.56,
+    "volume": 24800481,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 304.99,
+    "close": 310.4,
+    "high": 313.11,
+    "low": 292.71,
+    "volume": 33928640,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 309.82,
+    "close": 325.88,
+    "high": 334.98,
+    "low": 303.09,
+    "volume": 29555102,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 327.66,
+    "close": 320.37,
+    "high": 329.14,
+    "low": 284.35,
+    "volume": 36438327,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 319.78,
+    "close": 329.2,
+    "high": 334.76,
+    "low": 302.45,
+    "volume": 24343598,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 331.71,
+    "close": 284.97,
+    "high": 334.31,
+    "low": 272.91,
+    "volume": 27439527,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 279.89,
+    "close": 331.05,
+    "high": 338.31,
+    "low": 279.11,
+    "volume": 32435118,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 331.87,
+    "close": 344.91,
+    "high": 353.75,
+    "low": 330.92,
+    "volume": 23429049,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 347.52,
+    "close": 346.91,
+    "high": 368.02,
+    "low": 335.53,
+    "volume": 30608611,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 349.81,
+    "close": 371.19,
+    "high": 375,
+    "low": 343.15,
+    "volume": 18796342,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 373.13,
+    "close": 376.8,
+    "high": 387.41,
+    "low": 365.9,
+    "volume": 21269180,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 376.34,
+    "close": 395.18,
+    "high": 401.38,
+    "low": 375.24,
+    "volume": 20048865,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 400,
+    "close": 385.38,
+    "high": 417.13,
+    "low": 375.06,
+    "volume": 19691753,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 385.94,
+    "close": 409.59,
+    "high": 412.5,
+    "low": 370.78,
+    "volume": 29494547,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 408.08,
+    "close": 412.12,
+    "high": 431.43,
+    "low": 401.83,
+    "volume": 24973825,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 412.53,
+    "close": 467.86,
+    "high": 470.31,
+    "low": 405.02,
+    "volume": 24684811,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 469.97,
+    "close": 470.01,
+    "high": 485.99,
+    "low": 462.99,
+    "volume": 19343469,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 469.32,
+    "close": 485.08,
+    "high": 487.52,
+    "low": 460.47,
+    "volume": 21906424,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 487.41,
+    "close": 517.46,
+    "high": 521.69,
+    "low": 480.49,
+    "volume": 26512819,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 522.84,
+    "close": 493.17,
+    "high": 546.54,
+    "low": 485.46,
+    "volume": 26276248,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 494.47,
+    "close": 436.31,
+    "high": 524.65,
+    "low": 345.67,
+    "volume": 62805466,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 418.3,
+    "close": 495.23,
+    "high": 515.63,
+    "low": 413.39,
+    "volume": 25627310,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 511,
+    "close": 544,
+    "high": 545.63,
+    "low": 485.01,
+    "volume": 20957553,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 545.04,
+    "close": 510.04,
+    "high": 549,
+    "low": 498.07,
+    "volume": 25098677,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 510.04,
+    "close": 580,
+    "high": 594.31,
+    "low": 505.45,
+    "volume": 18433626,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 585.01,
+    "close": 615.61,
+    "high": 621.04,
+    "low": 579,
+    "volume": 17432034,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 614.04,
+    "close": 624.34,
+    "high": 635.86,
+    "low": 591.6,
+    "volume": 22379323,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 627.31,
+    "close": 603.82,
+    "high": 663.7,
+    "low": 572.46,
+    "volume": 22663673,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 605.1,
+    "close": 651.99,
+    "high": 663.07,
+    "low": 578.76,
+    "volume": 21704392,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 656.7,
+    "close": 661.55,
+    "high": 681.71,
+    "low": 634.47,
+    "volume": 24623570,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 666.59,
+    "close": 607.56,
+    "high": 671,
+    "low": 604.09,
+    "volume": 23665961,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 611.01,
+    "close": 613.42,
+    "high": 628.3,
+    "low": 585.45,
+    "volume": 21420377,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 618.39,
+    "close": 617.02,
+    "high": 657.84,
+    "low": 598.01,
+    "volume": 29713377,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 618,
+    "close": 673.45,
+    "high": 683.05,
+    "low": 600.16,
+    "volume": 19348242,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 679.1,
+    "close": 694.53,
+    "high": 712.41,
+    "low": 669.55,
+    "volume": 17700451,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 697.53,
+    "close": 721.45,
+    "high": 726.66,
+    "low": 670.24,
+    "volume": 18678344,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 721.52,
+    "close": 744.05,
+    "high": 749.31,
+    "low": 700.62,
+    "volume": 15426335,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 748.73,
+    "close": 816.66,
+    "high": 820.73,
+    "low": 738.75,
+    "volume": 17570181,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 818.71,
+    "close": 727.56,
+    "high": 825.62,
+    "low": 725,
+    "volume": 21333795,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 735.11,
+    "close": 674.89,
+    "high": 753.69,
+    "low": 660,
+    "volume": 18181880,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 675,
+    "close": 646.28,
+    "high": 706.93,
+    "low": 644.42,
+    "volume": 19506137,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 653.67,
+    "close": 651.97,
+    "high": 693.09,
+    "low": 599.34,
+    "volume": 29121838,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 642.75,
+    "close": 593.34,
+    "high": 653.09,
+    "low": 549.59,
+    "volume": 27370828,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 590.73,
+    "close": 601.78,
+    "high": 621,
+    "low": 566.05,
+    "volume": 37314696,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 590.99,
+    "close": 545.52,
+    "high": 603.16,
+    "low": 544.59,
+    "volume": 35038385,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 549.11,
+    "close": 428.49,
+    "high": 574.65,
+    "low": 415.01,
+    "volume": 31383124,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 431.49,
+    "close": 506.93,
+    "high": 515.66,
+    "low": 410.33,
+    "volume": 32296045,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 508.33,
+    "close": 468.53,
+    "high": 514.21,
+    "low": 407.75,
+    "volume": 28593026,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 465.45,
+    "close": 432.1,
+    "high": 496.37,
+    "low": 425,
+    "volume": 23615439,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 424.55,
+    "close": 412.63,
+    "high": 484.27,
+    "low": 409.25,
+    "volume": 25423850,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 412.52,
+    "close": 303.35,
+    "high": 422.02,
+    "low": 302.94,
+    "volume": 34367694,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 307.99,
+    "close": 367.62,
+    "high": 376.95,
+    "low": 297.66,
+    "volume": 33881407,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 374.13,
+    "close": 391.29,
+    "high": 403.49,
+    "low": 335.25,
+    "volume": 25911373,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 389.3,
+    "close": 339.1,
+    "high": 402.9,
+    "low": 302.21,
+    "volume": 36348828,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 342.06,
+    "close": 384.31,
+    "high": 412.65,
+    "low": 337.18,
+    "volume": 27711303,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 381.23,
+    "close": 367.61,
+    "high": 415.29,
+    "low": 362.52,
+    "volume": 19130244,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 365.28,
+    "close": 357.61,
+    "high": 373.14,
+    "low": 322.88,
+    "volume": 25100102,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 358.98,
+    "close": 368.7,
+    "high": 371.52,
+    "low": 318.74,
+    "volume": 20699397,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 368.64,
+    "close": 326.15,
+    "high": 374.42,
+    "low": 315.02,
+    "volume": 22628082,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 328.15,
+    "close": 367.37,
+    "high": 369.78,
+    "low": 319.07,
+    "volume": 23972551,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 366.24,
+    "close": 405.19,
+    "high": 411.88,
+    "low": 362.13,
+    "volume": 27237478,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 404.26,
+    "close": 438.12,
+    "high": 452.25,
+    "low": 401.33,
+    "volume": 27734548,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 423.2,
+    "close": 439.82,
+    "high": 457.66,
+    "low": 407.57,
+    "volume": 23391599,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 440.13,
+    "close": 402.8,
+    "high": 458.3,
+    "low": 369.07,
+    "volume": 23907876,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 402.85,
+    "close": 400.13,
+    "high": 424.87,
+    "low": 392.95,
+    "volume": 17858021,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 400.13,
+    "close": 388.68,
+    "high": 407.77,
+    "low": 358.48,
+    "volume": 21412019,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 386.84,
+    "close": 370.71,
+    "high": 393.5,
+    "low": 357.41,
+    "volume": 24039504,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 376.15,
+    "close": 293.93,
+    "high": 383.31,
+    "low": 279.64,
+    "volume": 48379457,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 290.92,
+    "close": 290.63,
+    "high": 301.81,
+    "low": 270.41,
+    "volume": 30353121,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 290.34,
+    "close": 255.94,
+    "high": 290.34,
+    "low": 236.08,
+    "volume": 28816263,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 255.88,
+    "close": 287.12,
+    "high": 287.96,
+    "low": 253.91,
+    "volume": 25558723,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 287.25,
+    "close": 298.96,
+    "high": 306.46,
+    "low": 272.49,
+    "volume": 22150957,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 292.8,
+    "close": 379.72,
+    "high": 386.28,
+    "low": 286.66,
+    "volume": 33638397,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 381.14,
+    "close": 347.54,
+    "high": 382.5,
+    "low": 336.02,
+    "volume": 19431714,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 345.53,
+    "close": 324.08,
+    "high": 355.51,
+    "low": 313.6,
+    "volume": 28846890,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 323.44,
+    "close": 327.61,
+    "high": 351.36,
+    "low": 315.0,
+    "volume": 22315836,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 360.61,
+    "close": 396.96,
+    "high": 415.27,
+    "low": 356.78,
+    "volume": 29573043,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "CHTR",
+    "open": 395.95,
+    "close": 348.65,
+    "high": 407.61,
+    "low": 342.19,
+    "volume": 18890096,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

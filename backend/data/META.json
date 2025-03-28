@@ -1,0 +1,392 @@
+[
+  {
+    "ticker": "META",
+    "open": 15.08,
+    "close": 15.12,
+    "high": 15.19,
+    "low": 15.04,
+    "volume": 334935,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "META",
+    "open": 15.13,
+    "close": 14.62,
+    "high": 15.15,
+    "low": 14.03,
+    "volume": 4104984,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "META",
+    "open": 14.72,
+    "close": 15.11,
+    "high": 15.13,
+    "low": 14.05,
+    "volume": 3449143,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "META",
+    "open": 15.22,
+    "close": 14.16,
+    "high": 15.46,
+    "low": 14.11,
+    "volume": 6216743,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "META",
+    "open": 14.24,
+    "close": 15.32,
+    "high": 15.32,
+    "low": 13.75,
+    "volume": 7941473,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "META",
+    "open": 15.47,
+    "close": 16.1,
+    "high": 17.11,
+    "low": 15.36,
+    "volume": 90661072,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "META",
+    "open": 16.37,
+    "close": 15.18,
+    "high": 16.4,
+    "low": 14.5,
+    "volume": 54660872,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "META",
+    "open": 15.36,
+    "close": 12.31,
+    "high": 15.36,
+    "low": 11.73,
+    "volume": 42254645,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "META",
+    "open": 194.28,
+    "close": 161.25,
+    "high": 199.45,
+    "low": 154.25,
+    "volume": 526187179,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "META",
+    "open": 160.31,
+    "close": 159.1,
+    "high": 183.85,
+    "low": 154.85,
+    "volume": 586488066,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "META",
+    "open": 157.25,
+    "close": 162.93,
+    "high": 183.1,
+    "low": 155.23,
+    "volume": 551343081,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "META",
+    "open": 163.58,
+    "close": 135.68,
+    "high": 171.39,
+    "low": 134.12,
+    "volume": 634678781,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "META",
+    "open": 137.14,
+    "close": 93.16,
+    "high": 142.39,
+    "low": 92.6,
+    "volume": 1113904331,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "META",
+    "open": 94.33,
+    "close": 118.1,
+    "high": 118.74,
+    "low": 88.09,
+    "volume": 1063506987,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "META",
+    "open": 119.2,
+    "close": 120.34,
+    "high": 124.67,
+    "low": 112.46,
+    "volume": 651796261,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "META",
+    "open": 122.82,
+    "close": 148.97,
+    "high": 153.19,
+    "low": 122.28,
+    "volume": 548259812,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "META",
+    "open": 148.03,
+    "close": 174.94,
+    "high": 197.16,
+    "low": 147.06,
+    "volume": 771869080,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "META",
+    "open": 174.59,
+    "close": 211.94,
+    "high": 212.17,
+    "low": 171.43,
+    "volume": 689574390,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "META",
+    "open": 208.84,
+    "close": 240.32,
+    "high": 241.69,
+    "low": 207.13,
+    "volume": 446493015,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "META",
+    "open": 238.62,
+    "close": 264.72,
+    "high": 268.65,
+    "low": 229.85,
+    "volume": 485946803,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "META",
+    "open": 265.9,
+    "close": 286.98,
+    "high": 289.79,
+    "low": 258.88,
+    "volume": 480968567,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "META",
+    "open": 286.7,
+    "close": 318.6,
+    "high": 326.2,
+    "low": 284.85,
+    "volume": 626842973,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "META",
+    "open": 317.54,
+    "close": 295.89,
+    "high": 324.14,
+    "low": 274.38,
+    "volume": 423776913,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "META",
+    "open": 299.37,
+    "close": 300.21,
+    "high": 312.87,
+    "low": 286.79,
+    "volume": 405241210,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "META",
+    "open": 302.74,
+    "close": 301.27,
+    "high": 330.54,
+    "low": 279.4,
+    "volume": 510792646,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "META",
+    "open": 301.85,
+    "close": 327.15,
+    "high": 342.92,
+    "low": 301.85,
+    "volume": 328544829,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "META",
+    "open": 325.48,
+    "close": 353.96,
+    "high": 361.9,
+    "low": 313.66,
+    "volume": 334547255,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "META",
+    "open": 351.32,
+    "close": 390.14,
+    "high": 406.36,
+    "low": 340.01,
+    "volume": 345773381,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "META",
+    "open": 393.94,
+    "close": 490.13,
+    "high": 494.36,
+    "low": 393.05,
+    "volume": 464696302,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "META",
+    "open": 492.11,
+    "close": 485.58,
+    "high": 523.57,
+    "low": 476,
+    "volume": 279016141,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "META",
+    "open": 487.2,
+    "close": 430.17,
+    "high": 531.49,
+    "low": 414.5,
+    "volume": 432655210,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "META",
+    "open": 428.6,
+    "close": 466.83,
+    "high": 482.5,
+    "low": 427.11,
+    "volume": 276830970,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "META",
+    "open": 470.86,
+    "close": 504.22,
+    "high": 522.88,
+    "low": 468.24,
+    "volume": 215153059,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "META",
+    "open": 504.95,
+    "close": 474.83,
+    "high": 542.81,
+    "low": 442.65,
+    "volume": 318185215,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "META",
+    "open": 521,
+    "close": 521.31,
+    "high": 544.23,
+    "low": 450.8,
+    "volume": 315729382,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "META",
+    "open": 519.64,
+    "close": 572.44,
+    "high": 577.4,
+    "low": 495.6,
+    "volume": 236027402,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "META",
+    "open": 577.98,
+    "close": 567.58,
+    "high": 602.95,
+    "low": 561.52,
+    "volume": 258218983,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "META",
+    "open": 567.61,
+    "close": 574.32,
+    "high": 599.66,
+    "low": 549.05,
+    "volume": 229702713,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "META",
+    "open": 577.5,
+    "close": 585.51,
+    "high": 638.4,
+    "low": 575.57,
+    "volume": 250197494,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

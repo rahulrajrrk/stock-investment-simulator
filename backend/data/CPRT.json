@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "CPRT",
+    "open": 0.64,
+    "close": 0.68,
+    "high": 0.7,
+    "low": 0.64,
+    "volume": 111260864,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 0.68,
+    "close": 0.78,
+    "high": 0.83,
+    "low": 0.67,
+    "volume": 199138048,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 0.78,
+    "close": 0.75,
+    "high": 0.81,
+    "low": 0.74,
+    "volume": 105417216,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 0.76,
+    "close": 1.04,
+    "high": 1.06,
+    "low": 0.71,
+    "volume": 282985120,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.04,
+    "close": 1.05,
+    "high": 1.16,
+    "low": 1.01,
+    "volume": 182014640,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.06,
+    "close": 1.23,
+    "high": 1.23,
+    "low": 0.93,
+    "volume": 166995120,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.23,
+    "close": 1.36,
+    "high": 1.38,
+    "low": 1.18,
+    "volume": 249155248,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.41,
+    "close": 1.18,
+    "high": 1.41,
+    "low": 1.18,
+    "volume": 178718080,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.18,
+    "close": 1.54,
+    "high": 1.65,
+    "low": 1.06,
+    "volume": 307671728,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.55,
+    "close": 1.67,
+    "high": 2.07,
+    "low": 1.46,
+    "volume": 390054864,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.75,
+    "close": 1.39,
+    "high": 1.76,
+    "low": 1.32,
+    "volume": 244347696,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.4,
+    "close": 1.36,
+    "high": 1.46,
+    "low": 1.25,
+    "volume": 184693648,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.36,
+    "close": 1.18,
+    "high": 1.42,
+    "low": 1.11,
+    "volume": 325950736,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.19,
+    "close": 1.16,
+    "high": 1.22,
+    "low": 1.13,
+    "volume": 216846736,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.15,
+    "close": 1.35,
+    "high": 1.45,
+    "low": 1.15,
+    "volume": 179254096,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.48,
+    "close": 1.65,
+    "high": 1.71,
+    "low": 1.46,
+    "volume": 213365408,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.69,
+    "close": 1.44,
+    "high": 1.69,
+    "low": 1.38,
+    "volume": 118519136,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.43,
+    "close": 1.46,
+    "high": 1.51,
+    "low": 1.39,
+    "volume": 101498928,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.47,
+    "close": 1.47,
+    "high": 1.62,
+    "low": 1.44,
+    "volume": 147603744,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.47,
+    "close": 1.35,
+    "high": 1.51,
+    "low": 1.31,
+    "volume": 102828768,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.35,
+    "close": 1.55,
+    "high": 1.62,
+    "low": 1.35,
+    "volume": 137458224,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.56,
+    "close": 1.49,
+    "high": 1.64,
+    "low": 1.48,
+    "volume": 163942160,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.49,
+    "close": 1.53,
+    "high": 1.59,
+    "low": 1.47,
+    "volume": 81649632,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.52,
+    "close": 1.54,
+    "high": 1.59,
+    "low": 1.38,
+    "volume": 143289424,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.53,
+    "close": 1.49,
+    "high": 1.55,
+    "low": 1.38,
+    "volume": 148736096,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.5,
+    "close": 1.46,
+    "high": 1.52,
+    "low": 1.39,
+    "volume": 148469984,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.45,
+    "close": 1.57,
+    "high": 1.61,
+    "low": 1.41,
+    "volume": 177072272,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.58,
+    "close": 1.44,
+    "high": 1.61,
+    "low": 1.32,
+    "volume": 238279008,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.44,
+    "close": 1.57,
+    "high": 1.58,
+    "low": 1.42,
+    "volume": 145645344,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.57,
+    "close": 1.61,
+    "high": 1.7,
+    "low": 1.54,
+    "volume": 125215424,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.61,
+    "close": 1.72,
+    "high": 1.74,
+    "low": 1.57,
+    "volume": 135664928,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.72,
+    "close": 1.68,
+    "high": 1.73,
+    "low": 1.62,
+    "volume": 87627104,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.69,
+    "close": 1.72,
+    "high": 1.75,
+    "low": 1.53,
+    "volume": 116793536,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.64,
+    "close": 1.53,
+    "high": 1.69,
+    "low": 1.47,
+    "volume": 148170144,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.54,
+    "close": 1.67,
+    "high": 1.71,
+    "low": 1.5,
+    "volume": 126561344,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.66,
+    "close": 1.75,
+    "high": 1.76,
+    "low": 1.64,
+    "volume": 99024960,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.75,
+    "close": 1.76,
+    "high": 1.84,
+    "low": 1.7,
+    "volume": 107776016,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.75,
+    "close": 1.81,
+    "high": 1.9,
+    "low": 1.71,
+    "volume": 255911872,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.82,
+    "close": 1.89,
+    "high": 1.9,
+    "low": 1.78,
+    "volume": 100967120,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.89,
+    "close": 1.88,
+    "high": 1.93,
+    "low": 1.79,
+    "volume": 111839856,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.88,
+    "close": 1.84,
+    "high": 1.96,
+    "low": 1.81,
+    "volume": 101364240,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.84,
+    "close": 1.84,
+    "high": 1.9,
+    "low": 1.81,
+    "volume": 92042512,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.83,
+    "close": 1.75,
+    "high": 1.86,
+    "low": 1.71,
+    "volume": 231205728,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.75,
+    "close": 1.81,
+    "high": 1.84,
+    "low": 1.71,
+    "volume": 170113200,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.81,
+    "close": 1.95,
+    "high": 1.96,
+    "low": 1.8,
+    "volume": 95727408,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.95,
+    "close": 1.91,
+    "high": 1.96,
+    "low": 1.78,
+    "volume": 229817040,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.91,
+    "close": 1.76,
+    "high": 1.96,
+    "low": 1.76,
+    "volume": 115676240,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.75,
+    "close": 1.83,
+    "high": 1.92,
+    "low": 1.74,
+    "volume": 128347296,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.83,
+    "close": 2.15,
+    "high": 2.17,
+    "low": 1.79,
+    "volume": 99632384,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.15,
+    "close": 2.4,
+    "high": 2.41,
+    "low": 2.1,
+    "volume": 223119872,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.39,
+    "close": 2.33,
+    "high": 2.4,
+    "low": 2.09,
+    "volume": 129837984,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.36,
+    "close": 2.66,
+    "high": 2.7,
+    "low": 2.3,
+    "volume": 177235568,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.65,
+    "close": 2.56,
+    "high": 2.68,
+    "low": 2.36,
+    "volume": 230454272,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.56,
+    "close": 2.6,
+    "high": 2.67,
+    "low": 2.38,
+    "volume": 163968944,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.61,
+    "close": 2.42,
+    "high": 2.68,
+    "low": 2.11,
+    "volume": 404823216,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.44,
+    "close": 2.55,
+    "high": 2.61,
+    "low": 2.41,
+    "volume": 150057296,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.55,
+    "close": 2.81,
+    "high": 2.85,
+    "low": 2.53,
+    "volume": 161791792,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.81,
+    "close": 2.68,
+    "high": 3.08,
+    "low": 2.67,
+    "volume": 333747776,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.64,
+    "close": 2.74,
+    "high": 2.82,
+    "low": 2.47,
+    "volume": 282933792,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.77,
+    "close": 2.75,
+    "high": 2.87,
+    "low": 2.68,
+    "volume": 119585984,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.77,
+    "close": 2.38,
+    "high": 2.94,
+    "low": 2.32,
+    "volume": 251582592,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.34,
+    "close": 2.18,
+    "high": 2.46,
+    "low": 1.89,
+    "volume": 424646928,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.18,
+    "close": 1.67,
+    "high": 2.29,
+    "low": 1.47,
+    "volume": 329722960,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.6,
+    "close": 1.7,
+    "high": 1.76,
+    "low": 1.41,
+    "volume": 443098096,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.7,
+    "close": 1.51,
+    "high": 1.77,
+    "low": 1.5,
+    "volume": 213682208,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.49,
+    "close": 1.69,
+    "high": 1.75,
+    "low": 1.47,
+    "volume": 281915728,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.64,
+    "close": 1.85,
+    "high": 2.0,
+    "low": 1.55,
+    "volume": 459107520,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.84,
+    "close": 1.96,
+    "high": 2.05,
+    "low": 1.79,
+    "volume": 167428768,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.95,
+    "close": 1.92,
+    "high": 2.0,
+    "low": 1.81,
+    "volume": 192107264,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 1.94,
+    "close": 2.17,
+    "high": 2.25,
+    "low": 1.93,
+    "volume": 204471568,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.18,
+    "close": 2.21,
+    "high": 2.22,
+    "low": 1.96,
+    "volume": 176862192,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.21,
+    "close": 2.21,
+    "high": 2.31,
+    "low": 2.18,
+    "volume": 105824480,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.22,
+    "close": 2.08,
+    "high": 2.4,
+    "low": 2.0,
+    "volume": 305570592,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.08,
+    "close": 2.01,
+    "high": 2.13,
+    "low": 2.0,
+    "volume": 138129520,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.01,
+    "close": 2.03,
+    "high": 2.13,
+    "low": 1.98,
+    "volume": 98727920,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.04,
+    "close": 2.29,
+    "high": 2.32,
+    "low": 2.04,
+    "volume": 130015136,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.3,
+    "close": 2.11,
+    "high": 2.31,
+    "low": 2.11,
+    "volume": 68126400,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.11,
+    "close": 2.23,
+    "high": 2.29,
+    "low": 2.05,
+    "volume": 89933600,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.23,
+    "close": 2.23,
+    "high": 2.31,
+    "low": 2.15,
+    "volume": 124627840,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.23,
+    "close": 2.23,
+    "high": 2.26,
+    "low": 2.13,
+    "volume": 110729504,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.24,
+    "close": 2.24,
+    "high": 2.36,
+    "low": 2.12,
+    "volume": 138743408,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.23,
+    "close": 2.24,
+    "high": 2.36,
+    "low": 2.19,
+    "volume": 122555088,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.23,
+    "close": 2.28,
+    "high": 2.34,
+    "low": 2.15,
+    "volume": 82069360,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.29,
+    "close": 2.07,
+    "high": 2.29,
+    "low": 2.03,
+    "volume": 87328272,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.09,
+    "close": 2.06,
+    "high": 2.3,
+    "low": 1.96,
+    "volume": 204437616,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.07,
+    "close": 2.12,
+    "high": 2.16,
+    "low": 2.03,
+    "volume": 193206624,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.12,
+    "close": 2.22,
+    "high": 2.26,
+    "low": 2.11,
+    "volume": 118806272,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.24,
+    "close": 2.33,
+    "high": 2.35,
+    "low": 2.06,
+    "volume": 293366752,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.35,
+    "close": 2.45,
+    "high": 2.55,
+    "low": 2.33,
+    "volume": 579454304,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.47,
+    "close": 2.63,
+    "high": 2.63,
+    "low": 2.47,
+    "volume": 139927856,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.62,
+    "close": 2.71,
+    "high": 2.72,
+    "low": 2.5,
+    "volume": 135612544,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.71,
+    "close": 2.84,
+    "high": 2.85,
+    "low": 2.69,
+    "volume": 110488816,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.84,
+    "close": 2.94,
+    "high": 2.94,
+    "low": 2.8,
+    "volume": 99840240,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.94,
+    "close": 2.91,
+    "high": 2.95,
+    "low": 2.69,
+    "volume": 201243600,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.92,
+    "close": 2.72,
+    "high": 3.0,
+    "low": 2.69,
+    "volume": 94206064,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.74,
+    "close": 2.69,
+    "high": 2.75,
+    "low": 2.32,
+    "volume": 134149744,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.69,
+    "close": 2.44,
+    "high": 2.72,
+    "low": 2.23,
+    "volume": 155479216,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.42,
+    "close": 2.72,
+    "high": 2.82,
+    "low": 2.33,
+    "volume": 124674688,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.65,
+    "close": 2.81,
+    "high": 2.82,
+    "low": 2.6,
+    "volume": 96220256,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.81,
+    "close": 2.99,
+    "high": 3.01,
+    "low": 2.79,
+    "volume": 96683808,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 3.03,
+    "close": 2.94,
+    "high": 3.07,
+    "low": 2.84,
+    "volume": 70490688,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.96,
+    "close": 3.11,
+    "high": 3.2,
+    "low": 2.82,
+    "volume": 90037872,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 3.14,
+    "close": 3.26,
+    "high": 3.35,
+    "low": 3.1,
+    "volume": 85974352,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 3.26,
+    "close": 3.3,
+    "high": 3.34,
+    "low": 3.08,
+    "volume": 78911632,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 3.29,
+    "close": 3.39,
+    "high": 3.48,
+    "low": 3.2,
+    "volume": 111706112,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 3.33,
+    "close": 2.96,
+    "high": 3.33,
+    "low": 2.82,
+    "volume": 139229992,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.97,
+    "close": 2.97,
+    "high": 3.19,
+    "low": 2.93,
+    "volume": 70433280,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 2.98,
+    "close": 3.34,
+    "high": 3.35,
+    "low": 2.91,
+    "volume": 81980528,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 3.33,
+    "close": 3.47,
+    "high": 3.62,
+    "low": 3.22,
+    "volume": 132279864,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 3.46,
+    "close": 3.6,
+    "high": 3.61,
+    "low": 3.29,
+    "volume": 102274352,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 3.61,
+    "close": 3.77,
+    "high": 3.84,
+    "low": 3.55,
+    "volume": 121113448,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 3.78,
+    "close": 3.69,
+    "high": 3.83,
+    "low": 3.58,
+    "volume": 75142000,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 3.75,
+    "close": 4.49,
+    "high": 4.68,
+    "low": 3.73,
+    "volume": 135665104,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.48,
+    "close": 4.27,
+    "high": 4.62,
+    "low": 4.19,
+    "volume": 177405536,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.25,
+    "close": 4.28,
+    "high": 4.37,
+    "low": 3.91,
+    "volume": 190166696,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.28,
+    "close": 4.41,
+    "high": 4.41,
+    "low": 4,
+    "volume": 119664456,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.38,
+    "close": 4.3,
+    "high": 4.78,
+    "low": 4.29,
+    "volume": 174702944,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.32,
+    "close": 3.85,
+    "high": 4.49,
+    "low": 3.76,
+    "volume": 200077704,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 3.86,
+    "close": 4.06,
+    "high": 4.12,
+    "low": 3.86,
+    "volume": 88119568,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.1,
+    "close": 3.97,
+    "high": 4.2,
+    "low": 3.96,
+    "volume": 58904992,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.01,
+    "close": 3.97,
+    "high": 4.34,
+    "low": 3.8,
+    "volume": 203766368,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 3.98,
+    "close": 4.03,
+    "high": 4.19,
+    "low": 3.96,
+    "volume": 158912824,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.04,
+    "close": 4.3,
+    "high": 4.34,
+    "low": 3.88,
+    "volume": 173654840,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.41,
+    "close": 4.58,
+    "high": 4.6,
+    "low": 4.3,
+    "volume": 106116208,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.58,
+    "close": 4.29,
+    "high": 4.62,
+    "low": 4.2,
+    "volume": 84669968,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.26,
+    "close": 4.55,
+    "high": 4.62,
+    "low": 4.07,
+    "volume": 133012704,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.53,
+    "close": 4.55,
+    "high": 4.64,
+    "low": 4.39,
+    "volume": 81314936,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.56,
+    "close": 4.53,
+    "high": 4.69,
+    "low": 4.38,
+    "volume": 77542264,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.56,
+    "close": 4.45,
+    "high": 4.64,
+    "low": 4.32,
+    "volume": 67765000,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.45,
+    "close": 4.5,
+    "high": 4.61,
+    "low": 4.36,
+    "volume": 87436976,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.49,
+    "close": 4.17,
+    "high": 4.58,
+    "low": 4.17,
+    "volume": 67877008,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.17,
+    "close": 4.3,
+    "high": 4.35,
+    "low": 4.12,
+    "volume": 69852208,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.32,
+    "close": 3.91,
+    "high": 4.37,
+    "low": 3.87,
+    "volume": 134583368,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 3.9,
+    "close": 4.18,
+    "high": 4.22,
+    "low": 3.74,
+    "volume": 157974320,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.19,
+    "close": 4.54,
+    "high": 4.73,
+    "low": 4.14,
+    "volume": 59962032,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.51,
+    "close": 4.56,
+    "high": 4.72,
+    "low": 4.44,
+    "volume": 81544952,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.51,
+    "close": 4.58,
+    "high": 4.66,
+    "low": 4.32,
+    "volume": 78214736,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.6,
+    "close": 4.68,
+    "high": 4.81,
+    "low": 4.51,
+    "volume": 65662776,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.67,
+    "close": 4.7,
+    "high": 4.78,
+    "low": 4.52,
+    "volume": 62441880,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.7,
+    "close": 4.45,
+    "high": 4.79,
+    "low": 4.43,
+    "volume": 45682400,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.48,
+    "close": 4.33,
+    "high": 4.54,
+    "low": 4.17,
+    "volume": 78441456,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.33,
+    "close": 4.43,
+    "high": 4.53,
+    "low": 4.26,
+    "volume": 97846704,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.49,
+    "close": 4.5,
+    "high": 4.6,
+    "low": 4.38,
+    "volume": 78165696,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.52,
+    "close": 4.38,
+    "high": 4.59,
+    "low": 4.11,
+    "volume": 52851792,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.31,
+    "close": 4.11,
+    "high": 4.46,
+    "low": 4.11,
+    "volume": 90245320,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.11,
+    "close": 4.53,
+    "high": 4.55,
+    "low": 4.08,
+    "volume": 88699632,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.54,
+    "close": 4.93,
+    "high": 4.98,
+    "low": 4.43,
+    "volume": 138570272,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.96,
+    "close": 4.75,
+    "high": 4.96,
+    "low": 4.66,
+    "volume": 262045856,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.7,
+    "close": 4.19,
+    "high": 4.77,
+    "low": 4.03,
+    "volume": 161618224,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.16,
+    "close": 4.72,
+    "high": 4.83,
+    "low": 4.09,
+    "volume": 139434504,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 4.75,
+    "close": 5.1,
+    "high": 5.22,
+    "low": 4.72,
+    "volume": 147243616,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 5.08,
+    "close": 5.36,
+    "high": 5.43,
+    "low": 5.0,
+    "volume": 80287504,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 5.36,
+    "close": 6.19,
+    "high": 6.24,
+    "low": 5.28,
+    "volume": 120848392,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 6.22,
+    "close": 6.13,
+    "high": 6.26,
+    "low": 5.75,
+    "volume": 139092376,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 6.13,
+    "close": 6.3,
+    "high": 6.41,
+    "low": 6.07,
+    "volume": 75710776,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 6.33,
+    "close": 6.38,
+    "high": 6.71,
+    "low": 6.24,
+    "volume": 79721256,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 6.4,
+    "close": 6.7,
+    "high": 6.86,
+    "low": 6.18,
+    "volume": 135412392,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 6.72,
+    "close": 6.56,
+    "high": 6.82,
+    "low": 6.43,
+    "volume": 111073944,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 6.58,
+    "close": 6.84,
+    "high": 7.12,
+    "low": 6.34,
+    "volume": 117700728,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 6.87,
+    "close": 6.93,
+    "high": 7.12,
+    "low": 6.76,
+    "volume": 87523184,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 6.95,
+    "close": 7.09,
+    "high": 7.25,
+    "low": 6.91,
+    "volume": 78433072,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 7.13,
+    "close": 7.39,
+    "high": 7.57,
+    "low": 6.93,
+    "volume": 88702760,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 7.46,
+    "close": 7.74,
+    "high": 7.89,
+    "low": 7.4,
+    "volume": 88415112,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 7.76,
+    "close": 7.72,
+    "high": 7.85,
+    "low": 7.4,
+    "volume": 66255392,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 7.75,
+    "close": 7.8,
+    "high": 7.92,
+    "low": 7.22,
+    "volume": 97753540,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 7.84,
+    "close": 7.95,
+    "high": 8,
+    "low": 7.71,
+    "volume": 105756532,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 7.97,
+    "close": 7.87,
+    "high": 8.04,
+    "low": 7.58,
+    "volume": 86060996,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 7.9,
+    "close": 8.17,
+    "high": 8.2,
+    "low": 7.62,
+    "volume": 102241944,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 8.21,
+    "close": 8.59,
+    "high": 8.71,
+    "low": 7.95,
+    "volume": 106688652,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 8.62,
+    "close": 9.07,
+    "high": 9.16,
+    "low": 8.6,
+    "volume": 85594240,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 9.1,
+    "close": 10.79,
+    "high": 10.8,
+    "low": 8.83,
+    "volume": 107738592,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 10.78,
+    "close": 10.8,
+    "high": 11.19,
+    "low": 10.42,
+    "volume": 95686492,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 10.88,
+    "close": 11.02,
+    "high": 11.52,
+    "low": 10.76,
+    "volume": 81167140,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 11.0,
+    "close": 11.7,
+    "high": 12.68,
+    "low": 9.8,
+    "volume": 133212744,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 11.71,
+    "close": 12.73,
+    "high": 12.94,
+    "low": 11.36,
+    "volume": 122527124,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 12.73,
+    "close": 12.77,
+    "high": 13.18,
+    "low": 12.28,
+    "volume": 101371024,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 12.77,
+    "close": 13.71,
+    "high": 14.2,
+    "low": 12.72,
+    "volume": 203661604,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 13.79,
+    "close": 14.14,
+    "high": 15.11,
+    "low": 13.66,
+    "volume": 383392120,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 14.14,
+    "close": 14.35,
+    "high": 14.91,
+    "low": 13.93,
+    "volume": 133063964,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 13.99,
+    "close": 16.08,
+    "high": 16.2,
+    "low": 13.97,
+    "volume": 92819212,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 16.18,
+    "close": 12.88,
+    "high": 16.77,
+    "low": 12.52,
+    "volume": 245538352,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 12.87,
+    "close": 12.23,
+    "high": 13.3,
+    "low": 11.57,
+    "volume": 246681396,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 12.28,
+    "close": 12.79,
+    "high": 13.05,
+    "low": 11.71,
+    "volume": 144563128,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 12.98,
+    "close": 11.95,
+    "high": 13.04,
+    "low": 11.15,
+    "volume": 161266352,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 11.72,
+    "close": 12.66,
+    "high": 12.71,
+    "low": 11.66,
+    "volume": 103358204,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 12.63,
+    "close": 14.67,
+    "high": 14.95,
+    "low": 12.53,
+    "volume": 112367672,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 14.72,
+    "close": 15.15,
+    "high": 15.16,
+    "low": 14.38,
+    "volume": 105007416,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 15.24,
+    "close": 16.83,
+    "high": 16.89,
+    "low": 15.24,
+    "volume": 109572188,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 16.82,
+    "close": 17.87,
+    "high": 18.15,
+    "low": 16.18,
+    "volume": 123316880,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 17.88,
+    "close": 18.68,
+    "high": 18.88,
+    "low": 17.73,
+    "volume": 115049636,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 18.88,
+    "close": 19.38,
+    "high": 19.93,
+    "low": 18.39,
+    "volume": 86839952,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 19.32,
+    "close": 18.85,
+    "high": 19.62,
+    "low": 18.22,
+    "volume": 105764320,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 18.8,
+    "close": 20.08,
+    "high": 20.93,
+    "low": 18.41,
+    "volume": 130009488,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 20.08,
+    "close": 20.66,
+    "high": 21.33,
+    "low": 19.09,
+    "volume": 140014244,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 20.82,
+    "close": 22.25,
+    "high": 23.1,
+    "low": 20.18,
+    "volume": 150221656,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 22.17,
+    "close": 22.73,
+    "high": 22.9,
+    "low": 21.65,
+    "volume": 163928672,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 22.85,
+    "close": 25.36,
+    "high": 26.0,
+    "low": 22.78,
+    "volume": 114953676,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 25.55,
+    "close": 21.12,
+    "high": 26.22,
+    "low": 19.98,
+    "volume": 167674388,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 21.03,
+    "close": 17.13,
+    "high": 22.04,
+    "low": 13.92,
+    "volume": 270564704,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 16.23,
+    "close": 20.03,
+    "high": 20.96,
+    "low": 15.38,
+    "volume": 213932496,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 19.64,
+    "close": 22.35,
+    "high": 22.69,
+    "low": 19.07,
+    "volume": 148954476,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 22.34,
+    "close": 20.82,
+    "high": 23.16,
+    "low": 19.64,
+    "volume": 153248916,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 20.87,
+    "close": 23.31,
+    "high": 23.34,
+    "low": 20.21,
+    "volume": 117714824,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 23.36,
+    "close": 25.83,
+    "high": 26.07,
+    "low": 23.28,
+    "volume": 99988928,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 25.83,
+    "close": 26.29,
+    "high": 27.5,
+    "low": 25.02,
+    "volume": 129930528,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 26.55,
+    "close": 27.59,
+    "high": 29.64,
+    "low": 26.41,
+    "volume": 91395264,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 27.98,
+    "close": 28.86,
+    "high": 32.74,
+    "low": 27.54,
+    "volume": 115801684,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 29,
+    "close": 31.81,
+    "high": 32.03,
+    "low": 27.98,
+    "volume": 105132080,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 31.96,
+    "close": 27.44,
+    "high": 32.08,
+    "low": 26.67,
+    "volume": 95800168,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 27.53,
+    "close": 27.29,
+    "high": 30.49,
+    "low": 26.57,
+    "volume": 92431136,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 27.52,
+    "close": 27.15,
+    "high": 28.08,
+    "low": 25.48,
+    "volume": 113046828,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 27.43,
+    "close": 31.13,
+    "high": 31.54,
+    "low": 27.21,
+    "volume": 87383468,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 31.34,
+    "close": 32.25,
+    "high": 32.52,
+    "low": 29.4,
+    "volume": 80472908,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 32.36,
+    "close": 32.96,
+    "high": 33.67,
+    "low": 30.39,
+    "volume": 78465412,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 33.01,
+    "close": 36.75,
+    "high": 36.99,
+    "low": 32.98,
+    "volume": 73009612,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 36.79,
+    "close": 36.08,
+    "high": 37.27,
+    "low": 34.06,
+    "volume": 78485960,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 36.15,
+    "close": 34.68,
+    "high": 38.19,
+    "low": 34.3,
+    "volume": 94346008,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 34.88,
+    "close": 38.82,
+    "high": 38.87,
+    "low": 33.71,
+    "volume": 57021280,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 38.97,
+    "close": 36.29,
+    "high": 40.28,
+    "low": 36.08,
+    "volume": 73920900,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 36.92,
+    "close": 37.91,
+    "high": 38.14,
+    "low": 34.72,
+    "volume": 71154024,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 37.92,
+    "close": 32.31,
+    "high": 38.05,
+    "low": 30.14,
+    "volume": 91994596,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 32.31,
+    "close": 30.72,
+    "high": 33.07,
+    "low": 28.89,
+    "volume": 104054136,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 30.69,
+    "close": 31.37,
+    "high": 32.73,
+    "low": 26.59,
+    "volume": 138452460,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 31.56,
+    "close": 28.41,
+    "high": 32.11,
+    "low": 28.11,
+    "volume": 85916580,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 28.45,
+    "close": 28.63,
+    "high": 29.79,
+    "low": 26.35,
+    "volume": 111400880,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 28.78,
+    "close": 27.16,
+    "high": 29.34,
+    "low": 25.55,
+    "volume": 96975496,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 27.14,
+    "close": 32.02,
+    "high": 32.12,
+    "low": 27.07,
+    "volume": 81229128,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 31.8,
+    "close": 29.91,
+    "high": 33.16,
+    "low": 29.75,
+    "volume": 77023540,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 29.72,
+    "close": 26.6,
+    "high": 29.95,
+    "low": 26.14,
+    "volume": 116919476,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 26.93,
+    "close": 28.75,
+    "high": 29.12,
+    "low": 26.45,
+    "volume": 86683380,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 28.99,
+    "close": 33.28,
+    "high": 33.38,
+    "low": 27.68,
+    "volume": 96971180,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 33.47,
+    "close": 30.45,
+    "high": 33.9,
+    "low": 29.61,
+    "volume": 82649638,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 30.7,
+    "close": 33.3,
+    "high": 33.8,
+    "low": 30.25,
+    "volume": 67973018,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 33.24,
+    "close": 35.23,
+    "high": 35.69,
+    "low": 33.03,
+    "volume": 72470666,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 35.18,
+    "close": 37.6,
+    "high": 37.7,
+    "low": 33.62,
+    "volume": 99612658,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 37.36,
+    "close": 39.52,
+    "high": 39.55,
+    "low": 36.78,
+    "volume": 80054010,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 39.11,
+    "close": 43.8,
+    "high": 44.9,
+    "low": 38.83,
+    "volume": 99179550,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 43.96,
+    "close": 45.6,
+    "high": 45.79,
+    "low": 42.65,
+    "volume": 94874948,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "CPRT",
+    "open": 45.53,
+    "close": 45.57,
+    "high": 47.38,
+    "low": 43.87,
+    "volume": 64189230,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "KLAC",
+    "open": 57.43,
+    "close": 51.6,
+    "high": 57.92,
+    "low": 51.4,
+    "volume": 135879150,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 52.05,
+    "close": 57.27,
+    "high": 60.8,
+    "low": 51.57,
+    "volume": 200030522,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 57.74,
+    "close": 58.53,
+    "high": 61.25,
+    "low": 54.45,
+    "volume": 130252226,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 59,
+    "close": 58.54,
+    "high": 60.13,
+    "low": 52.74,
+    "volume": 159554896,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 58.8,
+    "close": 57.02,
+    "high": 62.82,
+    "low": 55.58,
+    "volume": 169670005,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 57.14,
+    "close": 52.71,
+    "high": 57.89,
+    "low": 52.4,
+    "volume": 131714808,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 52.83,
+    "close": 50.28,
+    "high": 54.75,
+    "low": 48.86,
+    "volume": 189541974,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 50.46,
+    "close": 41.7,
+    "high": 53.97,
+    "low": 41.09,
+    "volume": 178627143,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 41.6,
+    "close": 48.18,
+    "high": 48.4,
+    "low": 40.88,
+    "volume": 161551879,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 47.82,
+    "close": 49.38,
+    "high": 49.75,
+    "low": 44.1,
+    "volume": 113537031,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 49.16,
+    "close": 41.23,
+    "high": 49.2,
+    "low": 37.19,
+    "volume": 183678812,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 41,
+    "close": 37.36,
+    "high": 41.16,
+    "low": 35.02,
+    "volume": 124129784,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 37.14,
+    "close": 41.48,
+    "high": 41.95,
+    "low": 36.25,
+    "volume": 142636017,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 42.42,
+    "close": 45.53,
+    "high": 45.99,
+    "low": 39.43,
+    "volume": 165368614,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 45.35,
+    "close": 45.06,
+    "high": 47.55,
+    "low": 43.23,
+    "volume": 111656331,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 45.46,
+    "close": 46.58,
+    "high": 49.86,
+    "low": 44.76,
+    "volume": 93233228,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 46.76,
+    "close": 46.25,
+    "high": 47,
+    "low": 41.7,
+    "volume": 121026665,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 46.21,
+    "close": 49.41,
+    "high": 51.56,
+    "low": 45.84,
+    "volume": 118020500,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 49.66,
+    "close": 46.01,
+    "high": 50.56,
+    "low": 44.53,
+    "volume": 129822925,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 46.34,
+    "close": 38.95,
+    "high": 46.83,
+    "low": 37.39,
+    "volume": 134169529,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 39.19,
+    "close": 45.41,
+    "high": 46.19,
+    "low": 38.59,
+    "volume": 110814118,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 45.35,
+    "close": 43.68,
+    "high": 47.61,
+    "low": 43.63,
+    "volume": 104926428,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 43.69,
+    "close": 51.7,
+    "high": 52.08,
+    "low": 43.4,
+    "volume": 116804129,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 51.5,
+    "close": 50.71,
+    "high": 51.95,
+    "low": 47.57,
+    "volume": 87096176,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 50.4,
+    "close": 48.76,
+    "high": 50.99,
+    "low": 46.88,
+    "volume": 72899732,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 48.83,
+    "close": 46.3,
+    "high": 49.87,
+    "low": 44.03,
+    "volume": 93357780,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 46.26,
+    "close": 51.19,
+    "high": 53.02,
+    "low": 45.75,
+    "volume": 85826250,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 51.73,
+    "close": 49.33,
+    "high": 55,
+    "low": 49.03,
+    "volume": 65891395,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 49.33,
+    "close": 51.98,
+    "high": 55.03,
+    "low": 48.62,
+    "volume": 95616137,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 51.9,
+    "close": 52.23,
+    "high": 54.63,
+    "low": 50.26,
+    "volume": 82905922,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 52.3,
+    "close": 48.36,
+    "high": 54.43,
+    "low": 47.77,
+    "volume": 84993392,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 48.62,
+    "close": 48.16,
+    "high": 49.96,
+    "low": 45.61,
+    "volume": 85202257,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 48.06,
+    "close": 41.04,
+    "high": 51.49,
+    "low": 38.67,
+    "volume": 127049189,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 40.88,
+    "close": 41.57,
+    "high": 42.58,
+    "low": 39.06,
+    "volume": 88216632,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 41.54,
+    "close": 42.19,
+    "high": 42.94,
+    "low": 38.38,
+    "volume": 100942313,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 41.88,
+    "close": 43.91,
+    "high": 45.8,
+    "low": 40.28,
+    "volume": 91461149,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 44.18,
+    "close": 44.47,
+    "high": 46.87,
+    "low": 42.45,
+    "volume": 75860957,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 44.61,
+    "close": 49.17,
+    "high": 50.47,
+    "low": 43.37,
+    "volume": 94856511,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 49.34,
+    "close": 51.67,
+    "high": 52.77,
+    "low": 46.78,
+    "volume": 73209090,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 51.58,
+    "close": 49.75,
+    "high": 52.4,
+    "low": 49.26,
+    "volume": 63567242,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 50,
+    "close": 49.25,
+    "high": 52.84,
+    "low": 46.85,
+    "volume": 95174679,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 49.02,
+    "close": 51.74,
+    "high": 54.66,
+    "low": 48.3,
+    "volume": 96741613,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 50.75,
+    "close": 53.32,
+    "high": 54.88,
+    "low": 49.51,
+    "volume": 105336245,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 53.4,
+    "close": 55.55,
+    "high": 56.55,
+    "low": 52.73,
+    "volume": 96266369,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 55.52,
+    "close": 54.98,
+    "high": 57.06,
+    "low": 53.25,
+    "volume": 100926940,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 55.06,
+    "close": 54.95,
+    "high": 56.82,
+    "low": 52.91,
+    "volume": 89270939,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 55,
+    "close": 56.79,
+    "high": 62.67,
+    "low": 54.81,
+    "volume": 104606565,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 56.85,
+    "close": 57.47,
+    "high": 61.38,
+    "low": 55,
+    "volume": 96157570,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 57.18,
+    "close": 55.78,
+    "high": 58.97,
+    "low": 54.79,
+    "volume": 65538441,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 55.98,
+    "close": 52.65,
+    "high": 58.14,
+    "low": 50.95,
+    "volume": 101060614,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 52.6,
+    "close": 48.08,
+    "high": 52.65,
+    "low": 46.59,
+    "volume": 78343210,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 47.81,
+    "close": 48.16,
+    "high": 51.85,
+    "low": 47.51,
+    "volume": 51743062,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 47.91,
+    "close": 41.78,
+    "high": 48.35,
+    "low": 40.1,
+    "volume": 108715238,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 42.39,
+    "close": 42.01,
+    "high": 45.11,
+    "low": 39.86,
+    "volume": 90209883,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 41.72,
+    "close": 37.1,
+    "high": 42.5,
+    "low": 35.02,
+    "volume": 117713438,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 37.64,
+    "close": 43.68,
+    "high": 46.24,
+    "low": 37.57,
+    "volume": 111763542,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 43.55,
+    "close": 46.12,
+    "high": 47.07,
+    "low": 43.25,
+    "volume": 68227029,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 46.24,
+    "close": 40.71,
+    "high": 46.62,
+    "low": 38.9,
+    "volume": 88938947,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 40.6,
+    "close": 37.59,
+    "high": 42.03,
+    "low": 36.15,
+    "volume": 102552016,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 37.39,
+    "close": 37.06,
+    "high": 40.81,
+    "low": 35.77,
+    "volume": 85263509,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 37.61,
+    "close": 31.65,
+    "high": 38.09,
+    "low": 30.82,
+    "volume": 113259217,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 31.38,
+    "close": 23.25,
+    "high": 31.57,
+    "low": 17.78,
+    "volume": 147868894,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 23.01,
+    "close": 18.81,
+    "high": 24.17,
+    "low": 14.81,
+    "volume": 91778486,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 18.46,
+    "close": 21.79,
+    "high": 22.75,
+    "low": 17.16,
+    "volume": 78324757,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 21.51,
+    "close": 20.04,
+    "high": 24.36,
+    "low": 17.97,
+    "volume": 101428386,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 19.66,
+    "close": 17.25,
+    "high": 21.37,
+    "low": 16.48,
+    "volume": 102116835,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 16.94,
+    "close": 20,
+    "high": 22.16,
+    "low": 15.28,
+    "volume": 117199117,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 19.64,
+    "close": 27.74,
+    "high": 28.41,
+    "low": 19.45,
+    "volume": 120453665,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 27.75,
+    "close": 27,
+    "high": 29.16,
+    "low": 24.63,
+    "volume": 97629023,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 27.48,
+    "close": 25.25,
+    "high": 29.68,
+    "low": 23.03,
+    "volume": 122245154,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 25.36,
+    "close": 31.88,
+    "high": 32.36,
+    "low": 24.75,
+    "volume": 133333038,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 32.12,
+    "close": 31.2,
+    "high": 32.79,
+    "low": 29.43,
+    "volume": 77795506,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 31.37,
+    "close": 35.86,
+    "high": 36.36,
+    "low": 29.86,
+    "volume": 89220137,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 35.71,
+    "close": 32.51,
+    "high": 37.71,
+    "low": 32.26,
+    "volume": 95708285,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 32.58,
+    "close": 31.24,
+    "high": 34.13,
+    "low": 31.06,
+    "volume": 59617939,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 31.33,
+    "close": 36.16,
+    "high": 37.49,
+    "low": 31.33,
+    "volume": 71102831,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 36.6,
+    "close": 28.2,
+    "high": 37.41,
+    "low": 27.8,
+    "volume": 85967296,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 28.45,
+    "close": 29.13,
+    "high": 30.96,
+    "low": 27.98,
+    "volume": 83661958,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 29.39,
+    "close": 30.93,
+    "high": 31.45,
+    "low": 27.7,
+    "volume": 85103805,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 31.29,
+    "close": 34.06,
+    "high": 36.07,
+    "low": 30.69,
+    "volume": 77697426,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 34.39,
+    "close": 30.77,
+    "high": 35.5,
+    "low": 28.44,
+    "volume": 86368839,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 30.54,
+    "close": 27.88,
+    "high": 32.3,
+    "low": 27.71,
+    "volume": 105195170,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 27.79,
+    "close": 31.67,
+    "high": 32.18,
+    "low": 26.69,
+    "volume": 101414149,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 32.02,
+    "close": 28.01,
+    "high": 32.9,
+    "low": 27.75,
+    "volume": 68973855,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 28.59,
+    "close": 35.23,
+    "high": 35.7,
+    "low": 27.94,
+    "volume": 82422527,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 35.46,
+    "close": 35.72,
+    "high": 37.06,
+    "low": 33.01,
+    "volume": 75509195,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 35.77,
+    "close": 36.67,
+    "high": 38.19,
+    "low": 35.15,
+    "volume": 45060754,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 37.29,
+    "close": 38.64,
+    "high": 40.44,
+    "low": 37.27,
+    "volume": 36990506,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 38.58,
+    "close": 44.08,
+    "high": 45.99,
+    "low": 36.9,
+    "volume": 59907000,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 44.29,
+    "close": 48.82,
+    "high": 49.98,
+    "low": 44.26,
+    "volume": 45159520,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 49,
+    "close": 47.32,
+    "high": 51.83,
+    "low": 44.04,
+    "volume": 56749978,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 47.38,
+    "close": 43.9,
+    "high": 47.76,
+    "low": 41.38,
+    "volume": 54013562,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 44.06,
+    "close": 43.1,
+    "high": 46.18,
+    "low": 40.13,
+    "volume": 51871294,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 42.85,
+    "close": 40.48,
+    "high": 43.43,
+    "low": 37.85,
+    "volume": 47283793,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 40.53,
+    "close": 39.82,
+    "high": 44.6,
+    "low": 39.45,
+    "volume": 66224954,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 39.84,
+    "close": 36.68,
+    "high": 40.34,
+    "low": 33.58,
+    "volume": 86923393,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 36.84,
+    "close": 38.28,
+    "high": 40.97,
+    "low": 33.2,
+    "volume": 79389477,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 38.06,
+    "close": 47.09,
+    "high": 48,
+    "low": 36.62,
+    "volume": 79322623,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 45.49,
+    "close": 46.1,
+    "high": 48.75,
+    "low": 42.08,
+    "volume": 61299674,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 46.09,
+    "close": 48.25,
+    "high": 49.39,
+    "low": 45.06,
+    "volume": 55267641,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 48.72,
+    "close": 51.11,
+    "high": 53.05,
+    "low": 46.75,
+    "volume": 69798157,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 51.81,
+    "close": 48.39,
+    "high": 52.29,
+    "low": 47.29,
+    "volume": 50379300,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 48.53,
+    "close": 54.42,
+    "high": 55.15,
+    "low": 46.58,
+    "volume": 58023513,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 54.21,
+    "close": 52.13,
+    "high": 55.43,
+    "low": 51.24,
+    "volume": 42499182,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 52.21,
+    "close": 45.83,
+    "high": 52.85,
+    "low": 44.77,
+    "volume": 56597231,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 45.1,
+    "close": 49.25,
+    "high": 50.15,
+    "low": 44.06,
+    "volume": 45220832,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 49.07,
+    "close": 50.91,
+    "high": 51.45,
+    "low": 44.77,
+    "volume": 51180241,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 51.35,
+    "close": 51.31,
+    "high": 54.11,
+    "low": 50.37,
+    "volume": 40502921,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 51.27,
+    "close": 47.7,
+    "high": 52.99,
+    "low": 46.42,
+    "volume": 49383359,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 48,
+    "close": 46.55,
+    "high": 48.94,
+    "low": 44.7,
+    "volume": 54570807,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 46.92,
+    "close": 45.47,
+    "high": 48.9,
+    "low": 43.21,
+    "volume": 50378712,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 45.72,
+    "close": 47.76,
+    "high": 48.79,
+    "low": 45.14,
+    "volume": 29493388,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 48.81,
+    "close": 54.91,
+    "high": 57.97,
+    "low": 47.37,
+    "volume": 50893453,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 55.43,
+    "close": 54.76,
+    "high": 57.18,
+    "low": 53,
+    "volume": 39464011,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 54.36,
+    "close": 52.74,
+    "high": 55.82,
+    "low": 50.8,
+    "volume": 37449649,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 52.73,
+    "close": 54.25,
+    "high": 57,
+    "low": 50.23,
+    "volume": 49220766,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 54.23,
+    "close": 56.29,
+    "high": 56.8,
+    "low": 53.45,
+    "volume": 45228894,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 56.68,
+    "close": 55.73,
+    "high": 57.56,
+    "low": 53.38,
+    "volume": 32556337,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 56.18,
+    "close": 58.63,
+    "high": 60.94,
+    "low": 54.29,
+    "volume": 39830471,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 59.17,
+    "close": 55.15,
+    "high": 60.18,
+    "low": 54.65,
+    "volume": 25940727,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 55.8,
+    "close": 60.85,
+    "high": 62.45,
+    "low": 55.11,
+    "volume": 28837270,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 60.99,
+    "close": 65.6,
+    "high": 67.05,
+    "low": 58.83,
+    "volume": 32569425,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 65.89,
+    "close": 63.87,
+    "high": 65.9,
+    "low": 61.57,
+    "volume": 22748669,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 63.6,
+    "close": 64.46,
+    "high": 64.65,
+    "low": 60.5,
+    "volume": 22690006,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 64,
+    "close": 61.47,
+    "high": 64.3,
+    "low": 60.62,
+    "volume": 31159829,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 60.23,
+    "close": 65.15,
+    "high": 66.12,
+    "low": 59.44,
+    "volume": 24234428,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 64.46,
+    "close": 69.14,
+    "high": 70.78,
+    "low": 63.9,
+    "volume": 28623027,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 69.56,
+    "close": 63.99,
+    "high": 71.93,
+    "low": 62.17,
+    "volume": 39809447,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 63.99,
+    "close": 65.52,
+    "high": 65.88,
+    "low": 61.43,
+    "volume": 24652331,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 65.73,
+    "close": 72.64,
+    "high": 72.78,
+    "low": 65.17,
+    "volume": 26007881,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 72.73,
+    "close": 71.49,
+    "high": 75.4,
+    "low": 70.1,
+    "volume": 44320357,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 71.37,
+    "close": 76.42,
+    "high": 76.73,
+    "low": 70.91,
+    "volume": 22003311,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 76.54,
+    "close": 78.78,
+    "high": 81.27,
+    "low": 76.47,
+    "volume": 32922986,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 78.88,
+    "close": 79.15,
+    "high": 79.88,
+    "low": 65.25,
+    "volume": 59093767,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 79.04,
+    "close": 69.44,
+    "high": 84.21,
+    "low": 66.74,
+    "volume": 32041141,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 69.07,
+    "close": 70.32,
+    "high": 73.12,
+    "low": 66.22,
+    "volume": 33570883,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 70.62,
+    "close": 61.47,
+    "high": 71.26,
+    "low": 61.34,
+    "volume": 37716850,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 61.42,
+    "close": 64.95,
+    "high": 66.66,
+    "low": 60.21,
+    "volume": 22033717,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 65.19,
+    "close": 58.29,
+    "high": 66.24,
+    "low": 57.49,
+    "volume": 30975762,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 58.27,
+    "close": 58.8,
+    "high": 60.8,
+    "low": 57.1,
+    "volume": 33686280,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 59.11,
+    "close": 59.66,
+    "high": 60.73,
+    "low": 57.77,
+    "volume": 22356460,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 60.07,
+    "close": 56.21,
+    "high": 60.09,
+    "low": 55.24,
+    "volume": 28359951,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 56.72,
+    "close": 53.05,
+    "high": 57.35,
+    "low": 50.42,
+    "volume": 33365894,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 52.74,
+    "close": 50.11,
+    "high": 54.45,
+    "low": 44.95,
+    "volume": 30786185,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 48.27,
+    "close": 50,
+    "high": 53.28,
+    "low": 46.76,
+    "volume": 40476474,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 49.98,
+    "close": 67.12,
+    "high": 67.27,
+    "low": 48.73,
+    "volume": 82680746,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 67,
+    "close": 66.47,
+    "high": 67.49,
+    "low": 65.29,
+    "volume": 33756528,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 66.77,
+    "close": 69.35,
+    "high": 70.28,
+    "low": 66.61,
+    "volume": 28605164,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 68.03,
+    "close": 66.99,
+    "high": 69.18,
+    "low": 63.64,
+    "volume": 30175939,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 66.4,
+    "close": 67.74,
+    "high": 68.42,
+    "low": 62.33,
+    "volume": 46925754,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 68.22,
+    "close": 72.81,
+    "high": 73.19,
+    "low": 67.71,
+    "volume": 26037860,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 72.74,
+    "close": 69.94,
+    "high": 73.59,
+    "low": 69.54,
+    "volume": 19340627,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 70.32,
+    "close": 72.93,
+    "high": 73.14,
+    "low": 67.32,
+    "volume": 18292909,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 72.83,
+    "close": 73.25,
+    "high": 75.17,
+    "low": 70.98,
+    "volume": 24633173,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 73,
+    "close": 75.71,
+    "high": 77.85,
+    "low": 71.51,
+    "volume": 18975514,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 75.62,
+    "close": 69.26,
+    "high": 77.63,
+    "low": 66.88,
+    "volume": 37939979,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 69.56,
+    "close": 69.71,
+    "high": 71.16,
+    "low": 68.43,
+    "volume": 29158474,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 69.95,
+    "close": 75.11,
+    "high": 75.5,
+    "low": 69.75,
+    "volume": 73350527,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 75.04,
+    "close": 79.84,
+    "high": 83.23,
+    "low": 73.3,
+    "volume": 37618975,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 79.69,
+    "close": 78.68,
+    "high": 81.69,
+    "low": 74.66,
+    "volume": 36887217,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 78.97,
+    "close": 85.11,
+    "high": 87.96,
+    "low": 77.86,
+    "volume": 27261504,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 85.54,
+    "close": 90.12,
+    "high": 90.88,
+    "low": 84.9,
+    "volume": 21348864,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 90.66,
+    "close": 95.07,
+    "high": 96.91,
+    "low": 89.52,
+    "volume": 21338463,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 95.34,
+    "close": 98.22,
+    "high": 104.22,
+    "low": 93.61,
+    "volume": 25551579,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 98.71,
+    "close": 104,
+    "high": 105.67,
+    "low": 97.47,
+    "volume": 24110159,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 104,
+    "close": 91.51,
+    "high": 109.59,
+    "low": 91.09,
+    "volume": 31757103,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 92.3,
+    "close": 92.63,
+    "high": 101.75,
+    "low": 90.69,
+    "volume": 21140944,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 92.85,
+    "close": 93.69,
+    "high": 94.17,
+    "low": 87.93,
+    "volume": 24580575,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 94.1,
+    "close": 106,
+    "high": 106.09,
+    "low": 92.53,
+    "volume": 25549854,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 105.54,
+    "close": 108.89,
+    "high": 109.78,
+    "low": 101.04,
+    "volume": 29642050,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 110,
+    "close": 102.24,
+    "high": 110.0,
+    "low": 98.91,
+    "volume": 38399651,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 101.26,
+    "close": 105.07,
+    "high": 114.43,
+    "low": 99.72,
+    "volume": 26347512,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 105.76,
+    "close": 109.8,
+    "high": 121.65,
+    "low": 104.71,
+    "volume": 30680901,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 109.27,
+    "close": 113.31,
+    "high": 115.61,
+    "low": 96.12,
+    "volume": 33084318,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 112.92,
+    "close": 109.01,
+    "high": 123.96,
+    "low": 105.05,
+    "volume": 31912401,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 108.31,
+    "close": 101.74,
+    "high": 111.6,
+    "low": 97.94,
+    "volume": 31696761,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 101.65,
+    "close": 113.23,
+    "high": 115.33,
+    "low": 100.39,
+    "volume": 26806426,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 114.51,
+    "close": 102.53,
+    "high": 118.56,
+    "low": 99.84,
+    "volume": 30824715,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 101.28,
+    "close": 117.42,
+    "high": 122.4,
+    "low": 100.36,
+    "volume": 29746038,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 117.76,
+    "close": 116.21,
+    "high": 119.7,
+    "low": 108.36,
+    "volume": 30952095,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 117.3,
+    "close": 101.71,
+    "high": 119.3,
+    "low": 99.58,
+    "volume": 35640615,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 102.46,
+    "close": 91.54,
+    "high": 102.97,
+    "low": 84.59,
+    "volume": 44606599,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 91.95,
+    "close": 98.56,
+    "high": 98.89,
+    "low": 90.25,
+    "volume": 37888460,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 100.46,
+    "close": 89.49,
+    "high": 101.64,
+    "low": 80.65,
+    "volume": 36802604,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 87.53,
+    "close": 106.57,
+    "high": 108.65,
+    "low": 85.69,
+    "volume": 32360254,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 106.94,
+    "close": 115.49,
+    "high": 117.45,
+    "low": 103.45,
+    "volume": 36281701,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 116.64,
+    "close": 119.41,
+    "high": 124.68,
+    "low": 112.41,
+    "volume": 30655880,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 119.88,
+    "close": 127.48,
+    "high": 128.21,
+    "low": 119.41,
+    "volume": 25753561,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 128.43,
+    "close": 103.07,
+    "high": 129.03,
+    "low": 101.91,
+    "volume": 42132984,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 103.76,
+    "close": 118.2,
+    "high": 119.71,
+    "low": 101.34,
+    "volume": 30584609,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 121.84,
+    "close": 136.32,
+    "high": 142.66,
+    "low": 115.9,
+    "volume": 28504373,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 136.51,
+    "close": 147.9,
+    "high": 148.78,
+    "low": 125.19,
+    "volume": 35312677,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 149.46,
+    "close": 159.45,
+    "high": 162.68,
+    "low": 146.06,
+    "volume": 38467336,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 160.79,
+    "close": 169.04,
+    "high": 175.32,
+    "low": 153.63,
+    "volume": 31445454,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 170.13,
+    "close": 163.86,
+    "high": 179.95,
+    "low": 157.84,
+    "volume": 27355986,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 163.95,
+    "close": 178.17,
+    "high": 179.71,
+    "low": 155.56,
+    "volume": 24248115,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 180.78,
+    "close": 165.74,
+    "high": 184.5,
+    "low": 165.25,
+    "volume": 23774253,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 167.27,
+    "close": 153.71,
+    "high": 180.08,
+    "low": 142.09,
+    "volume": 35107169,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 154.5,
+    "close": 143.74,
+    "high": 160.71,
+    "low": 110.19,
+    "volume": 52081068,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 138.7,
+    "close": 164.09,
+    "high": 177.17,
+    "low": 125.56,
+    "volume": 27102782,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 158.3,
+    "close": 175.96,
+    "high": 180.33,
+    "low": 147.54,
+    "volume": 33889578,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 175,
+    "close": 194.48,
+    "high": 197.5,
+    "low": 172.94,
+    "volume": 28095523,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 194.48,
+    "close": 199.83,
+    "high": 209.3,
+    "low": 187.14,
+    "volume": 27113012,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 202.59,
+    "close": 205.14,
+    "high": 218.57,
+    "low": 198.25,
+    "volume": 21914043,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 205.89,
+    "close": 193.74,
+    "high": 216.17,
+    "low": 171.31,
+    "volume": 30516370,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 197.62,
+    "close": 197.18,
+    "high": 223.54,
+    "low": 190.21,
+    "volume": 23178153,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 199.8,
+    "close": 251.97,
+    "high": 256.99,
+    "low": 198.82,
+    "volume": 18111758,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 254.46,
+    "close": 258.91,
+    "high": 268.89,
+    "low": 252.02,
+    "volume": 19110610,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 262.06,
+    "close": 280.07,
+    "high": 317.6,
+    "low": 257.7,
+    "volume": 22675349,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 286.02,
+    "close": 311.23,
+    "high": 342.21,
+    "low": 282.49,
+    "volume": 23682201,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 316.02,
+    "close": 330.4,
+    "high": 333.3,
+    "low": 273.24,
+    "volume": 38028262,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 337,
+    "close": 315.35,
+    "high": 359.69,
+    "low": 312.92,
+    "volume": 26688100,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 317.62,
+    "close": 316.89,
+    "high": 323.91,
+    "low": 285.89,
+    "volume": 24819438,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 319.89,
+    "close": 324.21,
+    "high": 326.59,
+    "low": 302.48,
+    "volume": 21992854,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 324.15,
+    "close": 348.16,
+    "high": 356.71,
+    "low": 287.44,
+    "volume": 22870160,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 348.16,
+    "close": 339.96,
+    "high": 356.7,
+    "low": 313.5,
+    "volume": 20279757,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 340.95,
+    "close": 334.51,
+    "high": 374.6,
+    "low": 333.9,
+    "volume": 22735040,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 336.71,
+    "close": 372.76,
+    "high": 388.99,
+    "low": 317.99,
+    "volume": 21620987,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 373,
+    "close": 408.13,
+    "high": 427.24,
+    "low": 369.16,
+    "volume": 24137753,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 415.25,
+    "close": 430.11,
+    "high": 442.44,
+    "low": 381.63,
+    "volume": 29499695,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 431.14,
+    "close": 389.27,
+    "high": 457.12,
+    "low": 344.03,
+    "volume": 34509338,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 389.82,
+    "close": 348.5,
+    "high": 405.78,
+    "low": 329.26,
+    "volume": 29241217,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 346.58,
+    "close": 366.06,
+    "high": 386.93,
+    "low": 310.55,
+    "volume": 31147002,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 369.2,
+    "close": 319.26,
+    "high": 370.05,
+    "low": 312.01,
+    "volume": 27899353,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 321.67,
+    "close": 364.85,
+    "high": 372.34,
+    "low": 306.43,
+    "volume": 31010282,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 366.53,
+    "close": 319.08,
+    "high": 371.99,
+    "low": 304.95,
+    "volume": 27814596,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 309.64,
+    "close": 383.54,
+    "high": 388.2,
+    "low": 282.83,
+    "volume": 30440030,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 381.19,
+    "close": 344.13,
+    "high": 398.96,
+    "low": 339.85,
+    "volume": 31051669,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 334.86,
+    "close": 302.63,
+    "high": 362.73,
+    "low": 302.18,
+    "volume": 37632518,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 306.19,
+    "close": 316.45,
+    "high": 334.89,
+    "low": 250.2,
+    "volume": 45270299,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 323.48,
+    "close": 393.15,
+    "high": 394.82,
+    "low": 307.3,
+    "volume": 33495411,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 395,
+    "close": 377.03,
+    "high": 419.57,
+    "low": 366.32,
+    "volume": 27467830,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 384,
+    "close": 392.48,
+    "high": 429.46,
+    "low": 372.58,
+    "volume": 26329253,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 392.55,
+    "close": 379.38,
+    "high": 421.79,
+    "low": 373.85,
+    "volume": 21231976,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 373.82,
+    "close": 399.17,
+    "high": 399.88,
+    "low": 359.84,
+    "volume": 25064048,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 397.22,
+    "close": 386.54,
+    "high": 401.45,
+    "low": 355.88,
+    "volume": 20124546,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 385.8,
+    "close": 442.99,
+    "high": 473.58,
+    "low": 369.66,
+    "volume": 22358333,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 445.4,
+    "close": 485.02,
+    "high": 488.25,
+    "low": 437.2,
+    "volume": 20613916,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "KLAC",
+    "open": 485.04,
+    "close": 458.56,
+    "high": 493.53,
+    "low": 448.99,
+    "volume": 15085573,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

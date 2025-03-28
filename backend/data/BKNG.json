@@ -1,0 +1,832 @@
+[
+  {
+    "ticker": "BKNG",
+    "open": 1884,
+    "close": 2034.04,
+    "high": 2087.34,
+    "low": 1870.02,
+    "volume": 2102988,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2034.61,
+    "close": 2080.39,
+    "high": 2228.99,
+    "low": 1995.58,
+    "volume": 10096391,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2070.43,
+    "close": 2178,
+    "high": 2193.06,
+    "low": 2009.92,
+    "volume": 7070337,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2170.4,
+    "close": 2108.92,
+    "high": 2201.84,
+    "low": 2034.67,
+    "volume": 8678073,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2120.99,
+    "close": 2027.09,
+    "high": 2162.91,
+    "low": 1980,
+    "volume": 7276770,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2012.67,
+    "close": 2028.72,
+    "high": 2131.9,
+    "low": 1985,
+    "volume": 6912744,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2030.65,
+    "close": 1951.55,
+    "high": 2109,
+    "low": 1815.5,
+    "volume": 12334918,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1950.61,
+    "close": 1984,
+    "high": 1990.74,
+    "low": 1846.36,
+    "volume": 7530949,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1997.73,
+    "close": 1874.58,
+    "high": 2017.11,
+    "low": 1745.63,
+    "volume": 9671094,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1882.73,
+    "close": 1891.88,
+    "high": 2019.48,
+    "low": 1726.78,
+    "volume": 9337686,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1925.47,
+    "close": 1722.42,
+    "high": 1945.84,
+    "low": 1606.27,
+    "volume": 8224954,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1691.25,
+    "close": 1832.81,
+    "high": 1851.17,
+    "low": 1637.02,
+    "volume": 9756794,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1824.05,
+    "close": 1697.04,
+    "high": 1952.25,
+    "low": 1692,
+    "volume": 8396346,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1708.2,
+    "close": 1744.91,
+    "high": 1787.3,
+    "low": 1689.44,
+    "volume": 12828370,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1755.08,
+    "close": 1854.99,
+    "high": 1895.28,
+    "low": 1748.1,
+    "volume": 8775222,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1857.57,
+    "close": 1656.22,
+    "high": 1865.49,
+    "low": 1640.54,
+    "volume": 9800683,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1658.5,
+    "close": 1874.71,
+    "high": 1889.33,
+    "low": 1648.38,
+    "volume": 8086818,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1900,
+    "close": 1886.61,
+    "high": 1969.88,
+    "low": 1858.88,
+    "volume": 5970255,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1885.47,
+    "close": 1966.41,
+    "high": 1976.76,
+    "low": 1755,
+    "volume": 7305438,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1956.56,
+    "close": 1962.61,
+    "high": 2081.81,
+    "low": 1931.42,
+    "volume": 6953625,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1977,
+    "close": 2048.77,
+    "high": 2079.7,
+    "low": 1918.23,
+    "volume": 5185661,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2023.62,
+    "close": 1904.03,
+    "high": 2045.78,
+    "low": 1826.69,
+    "volume": 8832067,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1898.21,
+    "close": 2053.73,
+    "high": 2082.67,
+    "low": 1852.52,
+    "volume": 6361707,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2068.4,
+    "close": 1830.55,
+    "high": 2094,
+    "low": 1820.44,
+    "volume": 9039984,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1838.87,
+    "close": 1695.66,
+    "high": 2024.88,
+    "low": 1592.45,
+    "volume": 11374705,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1709.75,
+    "close": 1345.32,
+    "high": 1749.99,
+    "low": 1107.29,
+    "volume": 19343599,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1293.81,
+    "close": 1480.57,
+    "high": 1527.73,
+    "low": 1203.08,
+    "volume": 11945335,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1442.75,
+    "close": 1639.42,
+    "high": 1788,
+    "low": 1303.25,
+    "volume": 14248424,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1633.12,
+    "close": 1592.34,
+    "high": 1871.97,
+    "low": 1532.83,
+    "volume": 11782099,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1606.05,
+    "close": 1662.13,
+    "high": 1802.73,
+    "low": 1601.14,
+    "volume": 7500884,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1665.91,
+    "close": 1910.45,
+    "high": 1955.61,
+    "low": 1634.68,
+    "volume": 6782507,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1905.13,
+    "close": 1710.68,
+    "high": 1966.22,
+    "low": 1601.01,
+    "volume": 8055818,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1735.54,
+    "close": 1622.5,
+    "high": 1866,
+    "low": 1589,
+    "volume": 7238898,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1653.5,
+    "close": 2028.45,
+    "high": 2128.02,
+    "low": 1598.01,
+    "volume": 9310082,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2047.21,
+    "close": 2227.27,
+    "high": 2227.97,
+    "low": 2024.02,
+    "volume": 7089702,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2250,
+    "close": 1944.33,
+    "high": 2290.03,
+    "low": 1860.73,
+    "volume": 7963730,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1996.19,
+    "close": 2328.51,
+    "high": 2450.26,
+    "low": 1965,
+    "volume": 7189349,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2372.99,
+    "close": 2329.84,
+    "high": 2469.58,
+    "low": 2163.4,
+    "volume": 10116165,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2354.28,
+    "close": 2466.08,
+    "high": 2516,
+    "low": 2317.29,
+    "volume": 8444339,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2484.07,
+    "close": 2361.55,
+    "high": 2486.99,
+    "low": 2161.78,
+    "volume": 7055112,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2380,
+    "close": 2188.09,
+    "high": 2380.29,
+    "low": 2165.9,
+    "volume": 6301423,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2194.67,
+    "close": 2178.26,
+    "high": 2264.64,
+    "low": 2053.57,
+    "volume": 5959017,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2191.68,
+    "close": 2299.67,
+    "high": 2319.63,
+    "low": 2058.43,
+    "volume": 7175160,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2305.86,
+    "close": 2373.87,
+    "high": 2540,
+    "low": 2275.17,
+    "volume": 5899515,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2416.84,
+    "close": 2420.78,
+    "high": 2540,
+    "low": 2368.74,
+    "volume": 4601179,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2420.13,
+    "close": 2101.85,
+    "high": 2687.29,
+    "low": 2075.54,
+    "volume": 8951656,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2146.92,
+    "close": 2399.23,
+    "high": 2428.71,
+    "low": 2057.32,
+    "volume": 7848320,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2423,
+    "close": 2456.13,
+    "high": 2518.25,
+    "low": 2218.67,
+    "volume": 7181146,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2464.96,
+    "close": 2172.25,
+    "high": 2715.66,
+    "low": 2138.72,
+    "volume": 10139073,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2148.45,
+    "close": 2348.45,
+    "high": 2420.89,
+    "low": 1796.45,
+    "volume": 12095696,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2377.62,
+    "close": 2210.31,
+    "high": 2418.29,
+    "low": 2144.95,
+    "volume": 7120554,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2207,
+    "close": 2243.56,
+    "high": 2308,
+    "low": 1997.24,
+    "volume": 10164810,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2265,
+    "close": 1748.99,
+    "high": 2393.31,
+    "low": 1703.05,
+    "volume": 9336413,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1743.1,
+    "close": 1935.69,
+    "high": 1946.46,
+    "low": 1669.34,
+    "volume": 7601253,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1923.75,
+    "close": 1875.81,
+    "high": 2161.05,
+    "low": 1862.99,
+    "volume": 8509974,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1859,
+    "close": 1643.21,
+    "high": 2030.95,
+    "low": 1641.87,
+    "volume": 9155683,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1672.44,
+    "close": 1869.48,
+    "high": 1918.05,
+    "low": 1616.85,
+    "volume": 7619900,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 1891.25,
+    "close": 2079.45,
+    "high": 2084.7,
+    "low": 1771.32,
+    "volume": 8227062,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2083.7,
+    "close": 2015.28,
+    "high": 2152.37,
+    "low": 1907.38,
+    "volume": 6442774,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2038.83,
+    "close": 2434.1,
+    "high": 2474.59,
+    "low": 2005.57,
+    "volume": 6035697,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2422.34,
+    "close": 2524,
+    "high": 2548.89,
+    "low": 2331.23,
+    "volume": 6524538,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2530,
+    "close": 2652.41,
+    "high": 2660.86,
+    "low": 2383.18,
+    "volume": 8014375,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2644.79,
+    "close": 2686.31,
+    "high": 2721.85,
+    "low": 2534.52,
+    "volume": 4890430,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2680.32,
+    "close": 2508.77,
+    "high": 2786.85,
+    "low": 2456.93,
+    "volume": 8135714,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2503.12,
+    "close": 2700.33,
+    "high": 2729.27,
+    "low": 2500.35,
+    "volume": 6665953,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2693.7,
+    "close": 2970.8,
+    "high": 3017.61,
+    "low": 2624.49,
+    "volume": 5835097,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2942.2,
+    "close": 3105.03,
+    "high": 3251.71,
+    "low": 2794.36,
+    "volume": 6814015,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 3135.47,
+    "close": 3083.95,
+    "high": 3226.57,
+    "low": 3014.55,
+    "volume": 5150629,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 3071.8,
+    "close": 2789.56,
+    "high": 3112.53,
+    "low": 2733.04,
+    "volume": 5283930,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 2803,
+    "close": 3125.7,
+    "high": 3207.32,
+    "low": 2756.12,
+    "volume": 5712965,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 3125.29,
+    "close": 3547.22,
+    "high": 3580.62,
+    "low": 3099.05,
+    "volume": 5189855,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 3520,
+    "close": 3507.47,
+    "high": 3669.66,
+    "low": 3384.1,
+    "volume": 4980721,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 3592.25,
+    "close": 3468.83,
+    "high": 3918,
+    "low": 3451.49,
+    "volume": 6798114,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 3482.55,
+    "close": 3627.88,
+    "high": 3711.43,
+    "low": 3398.97,
+    "volume": 5779266,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 3651.03,
+    "close": 3452.03,
+    "high": 3671.48,
+    "low": 3405.16,
+    "volume": 4307394,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 3437.25,
+    "close": 3776.35,
+    "high": 3853,
+    "low": 3393.95,
+    "volume": 5758409,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 3776.35,
+    "close": 3961.5,
+    "high": 4040,
+    "low": 3713.89,
+    "volume": 3740950,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 3977.35,
+    "close": 3715.01,
+    "high": 4144.32,
+    "low": 3643.05,
+    "volume": 4584805,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 3716.23,
+    "close": 3909.23,
+    "high": 3940.25,
+    "low": 3180,
+    "volume": 6544116,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 3876.01,
+    "close": 4212.12,
+    "high": 4272.88,
+    "low": 3700.97,
+    "volume": 4262843,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 4228,
+    "close": 4676.25,
+    "high": 4856.6,
+    "low": 4060.98,
+    "volume": 3977548,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 4669,
+    "close": 5201.98,
+    "high": 5237,
+    "low": 4669,
+    "volume": 4821146,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "BKNG",
+    "open": 5206.41,
+    "close": 4968.42,
+    "high": 5337.24,
+    "low": 4938.04,
+    "volume": 3989104,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

@@ -1,0 +1,1392 @@
+[
+  {
+    "ticker": "CDW",
+    "open": 17.64,
+    "close": 18.62,
+    "high": 19.17,
+    "low": 17.38,
+    "volume": 9004100,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 18.65,
+    "close": 21.5,
+    "high": 22.14,
+    "low": 18.26,
+    "volume": 4241138,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 21.45,
+    "close": 21.93,
+    "high": 23.75,
+    "low": 21.16,
+    "volume": 3091355,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 22.16,
+    "close": 22.83,
+    "high": 24.51,
+    "low": 21.78,
+    "volume": 7106097,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 22.7,
+    "close": 21.99,
+    "high": 23.36,
+    "low": 21.08,
+    "volume": 2489085,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 23,
+    "close": 22.3,
+    "high": 23.56,
+    "low": 20.5,
+    "volume": 14364378,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 22.22,
+    "close": 23.36,
+    "high": 23.56,
+    "low": 21.92,
+    "volume": 10396331,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 23.36,
+    "close": 23.67,
+    "high": 25.58,
+    "low": 22.81,
+    "volume": 8362149,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 23.67,
+    "close": 26.17,
+    "high": 26.43,
+    "low": 22.72,
+    "volume": 5595258,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 25.91,
+    "close": 27.44,
+    "high": 27.53,
+    "low": 24.24,
+    "volume": 13999527,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 27.54,
+    "close": 28.19,
+    "high": 29.36,
+    "low": 26.7,
+    "volume": 9136074,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 27.94,
+    "close": 29.41,
+    "high": 30.42,
+    "low": 27.46,
+    "volume": 18062025,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 29.47,
+    "close": 31.88,
+    "high": 32.41,
+    "low": 29.03,
+    "volume": 20799594,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 31.94,
+    "close": 30.89,
+    "high": 32.62,
+    "low": 30.51,
+    "volume": 12673167,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 30.9,
+    "close": 33.04,
+    "high": 33.8,
+    "low": 30.27,
+    "volume": 8390671,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 33,
+    "close": 31.05,
+    "high": 33.17,
+    "low": 30.14,
+    "volume": 15993879,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 31.05,
+    "close": 30.84,
+    "high": 31.26,
+    "low": 27.59,
+    "volume": 15401852,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 31.01,
+    "close": 35.08,
+    "high": 35.56,
+    "low": 30.71,
+    "volume": 18242130,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 35.13,
+    "close": 35.17,
+    "high": 36.08,
+    "low": 32.57,
+    "volume": 26451904,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 35.26,
+    "close": 34.26,
+    "high": 36.92,
+    "low": 33.86,
+    "volume": 14883361,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 34.2,
+    "close": 37.63,
+    "high": 38.44,
+    "low": 33.21,
+    "volume": 19110803,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 37.56,
+    "close": 37.24,
+    "high": 38.36,
+    "low": 35.15,
+    "volume": 25787122,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 37.2,
+    "close": 38.32,
+    "high": 39.32,
+    "low": 36.43,
+    "volume": 14045399,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 38.45,
+    "close": 37.1,
+    "high": 39.06,
+    "low": 36.35,
+    "volume": 25540997,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 37.18,
+    "close": 34.28,
+    "high": 37.51,
+    "low": 34.19,
+    "volume": 22287722,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 34.62,
+    "close": 35.93,
+    "high": 36.03,
+    "low": 33.01,
+    "volume": 17787662,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 37.66,
+    "close": 39.75,
+    "high": 40.28,
+    "low": 35.62,
+    "volume": 33845491,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 38.99,
+    "close": 40.86,
+    "high": 41.99,
+    "low": 38.1,
+    "volume": 19796264,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 40.69,
+    "close": 44.69,
+    "high": 46,
+    "low": 40.07,
+    "volume": 19792954,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 44.85,
+    "close": 43.17,
+    "high": 46.92,
+    "low": 41.89,
+    "volume": 39939694,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 43.94,
+    "close": 42.04,
+    "high": 44.69,
+    "low": 41.64,
+    "volume": 21893938,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 41.41,
+    "close": 38.45,
+    "high": 41.42,
+    "low": 35.76,
+    "volume": 22877737,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 38.16,
+    "close": 39.58,
+    "high": 40,
+    "low": 30.4,
+    "volume": 29297448,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 39.78,
+    "close": 41.5,
+    "high": 41.89,
+    "low": 39.55,
+    "volume": 17802001,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 41.09,
+    "close": 38.5,
+    "high": 43.11,
+    "low": 38.33,
+    "volume": 14297283,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 38.38,
+    "close": 42.56,
+    "high": 43,
+    "low": 37.8,
+    "volume": 21950294,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 42.3,
+    "close": 40.08,
+    "high": 43.06,
+    "low": 38.89,
+    "volume": 28047982,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 40.2,
+    "close": 42.93,
+    "high": 43,
+    "low": 39.17,
+    "volume": 18292678,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 42.83,
+    "close": 44.65,
+    "high": 46.04,
+    "low": 41.4,
+    "volume": 23774194,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 44.76,
+    "close": 45.73,
+    "high": 47.5,
+    "low": 43.46,
+    "volume": 19966452,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 45.68,
+    "close": 44.91,
+    "high": 46.18,
+    "low": 43.78,
+    "volume": 11346153,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 45.01,
+    "close": 51.24,
+    "high": 52.48,
+    "low": 43.64,
+    "volume": 20586580,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 51.12,
+    "close": 52.09,
+    "high": 55.47,
+    "low": 51.12,
+    "volume": 14468720,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 52.31,
+    "close": 51.51,
+    "high": 53.51,
+    "low": 50.49,
+    "volume": 12562280,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 52.74,
+    "close": 58.9,
+    "high": 60.5,
+    "low": 52.33,
+    "volume": 21681758,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 59.47,
+    "close": 57.71,
+    "high": 61,
+    "low": 56.1,
+    "volume": 21835619,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 58,
+    "close": 59.09,
+    "high": 60.27,
+    "low": 56.57,
+    "volume": 13460152,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 59.36,
+    "close": 60.18,
+    "high": 60.33,
+    "low": 55.8,
+    "volume": 19814530,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 60.27,
+    "close": 62.53,
+    "high": 66.33,
+    "low": 59.55,
+    "volume": 20555357,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 62.55,
+    "close": 63.43,
+    "high": 64.52,
+    "low": 61.13,
+    "volume": 13100901,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 63.81,
+    "close": 63.42,
+    "high": 65.39,
+    "low": 59.78,
+    "volume": 13804826,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 63.53,
+    "close": 66,
+    "high": 66.8,
+    "low": 58.57,
+    "volume": 16738122,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 66.08,
+    "close": 70,
+    "high": 71.53,
+    "low": 66.08,
+    "volume": 18380120,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 68.82,
+    "close": 70.01,
+    "high": 70.71,
+    "low": 65.59,
+    "volume": 15798573,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 69.83,
+    "close": 69.49,
+    "high": 71.3,
+    "low": 67.11,
+    "volume": 13718017,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 69.73,
+    "close": 74.79,
+    "high": 76.34,
+    "low": 69.03,
+    "volume": 13523245,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 74.45,
+    "close": 72.93,
+    "high": 76.73,
+    "low": 66.88,
+    "volume": 24509891,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 73.28,
+    "close": 70.31,
+    "high": 76.14,
+    "low": 69.26,
+    "volume": 17629956,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 70.27,
+    "close": 71.29,
+    "high": 72.88,
+    "low": 67.44,
+    "volume": 12506332,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 71.5,
+    "close": 80.05,
+    "high": 81.97,
+    "low": 71.17,
+    "volume": 18332224,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 80.45,
+    "close": 80.79,
+    "high": 85.82,
+    "low": 79.98,
+    "volume": 20451001,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 80.27,
+    "close": 84.09,
+    "high": 88.36,
+    "low": 80.07,
+    "volume": 15039603,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 84.26,
+    "close": 87.56,
+    "high": 88.81,
+    "low": 82.8,
+    "volume": 17703757,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 87.94,
+    "close": 88.92,
+    "high": 90.5,
+    "low": 86.21,
+    "volume": 15931073,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 89.23,
+    "close": 90.01,
+    "high": 92.18,
+    "low": 77.75,
+    "volume": 22563496,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 89.51,
+    "close": 92.68,
+    "high": 93.92,
+    "low": 85.2,
+    "volume": 21870337,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 93.5,
+    "close": 81.05,
+    "high": 96.75,
+    "low": 74.32,
+    "volume": 24143115,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 79.68,
+    "close": 83.27,
+    "high": 83.59,
+    "low": 76.07,
+    "volume": 20314733,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 83.55,
+    "close": 93.89,
+    "high": 97.06,
+    "low": 82.76,
+    "volume": 16788929,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 94.25,
+    "close": 96.37,
+    "high": 99.29,
+    "low": 90.53,
+    "volume": 15082941,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 97.27,
+    "close": 105.6,
+    "high": 108.57,
+    "low": 97.05,
+    "volume": 15068797,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 110.46,
+    "close": 98.44,
+    "high": 111.59,
+    "low": 97.93,
+    "volume": 15019037,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 98.44,
+    "close": 111,
+    "high": 111.42,
+    "low": 98.34,
+    "volume": 15812364,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 112.95,
+    "close": 118.16,
+    "high": 119.72,
+    "low": 109.29,
+    "volume": 16905468,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 118.5,
+    "close": 115.5,
+    "high": 120.82,
+    "low": 105.99,
+    "volume": 15764749,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 115.52,
+    "close": 123.24,
+    "high": 124.34,
+    "low": 110.09,
+    "volume": 57417032,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 123.43,
+    "close": 127.91,
+    "high": 132.35,
+    "low": 117.55,
+    "volume": 24659953,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 128.96,
+    "close": 135.05,
+    "high": 138.88,
+    "low": 128.47,
+    "volume": 17595379,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 135.9,
+    "close": 142.84,
+    "high": 144.95,
+    "low": 130.82,
+    "volume": 20699796,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 144.49,
+    "close": 130.45,
+    "high": 146.09,
+    "low": 129.92,
+    "volume": 22590432,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 130.74,
+    "close": 114.22,
+    "high": 138.96,
+    "low": 110.92,
+    "volume": 24160740,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 115.36,
+    "close": 93.27,
+    "high": 120.91,
+    "low": 73.39,
+    "volume": 43721704,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 89.32,
+    "close": 110.8,
+    "high": 112.14,
+    "low": 85.78,
+    "volume": 22659449,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 108.22,
+    "close": 110.91,
+    "high": 111.66,
+    "low": 93.75,
+    "volume": 18926496,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 110.26,
+    "close": 116.18,
+    "high": 129.23,
+    "low": 108.16,
+    "volume": 24633050,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 116.03,
+    "close": 116.25,
+    "high": 121.48,
+    "low": 110.19,
+    "volume": 15165615,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 116.68,
+    "close": 113.65,
+    "high": 121.93,
+    "low": 110.09,
+    "volume": 15301608,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 112.74,
+    "close": 119.53,
+    "high": 121.89,
+    "low": 105.87,
+    "volume": 20154268,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 120.44,
+    "close": 122.6,
+    "high": 132.25,
+    "low": 117.02,
+    "volume": 13660028,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 125.17,
+    "close": 130.49,
+    "high": 146.95,
+    "low": 123.22,
+    "volume": 20406650,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 131.93,
+    "close": 131.79,
+    "high": 136.63,
+    "low": 128.25,
+    "volume": 18324082,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 131.75,
+    "close": 131.66,
+    "high": 137.8,
+    "low": 125.46,
+    "volume": 16591245,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 133.47,
+    "close": 156.89,
+    "high": 162.73,
+    "low": 132.71,
+    "volume": 16258770,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 160.1,
+    "close": 165.75,
+    "high": 168.96,
+    "low": 148.91,
+    "volume": 18952400,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 167.63,
+    "close": 178.33,
+    "high": 184.58,
+    "low": 166.59,
+    "volume": 15458596,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 180.26,
+    "close": 165.42,
+    "high": 180.77,
+    "low": 162.57,
+    "volume": 18648621,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 165.96,
+    "close": 174.65,
+    "high": 176.99,
+    "low": 162.47,
+    "volume": 16527052,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 174.86,
+    "close": 183.35,
+    "high": 183.78,
+    "low": 171.33,
+    "volume": 12046481,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 184.8,
+    "close": 200.61,
+    "high": 201.36,
+    "low": 179.24,
+    "volume": 14898214,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 200.95,
+    "close": 182.02,
+    "high": 203.82,
+    "low": 181.89,
+    "volume": 14236767,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 182.66,
+    "close": 186.65,
+    "high": 193.11,
+    "low": 172.24,
+    "volume": 15220964,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 186.79,
+    "close": 189.36,
+    "high": 200.53,
+    "low": 182.02,
+    "volume": 16288735,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 192.01,
+    "close": 204.78,
+    "high": 207.67,
+    "low": 182.05,
+    "volume": 22428202,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 205.34,
+    "close": 189.05,
+    "high": 208.71,
+    "low": 177.4,
+    "volume": 18178261,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 188.69,
+    "close": 172.46,
+    "high": 199.77,
+    "low": 163.29,
+    "volume": 21484702,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 171.19,
+    "close": 178.89,
+    "high": 182.85,
+    "low": 162.91,
+    "volume": 17526377,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 179.9,
+    "close": 163.18,
+    "high": 181.02,
+    "low": 161.66,
+    "volume": 18141916,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 163.02,
+    "close": 169.86,
+    "high": 177.57,
+    "low": 155.39,
+    "volume": 20379509,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 170.43,
+    "close": 157.56,
+    "high": 178.88,
+    "low": 154.13,
+    "volume": 15147057,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 156.4,
+    "close": 181.53,
+    "high": 182.05,
+    "low": 152.15,
+    "volume": 11147903,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 180.01,
+    "close": 170.7,
+    "high": 188.9,
+    "low": 170.33,
+    "volume": 21069843,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 169.5,
+    "close": 156.08,
+    "high": 177.84,
+    "low": 155.89,
+    "volume": 13267640,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 157.06,
+    "close": 172.81,
+    "high": 174.15,
+    "low": 147.91,
+    "volume": 13733818,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 174.06,
+    "close": 188.64,
+    "high": 190.74,
+    "low": 166,
+    "volume": 13415735,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 190,
+    "close": 178.58,
+    "high": 197,
+    "low": 175.34,
+    "volume": 11512436,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 179.4,
+    "close": 196.03,
+    "high": 201.78,
+    "low": 177.61,
+    "volume": 15498718,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 194.77,
+    "close": 202.42,
+    "high": 215,
+    "low": 194.77,
+    "volume": 19032477,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 202.14,
+    "close": 194.89,
+    "high": 203.68,
+    "low": 184.34,
+    "volume": 16757356,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 194.09,
+    "close": 169.59,
+    "high": 195.47,
+    "low": 160.66,
+    "volume": 21265543,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 169.71,
+    "close": 171.69,
+    "high": 176.14,
+    "low": 162.59,
+    "volume": 21694522,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 171.78,
+    "close": 183.5,
+    "high": 184.38,
+    "low": 167.73,
+    "volume": 18091042,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 182.68,
+    "close": 187.07,
+    "high": 191.57,
+    "low": 180.38,
+    "volume": 11031057,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 187.07,
+    "close": 211.15,
+    "high": 212.41,
+    "low": 185.14,
+    "volume": 13822971,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 212.5,
+    "close": 201.76,
+    "high": 215.69,
+    "low": 197.28,
+    "volume": 12526637,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 201.76,
+    "close": 200.4,
+    "high": 215.81,
+    "low": 194.84,
+    "volume": 14712465,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 185.55,
+    "close": 210.88,
+    "high": 219.71,
+    "low": 185.04,
+    "volume": 15732223,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 210.71,
+    "close": 227.32,
+    "high": 229.42,
+    "low": 208.3,
+    "volume": 23630685,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 226.18,
+    "close": 226.72,
+    "high": 231.81,
+    "low": 212.72,
+    "volume": 15668849,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 227.56,
+    "close": 246.21,
+    "high": 248.18,
+    "low": 225.38,
+    "volume": 15138650,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 247.11,
+    "close": 255.78,
+    "high": 259.38,
+    "low": 243.73,
+    "volume": 13072405,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 255.79,
+    "close": 241.86,
+    "high": 263.37,
+    "low": 234.44,
+    "volume": 13556486,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 224,
+    "close": 223.62,
+    "high": 237.97,
+    "low": 213.04,
+    "volume": 20142219,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "CDW",
+    "open": 223.52,
+    "close": 223.84,
+    "high": 236.45,
+    "low": 219.33,
+    "volume": 17954254,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 224.42,
+    "close": 218.11,
+    "high": 241.26,
+    "low": 213.64,
+    "volume": 19882802,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "CDW",
+    "open": 216.15,
+    "close": 225.64,
+    "high": 231.38,
+    "low": 205.92,
+    "volume": 22830663,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "CDW",
+    "open": 224.52,
+    "close": 226.3,
+    "high": 230.86,
+    "low": 207.81,
+    "volume": 13495933,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 223.48,
+    "close": 188.23,
+    "high": 226.79,
+    "low": 188.12,
+    "volume": 21143774,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "CDW",
+    "open": 188,
+    "close": 175.93,
+    "high": 204.76,
+    "low": 172.95,
+    "volume": 32259323,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "CDW",
+    "open": 175.79,
+    "close": 174.04,
+    "high": 183.12,
+    "low": 170.68,
+    "volume": 22952561,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

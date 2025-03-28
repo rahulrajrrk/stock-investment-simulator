@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "NVDA",
+    "open": 0.17,
+    "close": 0.13,
+    "high": 0.17,
+    "low": 0.13,
+    "volume": 16076024520,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.13,
+    "close": 0.15,
+    "high": 0.16,
+    "low": 0.13,
+    "volume": 13837337760,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.15,
+    "close": 0.18,
+    "high": 0.18,
+    "low": 0.15,
+    "volume": 18226725240,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.18,
+    "close": 0.19,
+    "high": 0.2,
+    "low": 0.16,
+    "volume": 12347863800,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.2,
+    "close": 0.19,
+    "high": 0.22,
+    "low": 0.18,
+    "volume": 12399617040,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.19,
+    "close": 0.19,
+    "high": 0.2,
+    "low": 0.18,
+    "volume": 11887910880,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.18,
+    "close": 0.22,
+    "high": 0.22,
+    "low": 0.17,
+    "volume": 13155082680,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.22,
+    "close": 0.17,
+    "high": 0.23,
+    "low": 0.17,
+    "volume": 12350907480,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.17,
+    "close": 0.2,
+    "high": 0.2,
+    "low": 0.17,
+    "volume": 10302422400,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.19,
+    "close": 0.17,
+    "high": 0.2,
+    "low": 0.16,
+    "volume": 9592844280,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.17,
+    "close": 0.13,
+    "high": 0.17,
+    "low": 0.12,
+    "volume": 11744625600,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.13,
+    "close": 0.1,
+    "high": 0.13,
+    "low": 0.08,
+    "volume": 22642659120,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.1,
+    "close": 0.12,
+    "high": 0.13,
+    "low": 0.1,
+    "volume": 15640959240,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.12,
+    "close": 0.12,
+    "high": 0.13,
+    "low": 0.11,
+    "volume": 16366095960,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.12,
+    "close": 0.16,
+    "high": 0.17,
+    "low": 0.12,
+    "volume": 18513531000,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.16,
+    "close": 0.2,
+    "high": 0.21,
+    "low": 0.16,
+    "volume": 17736123000,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.2,
+    "close": 0.19,
+    "high": 0.21,
+    "low": 0.17,
+    "volume": 13723063440,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.19,
+    "close": 0.24,
+    "high": 0.24,
+    "low": 0.19,
+    "volume": 17500143000,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.24,
+    "close": 0.2,
+    "high": 0.25,
+    "low": 0.2,
+    "volume": 15158052720,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.2,
+    "close": 0.18,
+    "high": 0.2,
+    "low": 0.17,
+    "volume": 9815820720,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.18,
+    "close": 0.23,
+    "high": 0.23,
+    "low": 0.18,
+    "volume": 14335981080,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.22,
+    "close": 0.22,
+    "high": 0.24,
+    "low": 0.21,
+    "volume": 16326533520,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.22,
+    "close": 0.23,
+    "high": 0.24,
+    "low": 0.21,
+    "volume": 13675549320,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.23,
+    "close": 0.26,
+    "high": 0.26,
+    "low": 0.23,
+    "volume": 14595775920,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.26,
+    "close": 0.29,
+    "high": 0.29,
+    "low": 0.25,
+    "volume": 11110992480,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.29,
+    "close": 0.28,
+    "high": 0.3,
+    "low": 0.25,
+    "volume": 9363159480,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.28,
+    "close": 0.3,
+    "high": 0.32,
+    "low": 0.27,
+    "volume": 13192306560,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.3,
+    "close": 0.3,
+    "high": 0.32,
+    "low": 0.3,
+    "volume": 7661833920,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.31,
+    "close": 0.37,
+    "high": 0.39,
+    "low": 0.31,
+    "volume": 9504906840,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.37,
+    "close": 0.39,
+    "high": 0.42,
+    "low": 0.36,
+    "volume": 11911735200,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.39,
+    "close": 0.48,
+    "high": 0.49,
+    "low": 0.39,
+    "volume": 15790594440,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.48,
+    "close": 0.49,
+    "high": 0.51,
+    "low": 0.46,
+    "volume": 13396019640,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.49,
+    "close": 0.38,
+    "high": 0.53,
+    "low": 0.38,
+    "volume": 14392606260,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.39,
+    "close": 0.35,
+    "high": 0.41,
+    "low": 0.32,
+    "volume": 12290447760,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.36,
+    "close": 0.37,
+    "high": 0.38,
+    "low": 0.29,
+    "volume": 12164715840,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.36,
+    "close": 0.49,
+    "high": 0.49,
+    "low": 0.35,
+    "volume": 16259227080,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.48,
+    "close": 0.49,
+    "high": 0.52,
+    "low": 0.44,
+    "volume": 11527218120,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.49,
+    "close": 0.58,
+    "high": 0.58,
+    "low": 0.46,
+    "volume": 13566714180,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.57,
+    "close": 0.62,
+    "high": 0.62,
+    "low": 0.53,
+    "volume": 13464812520,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.61,
+    "close": 0.62,
+    "high": 0.65,
+    "low": 0.58,
+    "volume": 10011330480,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.62,
+    "close": 0.51,
+    "high": 0.63,
+    "low": 0.5,
+    "volume": 17069395260,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.51,
+    "close": 0.52,
+    "high": 0.58,
+    "low": 0.51,
+    "volume": 13531622760,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.51,
+    "close": 0.48,
+    "high": 0.53,
+    "low": 0.47,
+    "volume": 14847172860,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.48,
+    "close": 0.55,
+    "high": 0.57,
+    "low": 0.47,
+    "volume": 13520796300,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.56,
+    "close": 0.58,
+    "high": 0.6,
+    "low": 0.54,
+    "volume": 12954249780,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.58,
+    "close": 0.69,
+    "high": 0.73,
+    "low": 0.57,
+    "volume": 14476512540,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.7,
+    "close": 0.76,
+    "high": 0.8,
+    "low": 0.7,
+    "volume": 10421782560,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.75,
+    "close": 0.85,
+    "high": 0.86,
+    "low": 0.68,
+    "volume": 15704256180,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.86,
+    "close": 0.91,
+    "high": 0.93,
+    "low": 0.8,
+    "volume": 9489410440,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.92,
+    "close": 0.88,
+    "high": 0.99,
+    "low": 0.81,
+    "volume": 10671181760,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.87,
+    "close": 0.79,
+    "high": 0.95,
+    "low": 0.73,
+    "volume": 12058427640,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.8,
+    "close": 0.85,
+    "high": 0.91,
+    "low": 0.78,
+    "volume": 7584646200,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.85,
+    "close": 0.61,
+    "high": 0.86,
+    "low": 0.56,
+    "volume": 15500019440,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.61,
+    "close": 0.53,
+    "high": 0.69,
+    "low": 0.53,
+    "volume": 13628909080,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.53,
+    "close": 0.49,
+    "high": 0.54,
+    "low": 0.43,
+    "volume": 15937145120,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.51,
+    "close": 0.51,
+    "high": 0.53,
+    "low": 0.44,
+    "volume": 16629013560,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.52,
+    "close": 0.62,
+    "high": 0.63,
+    "low": 0.52,
+    "volume": 20394694800,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.62,
+    "close": 0.47,
+    "high": 0.63,
+    "low": 0.46,
+    "volume": 17175211840,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.46,
+    "close": 0.29,
+    "high": 0.47,
+    "low": 0.27,
+    "volume": 22751687760,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.28,
+    "close": 0.32,
+    "high": 0.35,
+    "low": 0.26,
+    "volume": 18654466120,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.32,
+    "close": 0.27,
+    "high": 0.32,
+    "low": 0.22,
+    "volume": 19729423960,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.26,
+    "close": 0.22,
+    "high": 0.27,
+    "low": 0.15,
+    "volume": 20474430760,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.22,
+    "close": 0.19,
+    "high": 0.23,
+    "low": 0.14,
+    "volume": 12208502800,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.18,
+    "close": 0.2,
+    "high": 0.24,
+    "low": 0.17,
+    "volume": 11707778280,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.2,
+    "close": 0.2,
+    "high": 0.24,
+    "low": 0.18,
+    "volume": 15269655880,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.2,
+    "close": 0.21,
+    "high": 0.25,
+    "low": 0.18,
+    "volume": 16264383160,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.2,
+    "close": 0.25,
+    "high": 0.3,
+    "low": 0.19,
+    "volume": 22189578400,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.24,
+    "close": 0.29,
+    "high": 0.3,
+    "low": 0.23,
+    "volume": 17631062760,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.29,
+    "close": 0.26,
+    "high": 0.31,
+    "low": 0.21,
+    "volume": 21405537600,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.26,
+    "close": 0.28,
+    "high": 0.3,
+    "low": 0.25,
+    "volume": 14680389920,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.28,
+    "close": 0.32,
+    "high": 0.33,
+    "low": 0.24,
+    "volume": 15996267560,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.33,
+    "close": 0.36,
+    "high": 0.38,
+    "low": 0.32,
+    "volume": 13210666760,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.36,
+    "close": 0.38,
+    "high": 0.41,
+    "low": 0.35,
+    "volume": 12072850920,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.37,
+    "close": 0.3,
+    "high": 0.37,
+    "low": 0.3,
+    "volume": 15516508600,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.3,
+    "close": 0.33,
+    "high": 0.35,
+    "low": 0.29,
+    "volume": 12839393800,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.33,
+    "close": 0.47,
+    "high": 0.47,
+    "low": 0.33,
+    "volume": 16365538200,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.46,
+    "close": 0.38,
+    "high": 0.47,
+    "low": 0.38,
+    "volume": 12898683520,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.39,
+    "close": 0.41,
+    "high": 0.45,
+    "low": 0.38,
+    "volume": 12856914680,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.41,
+    "close": 0.43,
+    "high": 0.46,
+    "low": 0.4,
+    "volume": 11747284520,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.44,
+    "close": 0.39,
+    "high": 0.45,
+    "low": 0.39,
+    "volume": 17105491000,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.39,
+    "close": 0.33,
+    "high": 0.4,
+    "low": 0.3,
+    "volume": 20774483920,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.32,
+    "close": 0.26,
+    "high": 0.33,
+    "low": 0.26,
+    "volume": 13694967720,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.26,
+    "close": 0.23,
+    "high": 0.29,
+    "low": 0.22,
+    "volume": 19237651040,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.23,
+    "close": 0.23,
+    "high": 0.26,
+    "low": 0.22,
+    "volume": 19415421400,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.24,
+    "close": 0.29,
+    "high": 0.31,
+    "low": 0.23,
+    "volume": 17534690440,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.3,
+    "close": 0.3,
+    "high": 0.31,
+    "low": 0.26,
+    "volume": 15802322160,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.3,
+    "close": 0.34,
+    "high": 0.35,
+    "low": 0.3,
+    "volume": 14536635760,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.35,
+    "close": 0.39,
+    "high": 0.39,
+    "low": 0.35,
+    "volume": 11205466840,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.39,
+    "close": 0.6,
+    "high": 0.63,
+    "low": 0.39,
+    "volume": 32739814520,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.6,
+    "close": 0.57,
+    "high": 0.65,
+    "low": 0.54,
+    "volume": 24026692760,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.57,
+    "close": 0.46,
+    "high": 0.57,
+    "low": 0.43,
+    "volume": 27594173120,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.47,
+    "close": 0.5,
+    "high": 0.51,
+    "low": 0.42,
+    "volume": 15324811320,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.51,
+    "close": 0.5,
+    "high": 0.51,
+    "low": 0.43,
+    "volume": 17160056880,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.5,
+    "close": 0.4,
+    "high": 0.5,
+    "low": 0.37,
+    "volume": 15955373040,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.4,
+    "close": 0.35,
+    "high": 0.41,
+    "low": 0.34,
+    "volume": 14553168520,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.35,
+    "close": 0.33,
+    "high": 0.38,
+    "low": 0.29,
+    "volume": 22573867400,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.34,
+    "close": 0.31,
+    "high": 0.4,
+    "low": 0.31,
+    "volume": 20085578720,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.31,
+    "close": 0.37,
+    "high": 0.4,
+    "low": 0.29,
+    "volume": 14854217240,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.36,
+    "close": 0.39,
+    "high": 0.39,
+    "low": 0.34,
+    "volume": 16168448000,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.39,
+    "close": 0.35,
+    "high": 0.4,
+    "low": 0.33,
+    "volume": 9743226760,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.36,
+    "close": 0.37,
+    "high": 0.38,
+    "low": 0.34,
+    "volume": 11598549440,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.37,
+    "close": 0.38,
+    "high": 0.42,
+    "low": 0.37,
+    "volume": 13078325160,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.38,
+    "close": 0.38,
+    "high": 0.39,
+    "low": 0.36,
+    "volume": 10326735960,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.38,
+    "close": 0.33,
+    "high": 0.39,
+    "low": 0.32,
+    "volume": 9546561440,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.32,
+    "close": 0.31,
+    "high": 0.34,
+    "low": 0.3,
+    "volume": 11371282080,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.3,
+    "close": 0.35,
+    "high": 0.35,
+    "low": 0.29,
+    "volume": 11532005040,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.35,
+    "close": 0.34,
+    "high": 0.35,
+    "low": 0.3,
+    "volume": 8500720400,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.34,
+    "close": 0.35,
+    "high": 0.38,
+    "low": 0.33,
+    "volume": 9918545480,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.34,
+    "close": 0.33,
+    "high": 0.35,
+    "low": 0.32,
+    "volume": 8750062560,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.34,
+    "close": 0.3,
+    "high": 0.34,
+    "low": 0.3,
+    "volume": 8136221480,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.3,
+    "close": 0.3,
+    "high": 0.33,
+    "low": 0.28,
+    "volume": 9986121040,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.3,
+    "close": 0.31,
+    "high": 0.32,
+    "low": 0.29,
+    "volume": 8038292400,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.31,
+    "close": 0.31,
+    "high": 0.33,
+    "low": 0.3,
+    "volume": 9182894160,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.31,
+    "close": 0.32,
+    "high": 0.32,
+    "low": 0.3,
+    "volume": 9902117760,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.31,
+    "close": 0.32,
+    "high": 0.33,
+    "low": 0.31,
+    "volume": 6614004720,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.32,
+    "close": 0.34,
+    "high": 0.34,
+    "low": 0.3,
+    "volume": 9385802320,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.34,
+    "close": 0.36,
+    "high": 0.37,
+    "low": 0.34,
+    "volume": 8292117920,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.36,
+    "close": 0.35,
+    "high": 0.39,
+    "low": 0.35,
+    "volume": 9294101280,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.35,
+    "close": 0.36,
+    "high": 0.37,
+    "low": 0.35,
+    "volume": 5230090120,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.36,
+    "close": 0.37,
+    "high": 0.39,
+    "low": 0.33,
+    "volume": 7858113400,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.37,
+    "close": 0.39,
+    "high": 0.4,
+    "low": 0.37,
+    "volume": 4824675360,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.39,
+    "close": 0.38,
+    "high": 0.4,
+    "low": 0.38,
+    "volume": 5772834400,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.38,
+    "close": 0.39,
+    "high": 0.41,
+    "low": 0.36,
+    "volume": 6629688600,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.39,
+    "close": 0.4,
+    "high": 0.4,
+    "low": 0.37,
+    "volume": 6168527600,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.4,
+    "close": 0.39,
+    "high": 0.41,
+    "low": 0.38,
+    "volume": 5417416560,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.4,
+    "close": 0.46,
+    "high": 0.48,
+    "low": 0.38,
+    "volume": 7724850040,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.45,
+    "close": 0.45,
+    "high": 0.47,
+    "low": 0.44,
+    "volume": 7218511680,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.46,
+    "close": 0.46,
+    "high": 0.49,
+    "low": 0.45,
+    "volume": 6931421000,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.47,
+    "close": 0.47,
+    "high": 0.48,
+    "low": 0.44,
+    "volume": 5612797680,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.48,
+    "close": 0.46,
+    "high": 0.49,
+    "low": 0.46,
+    "volume": 5277172080,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.46,
+    "close": 0.44,
+    "high": 0.49,
+    "low": 0.44,
+    "volume": 6269326080,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.44,
+    "close": 0.49,
+    "high": 0.49,
+    "low": 0.43,
+    "volume": 6080819840,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.49,
+    "close": 0.46,
+    "high": 0.5,
+    "low": 0.46,
+    "volume": 5512435680,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.46,
+    "close": 0.49,
+    "high": 0.49,
+    "low": 0.42,
+    "volume": 6607628720,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.5,
+    "close": 0.52,
+    "high": 0.53,
+    "low": 0.48,
+    "volume": 4643180680,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.52,
+    "close": 0.5,
+    "high": 0.53,
+    "low": 0.48,
+    "volume": 4257354240,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.5,
+    "close": 0.48,
+    "high": 0.52,
+    "low": 0.48,
+    "volume": 4140378480,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.48,
+    "close": 0.55,
+    "high": 0.56,
+    "low": 0.47,
+    "volume": 4191749880,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.55,
+    "close": 0.52,
+    "high": 0.59,
+    "low": 0.51,
+    "volume": 7310449680,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.53,
+    "close": 0.55,
+    "high": 0.57,
+    "low": 0.52,
+    "volume": 5673641720,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.56,
+    "close": 0.55,
+    "high": 0.57,
+    "low": 0.51,
+    "volume": 7077553080,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.56,
+    "close": 0.5,
+    "high": 0.56,
+    "low": 0.5,
+    "volume": 7333827120,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.52,
+    "close": 0.5,
+    "high": 0.52,
+    "low": 0.48,
+    "volume": 5480512280,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.5,
+    "close": 0.56,
+    "high": 0.6,
+    "low": 0.5,
+    "volume": 9469514160,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.55,
+    "close": 0.62,
+    "high": 0.62,
+    "low": 0.54,
+    "volume": 6480262880,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.62,
+    "close": 0.71,
+    "high": 0.72,
+    "low": 0.59,
+    "volume": 8053956200,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.71,
+    "close": 0.79,
+    "high": 0.8,
+    "low": 0.69,
+    "volume": 7344591440,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.8,
+    "close": 0.82,
+    "high": 0.85,
+    "low": 0.8,
+    "volume": 5625866000,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.81,
+    "close": 0.73,
+    "high": 0.84,
+    "low": 0.66,
+    "volume": 8139052520,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.73,
+    "close": 0.78,
+    "high": 0.8,
+    "low": 0.62,
+    "volume": 9000012160,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.79,
+    "close": 0.89,
+    "high": 0.91,
+    "low": 0.78,
+    "volume": 6576177560,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.89,
+    "close": 0.89,
+    "high": 0.94,
+    "low": 0.87,
+    "volume": 6734272160,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 0.9,
+    "close": 1.17,
+    "high": 1.17,
+    "low": 0.86,
+    "volume": 10348358920,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 1.16,
+    "close": 1.18,
+    "high": 1.21,
+    "low": 1.11,
+    "volume": 8189157600,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 1.17,
+    "close": 1.43,
+    "high": 1.43,
+    "low": 1.15,
+    "volume": 7210050240,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 1.43,
+    "close": 1.53,
+    "high": 1.59,
+    "low": 1.39,
+    "volume": 9258272160,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 1.53,
+    "close": 1.71,
+    "high": 1.73,
+    "low": 1.43,
+    "volume": 8665767400,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 1.71,
+    "close": 1.78,
+    "high": 1.82,
+    "low": 1.59,
+    "volume": 6550896520,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 1.79,
+    "close": 2.31,
+    "high": 2.38,
+    "low": 1.66,
+    "volume": 12767467800,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 2.3,
+    "close": 2.67,
+    "high": 3.0,
+    "low": 2.12,
+    "volume": 18082225200,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 2.61,
+    "close": 2.73,
+    "high": 2.8,
+    "low": 2.48,
+    "volume": 13397455400,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 2.76,
+    "close": 2.54,
+    "high": 3.02,
+    "low": 2.39,
+    "volume": 14206423600,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 2.59,
+    "close": 2.72,
+    "high": 2.75,
+    "low": 2.38,
+    "volume": 14288472760,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 2.72,
+    "close": 2.61,
+    "high": 2.74,
+    "low": 2.39,
+    "volume": 9572161600,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 2.62,
+    "close": 3.61,
+    "high": 3.67,
+    "low": 2.56,
+    "volume": 19206782640,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 3.62,
+    "close": 3.61,
+    "high": 4.21,
+    "low": 3.55,
+    "volume": 23445322360,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 3.63,
+    "close": 4.06,
+    "high": 4.25,
+    "low": 3.46,
+    "volume": 15491016400,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 4.05,
+    "close": 4.24,
+    "high": 4.36,
+    "low": 3.82,
+    "volume": 14728208560,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 4.25,
+    "close": 4.47,
+    "high": 4.78,
+    "low": 4.07,
+    "volume": 14448660760,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 4.52,
+    "close": 5.17,
+    "high": 5.2,
+    "low": 4.42,
+    "volume": 11422658920,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 5.23,
+    "close": 5.02,
+    "high": 5.47,
+    "low": 4.78,
+    "volume": 11829104840,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 4.98,
+    "close": 4.84,
+    "high": 5.01,
+    "low": 4.51,
+    "volume": 10112216200,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 4.89,
+    "close": 6.14,
+    "high": 6.23,
+    "low": 4.86,
+    "volume": 11455497600,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 5.96,
+    "close": 6.05,
+    "high": 6.3,
+    "low": 5.1,
+    "volume": 14873783520,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 6.05,
+    "close": 5.79,
+    "high": 6.36,
+    "low": 5.42,
+    "volume": 14117275520,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 5.72,
+    "close": 5.62,
+    "high": 5.98,
+    "low": 5.26,
+    "volume": 11146518840,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 5.61,
+    "close": 6.3,
+    "high": 6.51,
+    "low": 5.55,
+    "volume": 11974728520,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 6.35,
+    "close": 5.92,
+    "high": 6.73,
+    "low": 5.88,
+    "volume": 8783679920,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 5.85,
+    "close": 6.12,
+    "high": 6.42,
+    "low": 5.83,
+    "volume": 6322883600,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 6.15,
+    "close": 7.02,
+    "high": 7.04,
+    "low": 5.97,
+    "volume": 10917770840,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 7.0,
+    "close": 7.03,
+    "high": 7.13,
+    "low": 6.47,
+    "volume": 6340163920,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 7.1,
+    "close": 5.27,
+    "high": 7.32,
+    "low": 4.4,
+    "volume": 12976684840,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 5.31,
+    "close": 4.09,
+    "high": 5.55,
+    "low": 3.33,
+    "volume": 16160234000,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 4.32,
+    "close": 3.34,
+    "high": 4.37,
+    "low": 3.11,
+    "volume": 12445538920,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 3.27,
+    "close": 3.59,
+    "high": 4.02,
+    "low": 3.19,
+    "volume": 16870450640,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 3.61,
+    "close": 3.86,
+    "high": 4.13,
+    "low": 3.56,
+    "volume": 11445739600,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 3.91,
+    "close": 4.49,
+    "high": 4.62,
+    "low": 3.62,
+    "volume": 12068292000,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 4.58,
+    "close": 4.53,
+    "high": 4.84,
+    "low": 4.33,
+    "volume": 9436166000,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 4.58,
+    "close": 3.39,
+    "high": 4.62,
+    "low": 3.38,
+    "volume": 11177111880,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 3.4,
+    "close": 4.11,
+    "high": 4.13,
+    "low": 3.31,
+    "volume": 8228205800,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 4.31,
+    "close": 4.22,
+    "high": 4.47,
+    "low": 3.88,
+    "volume": 8418695800,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 4.23,
+    "close": 4.19,
+    "high": 4.34,
+    "low": 3.68,
+    "volume": 9543409600,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 4.11,
+    "close": 4.35,
+    "high": 4.71,
+    "low": 4.08,
+    "volume": 6406429920,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 4.38,
+    "close": 5.03,
+    "high": 5.22,
+    "low": 4.25,
+    "volume": 7810813040,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 4.99,
+    "close": 5.42,
+    "high": 5.54,
+    "low": 4.96,
+    "volume": 7337591640,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 5.41,
+    "close": 5.88,
+    "high": 6.05,
+    "low": 5.01,
+    "volume": 6569699360,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 5.97,
+    "close": 5.91,
+    "high": 6.49,
+    "low": 5.78,
+    "volume": 6132482280,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 5.89,
+    "close": 6.75,
+    "high": 7.91,
+    "low": 5.89,
+    "volume": 11851225680,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 6.92,
+    "close": 6.59,
+    "high": 7.12,
+    "low": 4.52,
+    "volume": 15771745880,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 6.39,
+    "close": 7.31,
+    "high": 7.61,
+    "low": 5.96,
+    "volume": 11276287160,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 7.11,
+    "close": 8.88,
+    "high": 9.18,
+    "low": 7.02,
+    "volume": 12553010880,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 8.83,
+    "close": 9.5,
+    "high": 9.64,
+    "low": 8.66,
+    "volume": 9709694720,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 9.52,
+    "close": 10.61,
+    "high": 10.79,
+    "low": 9.41,
+    "volume": 8094167920,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 10.73,
+    "close": 13.37,
+    "high": 13.57,
+    "low": 10.72,
+    "volume": 9665577040,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 13.48,
+    "close": 13.53,
+    "high": 14.73,
+    "low": 11.7,
+    "volume": 15859692440,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 13.76,
+    "close": 12.53,
+    "high": 14.35,
+    "low": 12.3,
+    "volume": 8022723640,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 12.66,
+    "close": 13.4,
+    "high": 14.69,
+    "low": 12.39,
+    "volume": 7578914600,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 13.49,
+    "close": 13.05,
+    "high": 13.73,
+    "low": 12.76,
+    "volume": 5104204760,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 13.1,
+    "close": 12.99,
+    "high": 14.0,
+    "low": 12.59,
+    "volume": 6152336240,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 13.05,
+    "close": 13.71,
+    "high": 15.37,
+    "low": 12.9,
+    "volume": 6656463600,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 13.88,
+    "close": 13.35,
+    "high": 13.93,
+    "low": 11.57,
+    "volume": 7620589160,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 13.57,
+    "close": 15.01,
+    "high": 16.21,
+    "low": 13.51,
+    "volume": 6714725640,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 15.12,
+    "close": 16.24,
+    "high": 16.28,
+    "low": 13.46,
+    "volume": 7046379760,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 16.27,
+    "close": 20.0,
+    "high": 20.16,
+    "low": 15.9,
+    "volume": 10244805600,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 20.12,
+    "close": 19.5,
+    "high": 20.88,
+    "low": 17.87,
+    "volume": 7815450380,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 19.7,
+    "close": 22.39,
+    "high": 23.04,
+    "low": 18.76,
+    "volume": 6396715710,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 22.48,
+    "close": 20.72,
+    "high": 22.99,
+    "low": 20.47,
+    "volume": 5012092850,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 20.75,
+    "close": 25.57,
+    "high": 25.71,
+    "low": 19.55,
+    "volume": 4957561060,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 25.65,
+    "close": 32.68,
+    "high": 34.65,
+    "low": 25.23,
+    "volume": 10805440160,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 33.22,
+    "close": 29.41,
+    "high": 33.29,
+    "low": 27.14,
+    "volume": 11060473640,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 29.82,
+    "close": 24.49,
+    "high": 30.71,
+    "low": 20.89,
+    "volume": 10683319840,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 25.1,
+    "close": 24.39,
+    "high": 26.93,
+    "low": 20.89,
+    "volume": 10638844360,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 24.29,
+    "close": 27.29,
+    "high": 28.95,
+    "low": 20.65,
+    "volume": 11639177520,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 27.38,
+    "close": 18.55,
+    "high": 27.56,
+    "low": 18.29,
+    "volume": 11105834630,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 18.54,
+    "close": 18.67,
+    "high": 20.4,
+    "low": 15.57,
+    "volume": 13814659730,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 18.72,
+    "close": 15.16,
+    "high": 19.62,
+    "low": 14.86,
+    "volume": 10555291550,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 14.9,
+    "close": 18.16,
+    "high": 18.24,
+    "low": 14.05,
+    "volume": 10565294680,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 18.18,
+    "close": 15.09,
+    "high": 19.27,
+    "low": 14.96,
+    "volume": 12070463520,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 14.21,
+    "close": 12.14,
+    "high": 14.55,
+    "low": 11.95,
+    "volume": 13123850320,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 12.35,
+    "close": 13.5,
+    "high": 13.85,
+    "low": 10.81,
+    "volume": 12550202370,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 13.81,
+    "close": 16.92,
+    "high": 17.0,
+    "low": 12.96,
+    "volume": 10600609600,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 17.0,
+    "close": 14.61,
+    "high": 18.79,
+    "low": 13.88,
+    "volume": 8944183210,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 14.85,
+    "close": 19.54,
+    "high": 20.63,
+    "low": 14.03,
+    "volume": 9454645890,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 19.69,
+    "close": 23.22,
+    "high": 23.89,
+    "low": 19.61,
+    "volume": 10392591790,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 23.19,
+    "close": 27.78,
+    "high": 27.83,
+    "low": 22.3,
+    "volume": 11265644510,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 27.51,
+    "close": 27.75,
+    "high": 28.11,
+    "low": 26.22,
+    "volume": 7433136570,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 27.84,
+    "close": 37.83,
+    "high": 41.94,
+    "low": 27.24,
+    "volume": 11691551350,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 38.49,
+    "close": 42.3,
+    "high": 43.99,
+    "low": 37.36,
+    "volume": 10525761270,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "NVDA",
+    "open": 42.52,
+    "close": 44.31,
+    "high": 48.09,
+    "low": 41.35,
+    "volume": 6572722440,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

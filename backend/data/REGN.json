@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "REGN",
+    "open": 21.65,
+    "close": 17.67,
+    "high": 22.12,
+    "low": 17.23,
+    "volume": 9252378,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 17.6,
+    "close": 13.84,
+    "high": 18.72,
+    "low": 12.53,
+    "volume": 19526328,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 13.85,
+    "close": 12.88,
+    "high": 14.04,
+    "low": 11.8,
+    "volume": 6896448,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 12.86,
+    "close": 14.71,
+    "high": 15.64,
+    "low": 12.39,
+    "volume": 7195667,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 14.81,
+    "close": 14.86,
+    "high": 16.97,
+    "low": 14.5,
+    "volume": 8618978,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 14.85,
+    "close": 14.16,
+    "high": 17,
+    "low": 13.29,
+    "volume": 12493421,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 14.24,
+    "close": 13.58,
+    "high": 16.45,
+    "low": 12.8,
+    "volume": 10933446,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 13.55,
+    "close": 12.53,
+    "high": 15.85,
+    "low": 12.1,
+    "volume": 14761891,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 12.59,
+    "close": 11.23,
+    "high": 13.71,
+    "low": 10.76,
+    "volume": 10173754,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 11.25,
+    "close": 10.53,
+    "high": 11.65,
+    "low": 8.53,
+    "volume": 12678567,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 10.61,
+    "close": 8.56,
+    "high": 10.8,
+    "low": 7.28,
+    "volume": 5713356,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 8.63,
+    "close": 8.91,
+    "high": 9.18,
+    "low": 6.76,
+    "volume": 5661924,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 8.88,
+    "close": 8.68,
+    "high": 9.63,
+    "low": 8.2,
+    "volume": 3423167,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 8.65,
+    "close": 7.27,
+    "high": 9.25,
+    "low": 6.54,
+    "volume": 7131279,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 7.16,
+    "close": 9.22,
+    "high": 9.27,
+    "low": 7.16,
+    "volume": 5276413,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 9.35,
+    "close": 9.21,
+    "high": 9.85,
+    "low": 8.54,
+    "volume": 5722227,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 9.36,
+    "close": 7.2,
+    "high": 9.36,
+    "low": 6.95,
+    "volume": 6135852,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 7.28,
+    "close": 6.11,
+    "high": 7.51,
+    "low": 6.11,
+    "volume": 6436825,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 6.11,
+    "close": 5.11,
+    "high": 6.2,
+    "low": 4.75,
+    "volume": 7569388,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 5.11,
+    "close": 5.57,
+    "high": 5.9,
+    "low": 4.61,
+    "volume": 9204250,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 5.6,
+    "close": 6.23,
+    "high": 7.59,
+    "low": 5.6,
+    "volume": 10137322,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 6.17,
+    "close": 8.39,
+    "high": 8.84,
+    "low": 5.91,
+    "volume": 9190412,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 8.4,
+    "close": 9.64,
+    "high": 10.67,
+    "low": 8.37,
+    "volume": 5790550,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 9.65,
+    "close": 7.47,
+    "high": 10.22,
+    "low": 7.36,
+    "volume": 6058948,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 7.48,
+    "close": 9.49,
+    "high": 9.72,
+    "low": 7.47,
+    "volume": 6825444,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 9.43,
+    "close": 12.51,
+    "high": 12.7,
+    "low": 8.55,
+    "volume": 11584075,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 12.51,
+    "close": 11.17,
+    "high": 13.4,
+    "low": 10.45,
+    "volume": 9642992,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 11.15,
+    "close": 15.9,
+    "high": 17.37,
+    "low": 10.15,
+    "volume": 11596275,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 15.8,
+    "close": 15.23,
+    "high": 17.68,
+    "low": 14.35,
+    "volume": 10979035,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 15.15,
+    "close": 16.37,
+    "high": 18,
+    "low": 14.66,
+    "volume": 8209199,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 16.37,
+    "close": 16.63,
+    "high": 18,
+    "low": 16,
+    "volume": 8384156,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 16.55,
+    "close": 14.52,
+    "high": 16.69,
+    "low": 13.58,
+    "volume": 7192245,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 14.66,
+    "close": 12.94,
+    "high": 15.78,
+    "low": 10.97,
+    "volume": 9222975,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 12.93,
+    "close": 12.82,
+    "high": 13.42,
+    "low": 11.79,
+    "volume": 8549089,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 12.82,
+    "close": 13.66,
+    "high": 13.93,
+    "low": 10.88,
+    "volume": 6599150,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 13.59,
+    "close": 15.88,
+    "high": 16.19,
+    "low": 13.01,
+    "volume": 5300377,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 15.92,
+    "close": 15.69,
+    "high": 17,
+    "low": 15.22,
+    "volume": 7499666,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 15.57,
+    "close": 20.02,
+    "high": 20.43,
+    "low": 15.27,
+    "volume": 8949626,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 20.2,
+    "close": 21.51,
+    "high": 24.85,
+    "low": 19.69,
+    "volume": 15982280,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 21.54,
+    "close": 20.07,
+    "high": 21.94,
+    "low": 19.76,
+    "volume": 9476954,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 19.93,
+    "close": 19.89,
+    "high": 22.84,
+    "low": 19.23,
+    "volume": 10006088,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 19.79,
+    "close": 19.84,
+    "high": 22.82,
+    "low": 18.97,
+    "volume": 12105585,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 19.36,
+    "close": 21.62,
+    "high": 22.65,
+    "low": 17.87,
+    "volume": 15039135,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 21.62,
+    "close": 27.2,
+    "high": 28.72,
+    "low": 21.52,
+    "volume": 16252076,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 27.12,
+    "close": 22.44,
+    "high": 28.74,
+    "low": 21.88,
+    "volume": 22396717,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 22.45,
+    "close": 17.92,
+    "high": 23.5,
+    "low": 17.55,
+    "volume": 28899747,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 18,
+    "close": 14.89,
+    "high": 18.69,
+    "low": 14.87,
+    "volume": 13230936,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 14.84,
+    "close": 19.46,
+    "high": 19.75,
+    "low": 13.55,
+    "volume": 24483718,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 19.35,
+    "close": 17.8,
+    "high": 21.78,
+    "low": 17.66,
+    "volume": 13533457,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 18.04,
+    "close": 22,
+    "high": 22.76,
+    "low": 17.18,
+    "volume": 15354609,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 21.75,
+    "close": 21.78,
+    "high": 23.75,
+    "low": 16.77,
+    "volume": 16212324,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 22.3,
+    "close": 24.15,
+    "high": 24.9,
+    "low": 21.36,
+    "volume": 12705192,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 24.02,
+    "close": 20.28,
+    "high": 25.25,
+    "low": 19.96,
+    "volume": 13354769,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 20.32,
+    "close": 19.77,
+    "high": 21.62,
+    "low": 17.35,
+    "volume": 11528370,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 19.78,
+    "close": 19.19,
+    "high": 21.33,
+    "low": 15.61,
+    "volume": 16951786,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 19.29,
+    "close": 19.62,
+    "high": 21.3,
+    "low": 17.76,
+    "volume": 9986606,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 19.45,
+    "close": 19.9,
+    "high": 21.68,
+    "low": 18.01,
+    "volume": 13499192,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 19.88,
+    "close": 14.44,
+    "high": 19.89,
+    "low": 13.75,
+    "volume": 17960637,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 14.35,
+    "close": 21.89,
+    "high": 22.65,
+    "low": 13.29,
+    "volume": 13991674,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 21.84,
+    "close": 21.72,
+    "high": 23.25,
+    "low": 19.43,
+    "volume": 12931693,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 22.04,
+    "close": 21.83,
+    "high": 25,
+    "low": 18.21,
+    "volume": 16923774,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 21.59,
+    "close": 19.3,
+    "high": 22.82,
+    "low": 14.44,
+    "volume": 14292119,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 19.48,
+    "close": 15.46,
+    "high": 20.75,
+    "low": 12.62,
+    "volume": 9641039,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 14.68,
+    "close": 18.36,
+    "high": 19.45,
+    "low": 13.66,
+    "volume": 9741061,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 18.42,
+    "close": 17.48,
+    "high": 19.4,
+    "low": 14.92,
+    "volume": 6662816,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 17.18,
+    "close": 14.25,
+    "high": 20.08,
+    "low": 14.18,
+    "volume": 9265544,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 14.04,
+    "close": 13.86,
+    "high": 15.13,
+    "low": 11.81,
+    "volume": 13000259,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 13.62,
+    "close": 13.26,
+    "high": 13.95,
+    "low": 12.11,
+    "volume": 11649159,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 14.2,
+    "close": 15.27,
+    "high": 16.72,
+    "low": 13.48,
+    "volume": 11634313,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 15.2,
+    "close": 17.92,
+    "high": 18.42,
+    "low": 14.91,
+    "volume": 12009685,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 18.11,
+    "close": 21.48,
+    "high": 22,
+    "low": 16.05,
+    "volume": 10373041,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 22,
+    "close": 22.73,
+    "high": 23.04,
+    "low": 20.83,
+    "volume": 8796798,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 22.54,
+    "close": 19.3,
+    "high": 23.49,
+    "low": 19.17,
+    "volume": 9832222,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 19.29,
+    "close": 15.7,
+    "high": 19.35,
+    "low": 15.43,
+    "volume": 12350022,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 15.76,
+    "close": 18.35,
+    "high": 19.96,
+    "low": 15.02,
+    "volume": 14873322,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 18.44,
+    "close": 24.18,
+    "high": 24.97,
+    "low": 18.28,
+    "volume": 12848406,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 24.24,
+    "close": 26.66,
+    "high": 27.14,
+    "low": 23.55,
+    "volume": 9926163,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 26.7,
+    "close": 24.46,
+    "high": 30.51,
+    "low": 24.01,
+    "volume": 17937645,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 24.53,
+    "close": 26.49,
+    "high": 27.68,
+    "low": 23.42,
+    "volume": 12296879,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 26.59,
+    "close": 25.53,
+    "high": 27.5,
+    "low": 23.72,
+    "volume": 8658614,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 25.71,
+    "close": 28.57,
+    "high": 28.95,
+    "low": 22.9,
+    "volume": 16783884,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 28.3,
+    "close": 22.32,
+    "high": 30.58,
+    "low": 22.32,
+    "volume": 24987306,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 22.31,
+    "close": 24.19,
+    "high": 25.6,
+    "low": 20.45,
+    "volume": 14054845,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 24.67,
+    "close": 21.98,
+    "high": 25.7,
+    "low": 21.5,
+    "volume": 6744164,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 22.43,
+    "close": 27.4,
+    "high": 27.53,
+    "low": 22,
+    "volume": 6502969,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 27.53,
+    "close": 26.11,
+    "high": 29.64,
+    "low": 26.07,
+    "volume": 12484762,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 26.37,
+    "close": 28.82,
+    "high": 30.9,
+    "low": 24.29,
+    "volume": 17110367,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 29.12,
+    "close": 32.83,
+    "high": 33.94,
+    "low": 28.95,
+    "volume": 11908956,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 32.69,
+    "close": 33.68,
+    "high": 35.87,
+    "low": 32.32,
+    "volume": 8994505,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 33.69,
+    "close": 36.27,
+    "high": 38.1,
+    "low": 33.4,
+    "volume": 11815089,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 36.43,
+    "close": 44.94,
+    "high": 45.11,
+    "low": 35.97,
+    "volume": 10828211,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 44.78,
+    "close": 51.04,
+    "high": 71.74,
+    "low": 41.83,
+    "volume": 44146713,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 51.12,
+    "close": 60.02,
+    "high": 60.38,
+    "low": 46.6,
+    "volume": 22650553,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 59.83,
+    "close": 56.71,
+    "high": 61.05,
+    "low": 51.38,
+    "volume": 19963970,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 56.46,
+    "close": 53.06,
+    "high": 61.28,
+    "low": 51.51,
+    "volume": 14232306,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 54,
+    "close": 59.03,
+    "high": 63.45,
+    "low": 42.83,
+    "volume": 30224170,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 59.44,
+    "close": 58.2,
+    "high": 79.9,
+    "low": 57.43,
+    "volume": 35669662,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 57.37,
+    "close": 55.3,
+    "high": 66.47,
+    "low": 54.03,
+    "volume": 27389109,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 54.28,
+    "close": 59.42,
+    "high": 59.71,
+    "low": 49.58,
+    "volume": 20704401,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 59.1,
+    "close": 55.43,
+    "high": 60.38,
+    "low": 50.27,
+    "volume": 32232448,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 56.51,
+    "close": 90.86,
+    "high": 91.75,
+    "low": 56.01,
+    "volume": 31222528,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 90.46,
+    "close": 104.79,
+    "high": 116.93,
+    "low": 89.92,
+    "volume": 30847117,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 104.32,
+    "close": 116.62,
+    "high": 121.39,
+    "low": 102.02,
+    "volume": 17282222,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 117.46,
+    "close": 135.26,
+    "high": 145.04,
+    "low": 115.92,
+    "volume": 18297503,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 134.94,
+    "close": 135.65,
+    "high": 138.73,
+    "low": 119.49,
+    "volume": 22424352,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 133.23,
+    "close": 114.22,
+    "high": 134.91,
+    "low": 107.31,
+    "volume": 22007068,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 115.15,
+    "close": 134.65,
+    "high": 138.68,
+    "low": 111.5,
+    "volume": 17527959,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 136.3,
+    "close": 148.05,
+    "high": 148.23,
+    "low": 131.24,
+    "volume": 13984499,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 148.4,
+    "close": 152.66,
+    "high": 153.98,
+    "low": 141.84,
+    "volume": 13475539,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 153.11,
+    "close": 142.3,
+    "high": 166.39,
+    "low": 141.57,
+    "volume": 16420302,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 144.5,
+    "close": 176.55,
+    "high": 188.95,
+    "low": 136.13,
+    "volume": 19224814,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 180.15,
+    "close": 171.07,
+    "high": 188.92,
+    "low": 164.06,
+    "volume": 16569849,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 176.42,
+    "close": 173.94,
+    "high": 185.78,
+    "low": 164.0,
+    "volume": 14999044,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 175.14,
+    "close": 167,
+    "high": 182.59,
+    "low": 154.16,
+    "volume": 18016353,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 166.65,
+    "close": 176.4,
+    "high": 177.99,
+    "low": 165.25,
+    "volume": 10960490,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 180,
+    "close": 215.14,
+    "high": 220.98,
+    "low": 177.12,
+    "volume": 33854483,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 214.75,
+    "close": 241.88,
+    "high": 283.99,
+    "low": 214.7,
+    "volume": 25143265,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 241.83,
+    "close": 224.88,
+    "high": 261.75,
+    "low": 206.3,
+    "volume": 20451563,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 231.6,
+    "close": 270.06,
+    "high": 282.27,
+    "low": 225.78,
+    "volume": 14492911,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 272.57,
+    "close": 242.31,
+    "high": 278.73,
+    "low": 227.64,
+    "volume": 14018169,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 245.99,
+    "close": 312.87,
+    "high": 319.83,
+    "low": 245.99,
+    "volume": 16283120,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 316.58,
+    "close": 287.6,
+    "high": 319.5,
+    "low": 271.15,
+    "volume": 15142765,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 290.81,
+    "close": 293.86,
+    "high": 305.67,
+    "low": 268.01,
+    "volume": 18025320,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 292.41,
+    "close": 275.24,
+    "high": 297.59,
+    "low": 257.69,
+    "volume": 14240903,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 275.77,
+    "close": 288.59,
+    "high": 304.42,
+    "low": 262.97,
+    "volume": 19526090,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 288.91,
+    "close": 332.5,
+    "high": 348.25,
+    "low": 274.02,
+    "volume": 23669785,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 328.09,
+    "close": 300.28,
+    "high": 352.49,
+    "low": 296.61,
+    "volume": 27740164,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 304.76,
+    "close": 296.89,
+    "high": 316,
+    "low": 273.23,
+    "volume": 21947841,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 297.1,
+    "close": 306.96,
+    "high": 311.69,
+    "low": 276.01,
+    "volume": 15365709,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 308.7,
+    "close": 282.47,
+    "high": 320,
+    "low": 269.5,
+    "volume": 18324937,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 285.5,
+    "close": 316.22,
+    "high": 336.94,
+    "low": 285.06,
+    "volume": 19971981,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 323.74,
+    "close": 350.45,
+    "high": 354.79,
+    "low": 314,
+    "volume": 13943663,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 367,
+    "close": 360.52,
+    "high": 369.31,
+    "low": 340.39,
+    "volume": 16774786,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 363.95,
+    "close": 393.72,
+    "high": 410.18,
+    "low": 320.06,
+    "volume": 20889279,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 395.27,
+    "close": 416.11,
+    "high": 419.27,
+    "low": 365.25,
+    "volume": 15016844,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 413.98,
+    "close": 410.25,
+    "high": 437.64,
+    "low": 383.87,
+    "volume": 17007132,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 413.9,
+    "close": 416.66,
+    "high": 427.45,
+    "low": 395.56,
+    "volume": 17198560,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 419.79,
+    "close": 413.84,
+    "high": 432.38,
+    "low": 393,
+    "volume": 16310424,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 416.28,
+    "close": 451.48,
+    "high": 495.5,
+    "low": 406.85,
+    "volume": 21059962,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 450,
+    "close": 457.46,
+    "high": 486,
+    "low": 433.47,
+    "volume": 15876961,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 463.02,
+    "close": 512.56,
+    "high": 519.46,
+    "low": 462,
+    "volume": 15388267,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 517.08,
+    "close": 510.13,
+    "high": 544,
+    "low": 482.92,
+    "volume": 17530225,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 515.23,
+    "close": 553.66,
+    "high": 569.91,
+    "low": 503.64,
+    "volume": 13332601,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 558.47,
+    "close": 513.5,
+    "high": 605.93,
+    "low": 480.5,
+    "volume": 18120811,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 499.29,
+    "close": 465.14,
+    "high": 557.87,
+    "low": 435.51,
+    "volume": 20763848,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 464.01,
+    "close": 557.39,
+    "high": 578,
+    "low": 448.1,
+    "volume": 19790260,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 561.85,
+    "close": 544.5,
+    "high": 592.59,
+    "low": 540.26,
+    "volume": 15064283,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 549.25,
+    "close": 542.87,
+    "high": 563.79,
+    "low": 526.26,
+    "volume": 12989906,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 531.76,
+    "close": 420.09,
+    "high": 532.91,
+    "low": 400,
+    "volume": 21408701,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 417.19,
+    "close": 384.02,
+    "high": 437.52,
+    "low": 350.26,
+    "volume": 19532192,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 387.86,
+    "close": 360.44,
+    "high": 419,
+    "low": 348.96,
+    "volume": 20600742,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 373.99,
+    "close": 376.71,
+    "high": 433.93,
+    "low": 360.81,
+    "volume": 20819713,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 377.95,
+    "close": 398.93,
+    "high": 402.48,
+    "low": 360.25,
+    "volume": 20853113,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 398.75,
+    "close": 349.23,
+    "high": 408.35,
+    "low": 329.09,
+    "volume": 20556016,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 349,
+    "close": 425.12,
+    "high": 425.88,
+    "low": 348.43,
+    "volume": 15297995,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 425.09,
+    "close": 392.55,
+    "high": 443.99,
+    "low": 390.01,
+    "volume": 17168907,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 394.75,
+    "close": 402.02,
+    "high": 424.35,
+    "low": 384.01,
+    "volume": 16499533,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 402.02,
+    "close": 345.02,
+    "high": 407.79,
+    "low": 344.85,
+    "volume": 12727195,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 345.52,
+    "close": 379.24,
+    "high": 452.96,
+    "low": 325.35,
+    "volume": 24679151,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 379.48,
+    "close": 367.09,
+    "high": 396.68,
+    "low": 348.82,
+    "volume": 17773027,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 370.84,
+    "close": 359.29,
+    "high": 389.22,
+    "low": 340.09,
+    "volume": 21783768,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 358.74,
+    "close": 373.5,
+    "high": 384.58,
+    "low": 347,
+    "volume": 17102099,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 378,
+    "close": 387.51,
+    "high": 401.21,
+    "low": 364.44,
+    "volume": 22479802,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 388,
+    "close": 388.49,
+    "high": 393.5,
+    "low": 360,
+    "volume": 16528425,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 388.8,
+    "close": 459.06,
+    "high": 464.4,
+    "low": 388.22,
+    "volume": 20560503,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 460,
+    "close": 491.14,
+    "high": 543.55,
+    "low": 453.54,
+    "volume": 25697427,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 494.2,
+    "close": 491.62,
+    "high": 526.12,
+    "low": 482.51,
+    "volume": 14085847,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 486.6,
+    "close": 496.9,
+    "high": 502.42,
+    "low": 459.14,
+    "volume": 15289218,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 498.24,
+    "close": 447.12,
+    "high": 505.49,
+    "low": 426.47,
+    "volume": 16434524,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 448.31,
+    "close": 402.62,
+    "high": 477,
+    "low": 400.19,
+    "volume": 18172546,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 403.81,
+    "close": 361.86,
+    "high": 432.5,
+    "low": 353.14,
+    "volume": 21699312,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 356.37,
+    "close": 375.96,
+    "high": 390.91,
+    "low": 355.03,
+    "volume": 13330737,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 379.48,
+    "close": 366.65,
+    "high": 396.78,
+    "low": 363,
+    "volume": 17210675,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 366.69,
+    "close": 320.44,
+    "high": 370.99,
+    "low": 313.53,
+    "volume": 24593179,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 320.35,
+    "close": 344.36,
+    "high": 352.59,
+    "low": 317.71,
+    "volume": 17220957,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 342.45,
+    "close": 303.68,
+    "high": 345.49,
+    "low": 298.19,
+    "volume": 18050058,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 302.93,
+    "close": 300.32,
+    "high": 314.84,
+    "low": 281.89,
+    "volume": 21212527,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 301.34,
+    "close": 344.99,
+    "high": 349.24,
+    "low": 297.78,
+    "volume": 17613089,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 344.95,
+    "close": 368.01,
+    "high": 376.75,
+    "low": 342.58,
+    "volume": 16191350,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 366.74,
+    "close": 406.75,
+    "high": 416.49,
+    "low": 361.19,
+    "volume": 17710131,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 405.5,
+    "close": 404.04,
+    "high": 410.74,
+    "low": 375.21,
+    "volume": 11058877,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 406.41,
+    "close": 339.24,
+    "high": 410,
+    "low": 327.58,
+    "volume": 18094514,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 339,
+    "close": 365.65,
+    "high": 368.24,
+    "low": 331.54,
+    "volume": 14346345,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 372.5,
+    "close": 373.5,
+    "high": 396.32,
+    "low": 339.13,
+    "volume": 15396370,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 368.15,
+    "close": 429.27,
+    "high": 430.58,
+    "low": 366.01,
+    "volume": 16968236,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 428.52,
+    "close": 430.74,
+    "high": 434.35,
+    "low": 399.29,
+    "volume": 11180961,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 434.8,
+    "close": 410.62,
+    "high": 442,
+    "low": 388.49,
+    "volume": 15042075,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 412.51,
+    "close": 343.14,
+    "high": 415.89,
+    "low": 329,
+    "volume": 18333179,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 343.04,
+    "close": 301.72,
+    "high": 345.44,
+    "low": 295.73,
+    "volume": 20247070,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 301.13,
+    "close": 313,
+    "high": 327.83,
+    "low": 295.27,
+    "volume": 17375327,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 317.61,
+    "close": 304.76,
+    "high": 320.76,
+    "low": 287.66,
+    "volume": 17644503,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 306.68,
+    "close": 290.05,
+    "high": 313.93,
+    "low": 279.39,
+    "volume": 14656791,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 289.2,
+    "close": 277.4,
+    "high": 299.98,
+    "low": 271.37,
+    "volume": 13793346,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 277.27,
+    "close": 306.28,
+    "high": 313.39,
+    "low": 272.26,
+    "volume": 15501997,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 309,
+    "close": 369,
+    "high": 372.59,
+    "low": 307.44,
+    "volume": 18599760,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 368.18,
+    "close": 375.48,
+    "high": 382.25,
+    "low": 357,
+    "volume": 15157721,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 378,
+    "close": 337.94,
+    "high": 396.47,
+    "low": 328.12,
+    "volume": 16145813,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 339.69,
+    "close": 444.57,
+    "high": 470,
+    "low": 339.39,
+    "volume": 25181830,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 445,
+    "close": 488.29,
+    "high": 518,
+    "low": 418.01,
+    "volume": 37902116,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 484.14,
+    "close": 525.88,
+    "high": 574.32,
+    "low": 476.45,
+    "volume": 23569526,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 524.23,
+    "close": 612.81,
+    "high": 615.36,
+    "low": 514.55,
+    "volume": 39442464,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 605,
+    "close": 623.65,
+    "high": 646.33,
+    "low": 575.89,
+    "volume": 25286111,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 625,
+    "close": 632.07,
+    "high": 664.64,
+    "low": 596.01,
+    "volume": 16794377,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 634.84,
+    "close": 619.93,
+    "high": 660,
+    "low": 590.71,
+    "volume": 12997973,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 615.63,
+    "close": 559.78,
+    "high": 620,
+    "low": 540,
+    "volume": 17507907,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 562.5,
+    "close": 543.56,
+    "high": 619.97,
+    "low": 533.23,
+    "volume": 25485947,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 545.06,
+    "close": 516.03,
+    "high": 596.8,
+    "low": 505.8,
+    "volume": 18946199,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 516,
+    "close": 483.11,
+    "high": 525.28,
+    "low": 470.78,
+    "volume": 20040307,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 486.85,
+    "close": 503.84,
+    "high": 558.91,
+    "low": 467,
+    "volume": 19656978,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 512.82,
+    "close": 450.57,
+    "high": 514.97,
+    "low": 445.57,
+    "volume": 22604579,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 454.49,
+    "close": 473.14,
+    "high": 497.7,
+    "low": 441,
+    "volume": 21525661,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 472,
+    "close": 481.3,
+    "high": 510.32,
+    "low": 469.37,
+    "volume": 16906034,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 483.5,
+    "close": 502.43,
+    "high": 525.96,
+    "low": 478.4,
+    "volume": 15782720,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 505.76,
+    "close": 558.54,
+    "high": 569.99,
+    "low": 497.93,
+    "volume": 18188957,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 556.6,
+    "close": 574.61,
+    "high": 595.48,
+    "low": 554.95,
+    "volume": 13015019,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 577.12,
+    "close": 673.4,
+    "high": 681.73,
+    "low": 570.38,
+    "volume": 19571084,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 674.72,
+    "close": 605.18,
+    "high": 686.62,
+    "low": 603.79,
+    "volume": 14740150,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 576.75,
+    "close": 639.94,
+    "high": 641.26,
+    "low": 539.18,
+    "volume": 17508842,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 640,
+    "close": 636.53,
+    "high": 661.84,
+    "low": 594.55,
+    "volume": 16085143,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 639.13,
+    "close": 631.52,
+    "high": 673.86,
+    "low": 598.24,
+    "volume": 16069913,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 625,
+    "close": 608.59,
+    "high": 632.75,
+    "low": 592.86,
+    "volume": 16069278,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 607.83,
+    "close": 618.36,
+    "high": 645,
+    "low": 596.9,
+    "volume": 14606019,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 615.39,
+    "close": 698.42,
+    "high": 710.21,
+    "low": 603.12,
+    "volume": 15784712,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 701.82,
+    "close": 659.11,
+    "high": 747.42,
+    "low": 655.9,
+    "volume": 11869763,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 656.97,
+    "close": 664.74,
+    "high": 699.62,
+    "low": 597.76,
+    "volume": 14658985,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 669.51,
+    "close": 591.13,
+    "high": 672.35,
+    "low": 538.01,
+    "volume": 16784945,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 587.76,
+    "close": 581.69,
+    "high": 624.48,
+    "low": 563.82,
+    "volume": 10325262,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 581.53,
+    "close": 581.06,
+    "high": 652.52,
+    "low": 569.65,
+    "volume": 12451284,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "REGN",
+    "open": 577.62,
+    "close": 688.87,
+    "high": 754.67,
+    "low": 572.22,
+    "volume": 20760265,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 705.39,
+    "close": 748.75,
+    "high": 761.04,
+    "low": 694.64,
+    "volume": 15486460,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 750,
+    "close": 751.7,
+    "high": 769.63,
+    "low": 702.07,
+    "volume": 14472057,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 756.19,
+    "close": 721.49,
+    "high": 779,
+    "low": 707.87,
+    "volume": 12466011,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 721.86,
+    "close": 758.47,
+    "high": 759,
+    "low": 668,
+    "volume": 12419276,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "REGN",
+    "open": 752.19,
+    "close": 760.42,
+    "high": 800.48,
+    "low": 733.33,
+    "volume": 12342215,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 759.89,
+    "close": 821.67,
+    "high": 835,
+    "low": 725.66,
+    "volume": 15598776,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "REGN",
+    "open": 818.8,
+    "close": 801.79,
+    "high": 837.55,
+    "low": 771.14,
+    "volume": 8864170,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 803.71,
+    "close": 735.56,
+    "high": 815.24,
+    "low": 717.88,
+    "volume": 12486640,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "REGN",
+    "open": 736,
+    "close": 718.54,
+    "high": 794,
+    "low": 684.8,
+    "volume": 14710271,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "REGN",
+    "open": 710.09,
+    "close": 727.13,
+    "high": 738.53,
+    "low": 688.52,
+    "volume": 10164891,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

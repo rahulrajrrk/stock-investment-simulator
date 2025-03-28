@@ -1,0 +1,1732 @@
+[
+  {
+    "ticker": "NXPI",
+    "open": 13,
+    "close": 11.07,
+    "high": 14.08,
+    "low": 10.23,
+    "volume": 27284775,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 11.08,
+    "close": 12.39,
+    "high": 12.97,
+    "low": 10.76,
+    "volume": 7010458,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 12.47,
+    "close": 13.19,
+    "high": 13.47,
+    "low": 11.52,
+    "volume": 4012368,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 13.27,
+    "close": 12.58,
+    "high": 14,
+    "low": 12.31,
+    "volume": 4831751,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 12.74,
+    "close": 20.93,
+    "high": 21.57,
+    "low": 12.6,
+    "volume": 11921268,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 21.2,
+    "close": 25.74,
+    "high": 26.84,
+    "low": 20.64,
+    "volume": 12380977,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 26.48,
+    "close": 31.95,
+    "high": 32.36,
+    "low": 24.2,
+    "volume": 25685662,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 32.11,
+    "close": 29.96,
+    "high": 33.87,
+    "low": 24.32,
+    "volume": 49515084,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 30.35,
+    "close": 33.4,
+    "high": 35.32,
+    "low": 29.97,
+    "volume": 38599640,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 33.99,
+    "close": 28.53,
+    "high": 34,
+    "low": 26.05,
+    "volume": 40094886,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 28.26,
+    "close": 26.73,
+    "high": 28.52,
+    "low": 22.34,
+    "volume": 34182744,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 26.94,
+    "close": 19.78,
+    "high": 27.66,
+    "low": 16.99,
+    "volume": 49543008,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 19.98,
+    "close": 16.29,
+    "high": 20.23,
+    "low": 13.21,
+    "volume": 51654916,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 16.28,
+    "close": 14.12,
+    "high": 21.21,
+    "low": 14.11,
+    "volume": 31933555,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 14,
+    "close": 17.97,
+    "high": 20.08,
+    "low": 13.06,
+    "volume": 31066269,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 15.29,
+    "close": 16.9,
+    "high": 18.21,
+    "low": 14.26,
+    "volume": 33684504,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 16.9,
+    "close": 15.37,
+    "high": 18.88,
+    "low": 14.27,
+    "volume": 29401706,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 15.78,
+    "close": 21.23,
+    "high": 22,
+    "low": 15.63,
+    "volume": 31980474,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 21.6,
+    "close": 24.8,
+    "high": 25.91,
+    "low": 21.03,
+    "volume": 32728790,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 24.9,
+    "close": 26.61,
+    "high": 27.44,
+    "low": 22.05,
+    "volume": 31376729,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 26.3,
+    "close": 25.85,
+    "high": 26.68,
+    "low": 22.56,
+    "volume": 34301167,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 25.5,
+    "close": 21.11,
+    "high": 26.1,
+    "low": 19.57,
+    "volume": 30815533,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 20.5,
+    "close": 23.23,
+    "high": 24.2,
+    "low": 18.57,
+    "volume": 29816917,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 23.65,
+    "close": 22.59,
+    "high": 24.31,
+    "low": 19.66,
+    "volume": 34763185,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 22.87,
+    "close": 23.32,
+    "high": 26.24,
+    "low": 21.3,
+    "volume": 43588547,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 23.41,
+    "close": 25.01,
+    "high": 27.96,
+    "low": 22.78,
+    "volume": 38329734,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 25.16,
+    "close": 24.26,
+    "high": 25.6,
+    "low": 20.57,
+    "volume": 46234194,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 23.75,
+    "close": 24.48,
+    "high": 26.38,
+    "low": 22.59,
+    "volume": 30218663,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 24.71,
+    "close": 26.32,
+    "high": 26.5,
+    "low": 23.2,
+    "volume": 14999063,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 27.1,
+    "close": 30,
+    "high": 30.7,
+    "low": 26.48,
+    "volume": 46387534,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 30.3,
+    "close": 32.32,
+    "high": 32.99,
+    "low": 29.35,
+    "volume": 54269905,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 31.84,
+    "close": 30.29,
+    "high": 32.87,
+    "low": 29.23,
+    "volume": 55297697,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 30.27,
+    "close": 27.55,
+    "high": 30.29,
+    "low": 24.66,
+    "volume": 96326348,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 28.03,
+    "close": 30.85,
+    "high": 31.49,
+    "low": 26.69,
+    "volume": 60831731,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 31.16,
+    "close": 31.02,
+    "high": 32.05,
+    "low": 29.03,
+    "volume": 49202560,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 31.44,
+    "close": 32.65,
+    "high": 34.39,
+    "low": 30.98,
+    "volume": 38731394,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 32.95,
+    "close": 37.17,
+    "high": 38.82,
+    "low": 32.59,
+    "volume": 51156147,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 38.11,
+    "close": 37.21,
+    "high": 39.46,
+    "low": 36.71,
+    "volume": 47208107,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 37.49,
+    "close": 42.14,
+    "high": 42.63,
+    "low": 35.09,
+    "volume": 79083382,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 42.01,
+    "close": 42.5,
+    "high": 43.19,
+    "low": 40.18,
+    "volume": 35980071,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 42.4,
+    "close": 45.93,
+    "high": 46.32,
+    "low": 41.66,
+    "volume": 64424084,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 44.7,
+    "close": 48.35,
+    "high": 48.55,
+    "low": 42.42,
+    "volume": 66961225,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 48.63,
+    "close": 56.23,
+    "high": 57.8,
+    "low": 45.22,
+    "volume": 76145196,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 55.74,
+    "close": 58.81,
+    "high": 60.48,
+    "low": 54.92,
+    "volume": 63906692,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 58.99,
+    "close": 59.62,
+    "high": 63.35,
+    "low": 54.8,
+    "volume": 76060782,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 59.68,
+    "close": 62.1,
+    "high": 63.85,
+    "low": 57.71,
+    "volume": 62821796,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 62.36,
+    "close": 66.18,
+    "high": 67.39,
+    "low": 61.31,
+    "volume": 50560584,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 66.84,
+    "close": 62.35,
+    "high": 67.79,
+    "low": 61.1,
+    "volume": 67111904,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 62.57,
+    "close": 68.52,
+    "high": 69.5,
+    "low": 59.82,
+    "volume": 60925109,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 70,
+    "close": 68.43,
+    "high": 73.82,
+    "low": 67.77,
+    "volume": 72534309,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 68.46,
+    "close": 68.66,
+    "high": 69.6,
+    "low": 53.81,
+    "volume": 126993042,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 68.43,
+    "close": 77.81,
+    "high": 78.34,
+    "low": 68.24,
+    "volume": 65572440,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 77.63,
+    "close": 76.4,
+    "high": 78.16,
+    "low": 70.35,
+    "volume": 53392764,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 76.56,
+    "close": 79.34,
+    "high": 82.76,
+    "low": 72.2,
+    "volume": 69347503,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 79.93,
+    "close": 84.89,
+    "high": 86.5,
+    "low": 76.17,
+    "volume": 57363818,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 95.1,
+    "close": 100.36,
+    "high": 108.5,
+    "low": 93.05,
+    "volume": 108662661,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 100,
+    "close": 96.12,
+    "high": 103.12,
+    "low": 93.45,
+    "volume": 57728775,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 95.94,
+    "close": 112.25,
+    "high": 112.81,
+    "low": 95.8,
+    "volume": 60483583,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 113.23,
+    "close": 98.2,
+    "high": 114,
+    "low": 95.79,
+    "volume": 56154011,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 100.47,
+    "close": 96.99,
+    "high": 101.17,
+    "low": 85.72,
+    "volume": 93199202,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 96.47,
+    "close": 84.65,
+    "high": 99.47,
+    "low": 72.05,
+    "volume": 94437669,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 82.07,
+    "close": 87.07,
+    "high": 94.9,
+    "low": 80.79,
+    "volume": 68422511,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 86.09,
+    "close": 78.35,
+    "high": 98.09,
+    "low": 72.53,
+    "volume": 126554668,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 77.64,
+    "close": 93.46,
+    "high": 93.46,
+    "low": 75.9,
+    "volume": 97848462,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 92.72,
+    "close": 84.25,
+    "high": 94.21,
+    "low": 81.85,
+    "volume": 82657452,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 82,
+    "close": 74.78,
+    "high": 85.76,
+    "low": 66.93,
+    "volume": 88507847,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 73.94,
+    "close": 71.24,
+    "high": 77,
+    "low": 61.61,
+    "volume": 91669015,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 72,
+    "close": 81.07,
+    "high": 83.6,
+    "low": 71.1,
+    "volume": 70399670,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 80.21,
+    "close": 85.28,
+    "high": 91.18,
+    "low": 80.05,
+    "volume": 91022705,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 85.12,
+    "close": 94.49,
+    "high": 94.49,
+    "low": 81.95,
+    "volume": 91399944,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 94.1,
+    "close": 78.34,
+    "high": 94.35,
+    "low": 73.62,
+    "volume": 102190019,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 77.83,
+    "close": 84.09,
+    "high": 89.1,
+    "low": 75.04,
+    "volume": 97437900,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 84.43,
+    "close": 88.02,
+    "high": 89.86,
+    "low": 81.67,
+    "volume": 54857282,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 88.38,
+    "close": 102.01,
+    "high": 104.64,
+    "low": 80.13,
+    "volume": 106947387,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 102.98,
+    "close": 100,
+    "high": 107.54,
+    "low": 97.87,
+    "volume": 148213758,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 100,
+    "close": 99.15,
+    "high": 100.05,
+    "low": 95.88,
+    "volume": 86244520,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 99.02,
+    "close": 98.01,
+    "high": 99.4,
+    "low": 96.85,
+    "volume": 55644630,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 98.25,
+    "close": 97.85,
+    "high": 98.79,
+    "low": 96,
+    "volume": 62765518,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 98.39,
+    "close": 102.81,
+    "high": 103.18,
+    "low": 97.75,
+    "volume": 49724376,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 103.2,
+    "close": 103.5,
+    "high": 104.45,
+    "low": 102.6,
+    "volume": 58228309,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 103.68,
+    "close": 105.75,
+    "high": 105.8,
+    "low": 103.16,
+    "volume": 54994702,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 105.9,
+    "close": 109.9,
+    "high": 109.9,
+    "low": 105.6,
+    "volume": 78018318,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 109.64,
+    "close": 109.45,
+    "high": 109.98,
+    "low": 108,
+    "volume": 87581206,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 109.5,
+    "close": 110.33,
+    "high": 110.43,
+    "low": 109,
+    "volume": 40722428,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 110.3,
+    "close": 112.96,
+    "high": 113.39,
+    "low": 110.2,
+    "volume": 38515929,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 112.8,
+    "close": 113.09,
+    "high": 113.4,
+    "low": 111.75,
+    "volume": 27125906,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 113.15,
+    "close": 117.05,
+    "high": 118,
+    "low": 112.85,
+    "volume": 46130151,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 117.05,
+    "close": 113.39,
+    "high": 118.2,
+    "low": 111.37,
+    "volume": 92576922,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 114.01,
+    "close": 117.09,
+    "high": 117.4,
+    "low": 113.4,
+    "volume": 49618944,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 117,
+    "close": 120.32,
+    "high": 121.46,
+    "low": 116.8,
+    "volume": 48437225,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 120.85,
+    "close": 124.66,
+    "high": 125.93,
+    "low": 114.55,
+    "volume": 114718400,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 124.37,
+    "close": 117,
+    "high": 125.53,
+    "low": 115.44,
+    "volume": 78590283,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 117,
+    "close": 104.9,
+    "high": 117.36,
+    "low": 100.23,
+    "volume": 141739480,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 104.91,
+    "close": 114,
+    "high": 119.11,
+    "low": 90.83,
+    "volume": 203788953,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 113.31,
+    "close": 109.27,
+    "high": 122.24,
+    "low": 108.1,
+    "volume": 148277591,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 108.6,
+    "close": 95.34,
+    "high": 111.49,
+    "low": 90.25,
+    "volume": 208970779,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 96,
+    "close": 93.14,
+    "high": 96.57,
+    "low": 86.67,
+    "volume": 157758513,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 93.3,
+    "close": 85.5,
+    "high": 95.14,
+    "low": 84.35,
+    "volume": 155871496,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 86.43,
+    "close": 74.99,
+    "high": 86.99,
+    "low": 69.72,
+    "volume": 130993822,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 80.92,
+    "close": 83.37,
+    "high": 86.32,
+    "low": 79.21,
+    "volume": 103950692,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 86.96,
+    "close": 73.28,
+    "high": 87.4,
+    "low": 67.62,
+    "volume": 89450111,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 71.91,
+    "close": 87.03,
+    "high": 88,
+    "low": 71.56,
+    "volume": 101706015,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 87.14,
+    "close": 91.32,
+    "high": 98.2,
+    "low": 86.78,
+    "volume": 91236640,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 92.18,
+    "close": 88.39,
+    "high": 95.85,
+    "low": 85.38,
+    "volume": 58631830,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 90,
+    "close": 105.62,
+    "high": 107.7,
+    "low": 90,
+    "volume": 71385711,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 106.6,
+    "close": 88.16,
+    "high": 108.51,
+    "low": 87.26,
+    "volume": 96028627,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 91.17,
+    "close": 97.61,
+    "high": 101.37,
+    "low": 89,
+    "volume": 83666737,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 101.91,
+    "close": 103.39,
+    "high": 106.26,
+    "low": 93.95,
+    "volume": 75791534,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 103.34,
+    "close": 102.14,
+    "high": 106.55,
+    "low": 96,
+    "volume": 65254636,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 100.59,
+    "close": 109.12,
+    "high": 112.06,
+    "low": 99,
+    "volume": 48039203,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 111.64,
+    "close": 113.68,
+    "high": 118.5,
+    "low": 101.89,
+    "volume": 76513652,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 115.47,
+    "close": 115.58,
+    "high": 120.84,
+    "low": 112.43,
+    "volume": 61180356,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 115.75,
+    "close": 127.26,
+    "high": 129.5,
+    "low": 111.57,
+    "volume": 48360853,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 128.61,
+    "close": 126.86,
+    "high": 137.92,
+    "low": 124.68,
+    "volume": 51256610,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 127.69,
+    "close": 113.69,
+    "high": 139.59,
+    "low": 110,
+    "volume": 62905582,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 117.59,
+    "close": 82.93,
+    "high": 122.78,
+    "low": 58.41,
+    "volume": 110058056,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 79.48,
+    "close": 99.57,
+    "high": 107.83,
+    "low": 72.86,
+    "volume": 78729115,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 97.48,
+    "close": 96.1,
+    "high": 105.36,
+    "low": 89.1,
+    "volume": 110589423,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 97.7,
+    "close": 114.04,
+    "high": 121.68,
+    "low": 96.59,
+    "volume": 117107533,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 114.05,
+    "close": 117.53,
+    "high": 126.12,
+    "low": 111.68,
+    "volume": 55206273,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 118.41,
+    "close": 125.76,
+    "high": 128.42,
+    "low": 117.25,
+    "volume": 33971593,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 126,
+    "close": 124.81,
+    "high": 132.94,
+    "low": 117.25,
+    "volume": 41259124,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 129.63,
+    "close": 135.12,
+    "high": 145.15,
+    "low": 126.64,
+    "volume": 50751227,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 137.09,
+    "close": 158.42,
+    "high": 161.84,
+    "low": 136.01,
+    "volume": 38530931,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 160.4,
+    "close": 159.01,
+    "high": 167.27,
+    "low": 152.93,
+    "volume": 40165447,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 160.33,
+    "close": 160.47,
+    "high": 182.55,
+    "low": 156.02,
+    "volume": 50239472,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 166.44,
+    "close": 182.55,
+    "high": 200.19,
+    "low": 166.1,
+    "volume": 58339676,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 186.52,
+    "close": 201.34,
+    "high": 209.59,
+    "low": 164.19,
+    "volume": 148490208,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 205.27,
+    "close": 192.51,
+    "high": 216.43,
+    "low": 191.05,
+    "volume": 53858590,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 194.75,
+    "close": 211.42,
+    "high": 213.29,
+    "low": 181.72,
+    "volume": 56171394,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 212.85,
+    "close": 205.72,
+    "high": 214.3,
+    "low": 192.71,
+    "volume": 63451836,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 205.54,
+    "close": 206.39,
+    "high": 208.75,
+    "low": 184.92,
+    "volume": 40752516,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 210.19,
+    "close": 215.13,
+    "high": 228.72,
+    "low": 199.61,
+    "volume": 44110873,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 215.44,
+    "close": 195.87,
+    "high": 218.14,
+    "low": 195.71,
+    "volume": 41131067,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 196.33,
+    "close": 200.86,
+    "high": 203.43,
+    "low": 182.34,
+    "volume": 45606631,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 202.62,
+    "close": 223.36,
+    "high": 227.81,
+    "low": 202.01,
+    "volume": 55507770,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 227.34,
+    "close": 227.78,
+    "high": 239.91,
+    "low": 214.45,
+    "volume": 45335044,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 228.39,
+    "close": 205.44,
+    "high": 234.9,
+    "low": 180.12,
+    "volume": 55152094,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 208.99,
+    "close": 190.12,
+    "high": 211.83,
+    "low": 178.31,
+    "volume": 53446384,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 189.61,
+    "close": 185.08,
+    "high": 196.35,
+    "low": 168.74,
+    "volume": 58074894,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 187.12,
+    "close": 170.9,
+    "high": 187.12,
+    "low": 164.75,
+    "volume": 59929411,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 172.26,
+    "close": 189.76,
+    "high": 198.28,
+    "low": 168.7,
+    "volume": 61485521,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 191.08,
+    "close": 148.03,
+    "high": 194.71,
+    "low": 145.31,
+    "volume": 82630197,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 146.67,
+    "close": 183.88,
+    "high": 185.27,
+    "low": 140.33,
+    "volume": 50203272,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 182.82,
+    "close": 164.58,
+    "high": 189.13,
+    "low": 163.23,
+    "volume": 42990475,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 161.85,
+    "close": 147.51,
+    "high": 169.9,
+    "low": 146.95,
+    "volume": 44206600,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 149.52,
+    "close": 146.08,
+    "high": 163.78,
+    "low": 132.08,
+    "volume": 50686409,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 150.48,
+    "close": 175.84,
+    "high": 179.03,
+    "low": 142.75,
+    "volume": 49342608,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 177.55,
+    "close": 158.03,
+    "high": 180.57,
+    "low": 150.9,
+    "volume": 40164206,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 159.78,
+    "close": 184.31,
+    "high": 185.15,
+    "low": 153.1,
+    "volume": 44786060,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 184.07,
+    "close": 178.48,
+    "high": 197.71,
+    "low": 175.37,
+    "volume": 39548313,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 179.27,
+    "close": 186.47,
+    "high": 186.82,
+    "low": 169.91,
+    "volume": 43781669,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 185.53,
+    "close": 163.74,
+    "high": 186,
+    "low": 155.31,
+    "volume": 36398181,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 164.23,
+    "close": 179.1,
+    "high": 186.58,
+    "low": 161.23,
+    "volume": 54315906,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 180.18,
+    "close": 204.68,
+    "high": 205.98,
+    "low": 174.66,
+    "volume": 46776946,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 205.54,
+    "close": 222.98,
+    "high": 225.57,
+    "low": 200.03,
+    "volume": 52805406,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 221.41,
+    "close": 205.72,
+    "high": 224.32,
+    "low": 192.4,
+    "volume": 49476590,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 207.42,
+    "close": 199.92,
+    "high": 210.57,
+    "low": 193.04,
+    "volume": 30922446,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 200.78,
+    "close": 172.43,
+    "high": 206.14,
+    "low": 167.21,
+    "volume": 45695955,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 171.57,
+    "close": 204.08,
+    "high": 207.8,
+    "low": 167.5,
+    "volume": 50940725,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 204,
+    "close": 229.68,
+    "high": 238.27,
+    "low": 202.43,
+    "volume": 40514204,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 227.26,
+    "close": 210.57,
+    "high": 227.26,
+    "low": 201.58,
+    "volume": 49001224,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 211.69,
+    "close": 249.73,
+    "high": 252.83,
+    "low": 209.44,
+    "volume": 48961699,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 251.88,
+    "close": 247.77,
+    "high": 264.26,
+    "low": 233,
+    "volume": 49498620,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 248.38,
+    "close": 256.19,
+    "high": 261.15,
+    "low": 213.02,
+    "volume": 49878490,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 253.35,
+    "close": 272.1,
+    "high": 282.22,
+    "low": 245.19,
+    "volume": 39885463,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 275.62,
+    "close": 269.09,
+    "high": 286.87,
+    "low": 263.26,
+    "volume": 32157110,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 269.12,
+    "close": 263.16,
+    "high": 296.08,
+    "low": 245.42,
+    "volume": 51635981,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 258.01,
+    "close": 256.36,
+    "high": 260.61,
+    "low": 228.3,
+    "volume": 48396671,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 251.24,
+    "close": 240.01,
+    "high": 252.24,
+    "low": 220.1,
+    "volume": 52014874,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 238.81,
+    "close": 234.5,
+    "high": 256.62,
+    "low": 227.33,
+    "volume": 44378218,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 234.5,
+    "close": 229.37,
+    "high": 240.17,
+    "low": 216.04,
+    "volume": 49258453,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "NXPI",
+    "open": 229.0,
+    "close": 207.85,
+    "high": 236.07,
+    "low": 204.72,
+    "volume": 45672883,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

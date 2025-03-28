@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "PEP",
+    "open": 44.4,
+    "close": 45.83,
+    "high": 46.52,
+    "low": 44.4,
+    "volume": 50588900,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 46.37,
+    "close": 47.82,
+    "high": 48.88,
+    "low": 46.19,
+    "volume": 84171600,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 47.81,
+    "close": 48.12,
+    "high": 48.24,
+    "low": 46.69,
+    "volume": 60998426,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 48.01,
+    "close": 46.62,
+    "high": 48.87,
+    "low": 46.11,
+    "volume": 92906300,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 46.94,
+    "close": 47.26,
+    "high": 48.01,
+    "low": 45.3,
+    "volume": 105261400,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 47.5,
+    "close": 51.9,
+    "high": 52.42,
+    "low": 47.27,
+    "volume": 104747400,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 51.91,
+    "close": 53.85,
+    "high": 54,
+    "low": 50.28,
+    "volume": 96633800,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 53.71,
+    "close": 54.49,
+    "high": 55.48,
+    "low": 53.6,
+    "volume": 91028200,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 54.75,
+    "close": 53.37,
+    "high": 55.03,
+    "low": 52.63,
+    "volume": 71549100,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 53.05,
+    "close": 53.88,
+    "high": 55.71,
+    "low": 52.95,
+    "volume": 71538700,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 53.97,
+    "close": 50,
+    "high": 54.34,
+    "low": 49.37,
+    "volume": 87301100,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 49.77,
+    "close": 50,
+    "high": 52.25,
+    "low": 48.41,
+    "volume": 84003300,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 50.06,
+    "close": 48.65,
+    "high": 51.2,
+    "low": 47.37,
+    "volume": 96390700,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 49.4,
+    "close": 49.58,
+    "high": 50.67,
+    "low": 47.65,
+    "volume": 82767100,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 49.5,
+    "close": 49.91,
+    "high": 52.49,
+    "low": 48.41,
+    "volume": 75658100,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 50.01,
+    "close": 52.2,
+    "high": 53,
+    "low": 50,
+    "volume": 70636200,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 52.23,
+    "close": 53.7,
+    "high": 54.42,
+    "low": 51.34,
+    "volume": 74493900,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 53.45,
+    "close": 53.86,
+    "high": 55.71,
+    "low": 52.85,
+    "volume": 65760200,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 53.8,
+    "close": 53.03,
+    "high": 54.35,
+    "low": 51.75,
+    "volume": 77288400,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 53.3,
+    "close": 55.64,
+    "high": 55.7,
+    "low": 52.51,
+    "volume": 89912500,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 55.35,
+    "close": 56.3,
+    "high": 57.2,
+    "low": 55.35,
+    "volume": 73012300,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 56.15,
+    "close": 53.93,
+    "high": 57.04,
+    "low": 53.75,
+    "volume": 78445100,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 53,
+    "close": 54.53,
+    "high": 55.79,
+    "low": 52.07,
+    "volume": 91127700,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 53.95,
+    "close": 54.85,
+    "high": 55.63,
+    "low": 53.75,
+    "volume": 72328700,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 54.7,
+    "close": 56.71,
+    "high": 57.03,
+    "low": 53.55,
+    "volume": 83928200,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 56.71,
+    "close": 59.08,
+    "high": 59.39,
+    "low": 56.36,
+    "volume": 95024500,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 59,
+    "close": 59.2,
+    "high": 60.1,
+    "low": 57.72,
+    "volume": 76872600,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 59.85,
+    "close": 59.08,
+    "high": 60.34,
+    "low": 58.69,
+    "volume": 63371000,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 59.92,
+    "close": 57.18,
+    "high": 59.97,
+    "low": 56,
+    "volume": 74995500,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 56.81,
+    "close": 59.11,
+    "high": 59.9,
+    "low": 56.53,
+    "volume": 77366900,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 59.04,
+    "close": 57.79,
+    "high": 60.55,
+    "low": 57.74,
+    "volume": 85050300,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 58.24,
+    "close": 58.24,
+    "high": 58.65,
+    "low": 56.51,
+    "volume": 80295500,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 58.25,
+    "close": 60.46,
+    "high": 60.77,
+    "low": 57.69,
+    "volume": 97488500,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 60.37,
+    "close": 60.04,
+    "high": 61.19,
+    "low": 58.55,
+    "volume": 90979700,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 60.6,
+    "close": 63.38,
+    "high": 63.98,
+    "low": 60.07,
+    "volume": 88438500,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 63.2,
+    "close": 65.28,
+    "high": 65.99,
+    "low": 62,
+    "volume": 83432700,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 65.72,
+    "close": 65.26,
+    "high": 65.99,
+    "low": 64.05,
+    "volume": 74541300,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 65.19,
+    "close": 63.44,
+    "high": 65.3,
+    "low": 61.95,
+    "volume": 111102200,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 63.37,
+    "close": 61.97,
+    "high": 63.75,
+    "low": 61.15,
+    "volume": 101173800,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 62,
+    "close": 62.55,
+    "high": 64.17,
+    "low": 61.46,
+    "volume": 79301900,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 62.7,
+    "close": 65.24,
+    "high": 65.54,
+    "low": 62.29,
+    "volume": 101901000,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 65,
+    "close": 63.15,
+    "high": 65.39,
+    "low": 62.5,
+    "volume": 106896009,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 62.75,
+    "close": 63.56,
+    "high": 64.33,
+    "low": 61.89,
+    "volume": 124056999,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 63.15,
+    "close": 66.09,
+    "high": 67.4,
+    "low": 62.87,
+    "volume": 120212661,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 66.15,
+    "close": 68.33,
+    "high": 69.64,
+    "low": 65.97,
+    "volume": 114238426,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 68.65,
+    "close": 64.85,
+    "high": 68.96,
+    "low": 64.25,
+    "volume": 121940269,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 65.38,
+    "close": 65.62,
+    "high": 68.96,
+    "low": 64.25,
+    "volume": 168762927,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 65.11,
+    "close": 68.03,
+    "high": 70.25,
+    "low": 65.1,
+    "volume": 142207869,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 68.34,
+    "close": 73.26,
+    "high": 73.29,
+    "low": 66.63,
+    "volume": 111232824,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 73.54,
+    "close": 73.72,
+    "high": 74.32,
+    "low": 69.98,
+    "volume": 129900668,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 73.49,
+    "close": 77.18,
+    "high": 77.41,
+    "low": 72,
+    "volume": 125112414,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 77.51,
+    "close": 75.9,
+    "high": 79,
+    "low": 75.62,
+    "volume": 95689019,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 76.41,
+    "close": 68.05,
+    "high": 79.79,
+    "low": 66.3,
+    "volume": 180426454,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 68.34,
+    "close": 69.56,
+    "high": 72.75,
+    "low": 66.32,
+    "volume": 137214506,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 69.55,
+    "close": 72.2,
+    "high": 72.35,
+    "low": 67.95,
+    "volume": 123148461,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 71.89,
+    "close": 68.53,
+    "high": 72.17,
+    "low": 67.21,
+    "volume": 134367068,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 68.46,
+    "close": 68.3,
+    "high": 69.82,
+    "low": 66.81,
+    "volume": 125415397,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 68.11,
+    "close": 63.59,
+    "high": 68.27,
+    "low": 63.31,
+    "volume": 169498867,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 63.28,
+    "close": 66.56,
+    "high": 68.02,
+    "low": 63.28,
+    "volume": 167368851,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 66.82,
+    "close": 68.48,
+    "high": 70.83,
+    "low": 66.36,
+    "volume": 120179445,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 68.89,
+    "close": 71.27,
+    "high": 75.25,
+    "low": 68.14,
+    "volume": 189419752,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 70.66,
+    "close": 57.01,
+    "high": 72.24,
+    "low": 50.41,
+    "volume": 316600848,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 56.97,
+    "close": 56.7,
+    "high": 59.23,
+    "low": 49.74,
+    "volume": 186712434,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 55.56,
+    "close": 54.77,
+    "high": 56.4,
+    "low": 51.01,
+    "volume": 155875508,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 54.93,
+    "close": 50.23,
+    "high": 56.93,
+    "low": 43.78,
+    "volume": 154915900,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 49.76,
+    "close": 48.14,
+    "high": 53.64,
+    "low": 48.14,
+    "volume": 156496977,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 47.31,
+    "close": 51.48,
+    "high": 53.2,
+    "low": 45.39,
+    "volume": 197385597,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 51.01,
+    "close": 49.76,
+    "high": 56.95,
+    "low": 47.5,
+    "volume": 201182635,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 49.76,
+    "close": 52.05,
+    "high": 52.5,
+    "low": 48.82,
+    "volume": 185246668,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 52.27,
+    "close": 54.96,
+    "high": 55.73,
+    "low": 52.11,
+    "volume": 179679231,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 55.12,
+    "close": 56.75,
+    "high": 57.7,
+    "low": 54.3,
+    "volume": 165762187,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 56.98,
+    "close": 56.67,
+    "high": 59.64,
+    "low": 55.86,
+    "volume": 167439659,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 56.6,
+    "close": 58.66,
+    "high": 60,
+    "low": 55.69,
+    "volume": 165926057,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 58.7,
+    "close": 60.55,
+    "high": 62.75,
+    "low": 58.27,
+    "volume": 176616342,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 60.79,
+    "close": 62.22,
+    "high": 63.27,
+    "low": 59.62,
+    "volume": 109508529,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 62.68,
+    "close": 60.8,
+    "high": 64.48,
+    "low": 58.77,
+    "volume": 162486050,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 61.19,
+    "close": 59.62,
+    "high": 62.92,
+    "low": 59.12,
+    "volume": 142334451,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 59.93,
+    "close": 62.47,
+    "high": 62.91,
+    "low": 58.75,
+    "volume": 148231398,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 62.65,
+    "close": 66.16,
+    "high": 67,
+    "low": 62.57,
+    "volume": 172610794,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 66.32,
+    "close": 65.22,
+    "high": 66.68,
+    "low": 63.6,
+    "volume": 148296522,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 65.28,
+    "close": 62.89,
+    "high": 67.61,
+    "low": 61.04,
+    "volume": 193803857,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 62.66,
+    "close": 60.95,
+    "high": 64.79,
+    "low": 60.5,
+    "volume": 172717502,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 61.13,
+    "close": 64.91,
+    "high": 65.79,
+    "low": 60.32,
+    "volume": 140974519,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 65.47,
+    "close": 64.18,
+    "high": 66.83,
+    "low": 63.18,
+    "volume": 113480538,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 64.52,
+    "close": 66.44,
+    "high": 67.31,
+    "low": 64.52,
+    "volume": 114642051,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 66.76,
+    "close": 65.3,
+    "high": 68.11,
+    "low": 63.78,
+    "volume": 157011923,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 65.49,
+    "close": 64.63,
+    "high": 66.1,
+    "low": 63.43,
+    "volume": 131226894,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 64.79,
+    "close": 65.33,
+    "high": 66.51,
+    "low": 64.28,
+    "volume": 119181076,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 65.91,
+    "close": 64.31,
+    "high": 67.46,
+    "low": 64.09,
+    "volume": 135792601,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 64.53,
+    "close": 63.42,
+    "high": 65.14,
+    "low": 62.56,
+    "volume": 169981664,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 63.69,
+    "close": 64.41,
+    "high": 65.33,
+    "low": 62.05,
+    "volume": 155362425,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 64.87,
+    "close": 68.89,
+    "high": 69.94,
+    "low": 64.47,
+    "volume": 112340616,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 69.24,
+    "close": 71.12,
+    "high": 71.89,
+    "low": 68.46,
+    "volume": 129426385,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 70.58,
+    "close": 70.43,
+    "high": 70.87,
+    "low": 67.46,
+    "volume": 144375581,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 70.08,
+    "close": 64.04,
+    "high": 70.75,
+    "low": 63.55,
+    "volume": 168641608,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 64.22,
+    "close": 64.43,
+    "high": 65.48,
+    "low": 60.1,
+    "volume": 284900301,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 64.38,
+    "close": 61.9,
+    "high": 64.88,
+    "low": 59.25,
+    "volume": 232681417,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 61.59,
+    "close": 62.95,
+    "high": 63.62,
+    "low": 58.5,
+    "volume": 179834313,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 62.11,
+    "close": 64,
+    "high": 66.65,
+    "low": 61.56,
+    "volume": 166239741,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 64.27,
+    "close": 66.35,
+    "high": 66.78,
+    "low": 63.83,
+    "volume": 106594921,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 66.86,
+    "close": 65.67,
+    "high": 67.19,
+    "low": 64.13,
+    "volume": 120722741,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 65.99,
+    "close": 62.94,
+    "high": 66.98,
+    "low": 62.33,
+    "volume": 213859589,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 63.05,
+    "close": 66.35,
+    "high": 66.5,
+    "low": 62.15,
+    "volume": 138521537,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 66.26,
+    "close": 66,
+    "high": 66.86,
+    "low": 64.64,
+    "volume": 120186778,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 65.92,
+    "close": 67.85,
+    "high": 69.34,
+    "low": 65.68,
+    "volume": 186908726,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 67.02,
+    "close": 70.66,
+    "high": 70.66,
+    "low": 66.66,
+    "volume": 132194023,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 70.34,
+    "close": 72.73,
+    "high": 72.94,
+    "low": 68.46,
+    "volume": 123422961,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 72.79,
+    "close": 72.43,
+    "high": 73.66,
+    "low": 71.09,
+    "volume": 117390977,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 72.55,
+    "close": 70.77,
+    "high": 72.68,
+    "low": 69.96,
+    "volume": 106271225,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 70.7,
+    "close": 69.24,
+    "high": 71.47,
+    "low": 68.23,
+    "volume": 117623289,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 69.25,
+    "close": 70.21,
+    "high": 70.64,
+    "low": 67.72,
+    "volume": 100182976,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 70.32,
+    "close": 68.43,
+    "high": 70.89,
+    "low": 67.39,
+    "volume": 98295010,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 69.18,
+    "close": 72.85,
+    "high": 73.46,
+    "low": 68.64,
+    "volume": 120205607,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 73.08,
+    "close": 75.77,
+    "high": 76.33,
+    "low": 70.98,
+    "volume": 122844250,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 75.55,
+    "close": 79.11,
+    "high": 79.27,
+    "low": 75.37,
+    "volume": 108994849,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 78.76,
+    "close": 82.47,
+    "high": 84.32,
+    "low": 78.25,
+    "volume": 123929136,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 82.36,
+    "close": 80.77,
+    "high": 84.78,
+    "low": 80.7,
+    "volume": 92041413,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 80.67,
+    "close": 81.79,
+    "high": 83.19,
+    "low": 78.2,
+    "volume": 112714131,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 81.96,
+    "close": 83.54,
+    "high": 87.06,
+    "low": 80.29,
+    "volume": 111847141,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 84.04,
+    "close": 79.73,
+    "high": 85.43,
+    "low": 78.61,
+    "volume": 93252493,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 80.48,
+    "close": 79.5,
+    "high": 82.94,
+    "low": 78.32,
+    "volume": 92131726,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 79.38,
+    "close": 84.09,
+    "high": 85.5,
+    "low": 78.67,
+    "volume": 109468056,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 84.15,
+    "close": 84.46,
+    "high": 86.73,
+    "low": 83.83,
+    "volume": 78953663,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 84.43,
+    "close": 82.94,
+    "high": 84.52,
+    "low": 79.96,
+    "volume": 99701170,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 82.93,
+    "close": 80.36,
+    "high": 83.99,
+    "low": 79.9,
+    "volume": 102395910,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 80.35,
+    "close": 80.07,
+    "high": 81.85,
+    "low": 77.01,
+    "volume": 142895735,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 79.17,
+    "close": 83.5,
+    "high": 83.8,
+    "low": 79.1,
+    "volume": 119001051,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 83.07,
+    "close": 85.89,
+    "high": 87,
+    "low": 81.99,
+    "volume": 116158713,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 86,
+    "close": 88.33,
+    "high": 88.48,
+    "low": 84.94,
+    "volume": 76858001,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 88.12,
+    "close": 89.34,
+    "high": 90.24,
+    "low": 86.71,
+    "volume": 82702245,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 89.12,
+    "close": 88.1,
+    "high": 93.09,
+    "low": 88.07,
+    "volume": 91176529,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 87.71,
+    "close": 92.49,
+    "high": 93.51,
+    "low": 87.46,
+    "volume": 89831510,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 92.62,
+    "close": 93.09,
+    "high": 94.21,
+    "low": 90.58,
+    "volume": 86265502,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 92.67,
+    "close": 96.17,
+    "high": 96.74,
+    "low": 89.82,
+    "volume": 126719290,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 95.94,
+    "close": 100.1,
+    "high": 100.7,
+    "low": 95.5,
+    "volume": 75413005,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 98.56,
+    "close": 94.56,
+    "high": 100.57,
+    "low": 92.43,
+    "volume": 94413501,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 94.93,
+    "close": 93.78,
+    "high": 99,
+    "low": 92.94,
+    "volume": 112261999,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 93.86,
+    "close": 98.98,
+    "high": 100.76,
+    "low": 93.6,
+    "volume": 101097785,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 98.9,
+    "close": 95.62,
+    "high": 99.3,
+    "low": 92.24,
+    "volume": 111300550,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 95.16,
+    "close": 95.12,
+    "high": 97.64,
+    "low": 93.25,
+    "volume": 95857615,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 95.16,
+    "close": 96.43,
+    "high": 98.44,
+    "low": 94.76,
+    "volume": 77541167,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 96.59,
+    "close": 93.34,
+    "high": 96.59,
+    "low": 92.54,
+    "volume": 91640258,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 93.8,
+    "close": 96.35,
+    "high": 97.49,
+    "low": 93.55,
+    "volume": 107160355,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 96.19,
+    "close": 92.93,
+    "high": 100.61,
+    "low": 76.48,
+    "volume": 112970300,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 91.12,
+    "close": 94.3,
+    "high": 94.4,
+    "low": 90.43,
+    "volume": 103750779,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 94.2,
+    "close": 102.19,
+    "high": 103.44,
+    "low": 92.53,
+    "volume": 111264739,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 102.14,
+    "close": 100.16,
+    "high": 102.58,
+    "low": 97.65,
+    "volume": 76025256,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 100.11,
+    "close": 99.92,
+    "high": 101.7,
+    "low": 96.81,
+    "volume": 92380043,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 98.56,
+    "close": 99.3,
+    "high": 99.85,
+    "low": 93.25,
+    "volume": 111997888,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 98.53,
+    "close": 97.82,
+    "high": 100.7,
+    "low": 96.09,
+    "volume": 97370530,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 98.5,
+    "close": 102.48,
+    "high": 103.45,
+    "low": 97.54,
+    "volume": 104786317,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 101.97,
+    "close": 102.96,
+    "high": 105.77,
+    "low": 100.42,
+    "volume": 101319422,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 102.74,
+    "close": 101.17,
+    "high": 106.94,
+    "low": 100,
+    "volume": 93115063,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 100.56,
+    "close": 105.94,
+    "high": 106,
+    "low": 100.3,
+    "volume": 97406646,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 106.23,
+    "close": 108.92,
+    "high": 110.94,
+    "low": 105.38,
+    "volume": 92302464,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 108.72,
+    "close": 106.75,
+    "high": 109.36,
+    "low": 106.26,
+    "volume": 67341688,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 106.46,
+    "close": 108.77,
+    "high": 109.71,
+    "low": 104.05,
+    "volume": 90978034,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 108.77,
+    "close": 107.2,
+    "high": 108.83,
+    "low": 105,
+    "volume": 87370096,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 107.14,
+    "close": 100.1,
+    "high": 108.93,
+    "low": 100.1,
+    "volume": 106277698,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 99.89,
+    "close": 104.63,
+    "high": 106.53,
+    "low": 98.5,
+    "volume": 85985153,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 104.94,
+    "close": 103.78,
+    "high": 105.63,
+    "low": 101.06,
+    "volume": 83325056,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 103.61,
+    "close": 110.38,
+    "high": 110.6,
+    "low": 102.98,
+    "volume": 81777059,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 109.6,
+    "close": 111.86,
+    "high": 112.76,
+    "low": 108.47,
+    "volume": 93145888,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 111.95,
+    "close": 113.28,
+    "high": 114.61,
+    "low": 111.34,
+    "volume": 68457593,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 112.93,
+    "close": 116.87,
+    "high": 118.12,
+    "low": 111.7,
+    "volume": 72409641,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 116.8,
+    "close": 115.49,
+    "high": 118.24,
+    "low": 114.89,
+    "volume": 74533807,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 115.55,
+    "close": 116.61,
+    "high": 118.06,
+    "low": 112.25,
+    "volume": 70467607,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 116.69,
+    "close": 115.73,
+    "high": 119.39,
+    "low": 114.91,
+    "volume": 66932520,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 115.38,
+    "close": 111.43,
+    "high": 117.29,
+    "low": 110.34,
+    "volume": 79758613,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 109.91,
+    "close": 110.23,
+    "high": 113.63,
+    "low": 106.19,
+    "volume": 85578058,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 109.76,
+    "close": 116.52,
+    "high": 117.38,
+    "low": 109.15,
+    "volume": 69166550,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 116.5,
+    "close": 119.92,
+    "high": 120.57,
+    "low": 115.04,
+    "volume": 70081203,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 119.93,
+    "close": 120.3,
+    "high": 122.51,
+    "low": 116.38,
+    "volume": 88470898,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 119.92,
+    "close": 109.73,
+    "high": 121.01,
+    "low": 107.94,
+    "volume": 97279376,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 109.21,
+    "close": 109.15,
+    "high": 113.9,
+    "low": 105.94,
+    "volume": 97486615,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 108.62,
+    "close": 100.94,
+    "high": 111.18,
+    "low": 100.58,
+    "volume": 98247278,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 100.36,
+    "close": 100.25,
+    "high": 102.24,
+    "low": 95.94,
+    "volume": 127114220,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 100.54,
+    "close": 108.87,
+    "high": 109.59,
+    "low": 99.65,
+    "volume": 112635672,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 108.7,
+    "close": 115,
+    "high": 116.9,
+    "low": 107.52,
+    "volume": 147923926,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 114.42,
+    "close": 112.01,
+    "high": 118.44,
+    "low": 110.89,
+    "volume": 97860244,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 111.82,
+    "close": 111.8,
+    "high": 115.52,
+    "low": 110.45,
+    "volume": 75016772,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 112.15,
+    "close": 112.38,
+    "high": 114.23,
+    "low": 104.53,
+    "volume": 119829210,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 112,
+    "close": 121.94,
+    "high": 122,
+    "low": 109.63,
+    "volume": 90371320,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 120.48,
+    "close": 110.48,
+    "high": 120.91,
+    "low": 105.03,
+    "volume": 115098643,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 109.15,
+    "close": 112.67,
+    "high": 112.9,
+    "low": 106.73,
+    "volume": 115700928,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 112.95,
+    "close": 115.64,
+    "high": 117.3,
+    "low": 111.45,
+    "volume": 96885909,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 115.86,
+    "close": 122.55,
+    "high": 123.19,
+    "low": 114.26,
+    "volume": 125322362,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 122.59,
+    "close": 128.05,
+    "high": 128.39,
+    "low": 120.74,
+    "volume": 86621192,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 127.85,
+    "close": 128,
+    "high": 130.9,
+    "low": 124.85,
+    "volume": 88150367,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 127.86,
+    "close": 131.13,
+    "high": 135.24,
+    "low": 127.49,
+    "volume": 88586926,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 131.99,
+    "close": 127.81,
+    "high": 135.24,
+    "low": 126.24,
+    "volume": 96378548,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 128.96,
+    "close": 136.73,
+    "high": 137.11,
+    "low": 123.88,
+    "volume": 95545926,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 136.35,
+    "close": 137.1,
+    "high": 139.18,
+    "low": 134.1,
+    "volume": 78717232,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 136.93,
+    "close": 137.17,
+    "high": 140.45,
+    "low": 133.49,
+    "volume": 83298711,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 137.55,
+    "close": 135.83,
+    "high": 138.34,
+    "low": 131.59,
+    "volume": 64714292,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 136.65,
+    "close": 136.67,
+    "high": 138.25,
+    "low": 134.32,
+    "volume": 82804561,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 136.87,
+    "close": 142.02,
+    "high": 144.65,
+    "low": 133.95,
+    "volume": 89712556,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 142.77,
+    "close": 132.03,
+    "high": 147.2,
+    "low": 128.35,
+    "volume": 94692909,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 132,
+    "close": 120.1,
+    "high": 142.71,
+    "low": 101.42,
+    "volume": 219275918,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 117.27,
+    "close": 132.29,
+    "high": 138.63,
+    "low": 115.67,
+    "volume": 115320779,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 131.12,
+    "close": 131.55,
+    "high": 137.99,
+    "low": 128.58,
+    "volume": 127011086,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 131.6,
+    "close": 132.26,
+    "high": 135.16,
+    "low": 126.53,
+    "volume": 119994383,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 132.53,
+    "close": 137.66,
+    "high": 139,
+    "low": 131.28,
+    "volume": 95676374,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 137.11,
+    "close": 140.06,
+    "high": 141.02,
+    "low": 134.62,
+    "volume": 69179456,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 140.25,
+    "close": 138.6,
+    "high": 144.03,
+    "low": 129.36,
+    "volume": 104368535,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 139.44,
+    "close": 133.29,
+    "high": 144.11,
+    "low": 131.71,
+    "volume": 88534674,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 135.61,
+    "close": 144.23,
+    "high": 146.56,
+    "low": 133.78,
+    "volume": 73557771,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 145.03,
+    "close": 148.3,
+    "high": 148.77,
+    "low": 143.02,
+    "volume": 79580722,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 147.01,
+    "close": 136.57,
+    "high": 147.78,
+    "low": 136.01,
+    "volume": 94590843,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 136.98,
+    "close": 129.19,
+    "high": 142.12,
+    "low": 128.57,
+    "volume": 96009374,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 130.61,
+    "close": 141.45,
+    "high": 144.96,
+    "low": 128.32,
+    "volume": 161736796,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 141.19,
+    "close": 144.16,
+    "high": 147.8,
+    "low": 140.11,
+    "volume": 110114384,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 145.03,
+    "close": 147.94,
+    "high": 148.77,
+    "low": 143.49,
+    "volume": 100605263,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 148.78,
+    "close": 148.17,
+    "high": 149.27,
+    "low": 144.61,
+    "volume": 107397605,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 148.08,
+    "close": 156.95,
+    "high": 158.66,
+    "low": 147.77,
+    "volume": 95671355,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 157,
+    "close": 156.39,
+    "high": 159.63,
+    "low": 153.64,
+    "volume": 75273096,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 156.84,
+    "close": 150.41,
+    "high": 158.19,
+    "low": 150.1,
+    "volume": 83914212,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 151.35,
+    "close": 161.6,
+    "high": 162.26,
+    "low": 149.48,
+    "volume": 84040923,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 161.2,
+    "close": 159.78,
+    "high": 166.8,
+    "low": 158.39,
+    "volume": 81363534,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 162.47,
+    "close": 173.71,
+    "high": 174.01,
+    "low": 159.83,
+    "volume": 101303202,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 172.2,
+    "close": 173.52,
+    "high": 177.24,
+    "low": 166.45,
+    "volume": 117691587,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 173.15,
+    "close": 163.74,
+    "high": 176.66,
+    "low": 160.28,
+    "volume": 114610822,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 163.07,
+    "close": 167.38,
+    "high": 169.3,
+    "low": 153.37,
+    "volume": 126958821,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 167.89,
+    "close": 171.71,
+    "high": 177.62,
+    "low": 167.37,
+    "volume": 93792698,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 173.0,
+    "close": 167.75,
+    "high": 176.3,
+    "low": 159.62,
+    "volume": 134800014,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 168.18,
+    "close": 166.66,
+    "high": 168.45,
+    "low": 154.86,
+    "volume": 108786774,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 166.74,
+    "close": 174.96,
+    "high": 175.48,
+    "low": 165.33,
+    "volume": 82144426,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 174.55,
+    "close": 172.27,
+    "high": 181.07,
+    "low": 172.2,
+    "volume": 83529896,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "PEP",
+    "open": 170.92,
+    "close": 163.26,
+    "high": 174.97,
+    "low": 163.01,
+    "volume": 113614077,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 163.52,
+    "close": 181.58,
+    "high": 182.98,
+    "low": 160.98,
+    "volume": 115054901,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 180.94,
+    "close": 185.51,
+    "high": 186.62,
+    "low": 175.42,
+    "volume": 97986536,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 185.48,
+    "close": 180.66,
+    "high": 186.84,
+    "low": 178.39,
+    "volume": 96672790,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 180.59,
+    "close": 171.02,
+    "high": 182.77,
+    "low": 167.46,
+    "volume": 91592635,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "PEP",
+    "open": 170.88,
+    "close": 173.53,
+    "high": 178.22,
+    "low": 167.05,
+    "volume": 97033765,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 172.32,
+    "close": 182.3,
+    "high": 182.49,
+    "low": 169.12,
+    "volume": 107273617,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "PEP",
+    "open": 181.9,
+    "close": 190.89,
+    "high": 191.62,
+    "low": 180.4,
+    "volume": 69877937,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 190.45,
+    "close": 182.35,
+    "high": 196.88,
+    "low": 181.1,
+    "volume": 101659363,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "PEP",
+    "open": 182.42,
+    "close": 185.22,
+    "high": 188,
+    "low": 179.33,
+    "volume": 100945522,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "PEP",
+    "open": 184.3,
+    "close": 190.16,
+    "high": 191.47,
+    "low": 182.41,
+    "volume": 83302134,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

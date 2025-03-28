@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: stock-simulator
+    env: python
+    buildCommand: |
+      cd frontend && npm install && npm run build
+    startCommand: gunicorn app:app
+    envVars:
+      - key: FLASK_ENV
+        value: production
+    buildFilter:
+      paths:
+        - backend/**
+        - frontend/**
+    plan: free
+    rootDir: backend

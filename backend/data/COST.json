@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "COST",
+    "open": 30.88,
+    "close": 31.15,
+    "high": 33.05,
+    "low": 30.65,
+    "volume": 81660790,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "COST",
+    "open": 31.15,
+    "close": 35.45,
+    "high": 35.76,
+    "low": 31.1,
+    "volume": 97298680,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "COST",
+    "open": 35.29,
+    "close": 35.82,
+    "high": 35.95,
+    "low": 33.27,
+    "volume": 65075557,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "COST",
+    "open": 35.95,
+    "close": 37.18,
+    "high": 37.4,
+    "low": 35.13,
+    "volume": 92100765,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "COST",
+    "open": 37.19,
+    "close": 36.94,
+    "high": 38.36,
+    "low": 35.86,
+    "volume": 73356748,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "COST",
+    "open": 36.97,
+    "close": 38.86,
+    "high": 39.5,
+    "low": 36.83,
+    "volume": 61635728,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "COST",
+    "open": 39.18,
+    "close": 37.61,
+    "high": 40.42,
+    "low": 36.1,
+    "volume": 85680389,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "COST",
+    "open": 37.43,
+    "close": 37.5,
+    "high": 38.77,
+    "low": 36.75,
+    "volume": 66058035,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "COST",
+    "open": 37.41,
+    "close": 37.9,
+    "high": 39.32,
+    "low": 35.05,
+    "volume": 70486363,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "COST",
+    "open": 37.72,
+    "close": 41.18,
+    "high": 43,
+    "low": 37.65,
+    "volume": 82079361,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "COST",
+    "open": 41.3,
+    "close": 40.71,
+    "high": 41.98,
+    "low": 39.81,
+    "volume": 72283381,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "COST",
+    "open": 40.61,
+    "close": 41.17,
+    "high": 42.79,
+    "low": 39.56,
+    "volume": 74523606,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "COST",
+    "open": 41.11,
+    "close": 41.51,
+    "high": 41.98,
+    "low": 39.05,
+    "volume": 66332721,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "COST",
+    "open": 41.74,
+    "close": 47.94,
+    "high": 48.55,
+    "low": 41.48,
+    "volume": 91796242,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "COST",
+    "open": 47.57,
+    "close": 48.6,
+    "high": 50.46,
+    "low": 47.2,
+    "volume": 73708003,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "COST",
+    "open": 48.8,
+    "close": 48.41,
+    "high": 49.82,
+    "low": 46.8,
+    "volume": 69727502,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "COST",
+    "open": 48.24,
+    "close": 47.27,
+    "high": 49.18,
+    "low": 46.33,
+    "volume": 52269983,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "COST",
+    "open": 47.19,
+    "close": 46.59,
+    "high": 47.36,
+    "low": 45.4,
+    "volume": 48384612,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "COST",
+    "open": 46.63,
+    "close": 44.18,
+    "high": 47.27,
+    "low": 42.75,
+    "volume": 88600988,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "COST",
+    "open": 44.36,
+    "close": 40.63,
+    "high": 47.23,
+    "low": 39.48,
+    "volume": 97685061,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "COST",
+    "open": 40.71,
+    "close": 45.38,
+    "high": 46.36,
+    "low": 40.68,
+    "volume": 73521226,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "COST",
+    "open": 45.34,
+    "close": 44.73,
+    "high": 46.73,
+    "low": 44.29,
+    "volume": 59730321,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "COST",
+    "open": 45.1,
+    "close": 45.97,
+    "high": 46.8,
+    "low": 44.52,
+    "volume": 40686047,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "COST",
+    "open": 45.92,
+    "close": 43.4,
+    "high": 46.06,
+    "low": 42.31,
+    "volume": 82264665,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "COST",
+    "open": 43.76,
+    "close": 43.09,
+    "high": 44.18,
+    "low": 40.51,
+    "volume": 61836648,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "COST",
+    "open": 43.04,
+    "close": 48.37,
+    "high": 48.6,
+    "low": 42.35,
+    "volume": 80843844,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "COST",
+    "open": 48.3,
+    "close": 49.95,
+    "high": 51.21,
+    "low": 47.85,
+    "volume": 55631762,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "COST",
+    "open": 48.6,
+    "close": 49.47,
+    "high": 50.42,
+    "low": 48.02,
+    "volume": 54929032,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "COST",
+    "open": 49.75,
+    "close": 49.89,
+    "high": 51.08,
+    "low": 48.74,
+    "volume": 50327351,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "COST",
+    "open": 49.92,
+    "close": 51.19,
+    "high": 52.15,
+    "low": 48.48,
+    "volume": 39419811,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "COST",
+    "open": 51.7,
+    "close": 54.16,
+    "high": 56.31,
+    "low": 50.78,
+    "volume": 74558503,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "COST",
+    "open": 54.48,
+    "close": 54.43,
+    "high": 57.38,
+    "low": 53.26,
+    "volume": 56572922,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "COST",
+    "open": 54.74,
+    "close": 52.93,
+    "high": 57.24,
+    "low": 52.32,
+    "volume": 69399367,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "COST",
+    "open": 53.1,
+    "close": 57.13,
+    "high": 57.38,
+    "low": 52.03,
+    "volume": 72816907,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "COST",
+    "open": 57.18,
+    "close": 52.76,
+    "high": 57.94,
+    "low": 50.7,
+    "volume": 82346441,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "COST",
+    "open": 52.4,
+    "close": 46.79,
+    "high": 52.65,
+    "low": 46,
+    "volume": 119732629,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "COST",
+    "open": 47.11,
+    "close": 49.68,
+    "high": 52.35,
+    "low": 46.93,
+    "volume": 106089006,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "COST",
+    "open": 49.57,
+    "close": 53.38,
+    "high": 54.35,
+    "low": 47.89,
+    "volume": 110374356,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "COST",
+    "open": 53.55,
+    "close": 52.3,
+    "high": 54.77,
+    "low": 51.4,
+    "volume": 66605398,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "COST",
+    "open": 52.31,
+    "close": 52.87,
+    "high": 55.12,
+    "low": 51.73,
+    "volume": 62354519,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "COST",
+    "open": 53.35,
+    "close": 56.16,
+    "high": 57.25,
+    "low": 52.43,
+    "volume": 63660091,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "COST",
+    "open": 56.25,
+    "close": 55.89,
+    "high": 58.7,
+    "low": 55.05,
+    "volume": 57638633,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "COST",
+    "open": 55.1,
+    "close": 53.84,
+    "high": 56.74,
+    "low": 51.52,
+    "volume": 105360930,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "COST",
+    "open": 53.35,
+    "close": 53.57,
+    "high": 56.07,
+    "low": 53.35,
+    "volume": 73642646,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "COST",
+    "open": 53.57,
+    "close": 56.47,
+    "high": 57.45,
+    "low": 53,
+    "volume": 89195936,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "COST",
+    "open": 56.58,
+    "close": 58.52,
+    "high": 59.09,
+    "low": 54.85,
+    "volume": 82675097,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "COST",
+    "open": 59.5,
+    "close": 59.8,
+    "high": 63.07,
+    "low": 58.34,
+    "volume": 89560515,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "COST",
+    "open": 60,
+    "close": 61.75,
+    "high": 65.57,
+    "low": 57.24,
+    "volume": 114678305,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "COST",
+    "open": 61.96,
+    "close": 61.37,
+    "high": 62.74,
+    "low": 56.09,
+    "volume": 89669797,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "COST",
+    "open": 61.52,
+    "close": 67.26,
+    "high": 70.55,
+    "low": 61.16,
+    "volume": 119498083,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "COST",
+    "open": 66.7,
+    "close": 67.4,
+    "high": 68.33,
+    "low": 63.15,
+    "volume": 93330043,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "COST",
+    "open": 67.4,
+    "close": 69.76,
+    "high": 72.68,
+    "low": 65.1,
+    "volume": 95670013,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "COST",
+    "open": 69.63,
+    "close": 67.94,
+    "high": 70.45,
+    "low": 62.38,
+    "volume": 147548208,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "COST",
+    "open": 68.11,
+    "close": 61.92,
+    "high": 68.42,
+    "low": 61.64,
+    "volume": 116792747,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "COST",
+    "open": 61.91,
+    "close": 64.97,
+    "high": 67.95,
+    "low": 59.66,
+    "volume": 124962287,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "COST",
+    "open": 65.18,
+    "close": 71.25,
+    "high": 72.24,
+    "low": 64.97,
+    "volume": 86956353,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "COST",
+    "open": 70.78,
+    "close": 71.32,
+    "high": 75.23,
+    "low": 68.9,
+    "volume": 102557443,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "COST",
+    "open": 71.45,
+    "close": 70.14,
+    "high": 73.57,
+    "low": 67.14,
+    "volume": 127825940,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "COST",
+    "open": 69.42,
+    "close": 62.68,
+    "high": 74.89,
+    "low": 60.24,
+    "volume": 190952554,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "COST",
+    "open": 63.11,
+    "close": 67.06,
+    "high": 68.97,
+    "low": 61.59,
+    "volume": 99587904,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "COST",
+    "open": 68.15,
+    "close": 64.93,
+    "high": 71,
+    "low": 30.7,
+    "volume": 143818188,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "COST",
+    "open": 64,
+    "close": 57.01,
+    "high": 65.12,
+    "low": 48.66,
+    "volume": 186180137,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "COST",
+    "open": 56.53,
+    "close": 51.47,
+    "high": 56.83,
+    "low": 43.88,
+    "volume": 134288852,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "COST",
+    "open": 50.73,
+    "close": 52.5,
+    "high": 56.27,
+    "low": 47.76,
+    "volume": 130285813,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "COST",
+    "open": 52.44,
+    "close": 45.03,
+    "high": 53.62,
+    "low": 44.78,
+    "volume": 115650045,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "COST",
+    "open": 44.78,
+    "close": 42.34,
+    "high": 46.18,
+    "low": 41.04,
+    "volume": 133911867,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "COST",
+    "open": 41.71,
+    "close": 46.32,
+    "high": 49.35,
+    "low": 38.17,
+    "volume": 151196785,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "COST",
+    "open": 45.67,
+    "close": 48.6,
+    "high": 48.97,
+    "low": 44.03,
+    "volume": 112949172,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "COST",
+    "open": 48.39,
+    "close": 48.52,
+    "high": 49.92,
+    "low": 44.61,
+    "volume": 119080426,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "COST",
+    "open": 49.2,
+    "close": 45.78,
+    "high": 50.14,
+    "low": 44.78,
+    "volume": 113321232,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "COST",
+    "open": 45.81,
+    "close": 49.5,
+    "high": 49.93,
+    "low": 44.37,
+    "volume": 96825468,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "COST",
+    "open": 49.75,
+    "close": 50.98,
+    "high": 52,
+    "low": 47.1,
+    "volume": 82583624,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "COST",
+    "open": 51.34,
+    "close": 56.38,
+    "high": 58.86,
+    "low": 49.95,
+    "volume": 103971135,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "COST",
+    "open": 56.15,
+    "close": 56.85,
+    "high": 60.3,
+    "low": 55.4,
+    "volume": 92961900,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "COST",
+    "open": 56.85,
+    "close": 59.91,
+    "high": 61.25,
+    "low": 56.76,
+    "volume": 63580895,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "COST",
+    "open": 60.13,
+    "close": 59.17,
+    "high": 61.15,
+    "low": 57.52,
+    "volume": 72894155,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "COST",
+    "open": 59.13,
+    "close": 57.43,
+    "high": 60.44,
+    "low": 56.75,
+    "volume": 61202150,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "COST",
+    "open": 57.8,
+    "close": 60.97,
+    "high": 61.52,
+    "low": 57.36,
+    "volume": 72926147,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "COST",
+    "open": 61,
+    "close": 59.71,
+    "high": 62.12,
+    "low": 59.64,
+    "volume": 78636156,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "COST",
+    "open": 59.73,
+    "close": 59.08,
+    "high": 61.96,
+    "low": 58.61,
+    "volume": 83115042,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "COST",
+    "open": 59.03,
+    "close": 58.25,
+    "high": 60.83,
+    "low": 55,
+    "volume": 118264763,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "COST",
+    "open": 58.18,
+    "close": 54.83,
+    "high": 59.18,
+    "low": 54.69,
+    "volume": 83502863,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "COST",
+    "open": 54.73,
+    "close": 56.71,
+    "high": 57.4,
+    "low": 53.41,
+    "volume": 90678962,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "COST",
+    "open": 57.06,
+    "close": 56.5,
+    "high": 57.61,
+    "low": 54.05,
+    "volume": 75887088,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "COST",
+    "open": 56.93,
+    "close": 64.49,
+    "high": 65.22,
+    "low": 56.76,
+    "volume": 76684604,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "COST",
+    "open": 64.92,
+    "close": 62.77,
+    "high": 65.46,
+    "low": 61.9,
+    "volume": 86201179,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "COST",
+    "open": 63.05,
+    "close": 67.61,
+    "high": 68,
+    "low": 62.71,
+    "volume": 70223059,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "COST",
+    "open": 68.21,
+    "close": 72.21,
+    "high": 73.16,
+    "low": 68.01,
+    "volume": 69378381,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "COST",
+    "open": 72.75,
+    "close": 71.84,
+    "high": 73.7,
+    "low": 70.01,
+    "volume": 51364854,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "COST",
+    "open": 72.22,
+    "close": 74.79,
+    "high": 75.48,
+    "low": 70.54,
+    "volume": 41114288,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "COST",
+    "open": 75.11,
+    "close": 73.32,
+    "high": 75.39,
+    "low": 69.54,
+    "volume": 61251709,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "COST",
+    "open": 73.16,
+    "close": 80.89,
+    "high": 81.5,
+    "low": 73.14,
+    "volume": 51782424,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "COST",
+    "open": 81.21,
+    "close": 82.48,
+    "high": 83.95,
+    "low": 79.14,
+    "volume": 48322343,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "COST",
+    "open": 82.34,
+    "close": 81.24,
+    "high": 82.51,
+    "low": 77.31,
+    "volume": 51860153,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "COST",
+    "open": 81.5,
+    "close": 78.25,
+    "high": 83.45,
+    "low": 77.19,
+    "volume": 36468992,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "COST",
+    "open": 79.32,
+    "close": 78.54,
+    "high": 79.35,
+    "low": 70.22,
+    "volume": 83491730,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "COST",
+    "open": 78.98,
+    "close": 82.13,
+    "high": 86.34,
+    "low": 76.59,
+    "volume": 58587856,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "COST",
+    "open": 81.72,
+    "close": 83.25,
+    "high": 86.14,
+    "low": 78.41,
+    "volume": 61646253,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "COST",
+    "open": 82.37,
+    "close": 85.3,
+    "high": 85.82,
+    "low": 80.3,
+    "volume": 46933115,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "COST",
+    "open": 85,
+    "close": 83.32,
+    "high": 88.68,
+    "low": 81.85,
+    "volume": 48949924,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "COST",
+    "open": 84.28,
+    "close": 82.27,
+    "high": 85.08,
+    "low": 78.81,
+    "volume": 51274684,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "COST",
+    "open": 82.92,
+    "close": 86.06,
+    "high": 87.2,
+    "low": 82.78,
+    "volume": 44536849,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "COST",
+    "open": 86.54,
+    "close": 90.8,
+    "high": 91.78,
+    "low": 85.69,
+    "volume": 44803246,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "COST",
+    "open": 90.94,
+    "close": 88.18,
+    "high": 92.1,
+    "low": 86.03,
+    "volume": 43514496,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "COST",
+    "open": 86.91,
+    "close": 86.39,
+    "high": 88,
+    "low": 81.98,
+    "volume": 59101314,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "COST",
+    "open": 86,
+    "close": 95,
+    "high": 95.11,
+    "low": 85.17,
+    "volume": 49074558,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "COST",
+    "open": 95,
+    "close": 96.18,
+    "high": 97.76,
+    "low": 93.11,
+    "volume": 34992066,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "COST",
+    "open": 96.43,
+    "close": 97.87,
+    "high": 99.28,
+    "low": 94.39,
+    "volume": 31040998,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "COST",
+    "open": 97.79,
+    "close": 100.16,
+    "high": 103.51,
+    "low": 97.07,
+    "volume": 31906323,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "COST",
+    "open": 100.63,
+    "close": 98.43,
+    "high": 104.43,
+    "low": 93.84,
+    "volume": 69049411,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "COST",
+    "open": 98.59,
+    "close": 103.92,
+    "high": 104.5,
+    "low": 93.51,
+    "volume": 62804534,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "COST",
+    "open": 104.82,
+    "close": 98.73,
+    "high": 105.97,
+    "low": 96.51,
+    "volume": 64904825,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "COST",
+    "open": 100.6,
+    "close": 102.34,
+    "high": 103.53,
+    "low": 99.7,
+    "volume": 42634332,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "COST",
+    "open": 102.89,
+    "close": 101.29,
+    "high": 104.35,
+    "low": 98.95,
+    "volume": 41547518,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "COST",
+    "open": 100.82,
+    "close": 106.11,
+    "high": 107.06,
+    "low": 100.26,
+    "volume": 43810719,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "COST",
+    "open": 106,
+    "close": 108.43,
+    "high": 109.75,
+    "low": 103.2,
+    "volume": 40333875,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "COST",
+    "open": 108.13,
+    "close": 109.63,
+    "high": 115.77,
+    "low": 107.72,
+    "volume": 40067450,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "COST",
+    "open": 109.92,
+    "close": 110.57,
+    "high": 112.59,
+    "low": 107.38,
+    "volume": 34144306,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "COST",
+    "open": 111.55,
+    "close": 117.42,
+    "high": 119.39,
+    "low": 110.06,
+    "volume": 30468587,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "COST",
+    "open": 118.07,
+    "close": 111.87,
+    "high": 120.2,
+    "low": 110.19,
+    "volume": 31739708,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "COST",
+    "open": 112.81,
+    "close": 115.17,
+    "high": 119.47,
+    "low": 111.35,
+    "volume": 33070987,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "COST",
+    "open": 115.11,
+    "close": 118,
+    "high": 118.99,
+    "low": 110.15,
+    "volume": 42918401,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "COST",
+    "open": 118.71,
+    "close": 125.43,
+    "high": 126.12,
+    "low": 118.55,
+    "volume": 31804240,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "COST",
+    "open": 125.66,
+    "close": 119.02,
+    "high": 125.69,
+    "low": 115.85,
+    "volume": 43407184,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "COST",
+    "open": 118.71,
+    "close": 112.36,
+    "high": 119.3,
+    "low": 111.13,
+    "volume": 54745097,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "COST",
+    "open": 112.96,
+    "close": 116.8,
+    "high": 117.47,
+    "low": 109.5,
+    "volume": 41465213,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "COST",
+    "open": 116.22,
+    "close": 111.68,
+    "high": 117.07,
+    "low": 111.15,
+    "volume": 54905103,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "COST",
+    "open": 112.21,
+    "close": 115.68,
+    "high": 116.61,
+    "low": 110.36,
+    "volume": 52000719,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "COST",
+    "open": 115.68,
+    "close": 116.02,
+    "high": 116.91,
+    "low": 111.61,
+    "volume": 40549499,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "COST",
+    "open": 115.84,
+    "close": 115.16,
+    "high": 118.85,
+    "low": 114.51,
+    "volume": 33729639,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "COST",
+    "open": 115.54,
+    "close": 117.54,
+    "high": 119.6,
+    "low": 114.9,
+    "volume": 39129349,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "COST",
+    "open": 117.8,
+    "close": 121.08,
+    "high": 122.06,
+    "low": 117.11,
+    "volume": 32834432,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "COST",
+    "open": 121,
+    "close": 125.32,
+    "high": 127.78,
+    "low": 120.9,
+    "volume": 39529964,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "COST",
+    "open": 125.25,
+    "close": 133.37,
+    "high": 134.5,
+    "low": 122.05,
+    "volume": 56728334,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "COST",
+    "open": 133.82,
+    "close": 142.12,
+    "high": 142.97,
+    "low": 133.37,
+    "volume": 33461760,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "COST",
+    "open": 143.32,
+    "close": 141.75,
+    "high": 146.82,
+    "low": 136.55,
+    "volume": 46566397,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "COST",
+    "open": 141.87,
+    "close": 142.99,
+    "high": 146.1,
+    "low": 138.22,
+    "volume": 42054812,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "COST",
+    "open": 144,
+    "close": 146.96,
+    "high": 156.85,
+    "low": 140.13,
+    "volume": 62296205,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "COST",
+    "open": 147.32,
+    "close": 151.5,
+    "high": 154.23,
+    "low": 145.78,
+    "volume": 48747359,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "COST",
+    "open": 151.83,
+    "close": 143.05,
+    "high": 152.95,
+    "low": 142.54,
+    "volume": 39583151,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "COST",
+    "open": 143.46,
+    "close": 142.59,
+    "high": 147.56,
+    "low": 141.53,
+    "volume": 40761297,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "COST",
+    "open": 143.05,
+    "close": 135.06,
+    "high": 143.25,
+    "low": 134.73,
+    "volume": 43419233,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "COST",
+    "open": 135.79,
+    "close": 145.3,
+    "high": 147,
+    "low": 135.06,
+    "volume": 40338762,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "COST",
+    "open": 145.78,
+    "close": 140.05,
+    "high": 147.59,
+    "low": 117.03,
+    "volume": 43381022,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "COST",
+    "open": 137.58,
+    "close": 144.57,
+    "high": 146.9,
+    "low": 137.5,
+    "volume": 39107327,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "COST",
+    "open": 144.85,
+    "close": 158.12,
+    "high": 159.4,
+    "low": 142.19,
+    "volume": 46352031,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "COST",
+    "open": 158.99,
+    "close": 161.42,
+    "high": 164.47,
+    "low": 153.23,
+    "volume": 39887153,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "COST",
+    "open": 162.02,
+    "close": 161.5,
+    "high": 169.73,
+    "low": 157.33,
+    "volume": 54519807,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "COST",
+    "open": 159.81,
+    "close": 151.12,
+    "high": 161.23,
+    "low": 144.91,
+    "volume": 48510950,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "COST",
+    "open": 150.84,
+    "close": 150.03,
+    "high": 154.88,
+    "low": 141.62,
+    "volume": 54390452,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "COST",
+    "open": 150.4,
+    "close": 157.58,
+    "high": 159.8,
+    "low": 147.1,
+    "volume": 51293904,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "COST",
+    "open": 157.87,
+    "close": 148.13,
+    "high": 159.09,
+    "low": 147.46,
+    "volume": 42836973,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "COST",
+    "open": 148.76,
+    "close": 148.77,
+    "high": 153.88,
+    "low": 138.57,
+    "volume": 69447314,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "COST",
+    "open": 150.5,
+    "close": 157.04,
+    "high": 158.79,
+    "low": 148.55,
+    "volume": 55955760,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "COST",
+    "open": 157.19,
+    "close": 167.22,
+    "high": 168.82,
+    "low": 154.67,
+    "volume": 43082456,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "COST",
+    "open": 167.15,
+    "close": 162.09,
+    "high": 169.59,
+    "low": 161.15,
+    "volume": 34036599,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "COST",
+    "open": 159,
+    "close": 152.51,
+    "high": 159.28,
+    "low": 147.2,
+    "volume": 60807224,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "COST",
+    "open": 152.22,
+    "close": 147.87,
+    "high": 152.32,
+    "low": 147.1,
+    "volume": 46325573,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "COST",
+    "open": 148.48,
+    "close": 150.11,
+    "high": 153.42,
+    "low": 142.11,
+    "volume": 51226078,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "COST",
+    "open": 150.11,
+    "close": 160.11,
+    "high": 164.95,
+    "low": 150.11,
+    "volume": 48205841,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "COST",
+    "open": 160.65,
+    "close": 163.95,
+    "high": 164.8,
+    "low": 158.51,
+    "volume": 36713639,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "COST",
+    "open": 163.84,
+    "close": 177.18,
+    "high": 177.87,
+    "low": 161.81,
+    "volume": 48181612,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "COST",
+    "open": 177.37,
+    "close": 167.69,
+    "high": 178.71,
+    "low": 164.1,
+    "volume": 58816599,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "COST",
+    "open": 167.74,
+    "close": 177.52,
+    "high": 178.27,
+    "low": 166.11,
+    "volume": 36622678,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "COST",
+    "open": 178.5,
+    "close": 180.43,
+    "high": 183.18,
+    "low": 169.06,
+    "volume": 53734138,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "COST",
+    "open": 180.81,
+    "close": 159.93,
+    "high": 182.72,
+    "low": 156.56,
+    "volume": 110663461,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "COST",
+    "open": 160.21,
+    "close": 158.51,
+    "high": 161.35,
+    "low": 150,
+    "volume": 93212356,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "COST",
+    "open": 159.1,
+    "close": 156.74,
+    "high": 162.35,
+    "low": 150.06,
+    "volume": 78722305,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "COST",
+    "open": 157.59,
+    "close": 164.29,
+    "high": 165.31,
+    "low": 155.03,
+    "volume": 50201438,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "COST",
+    "open": 164.92,
+    "close": 161.08,
+    "high": 167.29,
+    "low": 154.11,
+    "volume": 89109246,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "COST",
+    "open": 161.97,
+    "close": 184.43,
+    "high": 184.9,
+    "low": 161.29,
+    "volume": 57902432,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "COST",
+    "open": 183.26,
+    "close": 186.12,
+    "high": 195.35,
+    "low": 181.13,
+    "volume": 60837317,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "COST",
+    "open": 187.23,
+    "close": 194.87,
+    "high": 199.88,
+    "low": 183.88,
+    "volume": 57502115,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "COST",
+    "open": 193.41,
+    "close": 190.9,
+    "high": 195.52,
+    "low": 175.79,
+    "volume": 43371230,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "COST",
+    "open": 191.31,
+    "close": 188.43,
+    "high": 192.99,
+    "low": 180.83,
+    "volume": 57402114,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "COST",
+    "open": 186.91,
+    "close": 197.16,
+    "high": 199.04,
+    "low": 180.94,
+    "volume": 44180542,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "COST",
+    "open": 196.49,
+    "close": 198.24,
+    "high": 201.77,
+    "low": 190.18,
+    "volume": 43231067,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "COST",
+    "open": 195.45,
+    "close": 208.98,
+    "high": 212.46,
+    "low": 195,
+    "volume": 44836012,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "COST",
+    "open": 208.42,
+    "close": 218.71,
+    "high": 224.62,
+    "low": 206.05,
+    "volume": 36360639,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "COST",
+    "open": 218.65,
+    "close": 233.13,
+    "high": 233.52,
+    "low": 215.01,
+    "volume": 41234821,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "COST",
+    "open": 233.14,
+    "close": 234.88,
+    "high": 245.16,
+    "low": 231.51,
+    "volume": 41929005,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "COST",
+    "open": 235.81,
+    "close": 228.63,
+    "high": 237.57,
+    "low": 217,
+    "volume": 66756246,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "COST",
+    "open": 228.18,
+    "close": 231.28,
+    "high": 240.88,
+    "low": 217.45,
+    "volume": 47452000,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "COST",
+    "open": 230.72,
+    "close": 203.71,
+    "high": 233.86,
+    "low": 189.51,
+    "volume": 64334881,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "COST",
+    "open": 200.5,
+    "close": 214.63,
+    "high": 215.56,
+    "low": 199.85,
+    "volume": 46078432,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "COST",
+    "open": 214,
+    "close": 218.74,
+    "high": 219.69,
+    "low": 205.75,
+    "volume": 37633330,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "COST",
+    "open": 219.76,
+    "close": 242.14,
+    "high": 242.44,
+    "low": 215.77,
+    "volume": 50865394,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "COST",
+    "open": 243.07,
+    "close": 245.53,
+    "high": 248.7,
+    "low": 240.31,
+    "volume": 32851101,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "COST",
+    "open": 245.34,
+    "close": 239.58,
+    "high": 251.01,
+    "low": 233.05,
+    "volume": 39655921,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "COST",
+    "open": 239.78,
+    "close": 264.26,
+    "high": 268.94,
+    "low": 238.08,
+    "volume": 34371344,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "COST",
+    "open": 266.43,
+    "close": 275.63,
+    "high": 284.31,
+    "low": 261.67,
+    "volume": 32130356,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "COST",
+    "open": 275.75,
+    "close": 294.76,
+    "high": 299.95,
+    "low": 262.71,
+    "volume": 50021810,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "COST",
+    "open": 292.57,
+    "close": 288.11,
+    "high": 307.34,
+    "low": 284.4,
+    "volume": 47741002,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "COST",
+    "open": 288.04,
+    "close": 297.11,
+    "high": 304.88,
+    "low": 281.6,
+    "volume": 47729840,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "COST",
+    "open": 297.99,
+    "close": 299.81,
+    "high": 307.1,
+    "low": 295.17,
+    "volume": 33525857,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "COST",
+    "open": 299.75,
+    "close": 293.92,
+    "high": 300.2,
+    "low": 289.1,
+    "volume": 45923867,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "COST",
+    "open": 294.06,
+    "close": 305.52,
+    "high": 314.28,
+    "low": 288.62,
+    "volume": 43448331,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "COST",
+    "open": 307,
+    "close": 281.14,
+    "high": 325.26,
+    "low": 271.28,
+    "volume": 43445721,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "COST",
+    "open": 294.44,
+    "close": 285.13,
+    "high": 324.51,
+    "low": 276.34,
+    "volume": 125490902,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "COST",
+    "open": 282.36,
+    "close": 303,
+    "high": 322.63,
+    "low": 280.9,
+    "volume": 74417944,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "COST",
+    "open": 301.78,
+    "close": 308.47,
+    "high": 311.83,
+    "low": 294.54,
+    "volume": 60929636,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "COST",
+    "open": 307.9,
+    "close": 303.21,
+    "high": 315.35,
+    "low": 293.84,
+    "volume": 62694264,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "COST",
+    "open": 302.5,
+    "close": 325.53,
+    "high": 331.49,
+    "low": 300.75,
+    "volume": 46033657,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "COST",
+    "open": 325.55,
+    "close": 347.66,
+    "high": 349.06,
+    "low": 324.3,
+    "volume": 40193820,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "COST",
+    "open": 345.71,
+    "close": 355,
+    "high": 363.67,
+    "low": 331.2,
+    "volume": 58597317,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "COST",
+    "open": 356.26,
+    "close": 357.62,
+    "high": 384.87,
+    "low": 352.85,
+    "volume": 42961703,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "COST",
+    "open": 362.22,
+    "close": 391.77,
+    "high": 393.15,
+    "low": 360.59,
+    "volume": 43389467,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "COST",
+    "open": 384.5,
+    "close": 376.78,
+    "high": 388.07,
+    "low": 359.5,
+    "volume": 55496670,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "COST",
+    "open": 377.43,
+    "close": 352.43,
+    "high": 381.55,
+    "low": 351.88,
+    "volume": 49453777,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "COST",
+    "open": 351.21,
+    "close": 331,
+    "high": 361.67,
+    "low": 330.94,
+    "volume": 45930916,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "COST",
+    "open": 335.21,
+    "close": 352.48,
+    "high": 357.77,
+    "low": 307,
+    "volume": 92415655,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "COST",
+    "open": 352.54,
+    "close": 372.09,
+    "high": 375.44,
+    "low": 351.63,
+    "volume": 41460623,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "COST",
+    "open": 373.84,
+    "close": 378.27,
+    "high": 389.45,
+    "low": 371.11,
+    "volume": 43459440,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "COST",
+    "open": 379.93,
+    "close": 395.67,
+    "high": 400.47,
+    "low": 375.5,
+    "volume": 39471208,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "COST",
+    "open": 396.3,
+    "close": 429.72,
+    "high": 431.5,
+    "low": 393.88,
+    "volume": 36973055,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "COST",
+    "open": 430.62,
+    "close": 455.49,
+    "high": 460.62,
+    "low": 425.48,
+    "volume": 35676577,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "COST",
+    "open": 455.48,
+    "close": 449.35,
+    "high": 470.49,
+    "low": 445.67,
+    "volume": 39303729,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "COST",
+    "open": 449.73,
+    "close": 491.54,
+    "high": 494.17,
+    "low": 436.17,
+    "volume": 35589193,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "COST",
+    "open": 494.15,
+    "close": 539.38,
+    "high": 560.78,
+    "low": 487.2,
+    "volume": 42814876,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "COST",
+    "open": 543.1,
+    "close": 567.7,
+    "high": 571.49,
+    "low": 514.04,
+    "volume": 60755776,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "COST",
+    "open": 565.03,
+    "close": 505.13,
+    "high": 568.72,
+    "low": 469.01,
+    "volume": 57975709,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "COST",
+    "open": 505,
+    "close": 519.25,
+    "high": 534.24,
+    "low": 482.98,
+    "volume": 41855929,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "COST",
+    "open": 519.46,
+    "close": 575.85,
+    "high": 586.32,
+    "low": 511.78,
+    "volume": 59668465,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "COST",
+    "open": 577.38,
+    "close": 531.72,
+    "high": 612.27,
+    "low": 529.7,
+    "volume": 49735347,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "COST",
+    "open": 532.23,
+    "close": 466.22,
+    "high": 546.14,
+    "low": 406.51,
+    "volume": 80771006,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "COST",
+    "open": 469.38,
+    "close": 479.28,
+    "high": 491.13,
+    "low": 443.2,
+    "volume": 54379810,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "COST",
+    "open": 481.18,
+    "close": 541.3,
+    "high": 542.12,
+    "low": 478,
+    "volume": 46977046,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "COST",
+    "open": 541.42,
+    "close": 522.1,
+    "high": 564.75,
+    "low": 520.26,
+    "volume": 42249056,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "COST",
+    "open": 519.72,
+    "close": 472.27,
+    "high": 542.6,
+    "low": 463.53,
+    "volume": 49746048,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "COST",
+    "open": 474.5,
+    "close": 501.5,
+    "high": 512.82,
+    "low": 449.03,
+    "volume": 44901971,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "COST",
+    "open": 503.7,
+    "close": 539.25,
+    "high": 542.58,
+    "low": 474.5,
+    "volume": 40649881,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "COST",
+    "open": 519.14,
+    "close": 456.5,
+    "high": 519.14,
+    "low": 450.75,
+    "volume": 54988841,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "COST",
+    "open": 458,
+    "close": 511.14,
+    "high": 511.41,
+    "low": 447.9,
+    "volume": 40972823,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "COST",
+    "open": 508.31,
+    "close": 484.18,
+    "high": 530.05,
+    "low": 483.78,
+    "volume": 31614150,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "COST",
+    "open": 481.1,
+    "close": 496.87,
+    "high": 499.86,
+    "low": 465.33,
+    "volume": 48881826,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "COST",
+    "open": 496.5,
+    "close": 503.22,
+    "high": 513.13,
+    "low": 477.5,
+    "volume": 33747425,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "COST",
+    "open": 499.15,
+    "close": 511.56,
+    "high": 514.79,
+    "low": 476.75,
+    "volume": 43430743,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "COST",
+    "open": 509.33,
+    "close": 538.38,
+    "high": 539.56,
+    "low": 502.1,
+    "volume": 35236691,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "COST",
+    "open": 537.25,
+    "close": 557.86,
+    "high": 562.05,
+    "low": 524.63,
+    "volume": 27679329,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

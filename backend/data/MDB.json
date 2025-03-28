@@ -1,0 +1,872 @@
+[
+  {
+    "ticker": "MDB",
+    "open": 33,
+    "close": 30.48,
+    "high": 34,
+    "low": 29.1,
+    "volume": 18457395,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 30.37,
+    "close": 28.53,
+    "high": 31.11,
+    "low": 28.41,
+    "volume": 5012974,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 28.53,
+    "close": 29.68,
+    "high": 30.49,
+    "low": 24.62,
+    "volume": 7829119,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 29.93,
+    "close": 27.11,
+    "high": 30.08,
+    "low": 26.78,
+    "volume": 3626273,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 26.74,
+    "close": 32.21,
+    "high": 32.75,
+    "low": 25.16,
+    "volume": 3300447,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 33.1,
+    "close": 43.4,
+    "high": 46.26,
+    "low": 32.89,
+    "volume": 16782906,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 43.01,
+    "close": 35.99,
+    "high": 45.94,
+    "low": 32.35,
+    "volume": 18377631,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 35.71,
+    "close": 47.13,
+    "high": 47.39,
+    "low": 35.23,
+    "volume": 16838389,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 47.14,
+    "close": 49.63,
+    "high": 59.54,
+    "low": 46.1,
+    "volume": 25964401,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 49.4,
+    "close": 54.11,
+    "high": 62.01,
+    "low": 48.33,
+    "volume": 18857998,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 54,
+    "close": 71.96,
+    "high": 73.71,
+    "low": 53.32,
+    "volume": 14800458,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "MDB",
+    "open": 73.12,
+    "close": 81.55,
+    "high": 85.25,
+    "low": 69.77,
+    "volume": 21299034,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 81.51,
+    "close": 81.5,
+    "high": 84.5,
+    "low": 62.3,
+    "volume": 25702067,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 81.5,
+    "close": 82.9,
+    "high": 85.78,
+    "low": 65.62,
+    "volume": 25616236,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 86,
+    "close": 83.74,
+    "high": 93.23,
+    "low": 70.1,
+    "volume": 29410076,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 81.4,
+    "close": 92.36,
+    "high": 92.62,
+    "low": 70.66,
+    "volume": 29545971,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 91.02,
+    "close": 101.56,
+    "high": 109.97,
+    "low": 88.35,
+    "volume": 16603063,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 100.94,
+    "close": 147.02,
+    "high": 154.8,
+    "low": 95.3,
+    "volume": 42763486,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 148.75,
+    "close": 140.92,
+    "high": 149.38,
+    "low": 123.41,
+    "volume": 29491727,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 141.28,
+    "close": 140.34,
+    "high": 148,
+    "low": 127.14,
+    "volume": 26497517,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 140.3,
+    "close": 152.09,
+    "high": 184.78,
+    "low": 129.6,
+    "volume": 40116615,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 155.32,
+    "close": 143.22,
+    "high": 166.41,
+    "low": 140,
+    "volume": 34788366,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 142.93,
+    "close": 152.31,
+    "high": 158.26,
+    "low": 134.32,
+    "volume": 22713828,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "MDB",
+    "open": 150.7,
+    "close": 120.48,
+    "high": 160.41,
+    "low": 112.31,
+    "volume": 43679320,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 119.83,
+    "close": 127.77,
+    "high": 140.32,
+    "low": 110.61,
+    "volume": 30020106,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 127.01,
+    "close": 148.7,
+    "high": 152.33,
+    "low": 121.58,
+    "volume": 15371601,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 147.18,
+    "close": 131.61,
+    "high": 147.18,
+    "low": 123.37,
+    "volume": 30267946,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 130.18,
+    "close": 163.91,
+    "high": 169,
+    "low": 126.08,
+    "volume": 27600206,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 163.42,
+    "close": 152.5,
+    "high": 182.57,
+    "low": 141.51,
+    "volume": 22695064,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 152.5,
+    "close": 136.54,
+    "high": 162.93,
+    "low": 93.81,
+    "volume": 35679522,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 127.09,
+    "close": 162.13,
+    "high": 165.64,
+    "low": 117.71,
+    "volume": 19246745,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 154.9,
+    "close": 232.11,
+    "high": 232.86,
+    "low": 153.61,
+    "volume": 20238985,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 229.02,
+    "close": 226.34,
+    "high": 243.92,
+    "low": 188.37,
+    "volume": 28369730,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "MDB",
+    "open": 223.02,
+    "close": 229.08,
+    "high": 238.33,
+    "low": 198.03,
+    "volume": 17387229,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "MDB",
+    "open": 225.57,
+    "close": 233.8,
+    "high": 235.25,
+    "low": 186.27,
+    "volume": 15612549,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 235.12,
+    "close": 231.51,
+    "high": 258.05,
+    "low": 200.5,
+    "volume": 23637345,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 232.23,
+    "close": 228.47,
+    "high": 273.01,
+    "low": 223.96,
+    "volume": 14059631,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 227,
+    "close": 287.31,
+    "high": 289.79,
+    "low": 219.51,
+    "volume": 13164429,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 282.01,
+    "close": 359.04,
+    "high": 399.0,
+    "low": 260.77,
+    "volume": 26886811,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 344.96,
+    "close": 369.61,
+    "high": 390.36,
+    "low": 330.47,
+    "volume": 13850483,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 368.58,
+    "close": 385.93,
+    "high": 428.96,
+    "low": 352.58,
+    "volume": 12192239,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 391.03,
+    "close": 267.43,
+    "high": 399.95,
+    "low": 250.79,
+    "volume": 26458906,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 271.29,
+    "close": 297.46,
+    "high": 324.25,
+    "low": 271.25,
+    "volume": 15775053,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 298.5,
+    "close": 291.94,
+    "high": 299.98,
+    "low": 238.01,
+    "volume": 14220717,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 291.74,
+    "close": 361.52,
+    "high": 393.63,
+    "low": 270.13,
+    "volume": 22645080,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "MDB",
+    "open": 360.62,
+    "close": 358.92,
+    "high": 375.19,
+    "low": 324.97,
+    "volume": 12019584,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "MDB",
+    "open": 359.1,
+    "close": 391.83,
+    "high": 402.79,
+    "low": 347.34,
+    "volume": 11471152,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 390.9,
+    "close": 471.51,
+    "high": 518.34,
+    "low": 387.97,
+    "volume": 26640557,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 474.01,
+    "close": 521.29,
+    "high": 525,
+    "low": 434.45,
+    "volume": 14156049,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 521.99,
+    "close": 498.1,
+    "high": 590,
+    "low": 482.33,
+    "volume": 13884959,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 502,
+    "close": 529.35,
+    "high": 570.58,
+    "low": 417.21,
+    "volume": 22894369,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 515,
+    "close": 405.11,
+    "high": 519.54,
+    "low": 340.25,
+    "volume": 28599795,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 406.7,
+    "close": 381.99,
+    "high": 464.73,
+    "low": 331.8,
+    "volume": 18351769,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 382.87,
+    "close": 443.59,
+    "high": 455.68,
+    "low": 272.5,
+    "volume": 38174313,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 443.06,
+    "close": 354.93,
+    "high": 471.96,
+    "low": 352.64,
+    "volume": 19878745,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 350.3,
+    "close": 237.15,
+    "high": 366.9,
+    "low": 213.39,
+    "volume": 43240329,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 241.81,
+    "close": 259.5,
+    "high": 313.67,
+    "low": 231.34,
+    "volume": 39875364,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "MDB",
+    "open": 263.72,
+    "close": 312.47,
+    "high": 323.89,
+    "low": 256.55,
+    "volume": 31489509,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "MDB",
+    "open": 308.03,
+    "close": 322.86,
+    "high": 390.84,
+    "low": 302.05,
+    "volume": 24890618,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 266.94,
+    "close": 198.56,
+    "high": 278.67,
+    "low": 188.17,
+    "volume": 51296163,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 199.01,
+    "close": 183.03,
+    "high": 208.99,
+    "low": 166.61,
+    "volume": 40338675,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 189.81,
+    "close": 152.69,
+    "high": 194.5,
+    "low": 135.15,
+    "volume": 42792759,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 153.92,
+    "close": 196.84,
+    "high": 221.2,
+    "low": 142.02,
+    "volume": 53915192,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 199.45,
+    "close": 214.21,
+    "high": 224.9,
+    "low": 164.59,
+    "volume": 32623840,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 214.55,
+    "close": 209.52,
+    "high": 248.15,
+    "low": 203.37,
+    "volume": 26443843,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 209.69,
+    "close": 233.12,
+    "high": 233.21,
+    "low": 189.59,
+    "volume": 45865927,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 228.33,
+    "close": 239.96,
+    "high": 243.73,
+    "low": 198.72,
+    "volume": 28510993,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 237,
+    "close": 293.79,
+    "high": 298.37,
+    "low": 215.56,
+    "volume": 38467201,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 285.73,
+    "close": 410.99,
+    "high": 418.7,
+    "low": 275.76,
+    "volume": 51779964,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "MDB",
+    "open": 406.78,
+    "close": 423.4,
+    "high": 439,
+    "low": 376.49,
+    "volume": 27458967,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "MDB",
+    "open": 420,
+    "close": 381.3,
+    "high": 424.97,
+    "low": 342.01,
+    "volume": 29808884,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 395.01,
+    "close": 345.86,
+    "high": 414,
+    "low": 323.01,
+    "volume": 27749114,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 342.39,
+    "close": 344.59,
+    "high": 374.67,
+    "low": 321,
+    "volume": 21898247,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 345.21,
+    "close": 415.74,
+    "high": 442.84,
+    "low": 323.31,
+    "volume": 28053848,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 420.03,
+    "close": 408.85,
+    "high": 440.81,
+    "low": 373.23,
+    "volume": 44864988,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 404.45,
+    "close": 400.52,
+    "high": 426.51,
+    "low": 360.1,
+    "volume": 27096225,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 404.93,
+    "close": 447.58,
+    "high": 509.62,
+    "low": 399.88,
+    "volume": 25038437,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 449.12,
+    "close": 358.64,
+    "high": 449.12,
+    "low": 340.35,
+    "volume": 34595987,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 363.14,
+    "close": 365.18,
+    "high": 385.86,
+    "low": 321.77,
+    "volume": 27463693,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "MDB",
+    "open": 379.15,
+    "close": 236.06,
+    "high": 387.19,
+    "low": 225.25,
+    "volume": 35251099,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "MDB",
+    "open": 243.15,
+    "close": 249.96,
+    "high": 252.11,
+    "low": 214.74,
+    "volume": 41170438,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 253,
+    "close": 252.36,
+    "high": 271.66,
+    "low": 237.36,
+    "volume": 31293194,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "MDB",
+    "open": 246.47,
+    "close": 290.79,
+    "high": 293.28,
+    "low": 212.74,
+    "volume": 31417612,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "MDB",
+    "open": 290.79,
+    "close": 270.35,
+    "high": 300,
+    "low": 265.73,
+    "volume": 21181653,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 272.04,
+    "close": 270.4,
+    "high": 297.68,
+    "low": 250.26,
+    "volume": 28404848,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "MDB",
+    "open": 270.4,
+    "close": 322.49,
+    "high": 353.55,
+    "low": 264.18,
+    "volume": 30495198,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "MDB",
+    "open": 323,
+    "close": 232.81,
+    "high": 370,
+    "low": 229.4,
+    "volume": 60803578,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

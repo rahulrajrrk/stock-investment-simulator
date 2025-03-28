@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "CSCO",
+    "open": 20.63,
+    "close": 19.59,
+    "high": 21.56,
+    "low": 19.3,
+    "volume": 814654000,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.68,
+    "close": 20.93,
+    "high": 21.42,
+    "low": 19.24,
+    "volume": 955747640,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 21.18,
+    "close": 22.7,
+    "high": 23.14,
+    "low": 21.18,
+    "volume": 914718161,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 22.92,
+    "close": 24.23,
+    "high": 24.6,
+    "low": 22.83,
+    "volume": 948796278,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 24.36,
+    "close": 25.71,
+    "high": 29.39,
+    "low": 24.16,
+    "volume": 1100385527,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 26.13,
+    "close": 23.16,
+    "high": 26.7,
+    "low": 22.2,
+    "volume": 1322794056,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 23.3,
+    "close": 23.57,
+    "high": 23.99,
+    "low": 21.94,
+    "volume": 1344659131,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 23.68,
+    "close": 20.91,
+    "high": 24.83,
+    "low": 20.82,
+    "volume": 1077936355,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 21.12,
+    "close": 22.37,
+    "high": 23.3,
+    "low": 20.68,
+    "volume": 1161725051,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 22.1,
+    "close": 23.7,
+    "high": 24.2,
+    "low": 21.92,
+    "volume": 1088092604,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 23.66,
+    "close": 20.92,
+    "high": 23.68,
+    "low": 20.07,
+    "volume": 965858054,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 20.59,
+    "close": 18.76,
+    "high": 21.24,
+    "low": 17.53,
+    "volume": 1233071293,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 18.66,
+    "close": 18.1,
+    "high": 20.63,
+    "low": 17.85,
+    "volume": 1087697503,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 18.28,
+    "close": 19.21,
+    "high": 19.74,
+    "low": 17.8,
+    "volume": 1007059875,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.2,
+    "close": 18.75,
+    "high": 20.01,
+    "low": 18,
+    "volume": 1162734718,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 18.88,
+    "close": 19.32,
+    "high": 20.35,
+    "low": 18.81,
+    "volume": 1257798538,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.42,
+    "close": 18.04,
+    "high": 19.61,
+    "low": 17.41,
+    "volume": 1326607527,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 18.09,
+    "close": 17.42,
+    "high": 18.43,
+    "low": 17.13,
+    "volume": 1318701242,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 17.44,
+    "close": 17.89,
+    "high": 18.8,
+    "low": 17.41,
+    "volume": 1196082831,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 18.01,
+    "close": 17.27,
+    "high": 18.3,
+    "low": 17.01,
+    "volume": 1128640062,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 17.24,
+    "close": 19.4,
+    "high": 20.01,
+    "low": 17.16,
+    "volume": 1280589369,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.4,
+    "close": 19.08,
+    "high": 20.25,
+    "low": 18.98,
+    "volume": 1075723190,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.13,
+    "close": 19.15,
+    "high": 20.23,
+    "low": 18.51,
+    "volume": 913237092,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.26,
+    "close": 17.62,
+    "high": 19.74,
+    "low": 17.3,
+    "volume": 1311035210,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 17.52,
+    "close": 17.92,
+    "high": 18.66,
+    "low": 17.46,
+    "volume": 1098351451,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 17.93,
+    "close": 17.45,
+    "high": 18.12,
+    "low": 16.83,
+    "volume": 1056100159,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 17.33,
+    "close": 17.54,
+    "high": 17.98,
+    "low": 16.87,
+    "volume": 1229900462,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 17.71,
+    "close": 17.12,
+    "high": 18.0,
+    "low": 17.07,
+    "volume": 1102011352,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 17.21,
+    "close": 18.57,
+    "high": 19.43,
+    "low": 17.18,
+    "volume": 1348686812,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 18.4,
+    "close": 20.24,
+    "high": 20.4,
+    "low": 17.82,
+    "volume": 1336593289,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 20.38,
+    "close": 21.67,
+    "high": 22,
+    "low": 20.32,
+    "volume": 1321520974,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 21.85,
+    "close": 20.95,
+    "high": 21.98,
+    "low": 20,
+    "volume": 814796340,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 21.02,
+    "close": 19.68,
+    "high": 22.0,
+    "low": 19.5,
+    "volume": 1257133512,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.68,
+    "close": 19.53,
+    "high": 20.8,
+    "low": 19.08,
+    "volume": 911483367,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.77,
+    "close": 17.88,
+    "high": 20.11,
+    "low": 17.45,
+    "volume": 869174810,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 17.85,
+    "close": 21.99,
+    "high": 22.15,
+    "low": 17.1,
+    "volume": 1327577850,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 22.05,
+    "close": 22.98,
+    "high": 23.53,
+    "low": 21.18,
+    "volume": 1037833852,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 23.05,
+    "close": 24.12,
+    "high": 24.78,
+    "low": 22.8,
+    "volume": 920106313,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 24.36,
+    "close": 26.91,
+    "high": 27.44,
+    "low": 23.56,
+    "volume": 1332867252,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 26.99,
+    "close": 27.33,
+    "high": 27.96,
+    "low": 26.45,
+    "volume": 773119990,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 27.45,
+    "close": 26.62,
+    "high": 28.99,
+    "low": 25.76,
+    "volume": 1261179504,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 26.67,
+    "close": 25.94,
+    "high": 28.85,
+    "low": 25.44,
+    "volume": 1074666760,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 25.4,
+    "close": 25.53,
+    "high": 27,
+    "low": 24.82,
+    "volume": 1047081369,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 25.66,
+    "close": 26.74,
+    "high": 27.2,
+    "low": 25.31,
+    "volume": 869275559,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 26.82,
+    "close": 26.92,
+    "high": 28.48,
+    "low": 25.33,
+    "volume": 1214576609,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 26.95,
+    "close": 27.84,
+    "high": 28.4,
+    "low": 25.84,
+    "volume": 1043322607,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 28.02,
+    "close": 28.91,
+    "high": 30.39,
+    "low": 27.79,
+    "volume": 1052202595,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 28.77,
+    "close": 31.84,
+    "high": 32.47,
+    "low": 28.58,
+    "volume": 1535621740,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 31.94,
+    "close": 33.13,
+    "high": 33.38,
+    "low": 31.09,
+    "volume": 838976007,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 33.01,
+    "close": 33.06,
+    "high": 33.6,
+    "low": 30.52,
+    "volume": 934405801,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 32.84,
+    "close": 28.02,
+    "high": 34.24,
+    "low": 26.92,
+    "volume": 1560945695,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 28,
+    "close": 27.07,
+    "high": 29.64,
+    "low": 26.82,
+    "volume": 1094499817,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 27,
+    "close": 24.5,
+    "high": 27.3,
+    "low": 22.3,
+    "volume": 1502195819,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 24.62,
+    "close": 24.39,
+    "high": 25.15,
+    "low": 21.78,
+    "volume": 1620011132,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 24.35,
+    "close": 24.09,
+    "high": 25.99,
+    "low": 23.54,
+    "volume": 1298451133,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 24.52,
+    "close": 25.64,
+    "high": 26.29,
+    "low": 22.91,
+    "volume": 1086879448,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 25.64,
+    "close": 26.72,
+    "high": 27,
+    "low": 24.9,
+    "volume": 1113856282,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 26.72,
+    "close": 23.26,
+    "high": 27.72,
+    "low": 23.16,
+    "volume": 1043748390,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 23.05,
+    "close": 21.99,
+    "high": 23.4,
+    "low": 20.56,
+    "volume": 1251933324,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 22.2,
+    "close": 24.05,
+    "high": 25.25,
+    "low": 21.66,
+    "volume": 927595885,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 24.35,
+    "close": 22.56,
+    "high": 24.5,
+    "low": 19,
+    "volume": 1263151865,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 22.25,
+    "close": 17.77,
+    "high": 22.44,
+    "low": 15.9,
+    "volume": 1974261233,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 17.68,
+    "close": 16.54,
+    "high": 18.46,
+    "low": 14.2,
+    "volume": 1377972477,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 16.16,
+    "close": 16.3,
+    "high": 17.93,
+    "low": 14.71,
+    "volume": 1123025095,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 16.41,
+    "close": 14.97,
+    "high": 17.98,
+    "low": 14.91,
+    "volume": 1106378871,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 14.86,
+    "close": 14.57,
+    "high": 17.09,
+    "low": 14.3,
+    "volume": 1131864068,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 14.33,
+    "close": 16.77,
+    "high": 17.39,
+    "low": 13.61,
+    "volume": 1353669830,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 16.51,
+    "close": 19.32,
+    "high": 19.93,
+    "low": 16.3,
+    "volume": 1133350480,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.24,
+    "close": 18.5,
+    "high": 20,
+    "low": 17.61,
+    "volume": 1121278987,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.15,
+    "close": 18.65,
+    "high": 20.35,
+    "low": 18.25,
+    "volume": 1156944615,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 18.84,
+    "close": 22.01,
+    "high": 22.4,
+    "low": 17.82,
+    "volume": 1139863402,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 22.21,
+    "close": 21.6,
+    "high": 22.74,
+    "low": 20.68,
+    "volume": 979851315,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 21.46,
+    "close": 23.54,
+    "high": 23.87,
+    "low": 21.07,
+    "volume": 1031384486,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 23.35,
+    "close": 22.81,
+    "high": 24.82,
+    "low": 22.58,
+    "volume": 960164650,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 22.87,
+    "close": 23.4,
+    "high": 24.11,
+    "low": 22.55,
+    "volume": 849192717,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 23.43,
+    "close": 23.94,
+    "high": 24.42,
+    "low": 23.02,
+    "volume": 744308457,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 24.11,
+    "close": 22.47,
+    "high": 25.1,
+    "low": 22.35,
+    "volume": 930854764,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 22.65,
+    "close": 24.33,
+    "high": 24.46,
+    "low": 22.38,
+    "volume": 1034771929,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 24.33,
+    "close": 26.03,
+    "high": 26.85,
+    "low": 24.32,
+    "volume": 1169124472,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 26.2,
+    "close": 26.93,
+    "high": 27.74,
+    "low": 25.66,
+    "volume": 919588511,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 27.03,
+    "close": 23.16,
+    "high": 27.69,
+    "low": 22.56,
+    "volume": 1443545947,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 22.94,
+    "close": 21.31,
+    "high": 23.94,
+    "low": 21.24,
+    "volume": 1305912694,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 21.2,
+    "close": 23.07,
+    "high": 26,
+    "low": 20.93,
+    "volume": 1068612781,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 23.43,
+    "close": 19.98,
+    "high": 24.87,
+    "low": 19.82,
+    "volume": 1496241615,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 20.35,
+    "close": 21.9,
+    "high": 22.31,
+    "low": 20.25,
+    "volume": 1203288291,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 22.12,
+    "close": 22.86,
+    "high": 23.9,
+    "low": 21.5,
+    "volume": 874553675,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 22.95,
+    "close": 19.16,
+    "high": 24.6,
+    "low": 19.13,
+    "volume": 2260348608,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.34,
+    "close": 20.23,
+    "high": 20.51,
+    "low": 19,
+    "volume": 1404360234,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 20.45,
+    "close": 21.15,
+    "high": 21.61,
+    "low": 20.38,
+    "volume": 993173514,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 21.27,
+    "close": 18.56,
+    "high": 22.34,
+    "low": 18.23,
+    "volume": 2023911824,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 18.67,
+    "close": 17.15,
+    "high": 18.79,
+    "low": 16.97,
+    "volume": 1525361782,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 17.29,
+    "close": 17.52,
+    "high": 18.29,
+    "low": 16.52,
+    "volume": 1645283687,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 17.51,
+    "close": 16.8,
+    "high": 17.99,
+    "low": 16.11,
+    "volume": 1563151251,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 16.76,
+    "close": 15.61,
+    "high": 16.77,
+    "low": 14.78,
+    "volume": 1669892746,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 15.63,
+    "close": 15.97,
+    "high": 16.5,
+    "low": 15.27,
+    "volume": 1164994845,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 16.08,
+    "close": 15.67,
+    "high": 16.25,
+    "low": 13.3,
+    "volume": 2005418128,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 15.69,
+    "close": 15.5,
+    "high": 16.84,
+    "low": 14.96,
+    "volume": 1355107196,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 15.3,
+    "close": 18.53,
+    "high": 18.6,
+    "low": 14.93,
+    "volume": 1206074823,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 18.05,
+    "close": 18.64,
+    "high": 19.19,
+    "low": 17.22,
+    "volume": 1170333157,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 18.68,
+    "close": 18.08,
+    "high": 19.07,
+    "low": 17.62,
+    "volume": 884428273,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 18.55,
+    "close": 19.64,
+    "high": 20.07,
+    "low": 18.35,
+    "volume": 800820568,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.84,
+    "close": 19.88,
+    "high": 20.49,
+    "low": 19.7,
+    "volume": 1008601752,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.91,
+    "close": 21.15,
+    "high": 21.24,
+    "low": 19.32,
+    "volume": 825736627,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 21.14,
+    "close": 20.16,
+    "high": 21.3,
+    "low": 19.27,
+    "volume": 771911174,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 20.11,
+    "close": 16.33,
+    "high": 20.16,
+    "low": 16.26,
+    "volume": 1197216782,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 16.08,
+    "close": 17.17,
+    "high": 17.63,
+    "low": 15.92,
+    "volume": 825517700,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 17.11,
+    "close": 15.95,
+    "high": 17.23,
+    "low": 14.96,
+    "volume": 818430469,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 16.01,
+    "close": 19.08,
+    "high": 19.39,
+    "low": 15.65,
+    "volume": 1036917279,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 18.99,
+    "close": 19.09,
+    "high": 19.75,
+    "low": 18.35,
+    "volume": 712434940,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.23,
+    "close": 17.14,
+    "high": 19.4,
+    "low": 17.01,
+    "volume": 752964345,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 17.17,
+    "close": 18.91,
+    "high": 19.13,
+    "low": 16.68,
+    "volume": 907868481,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 19.02,
+    "close": 19.65,
+    "high": 20.54,
+    "low": 18.95,
+    "volume": 780179711,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 20.12,
+    "close": 20.57,
+    "high": 21.26,
+    "low": 20.01,
+    "volume": 765436994,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 20.73,
+    "close": 20.86,
+    "high": 21.67,
+    "low": 20.44,
+    "volume": 697144982,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 20.71,
+    "close": 20.89,
+    "high": 21.98,
+    "low": 20.55,
+    "volume": 678974508,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 21.04,
+    "close": 20.92,
+    "high": 21.7,
+    "low": 19.98,
+    "volume": 783026925,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 20.83,
+    "close": 24.11,
+    "high": 24.68,
+    "low": 20.29,
+    "volume": 1109959306,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 24.26,
+    "close": 24.34,
+    "high": 24.98,
+    "low": 23.88,
+    "volume": 736662083,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 24.42,
+    "close": 25.59,
+    "high": 26.15,
+    "low": 24.22,
+    "volume": 681005907,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 25.79,
+    "close": 23.31,
+    "high": 26.49,
+    "low": 23.22,
+    "volume": 851744401,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 23.58,
+    "close": 23.43,
+    "high": 24.8,
+    "low": 23.02,
+    "volume": 649859461,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 23.33,
+    "close": 22.56,
+    "high": 23.48,
+    "low": 22.1,
+    "volume": 876803868,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 22.66,
+    "close": 21.25,
+    "high": 24,
+    "low": 20.77,
+    "volume": 1088263033,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 21.29,
+    "close": 22.43,
+    "high": 22.47,
+    "low": 20.22,
+    "volume": 938279122,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 22.17,
+    "close": 21.91,
+    "high": 23,
+    "low": 21.6,
+    "volume": 867829670,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 21.93,
+    "close": 21.8,
+    "high": 22.92,
+    "low": 21.4,
+    "volume": 952720210,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 21.57,
+    "close": 22.41,
+    "high": 22.69,
+    "low": 21.27,
+    "volume": 862584037,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 22.33,
+    "close": 23.11,
+    "high": 23.64,
+    "low": 22.3,
+    "volume": 806782612,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 23.14,
+    "close": 24.62,
+    "high": 24.93,
+    "low": 22.43,
+    "volume": 816013938,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 24.64,
+    "close": 24.85,
+    "high": 25.17,
+    "low": 24.4,
+    "volume": 515667174,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 24.99,
+    "close": 25.23,
+    "high": 26.08,
+    "low": 24.77,
+    "volume": 601736282,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 25.14,
+    "close": 24.99,
+    "high": 25.37,
+    "low": 24.27,
+    "volume": 519988880,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 24.94,
+    "close": 25.17,
+    "high": 25.41,
+    "low": 24.46,
+    "volume": 525154147,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 25.2,
+    "close": 24.47,
+    "high": 25.42,
+    "low": 22.49,
+    "volume": 686427525,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 24.45,
+    "close": 27.64,
+    "high": 27.78,
+    "low": 24.45,
+    "volume": 543778436,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 27.5,
+    "close": 27.82,
+    "high": 28.59,
+    "low": 26.15,
+    "volume": 577294536,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 27.86,
+    "close": 26.36,
+    "high": 28.7,
+    "low": 26.32,
+    "volume": 659803217,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 26.39,
+    "close": 29.51,
+    "high": 29.99,
+    "low": 25.92,
+    "volume": 614706192,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 29.36,
+    "close": 27.52,
+    "high": 30.31,
+    "low": 26.62,
+    "volume": 630436969,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 27.31,
+    "close": 28.83,
+    "high": 29.33,
+    "low": 26.84,
+    "volume": 488065042,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 28.81,
+    "close": 29.31,
+    "high": 29.9,
+    "low": 28.69,
+    "volume": 515367013,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 29.6,
+    "close": 27.46,
+    "high": 29.62,
+    "low": 27.33,
+    "volume": 507166839,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 27.42,
+    "close": 28.42,
+    "high": 28.77,
+    "low": 26.84,
+    "volume": 520262279,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 28.41,
+    "close": 25.88,
+    "high": 29.2,
+    "low": 23.03,
+    "volume": 691424005,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 25.22,
+    "close": 26.25,
+    "high": 26.73,
+    "low": 24.92,
+    "volume": 556874811,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 26.05,
+    "close": 28.85,
+    "high": 29.49,
+    "low": 25.34,
+    "volume": 510886043,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 28.87,
+    "close": 27.25,
+    "high": 28.87,
+    "low": 25.82,
+    "volume": 630675283,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 27.2,
+    "close": 27.16,
+    "high": 27.9,
+    "low": 25.96,
+    "volume": 502076999,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 26.39,
+    "close": 23.79,
+    "high": 26.66,
+    "low": 22.47,
+    "volume": 786284074,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 23.46,
+    "close": 26.18,
+    "high": 26.91,
+    "low": 22.46,
+    "volume": 677689832,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 26.45,
+    "close": 28.47,
+    "high": 28.68,
+    "low": 26.23,
+    "volume": 498248707,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 28.3,
+    "close": 27.49,
+    "high": 28.7,
+    "low": 26.95,
+    "volume": 443380499,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 27.48,
+    "close": 29.05,
+    "high": 29.08,
+    "low": 25.8,
+    "volume": 542366515,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 28.84,
+    "close": 28.69,
+    "high": 29.41,
+    "low": 27.13,
+    "volume": 498637907,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 28.78,
+    "close": 30.53,
+    "high": 31.15,
+    "low": 28.17,
+    "volume": 441405337,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 30.7,
+    "close": 31.44,
+    "high": 31.7,
+    "low": 30.06,
+    "volume": 546905225,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 31.42,
+    "close": 31.72,
+    "high": 31.95,
+    "low": 30.6,
+    "volume": 439863970,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 31.31,
+    "close": 30.68,
+    "high": 31.68,
+    "low": 29.86,
+    "volume": 368535927,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 30.85,
+    "close": 29.82,
+    "high": 31.89,
+    "low": 29.55,
+    "volume": 569547675,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 29.84,
+    "close": 30.22,
+    "high": 31.07,
+    "low": 29.12,
+    "volume": 440511083,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 30.37,
+    "close": 30.72,
+    "high": 31.05,
+    "low": 29.8,
+    "volume": 390387857,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 30.85,
+    "close": 34.18,
+    "high": 34.32,
+    "low": 30.42,
+    "volume": 476211309,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 34.28,
+    "close": 33.8,
+    "high": 34.53,
+    "low": 33.65,
+    "volume": 404090831,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 33.7,
+    "close": 34.07,
+    "high": 34.11,
+    "low": 32.42,
+    "volume": 323262002,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 34.11,
+    "close": 31.53,
+    "high": 34.6,
+    "low": 30.37,
+    "volume": 548356714,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 31.52,
+    "close": 31.3,
+    "high": 32.5,
+    "low": 31.09,
+    "volume": 480792883,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 31.09,
+    "close": 31.45,
+    "high": 32.25,
+    "low": 30.67,
+    "volume": 344250079,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 31.59,
+    "close": 32.21,
+    "high": 32.47,
+    "low": 30.36,
+    "volume": 505600061,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 32.22,
+    "close": 33.63,
+    "high": 34.1,
+    "low": 31.45,
+    "volume": 415609110,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 33.61,
+    "close": 34.15,
+    "high": 34.73,
+    "low": 33.17,
+    "volume": 335277820,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 34.29,
+    "close": 37.3,
+    "high": 38.02,
+    "low": 33.67,
+    "volume": 476081714,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 37.09,
+    "close": 38.3,
+    "high": 38.99,
+    "low": 36.73,
+    "volume": 373031093,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 38.67,
+    "close": 41.54,
+    "high": 42.98,
+    "low": 38.43,
+    "volume": 504812035,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 41.09,
+    "close": 44.78,
+    "high": 45.89,
+    "low": 37.35,
+    "volume": 703752450,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 44.68,
+    "close": 42.89,
+    "high": 46.16,
+    "low": 41.58,
+    "volume": 597830299,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 42.52,
+    "close": 44.29,
+    "high": 45.34,
+    "low": 40.19,
+    "volume": 491435127,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 43.91,
+    "close": 42.71,
+    "high": 46.37,
+    "low": 42.52,
+    "volume": 500681320,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 42.91,
+    "close": 43.03,
+    "high": 44.81,
+    "low": 41.8,
+    "volume": 463650452,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 42.56,
+    "close": 42.29,
+    "high": 43.83,
+    "low": 40.94,
+    "volume": 450478768,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 41.99,
+    "close": 47.77,
+    "high": 47.83,
+    "low": 41.2,
+    "volume": 441384346,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 47.84,
+    "close": 48.65,
+    "high": 49.06,
+    "low": 46.44,
+    "volume": 365543875,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 49,
+    "close": 45.75,
+    "high": 49.47,
+    "low": 42.94,
+    "volume": 549747313,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 45.67,
+    "close": 47.87,
+    "high": 48.44,
+    "low": 44.08,
+    "volume": 526860347,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 48.32,
+    "close": 43.33,
+    "high": 49.14,
+    "low": 40.25,
+    "volume": 606736218,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 42.28,
+    "close": 47.29,
+    "high": 47.38,
+    "low": 40.96,
+    "volume": 442760320,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 47.37,
+    "close": 51.77,
+    "high": 51.96,
+    "low": 46.3,
+    "volume": 426421820,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 52,
+    "close": 53.99,
+    "high": 54.23,
+    "low": 50.51,
+    "volume": 432631044,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 54.48,
+    "close": 55.95,
+    "high": 57.52,
+    "low": 54.39,
+    "volume": 349605254,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 56,
+    "close": 52.03,
+    "high": 56.83,
+    "low": 51.06,
+    "volume": 514801530,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 52.05,
+    "close": 54.73,
+    "high": 58.15,
+    "low": 51.48,
+    "volume": 535903266,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 55.26,
+    "close": 55.4,
+    "high": 58.26,
+    "low": 54.23,
+    "volume": 325949975,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 55.84,
+    "close": 46.81,
+    "high": 56.89,
+    "low": 46,
+    "volume": 512247506,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 46.63,
+    "close": 49.41,
+    "high": 50.3,
+    "low": 46.2,
+    "volume": 375751312,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 49.65,
+    "close": 47.51,
+    "high": 49.87,
+    "low": 45.55,
+    "volume": 409871144,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 46.85,
+    "close": 45.31,
+    "high": 48.98,
+    "low": 44.44,
+    "volume": 439131963,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 45.25,
+    "close": 47.96,
+    "high": 48.37,
+    "low": 43.4,
+    "volume": 425360795,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 48.06,
+    "close": 45.97,
+    "high": 49.54,
+    "low": 45.84,
+    "volume": 379359134,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 46.4,
+    "close": 39.93,
+    "high": 50.28,
+    "low": 38.35,
+    "volume": 560748406,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 40.15,
+    "close": 39.31,
+    "high": 41.9,
+    "low": 32.4,
+    "volume": 991521343,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 38.17,
+    "close": 42.38,
+    "high": 43.62,
+    "low": 37.47,
+    "volume": 488984001,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 41.72,
+    "close": 47.82,
+    "high": 47.82,
+    "low": 40.49,
+    "volume": 491583268,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 47.15,
+    "close": 46.64,
+    "high": 48.29,
+    "low": 43.64,
+    "volume": 571197909,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 46.54,
+    "close": 47.1,
+    "high": 47.7,
+    "low": 45.2,
+    "volume": 389972035,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 47.14,
+    "close": 42.22,
+    "high": 48.45,
+    "low": 41.45,
+    "volume": 481281835,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 42,
+    "close": 39.39,
+    "high": 42.69,
+    "low": 37.6,
+    "volume": 547957991,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 39.1,
+    "close": 35.9,
+    "high": 40.61,
+    "low": 35.28,
+    "volume": 511030765,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 36.19,
+    "close": 43.02,
+    "high": 43.05,
+    "low": 35.67,
+    "volume": 535121279,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 43.01,
+    "close": 44.75,
+    "high": 45.57,
+    "low": 43.01,
+    "volume": 381265048,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 44.31,
+    "close": 44.58,
+    "high": 46.46,
+    "low": 43.35,
+    "volume": 400124065,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 44.92,
+    "close": 44.87,
+    "high": 49.34,
+    "low": 44.66,
+    "volume": 399355942,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 45.22,
+    "close": 51.71,
+    "high": 52.94,
+    "low": 44.15,
+    "volume": 579989046,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 51.75,
+    "close": 50.91,
+    "high": 53.18,
+    "low": 50.41,
+    "volume": 349129518,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 51.21,
+    "close": 52.9,
+    "high": 54.14,
+    "low": 50.1,
+    "volume": 465169616,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 52.96,
+    "close": 53,
+    "high": 55.35,
+    "low": 51.88,
+    "volume": 360968418,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 53.05,
+    "close": 55.37,
+    "high": 55.65,
+    "low": 52.34,
+    "volume": 312084254,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 55.6,
+    "close": 59.02,
+    "high": 60.27,
+    "low": 54.59,
+    "volume": 341488888,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 59.02,
+    "close": 54.43,
+    "high": 59.72,
+    "low": 54.41,
+    "volume": 374290102,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 54.6,
+    "close": 55.97,
+    "high": 56.72,
+    "low": 52.98,
+    "volume": 295745358,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 55.87,
+    "close": 54.84,
+    "high": 58.62,
+    "low": 51.08,
+    "volume": 509918427,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 55.53,
+    "close": 63.37,
+    "high": 64.28,
+    "low": 54.93,
+    "volume": 471739879,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 62.9,
+    "close": 55.67,
+    "high": 63.35,
+    "low": 53.45,
+    "volume": 480824010,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 55.45,
+    "close": 55.77,
+    "high": 57.69,
+    "low": 52.7,
+    "volume": 419529569,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 55.53,
+    "close": 55.76,
+    "high": 57,
+    "low": 53.68,
+    "volume": 499715195,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 56.17,
+    "close": 48.98,
+    "high": 56.19,
+    "low": 48.87,
+    "volume": 383865645,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 49.34,
+    "close": 45.05,
+    "high": 51.66,
+    "low": 41.02,
+    "volume": 645024019,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 45.55,
+    "close": 42.64,
+    "high": 46.09,
+    "low": 42.19,
+    "volume": 491033981,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 42.52,
+    "close": 45.37,
+    "high": 45.87,
+    "low": 40.82,
+    "volume": 368442162,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 45.06,
+    "close": 44.72,
+    "high": 50,
+    "low": 44.54,
+    "volume": 429127736,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 44.57,
+    "close": 40,
+    "high": 46.73,
+    "low": 39.96,
+    "volume": 408726344,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 40.67,
+    "close": 45.43,
+    "high": 45.71,
+    "low": 38.6,
+    "volume": 414653420,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 45.58,
+    "close": 49.72,
+    "high": 49.83,
+    "low": 43.39,
+    "volume": 423934567,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 49.88,
+    "close": 47.64,
+    "high": 50.71,
+    "low": 46.69,
+    "volume": 376122905,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 47.86,
+    "close": 48.67,
+    "high": 49.43,
+    "low": 45.67,
+    "volume": 327274868,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 48.39,
+    "close": 48.42,
+    "high": 51.74,
+    "low": 46.43,
+    "volume": 388272182,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 48.44,
+    "close": 52.27,
+    "high": 52.35,
+    "low": 48.02,
+    "volume": 426399408,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 52.06,
+    "close": 47.25,
+    "high": 52.56,
+    "low": 45.97,
+    "volume": 349965077,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 47.2,
+    "close": 49.67,
+    "high": 50.48,
+    "low": 45.55,
+    "volume": 449037502,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 49.76,
+    "close": 51.74,
+    "high": 52.41,
+    "low": 49.14,
+    "volume": 362610687,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "CSCO",
+    "open": 51.36,
+    "close": 52.63,
+    "high": 52.99,
+    "low": 50.05,
+    "volume": 278006551,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

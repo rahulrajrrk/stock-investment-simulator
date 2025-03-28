@@ -1,0 +1,1472 @@
+[
+  {
+    "ticker": "MDLZ",
+    "open": 28.42,
+    "close": 26.55,
+    "high": 28.48,
+    "low": 26.18,
+    "volume": 331528907,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 26.68,
+    "close": 25.89,
+    "high": 26.85,
+    "low": 24.5,
+    "volume": 312364590,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 26.02,
+    "close": 25.45,
+    "high": 26.23,
+    "low": 25,
+    "volume": 220532855,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 25.84,
+    "close": 27.79,
+    "high": 28.1,
+    "low": 25.78,
+    "volume": 248340932,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 28,
+    "close": 27.64,
+    "high": 28.32,
+    "low": 26.45,
+    "volume": 291290365,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 26.94,
+    "close": 30.61,
+    "high": 30.66,
+    "low": 26.94,
+    "volume": 275959188,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 30.42,
+    "close": 31.45,
+    "high": 32.1,
+    "low": 29.73,
+    "volume": 253384405,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 31.3,
+    "close": 29.48,
+    "high": 31.99,
+    "low": 29.21,
+    "volume": 269103100,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 29.47,
+    "close": 28.53,
+    "high": 30.64,
+    "low": 28.22,
+    "volume": 200886381,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 28.79,
+    "close": 31.27,
+    "high": 31.86,
+    "low": 28.5,
+    "volume": 203918833,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 31.57,
+    "close": 30.67,
+    "high": 32.91,
+    "low": 30.15,
+    "volume": 188051855,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 31.14,
+    "close": 31.42,
+    "high": 33.08,
+    "low": 30.05,
+    "volume": 167523399,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 31.31,
+    "close": 33.65,
+    "high": 34.1,
+    "low": 30.07,
+    "volume": 203101254,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 33.75,
+    "close": 33.53,
+    "high": 34.3,
+    "low": 31.76,
+    "volume": 177322573,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 33.6,
+    "close": 35.3,
+    "high": 35.43,
+    "low": 33.22,
+    "volume": 169924066,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 35.03,
+    "close": 32.76,
+    "high": 36.05,
+    "low": 32.28,
+    "volume": 243126151,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 32.8,
+    "close": 34.03,
+    "high": 34.95,
+    "low": 31.84,
+    "volume": 169064669,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 33.7,
+    "close": 34.55,
+    "high": 35.28,
+    "low": 33.43,
+    "volume": 209219380,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 34.73,
+    "close": 35.65,
+    "high": 36.12,
+    "low": 34.02,
+    "volume": 183941114,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 35.78,
+    "close": 37.62,
+    "high": 38.47,
+    "low": 35.18,
+    "volume": 174490447,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 37.54,
+    "close": 37.61,
+    "high": 38.41,
+    "low": 36.96,
+    "volume": 146554788,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 37.81,
+    "close": 36.02,
+    "high": 39.54,
+    "low": 35.98,
+    "volume": 133909199,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 36.23,
+    "close": 36.19,
+    "high": 36.76,
+    "low": 34.92,
+    "volume": 129789669,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 36.29,
+    "close": 34.27,
+    "high": 36.35,
+    "low": 33.93,
+    "volume": 148719415,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 34.11,
+    "close": 35.26,
+    "high": 35.95,
+    "low": 31.83,
+    "volume": 207491082,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 35.21,
+    "close": 39.2,
+    "high": 39.42,
+    "low": 34.95,
+    "volume": 149583877,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 39.2,
+    "close": 36.33,
+    "high": 39.27,
+    "low": 35.69,
+    "volume": 169949029,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 36.43,
+    "close": 35.24,
+    "high": 37.88,
+    "low": 35.16,
+    "volume": 168673760,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 35.24,
+    "close": 36.94,
+    "high": 37.45,
+    "low": 34.89,
+    "volume": 189813125,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 36.94,
+    "close": 36.09,
+    "high": 37.01,
+    "low": 33.97,
+    "volume": 259268500,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 36.22,
+    "close": 38.37,
+    "high": 39.08,
+    "low": 35.93,
+    "volume": 216577826,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 38.53,
+    "close": 41.59,
+    "high": 41.6,
+    "low": 38.08,
+    "volume": 190537559,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 41.6,
+    "close": 41.14,
+    "high": 41.81,
+    "low": 39.78,
+    "volume": 178060723,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 41.2,
+    "close": 45.13,
+    "high": 45.31,
+    "low": 40.98,
+    "volume": 160005907,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 45.28,
+    "close": 42.36,
+    "high": 48.58,
+    "low": 38.91,
+    "volume": 298715757,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 41.69,
+    "close": 41.87,
+    "high": 44.29,
+    "low": 40.29,
+    "volume": 246963768,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 42.27,
+    "close": 46.16,
+    "high": 47.42,
+    "low": 41.55,
+    "volume": 179718568,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 46.36,
+    "close": 43.66,
+    "high": 46.77,
+    "low": 43.12,
+    "volume": 136172501,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 44.08,
+    "close": 44.84,
+    "high": 45.95,
+    "low": 42.41,
+    "volume": 183205010,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 44.09,
+    "close": 43.1,
+    "high": 44.45,
+    "low": 39.68,
+    "volume": 248681412,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 42.82,
+    "close": 40.53,
+    "high": 42.95,
+    "low": 35.88,
+    "volume": 260307344,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 40.99,
+    "close": 40.12,
+    "high": 42.54,
+    "low": 39.21,
+    "volume": 233841220,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 40,
+    "close": 42.96,
+    "high": 44.5,
+    "low": 39.53,
+    "volume": 170535718,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 43.19,
+    "close": 44.49,
+    "high": 45.17,
+    "low": 42.57,
+    "volume": 139459944,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 44.5,
+    "close": 45.51,
+    "high": 45.75,
+    "low": 41.08,
+    "volume": 193550190,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 45.24,
+    "close": 43.98,
+    "high": 46.36,
+    "low": 43.44,
+    "volume": 148811981,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 43.91,
+    "close": 45.02,
+    "high": 45.16,
+    "low": 42.3,
+    "volume": 142663240,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 45.14,
+    "close": 43.9,
+    "high": 45.2,
+    "low": 41.96,
+    "volume": 184805010,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 43.71,
+    "close": 44.94,
+    "high": 45.66,
+    "low": 41.44,
+    "volume": 150851430,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 45.03,
+    "close": 41.24,
+    "high": 46.4,
+    "low": 40.67,
+    "volume": 204052379,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 41.34,
+    "close": 44.33,
+    "high": 45.77,
+    "low": 40.5,
+    "volume": 188263796,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 44.71,
+    "close": 44.28,
+    "high": 45.46,
+    "low": 43.92,
+    "volume": 139666311,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 44.18,
+    "close": 43.92,
+    "high": 45.48,
+    "low": 41.3,
+    "volume": 187737722,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 44.16,
+    "close": 43.08,
+    "high": 45.12,
+    "low": 43.06,
+    "volume": 170487037,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 43.23,
+    "close": 45.03,
+    "high": 45.67,
+    "low": 42.91,
+    "volume": 121129857,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 45.04,
+    "close": 46.59,
+    "high": 46.83,
+    "low": 43.46,
+    "volume": 170192763,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 46.65,
+    "close": 43.19,
+    "high": 47.23,
+    "low": 42.91,
+    "volume": 167319745,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 43.47,
+    "close": 44.02,
+    "high": 44.44,
+    "low": 42.76,
+    "volume": 119148005,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 44.04,
+    "close": 40.66,
+    "high": 44.48,
+    "low": 40.39,
+    "volume": 205530398,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 40.79,
+    "close": 40.66,
+    "high": 41.4,
+    "low": 40.04,
+    "volume": 188534716,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 40.6,
+    "close": 41.43,
+    "high": 42.49,
+    "low": 39.19,
+    "volume": 175940767,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 41.85,
+    "close": 42.94,
+    "high": 43.43,
+    "low": 40.2,
+    "volume": 153622879,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 42.68,
+    "close": 42.8,
+    "high": 43.98,
+    "low": 42.37,
+    "volume": 183857893,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 43.22,
+    "close": 44.4,
+    "high": 45.06,
+    "low": 42.29,
+    "volume": 170810406,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 44.36,
+    "close": 43.9,
+    "high": 46.54,
+    "low": 41.82,
+    "volume": 212590657,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 43.97,
+    "close": 41.73,
+    "high": 45.71,
+    "low": 40.51,
+    "volume": 207081245,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 41.57,
+    "close": 39.5,
+    "high": 42.46,
+    "low": 39.38,
+    "volume": 179251903,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 39.42,
+    "close": 39.27,
+    "high": 39.95,
+    "low": 37.42,
+    "volume": 192116580,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 39.38,
+    "close": 41,
+    "high": 41.7,
+    "low": 38.94,
+    "volume": 167493482,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 40.93,
+    "close": 43.38,
+    "high": 43.64,
+    "low": 40.52,
+    "volume": 144854550,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 43.28,
+    "close": 42.72,
+    "high": 44.23,
+    "low": 41.53,
+    "volume": 131779312,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 42.68,
+    "close": 42.96,
+    "high": 44.35,
+    "low": 41.78,
+    "volume": 125630883,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 43.02,
+    "close": 41.98,
+    "high": 43.49,
+    "low": 39.66,
+    "volume": 184591441,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 42.03,
+    "close": 44.98,
+    "high": 45.1,
+    "low": 41.33,
+    "volume": 161634091,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 44.83,
+    "close": 40.03,
+    "high": 45.45,
+    "low": 38.78,
+    "volume": 172484962,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 39.7,
+    "close": 46.26,
+    "high": 46.31,
+    "low": 39.46,
+    "volume": 170317021,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 45.86,
+    "close": 47.16,
+    "high": 48.46,
+    "low": 45.39,
+    "volume": 168398996,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 47.19,
+    "close": 49.92,
+    "high": 50.05,
+    "low": 46.37,
+    "volume": 145651756,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 49.98,
+    "close": 50.85,
+    "high": 50.87,
+    "low": 49.33,
+    "volume": 118877718,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 52,
+    "close": 50.85,
+    "high": 52.98,
+    "low": 50.55,
+    "volume": 156664708,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 50.98,
+    "close": 53.9,
+    "high": 55.71,
+    "low": 50.96,
+    "volume": 128018603,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 54.37,
+    "close": 53.49,
+    "high": 55.84,
+    "low": 52.82,
+    "volume": 111936745,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 53.39,
+    "close": 55.22,
+    "high": 55.63,
+    "low": 51.92,
+    "volume": 130445291,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 54.91,
+    "close": 55.32,
+    "high": 56.72,
+    "low": 53.57,
+    "volume": 116531749,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 55.33,
+    "close": 52.45,
+    "high": 56.06,
+    "low": 51.26,
+    "volume": 141523448,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 52.67,
+    "close": 52.54,
+    "high": 53.41,
+    "low": 51.42,
+    "volume": 100663032,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 52.4,
+    "close": 55.08,
+    "high": 55.53,
+    "low": 52.12,
+    "volume": 125591431,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 55.06,
+    "close": 57.38,
+    "high": 59.43,
+    "low": 53.57,
+    "volume": 153499045,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 57.79,
+    "close": 52.8,
+    "high": 59.96,
+    "low": 51.56,
+    "volume": 136854610,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 52.63,
+    "close": 50.08,
+    "high": 58.13,
+    "low": 41.19,
+    "volume": 286699029,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 48.38,
+    "close": 51.44,
+    "high": 54.61,
+    "low": 48,
+    "volume": 170908255,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 51.14,
+    "close": 52.12,
+    "high": 52.3,
+    "low": 48.77,
+    "volume": 125071699,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 52.03,
+    "close": 51.13,
+    "high": 53.78,
+    "low": 49.92,
+    "volume": 149246166,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 51.06,
+    "close": 55.49,
+    "high": 57.7,
+    "low": 50,
+    "volume": 129429387,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 55.6,
+    "close": 58.42,
+    "high": 58.87,
+    "low": 54.4,
+    "volume": 108063061,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 58.4,
+    "close": 57.45,
+    "high": 59.72,
+    "low": 54.48,
+    "volume": 142927679,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 57.63,
+    "close": 53.12,
+    "high": 59.11,
+    "low": 52.51,
+    "volume": 116361318,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 53.94,
+    "close": 57.45,
+    "high": 59.02,
+    "low": 53.6,
+    "volume": 116496158,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 57.79,
+    "close": 58.47,
+    "high": 59.12,
+    "low": 56.68,
+    "volume": 128121483,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 58.49,
+    "close": 55.44,
+    "high": 60,
+    "low": 54.96,
+    "volume": 140099156,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 55.61,
+    "close": 53.16,
+    "high": 56.77,
+    "low": 53.15,
+    "volume": 152859555,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 53.63,
+    "close": 58.53,
+    "high": 60.23,
+    "low": 52.91,
+    "volume": 210130295,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 58.57,
+    "close": 60.81,
+    "high": 61.87,
+    "low": 57.93,
+    "volume": 159239135,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 60.91,
+    "close": 63.53,
+    "high": 64.02,
+    "low": 60.49,
+    "volume": 138138841,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 63.8,
+    "close": 62.44,
+    "high": 64.37,
+    "low": 61.87,
+    "volume": 137046130,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 62.4,
+    "close": 63.26,
+    "high": 65.6,
+    "low": 61.8,
+    "volume": 125926178,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 63.37,
+    "close": 62.07,
+    "high": 64.12,
+    "low": 61.29,
+    "volume": 124640249,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 62.33,
+    "close": 58.18,
+    "high": 62.55,
+    "low": 58.02,
+    "volume": 148026239,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 58.35,
+    "close": 60.74,
+    "high": 61.16,
+    "low": 57.62,
+    "volume": 129487338,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 60.7,
+    "close": 58.94,
+    "high": 63.41,
+    "low": 58.6,
+    "volume": 132713934,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 59.37,
+    "close": 66.31,
+    "high": 66.53,
+    "low": 58.51,
+    "volume": 154065744,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 65.75,
+    "close": 67.03,
+    "high": 69.47,
+    "low": 63.9,
+    "volume": 191121642,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 66.99,
+    "close": 65.48,
+    "high": 68.59,
+    "low": 63.22,
+    "volume": 138894218,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 64.99,
+    "close": 62.78,
+    "high": 65.49,
+    "low": 59.02,
+    "volume": 211084006,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 63,
+    "close": 64.48,
+    "high": 66.35,
+    "low": 61.95,
+    "volume": 152965537,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 65.31,
+    "close": 63.56,
+    "high": 67.93,
+    "low": 59.65,
+    "volume": 196453788,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 63.45,
+    "close": 62.09,
+    "high": 63.74,
+    "low": 57.82,
+    "volume": 153988901,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 61.55,
+    "close": 64.04,
+    "high": 64.45,
+    "low": 59.98,
+    "volume": 136322348,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 63.92,
+    "close": 61.86,
+    "high": 66.31,
+    "low": 61.64,
+    "volume": 119794834,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 61.54,
+    "close": 54.83,
+    "high": 62.45,
+    "low": 54.72,
+    "volume": 161527993,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 55.24,
+    "close": 61.48,
+    "high": 61.99,
+    "low": 54.84,
+    "volume": 156397766,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 61.56,
+    "close": 67.61,
+    "high": 67.75,
+    "low": 61.54,
+    "volume": 127185512,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 67.76,
+    "close": 66.65,
+    "high": 68.81,
+    "low": 65.28,
+    "volume": 124049848,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 66.5,
+    "close": 65.44,
+    "high": 68.33,
+    "low": 63.26,
+    "volume": 114258916,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 65.66,
+    "close": 65.18,
+    "high": 67.44,
+    "low": 64.11,
+    "volume": 107451576,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 64.98,
+    "close": 69.72,
+    "high": 70.39,
+    "low": 63.81,
+    "volume": 155013750,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 69.46,
+    "close": 76.72,
+    "high": 78.59,
+    "low": 68.96,
+    "volume": 109308343,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 76.52,
+    "close": 73.41,
+    "high": 78.53,
+    "low": 72.25,
+    "volume": 130631009,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 73.62,
+    "close": 72.94,
+    "high": 74.73,
+    "low": 71.86,
+    "volume": 128902229,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 72.77,
+    "close": 74.13,
+    "high": 76.77,
+    "low": 70.48,
+    "volume": 146321644,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 74.25,
+    "close": 71.26,
+    "high": 75.69,
+    "low": 70.11,
+    "volume": 114730235,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 71.74,
+    "close": 69.4,
+    "high": 72.7,
+    "low": 69.02,
+    "volume": 121112251,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 69.2,
+    "close": 66.21,
+    "high": 69.29,
+    "low": 60.75,
+    "volume": 170814608,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 66.45,
+    "close": 71.06,
+    "high": 72.11,
+    "low": 66.24,
+    "volume": 140365914,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 70.87,
+    "close": 72.43,
+    "high": 73.25,
+    "low": 69.24,
+    "volume": 120228648,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 72.37,
+    "close": 75.27,
+    "high": 76.51,
+    "low": 72.28,
+    "volume": 140218651,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 74.8,
+    "close": 73.07,
+    "high": 77.2,
+    "low": 70.97,
+    "volume": 146608575,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 72.86,
+    "close": 70,
+    "high": 72.97,
+    "low": 69.69,
+    "volume": 156914887,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 70.14,
+    "close": 71.94,
+    "high": 72.64,
+    "low": 65.22,
+    "volume": 212234948,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 71.76,
+    "close": 68.53,
+    "high": 72.11,
+    "low": 66.64,
+    "volume": 126823271,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 68.27,
+    "close": 65.44,
+    "high": 68.94,
+    "low": 65.0,
+    "volume": 110792838,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 65.86,
+    "close": 68.35,
+    "high": 69.63,
+    "low": 64.18,
+    "volume": 140116011,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 67.64,
+    "close": 71.81,
+    "high": 73.41,
+    "low": 67.4,
+    "volume": 120242647,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 71.94,
+    "close": 73.67,
+    "high": 76.06,
+    "low": 71.44,
+    "volume": 114158253,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 73.66,
+    "close": 68.48,
+    "high": 73.9,
+    "low": 67.8,
+    "volume": 121316386,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 68.76,
+    "close": 64.95,
+    "high": 69.19,
+    "low": 63.4,
+    "volume": 125308083,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "MDLZ",
+    "open": 65.06,
+    "close": 59.73,
+    "high": 65.27,
+    "low": 58.9,
+    "volume": 201905084,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

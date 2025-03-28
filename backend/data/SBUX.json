@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "SBUX",
+    "open": 7.19,
+    "close": 7.2,
+    "high": 7.74,
+    "low": 7.12,
+    "volume": 229167908,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 7.26,
+    "close": 7.9,
+    "high": 8.0,
+    "low": 7.2,
+    "volume": 224077284,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 7.84,
+    "close": 8.04,
+    "high": 8.26,
+    "low": 7.5,
+    "volume": 217011560,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 8.02,
+    "close": 8.29,
+    "high": 8.36,
+    "low": 7.86,
+    "volume": 201327484,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 8.36,
+    "close": 9.15,
+    "high": 9.2,
+    "low": 8.22,
+    "volume": 269575172,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 9.21,
+    "close": 9.35,
+    "high": 9.92,
+    "low": 9,
+    "volume": 271292184,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 9.46,
+    "close": 9.47,
+    "high": 9.69,
+    "low": 9.13,
+    "volume": 287347996,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 9.54,
+    "close": 9.73,
+    "high": 9.98,
+    "low": 9.19,
+    "volume": 239690464,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 9.72,
+    "close": 10.15,
+    "high": 10.3,
+    "low": 9.26,
+    "volume": 230958464,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 10.17,
+    "close": 10.87,
+    "high": 11.1,
+    "low": 10.15,
+    "volume": 245113632,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 11.15,
+    "close": 11.75,
+    "high": 12.1,
+    "low": 11.01,
+    "volume": 307810844,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 11.71,
+    "close": 10.81,
+    "high": 11.78,
+    "low": 10.51,
+    "volume": 325209396,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 10.76,
+    "close": 11.37,
+    "high": 11.57,
+    "low": 10.7,
+    "volume": 211273892,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 11.49,
+    "close": 13.22,
+    "high": 13.31,
+    "low": 11.32,
+    "volume": 292166216,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 13.17,
+    "close": 14.06,
+    "high": 14.25,
+    "low": 13.15,
+    "volume": 245408364,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 14.08,
+    "close": 15.59,
+    "high": 16.07,
+    "low": 14.07,
+    "volume": 254101896,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 15.82,
+    "close": 13.5,
+    "high": 15.84,
+    "low": 13.03,
+    "volume": 466341684,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 13.54,
+    "close": 12.95,
+    "high": 13.74,
+    "low": 12.29,
+    "volume": 316707432,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 12.97,
+    "close": 12.91,
+    "high": 13.9,
+    "low": 12.68,
+    "volume": 269968268,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 13.06,
+    "close": 12.38,
+    "high": 13.1,
+    "low": 11.14,
+    "volume": 427742232,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 12.47,
+    "close": 13.7,
+    "high": 13.93,
+    "low": 12.3,
+    "volume": 263623772,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 13.73,
+    "close": 12.91,
+    "high": 14.22,
+    "low": 12.88,
+    "volume": 230322500,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 12.93,
+    "close": 13.14,
+    "high": 13.6,
+    "low": 12.32,
+    "volume": 274230340,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 13.14,
+    "close": 12.26,
+    "high": 13.19,
+    "low": 12,
+    "volume": 218400092,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 12.45,
+    "close": 12.53,
+    "high": 12.54,
+    "low": 11.5,
+    "volume": 265925984,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 12.58,
+    "close": 14.14,
+    "high": 14.24,
+    "low": 12.43,
+    "volume": 281018934,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 14.15,
+    "close": 15.22,
+    "high": 16,
+    "low": 14.04,
+    "volume": 232952518,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 15.17,
+    "close": 15.01,
+    "high": 16.23,
+    "low": 14.97,
+    "volume": 181344864,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 15.29,
+    "close": 15.85,
+    "high": 16.16,
+    "low": 14.95,
+    "volume": 167736990,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 15.64,
+    "close": 18.16,
+    "high": 18.43,
+    "low": 15.57,
+    "volume": 248648774,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 18.16,
+    "close": 18.82,
+    "high": 19.05,
+    "low": 17.36,
+    "volume": 226051820,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 18.99,
+    "close": 18.64,
+    "high": 19.75,
+    "low": 18.39,
+    "volume": 196216244,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 18.82,
+    "close": 17.82,
+    "high": 19.94,
+    "low": 17.3,
+    "volume": 336028120,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 17.75,
+    "close": 18.88,
+    "high": 19.01,
+    "low": 17.45,
+    "volume": 254946194,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 18.98,
+    "close": 17.11,
+    "high": 19.16,
+    "low": 16.46,
+    "volume": 309989608,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 17.0,
+    "close": 15.51,
+    "high": 17.0,
+    "low": 14.36,
+    "volume": 530203808,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 15.8,
+    "close": 17.02,
+    "high": 17.52,
+    "low": 15.27,
+    "volume": 319019678,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 17.07,
+    "close": 18.88,
+    "high": 19.75,
+    "low": 16.8,
+    "volume": 369840506,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 19.0,
+    "close": 17.65,
+    "high": 20.0,
+    "low": 17.58,
+    "volume": 329948968,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 17.76,
+    "close": 17.71,
+    "high": 18.57,
+    "low": 17.45,
+    "volume": 210795314,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 17.8,
+    "close": 17.47,
+    "high": 18.3,
+    "low": 16.75,
+    "volume": 323622688,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 17.57,
+    "close": 15.45,
+    "high": 17.71,
+    "low": 15.12,
+    "volume": 390003306,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 15.1,
+    "close": 15.68,
+    "high": 16.23,
+    "low": 14.43,
+    "volume": 556880040,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 15.77,
+    "close": 15.51,
+    "high": 16.15,
+    "low": 15.15,
+    "volume": 352796298,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 15.5,
+    "close": 14.4,
+    "high": 15.95,
+    "low": 14.02,
+    "volume": 652301988,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 14.4,
+    "close": 13.12,
+    "high": 14.57,
+    "low": 12.61,
+    "volume": 699096966,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 13.22,
+    "close": 13.34,
+    "high": 14.25,
+    "low": 12.81,
+    "volume": 662841618,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 13.26,
+    "close": 13.78,
+    "high": 14.3,
+    "low": 13.02,
+    "volume": 553419480,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 13.83,
+    "close": 13.1,
+    "high": 14.1,
+    "low": 12.97,
+    "volume": 380084532,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 13.08,
+    "close": 13.34,
+    "high": 13.46,
+    "low": 12.81,
+    "volume": 406551978,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 13.2,
+    "close": 11.7,
+    "high": 13.34,
+    "low": 10.88,
+    "volume": 822920604,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 11.62,
+    "close": 10.23,
+    "high": 11.71,
+    "low": 9.95,
+    "volume": 463422818,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 10.07,
+    "close": 9.46,
+    "high": 10.51,
+    "low": 8.83,
+    "volume": 942992262,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 9.48,
+    "close": 8.99,
+    "high": 9.68,
+    "low": 8.88,
+    "volume": 503168596,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 9.01,
+    "close": 8.75,
+    "high": 9.25,
+    "low": 8.38,
+    "volume": 594729232,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 8.91,
+    "close": 8.12,
+    "high": 9.45,
+    "low": 7.7,
+    "volume": 670896130,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 7.98,
+    "close": 9.1,
+    "high": 9.21,
+    "low": 7.84,
+    "volume": 631963850,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 9.09,
+    "close": 7.87,
+    "high": 9.28,
+    "low": 7.87,
+    "volume": 510090346,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 7.78,
+    "close": 7.34,
+    "high": 8.03,
+    "low": 6.67,
+    "volume": 691981360,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 7.45,
+    "close": 7.78,
+    "high": 8.59,
+    "low": 7.0,
+    "volume": 518187400,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 7.98,
+    "close": 7.43,
+    "high": 8.41,
+    "low": 7.07,
+    "volume": 553328262,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 7.28,
+    "close": 6.57,
+    "high": 7.53,
+    "low": 4.58,
+    "volume": 774863374,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 6.33,
+    "close": 4.46,
+    "high": 6.58,
+    "low": 3.53,
+    "volume": 657887524,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 4.32,
+    "close": 4.73,
+    "high": 5.18,
+    "low": 3.96,
+    "volume": 464423820,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 4.71,
+    "close": 4.72,
+    "high": 5.18,
+    "low": 4.25,
+    "volume": 459809260,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 4.63,
+    "close": 4.58,
+    "high": 5.38,
+    "low": 4.45,
+    "volume": 487469452,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 4.49,
+    "close": 5.55,
+    "high": 6.21,
+    "low": 4.06,
+    "volume": 574753992,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 5.5,
+    "close": 7.23,
+    "high": 7.72,
+    "low": 5.41,
+    "volume": 656671734,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 7.21,
+    "close": 7.2,
+    "high": 7.25,
+    "low": 6.26,
+    "volume": 555564334,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 7.29,
+    "close": 6.95,
+    "high": 7.7,
+    "low": 6.77,
+    "volume": 521318026,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 6.99,
+    "close": 8.85,
+    "high": 8.95,
+    "low": 6.38,
+    "volume": 673415342,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 8.99,
+    "close": 9.49,
+    "high": 9.93,
+    "low": 8.84,
+    "volume": 493615946,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 9.49,
+    "close": 10.32,
+    "high": 10.47,
+    "low": 9.11,
+    "volume": 498816882,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 10.27,
+    "close": 9.49,
+    "high": 10.55,
+    "low": 9.35,
+    "volume": 424310116,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 9.49,
+    "close": 10.95,
+    "high": 11.05,
+    "low": 9.43,
+    "volume": 436753304,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 10.97,
+    "close": 11.53,
+    "high": 11.97,
+    "low": 10.47,
+    "volume": 394241710,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 11.64,
+    "close": 10.89,
+    "high": 12.22,
+    "low": 10.88,
+    "volume": 407374682,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 10.99,
+    "close": 11.46,
+    "high": 11.73,
+    "low": 10.63,
+    "volume": 302328578,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 11.46,
+    "close": 12.13,
+    "high": 13,
+    "low": 11.44,
+    "volume": 412013076,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 12.27,
+    "close": 12.99,
+    "high": 13.79,
+    "low": 11.97,
+    "volume": 399563542,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 13.01,
+    "close": 12.95,
+    "high": 13.96,
+    "low": 12.04,
+    "volume": 474260978,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 12.88,
+    "close": 12.15,
+    "high": 14.25,
+    "low": 12.13,
+    "volume": 433656012,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 12.21,
+    "close": 12.43,
+    "high": 13.22,
+    "low": 11.73,
+    "volume": 395435458,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 12.51,
+    "close": 11.49,
+    "high": 12.86,
+    "low": 11.25,
+    "volume": 330401810,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 11.59,
+    "close": 12.78,
+    "high": 13.29,
+    "low": 11.52,
+    "volume": 301369174,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 12.95,
+    "close": 14.28,
+    "high": 14.4,
+    "low": 12.69,
+    "volume": 283561878,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 14.34,
+    "close": 15.3,
+    "high": 15.76,
+    "low": 14.22,
+    "volume": 328089246,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 15.51,
+    "close": 16.07,
+    "high": 16.57,
+    "low": 15.51,
+    "volume": 234422526,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 16.25,
+    "close": 15.77,
+    "high": 16.89,
+    "low": 15.38,
+    "volume": 363787524,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 15.88,
+    "close": 16.49,
+    "high": 17.02,
+    "low": 15.59,
+    "volume": 277636370,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 16.61,
+    "close": 18.48,
+    "high": 19.11,
+    "low": 15.86,
+    "volume": 468989056,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 18.62,
+    "close": 18.1,
+    "high": 18.83,
+    "low": 17.5,
+    "volume": 266206574,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 18.24,
+    "close": 18.39,
+    "high": 18.84,
+    "low": 17.42,
+    "volume": 253152624,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 18.27,
+    "close": 19.75,
+    "high": 19.89,
+    "low": 17.3,
+    "volume": 286866456,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 19.81,
+    "close": 20.05,
+    "high": 20.55,
+    "low": 19.45,
+    "volume": 280007546,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 20.22,
+    "close": 19.31,
+    "high": 20.39,
+    "low": 16.86,
+    "volume": 460366446,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 19.42,
+    "close": 18.64,
+    "high": 21,
+    "low": 18.21,
+    "volume": 344028450,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 18.43,
+    "close": 21.18,
+    "high": 21.71,
+    "low": 17.56,
+    "volume": 299936724,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 20.66,
+    "close": 21.74,
+    "high": 22.35,
+    "low": 20.27,
+    "volume": 288358854,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 21.6,
+    "close": 23.0,
+    "high": 23.25,
+    "low": 21.34,
+    "volume": 204171460,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 23.43,
+    "close": 23.96,
+    "high": 24.31,
+    "low": 22.64,
+    "volume": 245289744,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 24.17,
+    "close": 24.28,
+    "high": 24.68,
+    "low": 23.7,
+    "volume": 178921482,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 24.34,
+    "close": 27.95,
+    "high": 28.27,
+    "low": 24.05,
+    "volume": 302648974,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 28.02,
+    "close": 28.68,
+    "high": 31,
+    "low": 27.98,
+    "volume": 423831156,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 28.75,
+    "close": 27.45,
+    "high": 29.21,
+    "low": 25.71,
+    "volume": 353992082,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 26.55,
+    "close": 26.66,
+    "high": 27.98,
+    "low": 25.52,
+    "volume": 327299974,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 26.72,
+    "close": 22.64,
+    "high": 27.14,
+    "low": 22.55,
+    "volume": 333264960,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 22.73,
+    "close": 24.8,
+    "high": 25.03,
+    "low": 21.52,
+    "volume": 417877924,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 24.73,
+    "close": 25.36,
+    "high": 26,
+    "low": 24.5,
+    "volume": 274182754,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 25.46,
+    "close": 22.95,
+    "high": 25.65,
+    "low": 22.14,
+    "volume": 412765344,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 22.87,
+    "close": 25.93,
+    "high": 26.15,
+    "low": 22.7,
+    "volume": 332751244,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 26.07,
+    "close": 26.82,
+    "high": 27.45,
+    "low": 24.78,
+    "volume": 309670774,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 27.3,
+    "close": 28.06,
+    "high": 28.64,
+    "low": 26.84,
+    "volume": 283501562,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 28.29,
+    "close": 27.43,
+    "high": 28.55,
+    "low": 26.26,
+    "volume": 192715972,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 27.32,
+    "close": 28.48,
+    "high": 29.48,
+    "low": 27,
+    "volume": 220112102,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 28.57,
+    "close": 30.42,
+    "high": 30.46,
+    "low": 28.32,
+    "volume": 212052262,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 30.27,
+    "close": 31.57,
+    "high": 32.47,
+    "low": 29.8,
+    "volume": 168398206,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 31.63,
+    "close": 32.76,
+    "high": 33.74,
+    "low": 31.16,
+    "volume": 201973006,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 33.05,
+    "close": 35.64,
+    "high": 36.76,
+    "low": 32.91,
+    "volume": 217422266,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 36.13,
+    "close": 35.26,
+    "high": 37.13,
+    "low": 34.93,
+    "volume": 147087286,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 35.85,
+    "close": 38.48,
+    "high": 38.92,
+    "low": 35.47,
+    "volume": 149597152,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 38.49,
+    "close": 40.52,
+    "high": 40.81,
+    "low": 37.23,
+    "volume": 205090890,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 40.77,
+    "close": 40.73,
+    "high": 41.25,
+    "low": 39.5,
+    "volume": 175844098,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 40.74,
+    "close": 39.2,
+    "high": 40.84,
+    "low": 37.95,
+    "volume": 186809524,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 39.03,
+    "close": 35.56,
+    "high": 39.13,
+    "low": 35.44,
+    "volume": 292354996,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 35.5,
+    "close": 35.48,
+    "high": 37.59,
+    "low": 34.34,
+    "volume": 260927848,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 35.01,
+    "close": 36.69,
+    "high": 39.32,
+    "low": 35,
+    "volume": 244171702,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 36.82,
+    "close": 35.31,
+    "high": 37.49,
+    "low": 33.97,
+    "volume": 230040122,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 35.38,
+    "close": 36.62,
+    "high": 36.89,
+    "low": 34.57,
+    "volume": 165504788,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 36.61,
+    "close": 38.69,
+    "high": 39.17,
+    "low": 36.58,
+    "volume": 157454154,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 38.95,
+    "close": 38.84,
+    "high": 40.32,
+    "low": 38.56,
+    "volume": 174445272,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 38.75,
+    "close": 38.91,
+    "high": 39.23,
+    "low": 38.08,
+    "volume": 123784804,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 38.85,
+    "close": 37.73,
+    "high": 38.99,
+    "low": 36.89,
+    "volume": 166760670,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 37.84,
+    "close": 37.78,
+    "high": 38.83,
+    "low": 35.38,
+    "volume": 232408518,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 37.98,
+    "close": 40.6,
+    "high": 40.82,
+    "low": 37.73,
+    "volume": 140506340,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 40.5,
+    "close": 41.02,
+    "high": 42.1,
+    "low": 39.22,
+    "volume": 221990614,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 41.06,
+    "close": 43.77,
+    "high": 44.8,
+    "low": 39.28,
+    "volume": 267360020,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 43.84,
+    "close": 46.74,
+    "high": 47.41,
+    "low": 42.93,
+    "volume": 150207730,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 46.66,
+    "close": 47.35,
+    "high": 49.6,
+    "low": 45.61,
+    "volume": 195931238,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 47.14,
+    "close": 49.58,
+    "high": 52.09,
+    "low": 46.28,
+    "volume": 179339615,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 49.95,
+    "close": 51.96,
+    "high": 52.23,
+    "low": 48.57,
+    "volume": 134474223,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 51.96,
+    "close": 53.62,
+    "high": 54.75,
+    "low": 51.1,
+    "volume": 150832773,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 53.86,
+    "close": 57.93,
+    "high": 59.31,
+    "low": 53.31,
+    "volume": 177930577,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 58.62,
+    "close": 54.71,
+    "high": 59.32,
+    "low": 42.05,
+    "volume": 223617445,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 53,
+    "close": 56.84,
+    "high": 58.96,
+    "low": 52.74,
+    "volume": 187635876,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 56.99,
+    "close": 62.57,
+    "high": 64,
+    "low": 55.89,
+    "volume": 195656148,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 63.01,
+    "close": 61.39,
+    "high": 63.19,
+    "low": 59.5,
+    "volume": 141534991,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 61.08,
+    "close": 60.03,
+    "high": 62.54,
+    "low": 58.27,
+    "volume": 174953532,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 58.77,
+    "close": 60.77,
+    "high": 60.88,
+    "low": 54.94,
+    "volume": 262884958,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 60.66,
+    "close": 58.21,
+    "high": 61.78,
+    "low": 52.63,
+    "volume": 223842765,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 58.77,
+    "close": 59.7,
+    "high": 60.45,
+    "low": 56.57,
+    "volume": 180461255,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 59.61,
+    "close": 56.23,
+    "high": 61.64,
+    "low": 55.29,
+    "volume": 197544851,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 56.29,
+    "close": 54.89,
+    "high": 57.6,
+    "low": 54.19,
+    "volume": 164837529,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 54.76,
+    "close": 57.12,
+    "high": 57.19,
+    "low": 53.41,
+    "volume": 186903791,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 57.04,
+    "close": 58.05,
+    "high": 58.84,
+    "low": 56.06,
+    "volume": 203692842,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 58,
+    "close": 56.23,
+    "high": 58.05,
+    "low": 54.85,
+    "volume": 179310315,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 56.3,
+    "close": 54.14,
+    "high": 56.65,
+    "low": 52.9,
+    "volume": 192495208,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 54.1,
+    "close": 53.07,
+    "high": 54.46,
+    "low": 52.59,
+    "volume": 148488683,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 53.14,
+    "close": 57.97,
+    "high": 58.25,
+    "low": 50.84,
+    "volume": 237025776,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 57.34,
+    "close": 55.52,
+    "high": 59.54,
+    "low": 55.4,
+    "volume": 165873543,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 55.91,
+    "close": 55.22,
+    "high": 59,
+    "low": 54.88,
+    "volume": 188742645,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 55.49,
+    "close": 56.87,
+    "high": 57.85,
+    "low": 53.81,
+    "volume": 196153792,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 57.27,
+    "close": 58.39,
+    "high": 58.66,
+    "low": 54.09,
+    "volume": 225546650,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 58.28,
+    "close": 60.06,
+    "high": 61.94,
+    "low": 57.38,
+    "volume": 181201505,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 60,
+    "close": 63.61,
+    "high": 63.61,
+    "low": 58.87,
+    "volume": 160503823,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 63.51,
+    "close": 58.31,
+    "high": 64.87,
+    "low": 57.95,
+    "volume": 170396668,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 58.9,
+    "close": 53.98,
+    "high": 59.66,
+    "low": 53.41,
+    "volume": 221103649,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 54.57,
+    "close": 54.86,
+    "high": 56.12,
+    "low": 52.58,
+    "volume": 235429656,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 54.9,
+    "close": 53.71,
+    "high": 55.6,
+    "low": 53.05,
+    "volume": 184488047,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 53.86,
+    "close": 54.84,
+    "high": 56.43,
+    "low": 53.66,
+    "volume": 178852585,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 55.1,
+    "close": 57.82,
+    "high": 58.14,
+    "low": 54.05,
+    "volume": 215272007,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 57.5,
+    "close": 57.43,
+    "high": 60.05,
+    "low": 56.46,
+    "volume": 175171972,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 57.95,
+    "close": 56.81,
+    "high": 61.94,
+    "low": 56.55,
+    "volume": 242632737,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 56.28,
+    "close": 57.1,
+    "high": 57.92,
+    "low": 53.56,
+    "volume": 238536645,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 57,
+    "close": 57.89,
+    "high": 60.7,
+    "low": 55.68,
+    "volume": 185897744,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 57.52,
+    "close": 57.57,
+    "high": 60.18,
+    "low": 55.38,
+    "volume": 178573092,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 57.67,
+    "close": 56.67,
+    "high": 59.04,
+    "low": 55.54,
+    "volume": 150516464,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 56.84,
+    "close": 48.85,
+    "high": 57.94,
+    "low": 47.37,
+    "volume": 338531410,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 48.64,
+    "close": 52.39,
+    "high": 52.84,
+    "low": 48.4,
+    "volume": 244837235,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 52.24,
+    "close": 53.45,
+    "high": 54.44,
+    "low": 51.2,
+    "volume": 198193488,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 53.44,
+    "close": 56.84,
+    "high": 57.84,
+    "low": 53.21,
+    "volume": 177466189,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 56.91,
+    "close": 58.27,
+    "high": 59.7,
+    "low": 54.7,
+    "volume": 285942869,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 58.3,
+    "close": 66.72,
+    "high": 68.98,
+    "low": 58.07,
+    "volume": 326989373,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 67.37,
+    "close": 64.4,
+    "high": 68.15,
+    "low": 60.42,
+    "volume": 249641941,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 63.68,
+    "close": 68.14,
+    "high": 69.49,
+    "low": 61.4,
+    "volume": 276734947,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 68.59,
+    "close": 70.26,
+    "high": 72.07,
+    "low": 67.08,
+    "volume": 215347812,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 70.63,
+    "close": 74.34,
+    "high": 74.48,
+    "low": 69.03,
+    "volume": 192415359,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 74.76,
+    "close": 77.68,
+    "high": 77.79,
+    "low": 73.73,
+    "volume": 146488344,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 77.67,
+    "close": 76.06,
+    "high": 79.65,
+    "low": 74.33,
+    "volume": 168827944,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 76.12,
+    "close": 83.83,
+    "high": 85.2,
+    "low": 75.65,
+    "volume": 163307513,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 84.62,
+    "close": 94.69,
+    "high": 99.72,
+    "low": 84.03,
+    "volume": 166023385,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 95,
+    "close": 96.56,
+    "high": 98.14,
+    "low": 93.03,
+    "volume": 142286580,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 96.42,
+    "close": 88.42,
+    "high": 97.21,
+    "low": 87.61,
+    "volume": 136385580,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 88.63,
+    "close": 84.56,
+    "high": 88.89,
+    "low": 82.13,
+    "volume": 139313327,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 84.79,
+    "close": 85.43,
+    "high": 86.73,
+    "low": 81.03,
+    "volume": 138850644,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 85.38,
+    "close": 87.92,
+    "high": 89.3,
+    "low": 83.82,
+    "volume": 132556092,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 88.12,
+    "close": 84.83,
+    "high": 94.13,
+    "low": 84.52,
+    "volume": 170374229,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 85.07,
+    "close": 78.43,
+    "high": 90.5,
+    "low": 75.72,
+    "volume": 167205213,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 77.92,
+    "close": 65.74,
+    "high": 82.61,
+    "low": 50.02,
+    "volume": 445395702,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 63,
+    "close": 76.73,
+    "high": 79.61,
+    "low": 60.9,
+    "volume": 282871734,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 74.9,
+    "close": 77.99,
+    "high": 80.06,
+    "low": 70.65,
+    "volume": 201918749,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 77.66,
+    "close": 73.59,
+    "high": 83.62,
+    "low": 71.06,
+    "volume": 258274545,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 74,
+    "close": 76.53,
+    "high": 78.49,
+    "low": 71.81,
+    "volume": 185591125,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 76.48,
+    "close": 84.47,
+    "high": 85.36,
+    "low": 74.76,
+    "volume": 155628210,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 84.7,
+    "close": 85.92,
+    "high": 89.43,
+    "low": 81.75,
+    "volume": 161252372,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 87.04,
+    "close": 86.96,
+    "high": 91.13,
+    "low": 85.09,
+    "volume": 145097556,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 87.54,
+    "close": 98.02,
+    "high": 99.33,
+    "low": 85.45,
+    "volume": 142199074,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 99,
+    "close": 106.98,
+    "high": 107.14,
+    "low": 98.21,
+    "volume": 121639923,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 107.66,
+    "close": 96.81,
+    "high": 107.75,
+    "low": 95.92,
+    "volume": 123897430,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 96.99,
+    "close": 108.03,
+    "high": 109.48,
+    "low": 96.92,
+    "volume": 115471805,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 108.6,
+    "close": 109.27,
+    "high": 112.34,
+    "low": 102.75,
+    "volume": 163157096,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 110.06,
+    "close": 114.49,
+    "high": 118.98,
+    "low": 108.2,
+    "volume": 127020173,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 115.18,
+    "close": 113.88,
+    "high": 116.74,
+    "low": 108.88,
+    "volume": 113724861,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 114.56,
+    "close": 111.81,
+    "high": 114.62,
+    "low": 109.26,
+    "volume": 106046583,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 111.95,
+    "close": 121.43,
+    "high": 126.32,
+    "low": 111.81,
+    "volume": 123942264,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 122.03,
+    "close": 117.49,
+    "high": 122.98,
+    "low": 113.61,
+    "volume": 114436015,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 118.01,
+    "close": 110.31,
+    "high": 120.76,
+    "low": 110.31,
+    "volume": 116385656,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 110.89,
+    "close": 106.07,
+    "high": 115.57,
+    "low": 104.02,
+    "volume": 133474282,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 107.22,
+    "close": 109.64,
+    "high": 117.47,
+    "low": 107.2,
+    "volume": 161649563,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 110.96,
+    "close": 116.97,
+    "high": 117.48,
+    "low": 106.61,
+    "volume": 136734575,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 116.47,
+    "close": 98.32,
+    "high": 117.8,
+    "low": 93.79,
+    "volume": 218649601,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 98.42,
+    "close": 91.79,
+    "high": 99.15,
+    "low": 87.25,
+    "volume": 161889742,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 91.49,
+    "close": 90.97,
+    "high": 93.5,
+    "low": 78.92,
+    "volume": 249828285,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 91.5,
+    "close": 74.64,
+    "high": 91.89,
+    "low": 74.48,
+    "volume": 195083796,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 75.25,
+    "close": 78.5,
+    "high": 82.87,
+    "low": 68.39,
+    "volume": 291775077,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 78.75,
+    "close": 76.39,
+    "high": 81.3,
+    "low": 70.35,
+    "volume": 181184093,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 76.73,
+    "close": 84.78,
+    "high": 84.98,
+    "low": 75.73,
+    "volume": 118100865,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 84.19,
+    "close": 84.07,
+    "high": 89.93,
+    "low": 82.69,
+    "volume": 129741443,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 83.7,
+    "close": 84.26,
+    "high": 93.48,
+    "low": 81.67,
+    "volume": 203635689,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 84.75,
+    "close": 86.59,
+    "high": 90.9,
+    "low": 82.43,
+    "volume": 158186832,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 88.06,
+    "close": 102.2,
+    "high": 102.56,
+    "low": 82.97,
+    "volume": 161936490,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 102.33,
+    "close": 99.2,
+    "high": 105.54,
+    "low": 96.17,
+    "volume": 130660086,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 100.56,
+    "close": 109.14,
+    "high": 109.76,
+    "low": 99.47,
+    "volume": 128337103,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 108.97,
+    "close": 102.09,
+    "high": 110.83,
+    "low": 100.82,
+    "volume": 123003882,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 102.19,
+    "close": 104.13,
+    "high": 105.94,
+    "low": 97.19,
+    "volume": 132246886,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 104.06,
+    "close": 114.29,
+    "high": 114.31,
+    "low": 103.07,
+    "volume": 96608093,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 114.25,
+    "close": 97.64,
+    "high": 115.48,
+    "low": 96.98,
+    "volume": 157136266,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 97.59,
+    "close": 99.06,
+    "high": 102.51,
+    "low": 96.52,
+    "volume": 150926262,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "SBUX",
+    "open": 98.73,
+    "close": 102.82,
+    "high": 103.55,
+    "low": 95.55,
+    "volume": 97319947,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

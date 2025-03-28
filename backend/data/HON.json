@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "HON",
+    "open": 28.85,
+    "close": 26.35,
+    "high": 29.04,
+    "low": 25.94,
+    "volume": 50824500,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "HON",
+    "open": 26.35,
+    "close": 30.61,
+    "high": 31.05,
+    "low": 26.25,
+    "volume": 82966400,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "HON",
+    "open": 31,
+    "close": 29.69,
+    "high": 31.12,
+    "low": 28.6,
+    "volume": 55785763,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "HON",
+    "open": 29.94,
+    "close": 33.43,
+    "high": 33.5,
+    "low": 29.2,
+    "volume": 99831900,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "HON",
+    "open": 33.05,
+    "close": 36.12,
+    "high": 37.65,
+    "low": 32.85,
+    "volume": 94578800,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "HON",
+    "open": 35.96,
+    "close": 35.05,
+    "high": 37.01,
+    "low": 34.41,
+    "volume": 62075100,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "HON",
+    "open": 35.16,
+    "close": 33.85,
+    "high": 35.5,
+    "low": 31.23,
+    "volume": 73997400,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "HON",
+    "open": 33.84,
+    "close": 34.58,
+    "high": 35.99,
+    "low": 33.77,
+    "volume": 59630900,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "HON",
+    "open": 34.59,
+    "close": 33.7,
+    "high": 35.2,
+    "low": 32.44,
+    "volume": 48388300,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "HON",
+    "open": 33.61,
+    "close": 36.63,
+    "high": 37.59,
+    "low": 33,
+    "volume": 61425300,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "HON",
+    "open": 36.54,
+    "close": 37.61,
+    "high": 38.46,
+    "low": 35.1,
+    "volume": 73461300,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "HON",
+    "open": 36.9,
+    "close": 35.98,
+    "high": 37.64,
+    "low": 34,
+    "volume": 67375200,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "HON",
+    "open": 35.86,
+    "close": 35.86,
+    "high": 37.08,
+    "low": 35,
+    "volume": 58388200,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "HON",
+    "open": 35.89,
+    "close": 33.68,
+    "high": 37.23,
+    "low": 31.85,
+    "volume": 88769700,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "HON",
+    "open": 33.76,
+    "close": 35.33,
+    "high": 36.8,
+    "low": 33.7,
+    "volume": 65958400,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "HON",
+    "open": 35.5,
+    "close": 35.41,
+    "high": 36.77,
+    "low": 34.12,
+    "volume": 86313800,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "HON",
+    "open": 35.59,
+    "close": 35.98,
+    "high": 36.45,
+    "low": 33.63,
+    "volume": 82060600,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "HON",
+    "open": 36.08,
+    "close": 37.97,
+    "high": 39.5,
+    "low": 35.85,
+    "volume": 75794500,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "HON",
+    "open": 37.97,
+    "close": 37.21,
+    "high": 39.18,
+    "low": 36.27,
+    "volume": 80601000,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "HON",
+    "open": 37.5,
+    "close": 35.76,
+    "high": 38.09,
+    "low": 35.03,
+    "volume": 68767900,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "HON",
+    "open": 35.76,
+    "close": 36.23,
+    "high": 37.72,
+    "low": 34.93,
+    "volume": 89351900,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "HON",
+    "open": 36.23,
+    "close": 36.63,
+    "high": 38.34,
+    "low": 35.82,
+    "volume": 79222900,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "HON",
+    "open": 36.63,
+    "close": 39.28,
+    "high": 39.5,
+    "low": 34.5,
+    "volume": 85233100,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "HON",
+    "open": 39.28,
+    "close": 38.28,
+    "high": 39.31,
+    "low": 37.62,
+    "volume": 61455500,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "HON",
+    "open": 38.23,
+    "close": 37.5,
+    "high": 39.38,
+    "low": 36.34,
+    "volume": 67196700,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "HON",
+    "open": 37.42,
+    "close": 34.2,
+    "high": 37.6,
+    "low": 32.68,
+    "volume": 91361700,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "HON",
+    "open": 34.31,
+    "close": 36.54,
+    "high": 37.33,
+    "low": 33.76,
+    "volume": 80782200,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "HON",
+    "open": 36.88,
+    "close": 37.25,
+    "high": 38.66,
+    "low": 35.45,
+    "volume": 94850800,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "HON",
+    "open": 37.22,
+    "close": 38.42,
+    "high": 38.72,
+    "low": 35.24,
+    "volume": 76965800,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "HON",
+    "open": 38.53,
+    "close": 40.95,
+    "high": 42.93,
+    "low": 38.22,
+    "volume": 89786200,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "HON",
+    "open": 40.92,
+    "close": 42.77,
+    "high": 43.21,
+    "low": 40.67,
+    "volume": 68100400,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "HON",
+    "open": 43,
+    "close": 42.5,
+    "high": 44.48,
+    "low": 41.57,
+    "volume": 68673500,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "HON",
+    "open": 43.15,
+    "close": 41.18,
+    "high": 44.46,
+    "low": 39.96,
+    "volume": 72057200,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "HON",
+    "open": 41.18,
+    "close": 40.3,
+    "high": 41.84,
+    "low": 37.37,
+    "volume": 76110200,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "HON",
+    "open": 40.15,
+    "close": 38.7,
+    "high": 40.43,
+    "low": 35.53,
+    "volume": 95951500,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "HON",
+    "open": 38.76,
+    "close": 38.72,
+    "high": 39.63,
+    "low": 36.75,
+    "volume": 73141200,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "HON",
+    "open": 38.98,
+    "close": 40.9,
+    "high": 41.5,
+    "low": 37.88,
+    "volume": 67476900,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "HON",
+    "open": 40.75,
+    "close": 42.12,
+    "high": 43.15,
+    "low": 40.7,
+    "volume": 79147900,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "HON",
+    "open": 42.42,
+    "close": 42.98,
+    "high": 43.53,
+    "low": 41.56,
+    "volume": 68512400,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "HON",
+    "open": 42.87,
+    "close": 45.24,
+    "high": 45.77,
+    "low": 41.49,
+    "volume": 85617100,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "HON",
+    "open": 45.02,
+    "close": 45.69,
+    "high": 45.99,
+    "low": 43.14,
+    "volume": 66918700,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "HON",
+    "open": 45.79,
+    "close": 46.4,
+    "high": 48.5,
+    "low": 45.51,
+    "volume": 73032598,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "HON",
+    "open": 45.3,
+    "close": 46.06,
+    "high": 47.88,
+    "low": 44.56,
+    "volume": 92573805,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "HON",
+    "open": 45.58,
+    "close": 54.18,
+    "high": 55.04,
+    "low": 45.58,
+    "volume": 103427556,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "HON",
+    "open": 54.49,
+    "close": 57.91,
+    "high": 59.37,
+    "low": 54.25,
+    "volume": 181232219,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "HON",
+    "open": 58.11,
+    "close": 56.28,
+    "high": 59.24,
+    "low": 55.34,
+    "volume": 104826698,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "HON",
+    "open": 56.7,
+    "close": 57.51,
+    "high": 61.9,
+    "low": 56.61,
+    "volume": 113834750,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "HON",
+    "open": 56.94,
+    "close": 56.15,
+    "high": 59.61,
+    "low": 52.88,
+    "volume": 125531649,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "HON",
+    "open": 56.23,
+    "close": 59.47,
+    "high": 59.7,
+    "low": 54.12,
+    "volume": 78050241,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "HON",
+    "open": 59.6,
+    "close": 60.41,
+    "high": 62.29,
+    "low": 57.17,
+    "volume": 82130581,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "HON",
+    "open": 60.2,
+    "close": 56.62,
+    "high": 61.07,
+    "low": 53.06,
+    "volume": 108720080,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "HON",
+    "open": 56.27,
+    "close": 61.57,
+    "high": 62,
+    "low": 56.27,
+    "volume": 87143544,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "HON",
+    "open": 61.52,
+    "close": 59.07,
+    "high": 61.52,
+    "low": 52.16,
+    "volume": 123507430,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "HON",
+    "open": 59.02,
+    "close": 57.54,
+    "high": 60.76,
+    "low": 55.18,
+    "volume": 118137236,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "HON",
+    "open": 57.57,
+    "close": 56.42,
+    "high": 59.66,
+    "low": 53.5,
+    "volume": 101874136,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "HON",
+    "open": 56.81,
+    "close": 59.4,
+    "high": 61.31,
+    "low": 55.99,
+    "volume": 103339120,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "HON",
+    "open": 59.41,
+    "close": 59.62,
+    "high": 62.99,
+    "low": 58.34,
+    "volume": 72448906,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "HON",
+    "open": 59.51,
+    "close": 50.28,
+    "high": 59.52,
+    "low": 48.43,
+    "volume": 125492847,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "HON",
+    "open": 49.61,
+    "close": 50.84,
+    "high": 53.71,
+    "low": 46.67,
+    "volume": 150242539,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "HON",
+    "open": 51.13,
+    "close": 50.17,
+    "high": 52.32,
+    "low": 47.67,
+    "volume": 75340378,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "HON",
+    "open": 50.67,
+    "close": 41.55,
+    "high": 51.99,
+    "low": 39.27,
+    "volume": 147071400,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "HON",
+    "open": 41.18,
+    "close": 30.45,
+    "high": 41.18,
+    "low": 26.01,
+    "volume": 231571451,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "HON",
+    "open": 30.41,
+    "close": 27.86,
+    "high": 33.1,
+    "low": 23.24,
+    "volume": 129180865,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "HON",
+    "open": 27.5,
+    "close": 32.83,
+    "high": 34,
+    "low": 24.45,
+    "volume": 162809909,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "HON",
+    "open": 32.93,
+    "close": 32.81,
+    "high": 36.4,
+    "low": 30.98,
+    "volume": 128097139,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "HON",
+    "open": 32.32,
+    "close": 26.83,
+    "high": 33.7,
+    "low": 26.78,
+    "volume": 150095585,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "HON",
+    "open": 26.34,
+    "close": 27.86,
+    "high": 30.42,
+    "low": 23.06,
+    "volume": 164062462,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "HON",
+    "open": 27.74,
+    "close": 31.21,
+    "high": 32.56,
+    "low": 27.44,
+    "volume": 164106508,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "HON",
+    "open": 31.17,
+    "close": 33.16,
+    "high": 34.91,
+    "low": 30.87,
+    "volume": 133553049,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "HON",
+    "open": 33.65,
+    "close": 31.4,
+    "high": 36.66,
+    "low": 30.81,
+    "volume": 130458393,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "HON",
+    "open": 31.59,
+    "close": 34.7,
+    "high": 34.87,
+    "low": 29.17,
+    "volume": 125121282,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "HON",
+    "open": 35.01,
+    "close": 36.76,
+    "high": 37.98,
+    "low": 34.5,
+    "volume": 103882098,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "HON",
+    "open": 36.66,
+    "close": 37.15,
+    "high": 40.55,
+    "low": 35.56,
+    "volume": 137377189,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "HON",
+    "open": 37.11,
+    "close": 35.89,
+    "high": 39.18,
+    "low": 35.42,
+    "volume": 134772615,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "HON",
+    "open": 36,
+    "close": 38.47,
+    "high": 40.24,
+    "low": 35.6,
+    "volume": 88853402,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "HON",
+    "open": 38.75,
+    "close": 39.2,
+    "high": 41.55,
+    "low": 38.75,
+    "volume": 108196984,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "HON",
+    "open": 39.61,
+    "close": 38.64,
+    "high": 43.21,
+    "low": 37.58,
+    "volume": 116380615,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "HON",
+    "open": 38.92,
+    "close": 40.16,
+    "high": 40.85,
+    "low": 36.68,
+    "volume": 108009253,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "HON",
+    "open": 40.25,
+    "close": 45.27,
+    "high": 45.78,
+    "low": 40.25,
+    "volume": 124133356,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "HON",
+    "open": 45.51,
+    "close": 47.47,
+    "high": 48.63,
+    "low": 44.72,
+    "volume": 108411986,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "HON",
+    "open": 47.81,
+    "close": 42.77,
+    "high": 48.53,
+    "low": 39.98,
+    "volume": 137291720,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "HON",
+    "open": 42.24,
+    "close": 39.03,
+    "high": 46.56,
+    "low": 38.54,
+    "volume": 133974645,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "HON",
+    "open": 38.99,
+    "close": 42.86,
+    "high": 44.3,
+    "low": 37.89,
+    "volume": 110088423,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "HON",
+    "open": 43.66,
+    "close": 39.06,
+    "high": 44.17,
+    "low": 38.08,
+    "volume": 97975764,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "HON",
+    "open": 39.59,
+    "close": 43.94,
+    "high": 44.89,
+    "low": 39.45,
+    "volume": 101619175,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "HON",
+    "open": 44.22,
+    "close": 47.11,
+    "high": 48.28,
+    "low": 43.41,
+    "volume": 102412422,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "HON",
+    "open": 46.93,
+    "close": 49.71,
+    "high": 50.44,
+    "low": 46.56,
+    "volume": 111631797,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "HON",
+    "open": 50.41,
+    "close": 53.16,
+    "high": 53.74,
+    "low": 50.41,
+    "volume": 85088131,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "HON",
+    "open": 53.49,
+    "close": 56.01,
+    "high": 56.99,
+    "low": 52.98,
+    "volume": 84297221,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "HON",
+    "open": 56.32,
+    "close": 57.91,
+    "high": 58.08,
+    "low": 54.92,
+    "volume": 65302095,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "HON",
+    "open": 58.09,
+    "close": 59.71,
+    "high": 59.95,
+    "low": 53.74,
+    "volume": 96607807,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "HON",
+    "open": 59.96,
+    "close": 61.23,
+    "high": 62.1,
+    "low": 56.31,
+    "volume": 88459028,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "HON",
+    "open": 61.67,
+    "close": 59.55,
+    "high": 62.28,
+    "low": 57.76,
+    "volume": 87591170,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "HON",
+    "open": 59.37,
+    "close": 59.59,
+    "high": 59.95,
+    "low": 55.37,
+    "volume": 85699755,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "HON",
+    "open": 59.49,
+    "close": 53.1,
+    "high": 60.65,
+    "low": 51.99,
+    "volume": 91482728,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "HON",
+    "open": 54.01,
+    "close": 47.81,
+    "high": 54.04,
+    "low": 41.62,
+    "volume": 204305420,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "HON",
+    "open": 47.74,
+    "close": 43.91,
+    "high": 48.36,
+    "low": 41.5,
+    "volume": 122731398,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "HON",
+    "open": 43.55,
+    "close": 52.4,
+    "high": 54.52,
+    "low": 41.22,
+    "volume": 118313954,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "HON",
+    "open": 50.86,
+    "close": 54.15,
+    "high": 55.81,
+    "low": 48.82,
+    "volume": 97434994,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "HON",
+    "open": 53.88,
+    "close": 54.35,
+    "high": 55.55,
+    "low": 51.42,
+    "volume": 79197454,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "HON",
+    "open": 55.28,
+    "close": 58.04,
+    "high": 58.91,
+    "low": 54.73,
+    "volume": 77040193,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "HON",
+    "open": 58.64,
+    "close": 59.57,
+    "high": 60.79,
+    "low": 58.33,
+    "volume": 64792325,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "HON",
+    "open": 59.35,
+    "close": 61.05,
+    "high": 62,
+    "low": 57.31,
+    "volume": 82310169,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "HON",
+    "open": 60.57,
+    "close": 60.66,
+    "high": 61.45,
+    "low": 56.57,
+    "volume": 82229229,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "HON",
+    "open": 60.48,
+    "close": 55.66,
+    "high": 61.47,
+    "low": 54.78,
+    "volume": 78827678,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "HON",
+    "open": 54.21,
+    "close": 55.84,
+    "high": 56.99,
+    "low": 52.21,
+    "volume": 87134161,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "HON",
+    "open": 55.94,
+    "close": 58.05,
+    "high": 59.52,
+    "low": 52.73,
+    "volume": 78303571,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "HON",
+    "open": 58.4,
+    "close": 58.45,
+    "high": 59.98,
+    "low": 56.7,
+    "volume": 57096380,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "HON",
+    "open": 58.48,
+    "close": 59.75,
+    "high": 61.95,
+    "low": 57.16,
+    "volume": 62345225,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "HON",
+    "open": 60.37,
+    "close": 61.24,
+    "high": 63.48,
+    "low": 60.05,
+    "volume": 79650040,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "HON",
+    "open": 61.26,
+    "close": 61.33,
+    "high": 63.89,
+    "low": 58.29,
+    "volume": 70393741,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "HON",
+    "open": 61.56,
+    "close": 63.47,
+    "high": 64.49,
+    "low": 60.24,
+    "volume": 70083345,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "HON",
+    "open": 64.67,
+    "close": 68.24,
+    "high": 69.25,
+    "low": 64.16,
+    "volume": 72159972,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "HON",
+    "open": 68.97,
+    "close": 70.1,
+    "high": 71.43,
+    "low": 68.39,
+    "volume": 65590306,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "HON",
+    "open": 69.71,
+    "close": 75.35,
+    "high": 75.75,
+    "low": 68.9,
+    "volume": 77272745,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "HON",
+    "open": 75.2,
+    "close": 73.54,
+    "high": 75.28,
+    "low": 70.92,
+    "volume": 83557845,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "HON",
+    "open": 73.2,
+    "close": 78.46,
+    "high": 81.24,
+    "low": 72.47,
+    "volume": 70181966,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "HON",
+    "open": 78.55,
+    "close": 79.34,
+    "high": 81.09,
+    "low": 76.15,
+    "volume": 60498861,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "HON",
+    "open": 79.86,
+    "close": 82.98,
+    "high": 84.85,
+    "low": 77.32,
+    "volume": 64047390,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "HON",
+    "open": 83.8,
+    "close": 79.57,
+    "high": 84.78,
+    "low": 78.88,
+    "volume": 49567433,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "HON",
+    "open": 80.44,
+    "close": 83.04,
+    "high": 87.55,
+    "low": 80.23,
+    "volume": 47693393,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "HON",
+    "open": 83.13,
+    "close": 86.73,
+    "high": 87.94,
+    "low": 81.04,
+    "volume": 66340930,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "HON",
+    "open": 86.77,
+    "close": 88.51,
+    "high": 89.52,
+    "low": 85.33,
+    "volume": 43020020,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "HON",
+    "open": 88.48,
+    "close": 91.37,
+    "high": 91.56,
+    "low": 85.77,
+    "volume": 49901414,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "HON",
+    "open": 90.96,
+    "close": 91.23,
+    "high": 92.15,
+    "low": 88.12,
+    "volume": 61086926,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "HON",
+    "open": 91.23,
+    "close": 94.44,
+    "high": 95.21,
+    "low": 88.27,
+    "volume": 58877682,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "HON",
+    "open": 92.71,
+    "close": 92.76,
+    "high": 95.91,
+    "low": 90.05,
+    "volume": 67201756,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "HON",
+    "open": 93.15,
+    "close": 92.9,
+    "high": 95.16,
+    "low": 89.96,
+    "volume": 60221539,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "HON",
+    "open": 92.83,
+    "close": 93.15,
+    "high": 94.77,
+    "low": 90.07,
+    "volume": 54161449,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "HON",
+    "open": 93.3,
+    "close": 92.95,
+    "high": 96.49,
+    "low": 92.51,
+    "volume": 50183564,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "HON",
+    "open": 93.29,
+    "close": 91.83,
+    "high": 98.09,
+    "low": 91.83,
+    "volume": 68017632,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "HON",
+    "open": 91.75,
+    "close": 95.23,
+    "high": 96.33,
+    "low": 90.18,
+    "volume": 52211891,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "HON",
+    "open": 95.18,
+    "close": 93.12,
+    "high": 96.93,
+    "low": 92.25,
+    "volume": 53078507,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "HON",
+    "open": 92.75,
+    "close": 96.12,
+    "high": 96.98,
+    "low": 82.89,
+    "volume": 94304730,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "HON",
+    "open": 96.25,
+    "close": 99.07,
+    "high": 99.35,
+    "low": 94.88,
+    "volume": 41449515,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "HON",
+    "open": 98.6,
+    "close": 99.92,
+    "high": 102.39,
+    "low": 95.37,
+    "volume": 51387723,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "HON",
+    "open": 100.2,
+    "close": 97.76,
+    "high": 103.92,
+    "low": 96.5,
+    "volume": 69846648,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "HON",
+    "open": 98.57,
+    "close": 102.78,
+    "high": 105.39,
+    "low": 96.94,
+    "volume": 45922901,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "HON",
+    "open": 102.56,
+    "close": 104.31,
+    "high": 106.15,
+    "low": 100.3,
+    "volume": 65486175,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "HON",
+    "open": 104.05,
+    "close": 100.92,
+    "high": 105.06,
+    "low": 100.69,
+    "volume": 57437435,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "HON",
+    "open": 101.56,
+    "close": 104.2,
+    "high": 107.1,
+    "low": 100.15,
+    "volume": 61960908,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "HON",
+    "open": 104.23,
+    "close": 101.97,
+    "high": 106.21,
+    "low": 101.57,
+    "volume": 44233468,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "HON",
+    "open": 102.98,
+    "close": 105.05,
+    "high": 106.79,
+    "low": 100.75,
+    "volume": 62626933,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "HON",
+    "open": 105.02,
+    "close": 99.27,
+    "high": 107.41,
+    "low": 87,
+    "volume": 75232199,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "HON",
+    "open": 96.98,
+    "close": 94.69,
+    "high": 102.29,
+    "low": 91.57,
+    "volume": 78981790,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "HON",
+    "open": 94.74,
+    "close": 103.28,
+    "high": 104.0,
+    "low": 93.01,
+    "volume": 86153793,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "HON",
+    "open": 103.27,
+    "close": 103.95,
+    "high": 106.14,
+    "low": 100.79,
+    "volume": 55680165,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "HON",
+    "open": 103.9,
+    "close": 103.57,
+    "high": 105.72,
+    "low": 97.66,
+    "volume": 73057046,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "HON",
+    "open": 101.62,
+    "close": 103.2,
+    "high": 103.59,
+    "low": 93.71,
+    "volume": 71961275,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "HON",
+    "open": 102.2,
+    "close": 101.35,
+    "high": 111.86,
+    "low": 99.42,
+    "volume": 110254142,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "HON",
+    "open": 103.61,
+    "close": 112.05,
+    "high": 113.47,
+    "low": 103.3,
+    "volume": 74156678,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "HON",
+    "open": 111.5,
+    "close": 114.27,
+    "high": 116.56,
+    "low": 110.83,
+    "volume": 57682458,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "HON",
+    "open": 114.46,
+    "close": 113.83,
+    "high": 115.5,
+    "low": 110.72,
+    "volume": 53939740,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "HON",
+    "open": 113.89,
+    "close": 116.32,
+    "high": 118.53,
+    "low": 110.2,
+    "volume": 59503436,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "HON",
+    "open": 116.65,
+    "close": 116.33,
+    "high": 120.02,
+    "low": 112.7,
+    "volume": 60918225,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "HON",
+    "open": 115.95,
+    "close": 116.71,
+    "high": 117.75,
+    "low": 115.04,
+    "volume": 43491586,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "HON",
+    "open": 116.4,
+    "close": 116.59,
+    "high": 117.72,
+    "low": 111,
+    "volume": 66319480,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "HON",
+    "open": 115.81,
+    "close": 109.68,
+    "high": 116.29,
+    "low": 105.25,
+    "volume": 100190367,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "HON",
+    "open": 109.87,
+    "close": 113.94,
+    "high": 114.74,
+    "low": 108.01,
+    "volume": 69830692,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "HON",
+    "open": 113.24,
+    "close": 115.85,
+    "high": 118.62,
+    "low": 112.17,
+    "volume": 75667487,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "HON",
+    "open": 116.63,
+    "close": 118.32,
+    "high": 119.23,
+    "low": 115.56,
+    "volume": 66434003,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "HON",
+    "open": 118.71,
+    "close": 124.5,
+    "high": 125.72,
+    "low": 117.13,
+    "volume": 56491172,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "HON",
+    "open": 125.36,
+    "close": 124.87,
+    "high": 127.52,
+    "low": 123.05,
+    "volume": 59367501,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "HON",
+    "open": 124.73,
+    "close": 131.14,
+    "high": 135,
+    "low": 122.4,
+    "volume": 61626094,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "HON",
+    "open": 131.03,
+    "close": 132.99,
+    "high": 134.12,
+    "low": 129,
+    "volume": 59769005,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "HON",
+    "open": 133.56,
+    "close": 133.29,
+    "high": 135.9,
+    "low": 131.42,
+    "volume": 54381834,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "HON",
+    "open": 133.93,
+    "close": 136.12,
+    "high": 138.7,
+    "low": 133.2,
+    "volume": 46701083,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "HON",
+    "open": 136.35,
+    "close": 138.27,
+    "high": 140.21,
+    "low": 134.5,
+    "volume": 55172106,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "HON",
+    "open": 138.29,
+    "close": 141.74,
+    "high": 142.06,
+    "low": 136.17,
+    "volume": 57318072,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "HON",
+    "open": 141.81,
+    "close": 144.16,
+    "high": 147,
+    "low": 140.2,
+    "volume": 55308028,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "HON",
+    "open": 144.59,
+    "close": 155.96,
+    "high": 156.7,
+    "low": 143.86,
+    "volume": 53219379,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "HON",
+    "open": 155.7,
+    "close": 153.36,
+    "high": 156.53,
+    "low": 152.81,
+    "volume": 59271160,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "HON",
+    "open": 153.82,
+    "close": 159.67,
+    "high": 165.13,
+    "low": 151.8,
+    "volume": 72330051,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "HON",
+    "open": 159,
+    "close": 151.11,
+    "high": 160.81,
+    "low": 143.85,
+    "volume": 68352861,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "HON",
+    "open": 151.33,
+    "close": 144.51,
+    "high": 154.47,
+    "low": 142.49,
+    "volume": 62377688,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "HON",
+    "open": 143.84,
+    "close": 144.68,
+    "high": 151.63,
+    "low": 140.17,
+    "volume": 61105973,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "HON",
+    "open": 144.37,
+    "close": 147.91,
+    "high": 152.46,
+    "low": 139.51,
+    "volume": 56557818,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "HON",
+    "open": 148.85,
+    "close": 144.05,
+    "high": 152.5,
+    "low": 141.95,
+    "volume": 52457616,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "HON",
+    "open": 143.36,
+    "close": 159.65,
+    "high": 159.85,
+    "low": 143.01,
+    "volume": 61500637,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "HON",
+    "open": 159.92,
+    "close": 159.06,
+    "high": 161,
+    "low": 151.21,
+    "volume": 53526703,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "HON",
+    "open": 159.07,
+    "close": 166.4,
+    "high": 167.63,
+    "low": 158.21,
+    "volume": 46626912,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "HON",
+    "open": 166.37,
+    "close": 144.82,
+    "high": 167.72,
+    "low": 139.3,
+    "volume": 86501180,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "HON",
+    "open": 145.44,
+    "close": 146.75,
+    "high": 151.6,
+    "low": 142.01,
+    "volume": 67367737,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "HON",
+    "open": 150,
+    "close": 132.12,
+    "high": 151.51,
+    "low": 123.48,
+    "volume": 69960855,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "HON",
+    "open": 130.19,
+    "close": 143.63,
+    "high": 144.06,
+    "low": 129.07,
+    "volume": 60896237,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "HON",
+    "open": 148.7,
+    "close": 154.07,
+    "high": 154.84,
+    "low": 144.34,
+    "volume": 56370140,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "HON",
+    "open": 154.99,
+    "close": 158.92,
+    "high": 159.49,
+    "low": 150.38,
+    "volume": 60121390,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "HON",
+    "open": 160,
+    "close": 173.63,
+    "high": 174.01,
+    "low": 159.21,
+    "volume": 62390628,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "HON",
+    "open": 173.76,
+    "close": 164.31,
+    "high": 174.34,
+    "low": 162.68,
+    "volume": 63369112,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "HON",
+    "open": 164.48,
+    "close": 174.59,
+    "high": 177.36,
+    "low": 164.32,
+    "volume": 46977695,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "HON",
+    "open": 176.63,
+    "close": 172.46,
+    "high": 178.47,
+    "low": 168.52,
+    "volume": 46395847,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "HON",
+    "open": 171.89,
+    "close": 164.62,
+    "high": 173.81,
+    "low": 154.91,
+    "volume": 57118682,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "HON",
+    "open": 163.51,
+    "close": 169.2,
+    "high": 172.73,
+    "low": 162.65,
+    "volume": 61837147,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "HON",
+    "open": 169.55,
+    "close": 172.73,
+    "high": 175,
+    "low": 158.59,
+    "volume": 63057282,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "HON",
+    "open": 174.29,
+    "close": 178.55,
+    "high": 183.12,
+    "low": 173.93,
+    "volume": 54898282,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "HON",
+    "open": 178.55,
+    "close": 177,
+    "high": 178.79,
+    "low": 171.26,
+    "volume": 51924610,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "HON",
+    "open": 177.5,
+    "close": 173.22,
+    "high": 184.06,
+    "low": 171.34,
+    "volume": 55597763,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "HON",
+    "open": 174.46,
+    "close": 162.17,
+    "high": 182.21,
+    "low": 150.62,
+    "volume": 61588264,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "HON",
+    "open": 163.09,
+    "close": 133.79,
+    "high": 171.93,
+    "low": 101.08,
+    "volume": 136589484,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "HON",
+    "open": 128.28,
+    "close": 141.9,
+    "high": 147.87,
+    "low": 125.5,
+    "volume": 75701564,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "HON",
+    "open": 139.33,
+    "close": 145.85,
+    "high": 151.21,
+    "low": 117.11,
+    "volume": 78558610,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "HON",
+    "open": 145.49,
+    "close": 144.59,
+    "high": 165.72,
+    "low": 137.53,
+    "volume": 84483986,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "HON",
+    "open": 145.22,
+    "close": 149.37,
+    "high": 157.02,
+    "low": 140.9,
+    "volume": 70676447,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "HON",
+    "open": 150.13,
+    "close": 165.55,
+    "high": 168.7,
+    "low": 146.21,
+    "volume": 75918049,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "HON",
+    "open": 163.79,
+    "close": 164.61,
+    "high": 173.82,
+    "low": 156.85,
+    "volume": 63773658,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "HON",
+    "open": 166.2,
+    "close": 164.95,
+    "high": 178.64,
+    "low": 159.42,
+    "volume": 55130579,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "HON",
+    "open": 169.2,
+    "close": 203.92,
+    "high": 210,
+    "low": 168.11,
+    "volume": 78600807,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "HON",
+    "open": 207.09,
+    "close": 212.7,
+    "high": 216.7,
+    "low": 204.85,
+    "volume": 58930188,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "HON",
+    "open": 212.84,
+    "close": 195.37,
+    "high": 214.01,
+    "low": 194.55,
+    "volume": 59492522,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "HON",
+    "open": 197.55,
+    "close": 202.35,
+    "high": 212.14,
+    "low": 195.28,
+    "volume": 45873757,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "HON",
+    "open": 204.33,
+    "close": 217.07,
+    "high": 219.67,
+    "low": 200.51,
+    "volume": 72893669,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "HON",
+    "open": 217.96,
+    "close": 223.04,
+    "high": 232.35,
+    "low": 215.49,
+    "volume": 55708445,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "HON",
+    "open": 224.24,
+    "close": 230.91,
+    "high": 232.65,
+    "low": 216.78,
+    "volume": 53454734,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "HON",
+    "open": 232.89,
+    "close": 219.35,
+    "high": 234.02,
+    "low": 211.96,
+    "volume": 57613992,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "HON",
+    "open": 220.58,
+    "close": 233.79,
+    "high": 234.25,
+    "low": 215.93,
+    "volume": 83376766,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "HON",
+    "open": 235.14,
+    "close": 231.91,
+    "high": 236.86,
+    "low": 226.04,
+    "volume": 40577102,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "HON",
+    "open": 232.95,
+    "close": 212.28,
+    "high": 233.19,
+    "low": 212.1,
+    "volume": 52961178,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "HON",
+    "open": 212.98,
+    "close": 218.62,
+    "high": 224.86,
+    "low": 211.63,
+    "volume": 42014243,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "HON",
+    "open": 218.7,
+    "close": 202.24,
+    "high": 228.26,
+    "low": 201.11,
+    "volume": 50286309,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "HON",
+    "open": 205.65,
+    "close": 208.51,
+    "high": 211.54,
+    "low": 198.1,
+    "volume": 73937357,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "HON",
+    "open": 207.86,
+    "close": 204.48,
+    "high": 221.89,
+    "low": 196.05,
+    "volume": 68967159,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "HON",
+    "open": 203.93,
+    "close": 189.75,
+    "high": 207.84,
+    "low": 174.42,
+    "volume": 78269207,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "HON",
+    "open": 186.65,
+    "close": 194.58,
+    "high": 199.39,
+    "low": 182.02,
+    "volume": 84808448,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "HON",
+    "open": 195.9,
+    "close": 193.51,
+    "high": 201.99,
+    "low": 185.25,
+    "volume": 59464710,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "HON",
+    "open": 194.49,
+    "close": 193.62,
+    "high": 206.4,
+    "low": 184.89,
+    "volume": 78936255,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "HON",
+    "open": 194.5,
+    "close": 173.81,
+    "high": 197.99,
+    "low": 170.18,
+    "volume": 62757648,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "HON",
+    "open": 173.65,
+    "close": 192.46,
+    "high": 193.13,
+    "low": 167.35,
+    "volume": 48146232,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "HON",
+    "open": 191.41,
+    "close": 189.35,
+    "high": 204.26,
+    "low": 187.8,
+    "volume": 49529742,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "HON",
+    "open": 189.15,
+    "close": 166.97,
+    "high": 193.67,
+    "low": 166.63,
+    "volume": 67506845,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "HON",
+    "open": 170.07,
+    "close": 204.02,
+    "high": 205.16,
+    "low": 169.08,
+    "volume": 66548578,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "HON",
+    "open": 204.45,
+    "close": 219.55,
+    "high": 220.96,
+    "low": 199.17,
+    "volume": 66415850,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "HON",
+    "open": 220.28,
+    "close": 214.3,
+    "high": 220.62,
+    "low": 206.23,
+    "volume": 56547533,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "HON",
+    "open": 215.15,
+    "close": 208.48,
+    "high": 217.22,
+    "low": 198.81,
+    "volume": 60453622,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "HON",
+    "open": 207.41,
+    "close": 191.48,
+    "high": 208.45,
+    "low": 189.63,
+    "volume": 64428209,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "HON",
+    "open": 190.63,
+    "close": 191.12,
+    "high": 199.31,
+    "low": 184.23,
+    "volume": 72915482,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "HON",
+    "open": 190.57,
+    "close": 199.84,
+    "high": 200.81,
+    "low": 189.01,
+    "volume": 49150683,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "HON",
+    "open": 200,
+    "close": 191.6,
+    "high": 202.16,
+    "low": 189.99,
+    "volume": 47829293,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "HON",
+    "open": 191.85,
+    "close": 207.5,
+    "high": 208.49,
+    "low": 190.47,
+    "volume": 49943162,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "HON",
+    "open": 206.79,
+    "close": 208.6,
+    "high": 210.87,
+    "low": 202.08,
+    "volume": 39652409,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

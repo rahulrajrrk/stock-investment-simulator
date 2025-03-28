@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "ADI",
+    "open": 41.45,
+    "close": 38.02,
+    "high": 41.69,
+    "low": 38.02,
+    "volume": 46189200,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 38.4,
+    "close": 44.33,
+    "high": 45.54,
+    "low": 38.29,
+    "volume": 74366400,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 43.36,
+    "close": 49.75,
+    "high": 50.06,
+    "low": 43.35,
+    "volume": 66397125,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 49.49,
+    "close": 45.65,
+    "high": 50.35,
+    "low": 43.1,
+    "volume": 67057400,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 45.95,
+    "close": 47.85,
+    "high": 50.99,
+    "low": 45.47,
+    "volume": 66480100,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 47.86,
+    "close": 49.9,
+    "high": 52.37,
+    "low": 45.5,
+    "volume": 66619500,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 49.9,
+    "close": 48.01,
+    "high": 52.35,
+    "low": 44.33,
+    "volume": 77822000,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 47.93,
+    "close": 42.6,
+    "high": 50.98,
+    "low": 42.52,
+    "volume": 70320800,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 43.05,
+    "close": 49.15,
+    "high": 49.47,
+    "low": 41.5,
+    "volume": 89264400,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 48.6,
+    "close": 47.08,
+    "high": 50.17,
+    "low": 44.82,
+    "volume": 71449800,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 46.76,
+    "close": 39.7,
+    "high": 46.85,
+    "low": 37.25,
+    "volume": 97096300,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.7,
+    "close": 34.72,
+    "high": 40.46,
+    "low": 31.36,
+    "volume": 122348500,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 34.75,
+    "close": 38.78,
+    "high": 39.86,
+    "low": 33.59,
+    "volume": 97584000,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.45,
+    "close": 40.26,
+    "high": 41.45,
+    "low": 36.5,
+    "volume": 84751200,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 40.19,
+    "close": 36.95,
+    "high": 41.66,
+    "low": 36.32,
+    "volume": 80914300,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 37.05,
+    "close": 36.92,
+    "high": 39.08,
+    "low": 35.29,
+    "volume": 81360000,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 37.02,
+    "close": 35.89,
+    "high": 37.37,
+    "low": 33.95,
+    "volume": 73422100,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 35.89,
+    "close": 36.72,
+    "high": 39.48,
+    "low": 34.95,
+    "volume": 72869100,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 37.17,
+    "close": 36.14,
+    "high": 38.3,
+    "low": 35.07,
+    "volume": 71640100,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 36.4,
+    "close": 34.11,
+    "high": 36.5,
+    "low": 32.65,
+    "volume": 58152400,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 34.11,
+    "close": 37.08,
+    "high": 37.25,
+    "low": 33.5,
+    "volume": 53155100,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 37.08,
+    "close": 37.31,
+    "high": 39.76,
+    "low": 36.8,
+    "volume": 56841200,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 37.45,
+    "close": 39.2,
+    "high": 41.4,
+    "low": 37.09,
+    "volume": 56197200,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.25,
+    "close": 36.45,
+    "high": 41.21,
+    "low": 35.2,
+    "volume": 67685900,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 36.45,
+    "close": 37.14,
+    "high": 38.63,
+    "low": 35.3,
+    "volume": 60365000,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 37.32,
+    "close": 34.78,
+    "high": 37.9,
+    "low": 31.71,
+    "volume": 86095700,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 34.78,
+    "close": 37.92,
+    "high": 38.5,
+    "low": 34.18,
+    "volume": 56547600,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 38.24,
+    "close": 35.87,
+    "high": 40.4,
+    "low": 35.61,
+    "volume": 57856700,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 36.13,
+    "close": 39.77,
+    "high": 40.27,
+    "low": 35.34,
+    "volume": 70604000,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.6,
+    "close": 38.14,
+    "high": 41.48,
+    "low": 37.48,
+    "volume": 64133000,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 38.39,
+    "close": 38.29,
+    "high": 39.53,
+    "low": 36.61,
+    "volume": 69365400,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 38.64,
+    "close": 37.92,
+    "high": 39.81,
+    "low": 37.16,
+    "volume": 44761900,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 37.93,
+    "close": 33.73,
+    "high": 37.96,
+    "low": 32.75,
+    "volume": 93769700,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 33.73,
+    "close": 32.14,
+    "high": 34.55,
+    "low": 30.89,
+    "volume": 62615800,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 32.14,
+    "close": 32.33,
+    "high": 32.59,
+    "low": 29.89,
+    "volume": 72921200,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 32.19,
+    "close": 30.64,
+    "high": 33.24,
+    "low": 26.07,
+    "volume": 127980700,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 30.75,
+    "close": 29.39,
+    "high": 32.06,
+    "low": 29.2,
+    "volume": 79320500,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 29.49,
+    "close": 31.82,
+    "high": 31.92,
+    "low": 28.82,
+    "volume": 92667100,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 31.89,
+    "close": 32.52,
+    "high": 34.3,
+    "low": 31,
+    "volume": 80157500,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 33.01,
+    "close": 32.87,
+    "high": 33.82,
+    "low": 32.07,
+    "volume": 60185300,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 32.93,
+    "close": 32.75,
+    "high": 34.53,
+    "low": 32.28,
+    "volume": 65584300,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 32.75,
+    "close": 36.31,
+    "high": 37.17,
+    "low": 32.53,
+    "volume": 83056744,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 35.75,
+    "close": 34.49,
+    "high": 37.22,
+    "low": 34.1,
+    "volume": 75880946,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 34.59,
+    "close": 38.62,
+    "high": 40.57,
+    "low": 34.16,
+    "volume": 70861049,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 38.71,
+    "close": 36.21,
+    "high": 41.1,
+    "low": 35.19,
+    "volume": 107584035,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 36.25,
+    "close": 37.64,
+    "high": 38.57,
+    "low": 35.57,
+    "volume": 93745820,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 37.69,
+    "close": 35.45,
+    "high": 39.91,
+    "low": 35.34,
+    "volume": 66275295,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 35.42,
+    "close": 36.88,
+    "high": 38.96,
+    "low": 35.11,
+    "volume": 82203307,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 36.98,
+    "close": 36.16,
+    "high": 38.06,
+    "low": 34.93,
+    "volume": 58028026,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 36.25,
+    "close": 33.46,
+    "high": 37.21,
+    "low": 32.8,
+    "volume": 62101772,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 33.44,
+    "close": 30.78,
+    "high": 33.83,
+    "low": 30.19,
+    "volume": 78874537,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 31.04,
+    "close": 31.7,
+    "high": 32.64,
+    "low": 30.29,
+    "volume": 55635335,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 31.19,
+    "close": 28.36,
+    "high": 31.51,
+    "low": 26.15,
+    "volume": 95585931,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 27.9,
+    "close": 26.92,
+    "high": 29.49,
+    "low": 26.85,
+    "volume": 90339288,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 26.84,
+    "close": 29.52,
+    "high": 30.2,
+    "low": 26.54,
+    "volume": 96308629,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 29.61,
+    "close": 32.21,
+    "high": 32.78,
+    "low": 29.26,
+    "volume": 85372223,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 32.25,
+    "close": 35.11,
+    "high": 36.35,
+    "low": 32.23,
+    "volume": 103204686,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 35.03,
+    "close": 31.77,
+    "high": 36.28,
+    "low": 31.35,
+    "volume": 103331047,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 31.49,
+    "close": 30.51,
+    "high": 33.1,
+    "low": 29.35,
+    "volume": 104837620,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 30.55,
+    "close": 27.96,
+    "high": 33.53,
+    "low": 27.71,
+    "volume": 85589921,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 28.36,
+    "close": 26.35,
+    "high": 30.68,
+    "low": 24.95,
+    "volume": 136191607,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 26.08,
+    "close": 21.36,
+    "high": 26.3,
+    "low": 18.02,
+    "volume": 157076940,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 21.43,
+    "close": 17.1,
+    "high": 22.4,
+    "low": 16.23,
+    "volume": 111206078,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 16.72,
+    "close": 19.02,
+    "high": 20.14,
+    "low": 15.29,
+    "volume": 119601539,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 19,
+    "close": 19.98,
+    "high": 21.7,
+    "low": 18.06,
+    "volume": 106769101,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 19.98,
+    "close": 18.64,
+    "high": 22.53,
+    "low": 18.21,
+    "volume": 136302789,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 18.29,
+    "close": 19.27,
+    "high": 20.91,
+    "low": 17.82,
+    "volume": 143991649,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 18.9,
+    "close": 21.28,
+    "high": 21.81,
+    "low": 18.59,
+    "volume": 112796672,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 21.04,
+    "close": 24.41,
+    "high": 24.49,
+    "low": 19.14,
+    "volume": 156774949,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 24.84,
+    "close": 24.78,
+    "high": 26.05,
+    "low": 23.23,
+    "volume": 104074440,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 24.88,
+    "close": 27.37,
+    "high": 28.21,
+    "low": 23.21,
+    "volume": 90698278,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 27.49,
+    "close": 28.25,
+    "high": 29.22,
+    "low": 25.8,
+    "volume": 93085244,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 28.08,
+    "close": 27.58,
+    "high": 29.71,
+    "low": 26.92,
+    "volume": 94370436,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 27.57,
+    "close": 25.63,
+    "high": 28.99,
+    "low": 25.54,
+    "volume": 93803912,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 25.66,
+    "close": 29.99,
+    "high": 30.15,
+    "low": 25.26,
+    "volume": 84198310,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 30.1,
+    "close": 31.58,
+    "high": 31.91,
+    "low": 29.85,
+    "volume": 71105347,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 31.79,
+    "close": 26.96,
+    "high": 32.19,
+    "low": 26.62,
+    "volume": 79969701,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 27.05,
+    "close": 29.24,
+    "high": 30.04,
+    "low": 26.38,
+    "volume": 101010006,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 29.31,
+    "close": 28.82,
+    "high": 30.58,
+    "low": 28.21,
+    "volume": 90086799,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 29,
+    "close": 29.93,
+    "high": 31.5,
+    "low": 28.53,
+    "volume": 90347504,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 30.23,
+    "close": 29.17,
+    "high": 30.43,
+    "low": 26.28,
+    "volume": 121812956,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 28.98,
+    "close": 27.86,
+    "high": 30.98,
+    "low": 27.28,
+    "volume": 96475693,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 27.86,
+    "close": 29.71,
+    "high": 31.37,
+    "low": 27.25,
+    "volume": 79545562,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 30.16,
+    "close": 27.88,
+    "high": 30.61,
+    "low": 27.65,
+    "volume": 106585392,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 28.19,
+    "close": 31.38,
+    "high": 31.96,
+    "low": 27.45,
+    "volume": 106154132,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 31.53,
+    "close": 33.67,
+    "high": 34.09,
+    "low": 30.69,
+    "volume": 96487469,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 33.93,
+    "close": 35.56,
+    "high": 36.49,
+    "low": 33.18,
+    "volume": 83749416,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 36.02,
+    "close": 37.67,
+    "high": 38.6,
+    "low": 35.92,
+    "volume": 69262401,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 37.68,
+    "close": 38.83,
+    "high": 39.86,
+    "low": 36.9,
+    "volume": 69565691,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.09,
+    "close": 39.88,
+    "high": 41.66,
+    "low": 38.79,
+    "volume": 53641219,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.79,
+    "close": 39.38,
+    "high": 40.99,
+    "low": 36.29,
+    "volume": 64240693,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.82,
+    "close": 40.31,
+    "high": 40.75,
+    "low": 36.9,
+    "volume": 52810878,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 40.52,
+    "close": 41.17,
+    "high": 43.28,
+    "low": 39.78,
+    "volume": 68533411,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 40.93,
+    "close": 39.14,
+    "high": 41.07,
+    "low": 36.38,
+    "volume": 66379883,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.1,
+    "close": 34.4,
+    "high": 40.49,
+    "low": 34.02,
+    "volume": 74512137,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 34.91,
+    "close": 33.02,
+    "high": 34.94,
+    "low": 29.23,
+    "volume": 157552661,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 33.1,
+    "close": 31.25,
+    "high": 35.13,
+    "low": 30.91,
+    "volume": 94054075,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 31.78,
+    "close": 36.57,
+    "high": 37.75,
+    "low": 30.65,
+    "volume": 83998605,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 35.48,
+    "close": 34.86,
+    "high": 37.52,
+    "low": 32.18,
+    "volume": 71678308,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 34.67,
+    "close": 35.78,
+    "high": 36.8,
+    "low": 33.38,
+    "volume": 64233559,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 36.46,
+    "close": 39.13,
+    "high": 40.38,
+    "low": 35.65,
+    "volume": 59242762,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.46,
+    "close": 39.21,
+    "high": 40.83,
+    "low": 38.41,
+    "volume": 58344046,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.32,
+    "close": 40.4,
+    "high": 40.6,
+    "low": 37.51,
+    "volume": 51045001,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 40.39,
+    "close": 38.98,
+    "high": 40.46,
+    "low": 36.95,
+    "volume": 47750117,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.15,
+    "close": 36.37,
+    "high": 39.31,
+    "low": 34.25,
+    "volume": 52267432,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 35.58,
+    "close": 37.67,
+    "high": 38.48,
+    "low": 35.18,
+    "volume": 54289733,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 37.7,
+    "close": 39.08,
+    "high": 39.7,
+    "low": 35.61,
+    "volume": 46571808,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.43,
+    "close": 39.74,
+    "high": 40.91,
+    "low": 38.72,
+    "volume": 44456920,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.6,
+    "close": 39.17,
+    "high": 41.79,
+    "low": 38.44,
+    "volume": 44648447,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.35,
+    "close": 39.12,
+    "high": 40.13,
+    "low": 37.82,
+    "volume": 38357129,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 39.08,
+    "close": 40.6,
+    "high": 41.49,
+    "low": 38.74,
+    "volume": 47167080,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 40.84,
+    "close": 42.06,
+    "high": 42.73,
+    "low": 40.22,
+    "volume": 49345783,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 42.8,
+    "close": 43.64,
+    "high": 44.33,
+    "low": 41.71,
+    "volume": 50691024,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 44.06,
+    "close": 45.22,
+    "high": 47.27,
+    "low": 43.68,
+    "volume": 49244298,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 45,
+    "close": 46.49,
+    "high": 46.99,
+    "low": 44.33,
+    "volume": 40222028,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 46.28,
+    "close": 43.99,
+    "high": 46.36,
+    "low": 41.81,
+    "volume": 61307864,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 44.12,
+    "close": 45.93,
+    "high": 47.2,
+    "low": 43.58,
+    "volume": 47089789,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 45.94,
+    "close": 45.06,
+    "high": 46.82,
+    "low": 43.86,
+    "volume": 44119385,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 45,
+    "close": 49.38,
+    "high": 49.67,
+    "low": 44.9,
+    "volume": 40737938,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 49.57,
+    "close": 46.28,
+    "high": 50,
+    "low": 45.75,
+    "volume": 32267412,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 46.97,
+    "close": 47.05,
+    "high": 48.75,
+    "low": 46.36,
+    "volume": 31384626,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 47.07,
+    "close": 49.3,
+    "high": 49.54,
+    "low": 45.28,
+    "volume": 40556428,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 49.68,
+    "close": 48.22,
+    "high": 50.79,
+    "low": 46.12,
+    "volume": 45689043,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 47.8,
+    "close": 50.93,
+    "high": 51.2,
+    "low": 47.8,
+    "volume": 38236743,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 49.52,
+    "close": 48.27,
+    "high": 50.54,
+    "low": 48.07,
+    "volume": 45460539,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 48.23,
+    "close": 50.82,
+    "high": 52.38,
+    "low": 47.14,
+    "volume": 43377707,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 50.58,
+    "close": 53.14,
+    "high": 54.33,
+    "low": 50.03,
+    "volume": 47794943,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 53.5,
+    "close": 51.29,
+    "high": 54.4,
+    "low": 50.07,
+    "volume": 40493947,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 51.38,
+    "close": 52.38,
+    "high": 53.12,
+    "low": 50.08,
+    "volume": 42621758,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 52.41,
+    "close": 54.07,
+    "high": 56.18,
+    "low": 51.92,
+    "volume": 39782723,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 53.77,
+    "close": 49.63,
+    "high": 54.93,
+    "low": 49.62,
+    "volume": 38340534,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 49.61,
+    "close": 51.12,
+    "high": 52.95,
+    "low": 48.81,
+    "volume": 37833612,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 51.1,
+    "close": 49.49,
+    "high": 51.35,
+    "low": 48.64,
+    "volume": 46644551,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 49.35,
+    "close": 49.62,
+    "high": 50.54,
+    "low": 42.57,
+    "volume": 79552861,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 49.72,
+    "close": 54.64,
+    "high": 54.95,
+    "low": 49.18,
+    "volume": 37639145,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 54.48,
+    "close": 55.52,
+    "high": 57.99,
+    "low": 54.19,
+    "volume": 53164304,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 55.68,
+    "close": 52.1,
+    "high": 56.25,
+    "low": 52.05,
+    "volume": 36274495,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 52.1,
+    "close": 58.54,
+    "high": 59.65,
+    "low": 51.29,
+    "volume": 37139529,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 58.81,
+    "close": 63,
+    "high": 64.94,
+    "low": 56.27,
+    "volume": 55036920,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 62.83,
+    "close": 61.84,
+    "high": 64.74,
+    "low": 61.29,
+    "volume": 42093829,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 62.35,
+    "close": 67.96,
+    "high": 68.75,
+    "low": 61.26,
+    "volume": 53274390,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 68.41,
+    "close": 64.19,
+    "high": 68.97,
+    "low": 63.82,
+    "volume": 46752436,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 65.08,
+    "close": 58.33,
+    "high": 66.28,
+    "low": 57.16,
+    "volume": 51225958,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 58.43,
+    "close": 55.86,
+    "high": 61.23,
+    "low": 50.56,
+    "volume": 76730530,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 54.25,
+    "close": 56.41,
+    "high": 58.96,
+    "low": 52.48,
+    "volume": 57607017,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 56.35,
+    "close": 60.12,
+    "high": 64.16,
+    "low": 53.7,
+    "volume": 73228891,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 60.06,
+    "close": 61.63,
+    "high": 62.08,
+    "low": 56.5,
+    "volume": 50812770,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 62.09,
+    "close": 55.32,
+    "high": 62.4,
+    "low": 55.12,
+    "volume": 55041306,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 54.24,
+    "close": 53.86,
+    "high": 54.84,
+    "low": 47.24,
+    "volume": 66571324,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 53.38,
+    "close": 52.99,
+    "high": 53.98,
+    "low": 48.17,
+    "volume": 52100668,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 53.95,
+    "close": 59.19,
+    "high": 59.45,
+    "low": 53.01,
+    "volume": 45987943,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 58.69,
+    "close": 56.32,
+    "high": 59.87,
+    "low": 55.88,
+    "volume": 35164352,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 56.31,
+    "close": 58.5,
+    "high": 58.72,
+    "low": 53,
+    "volume": 40121928,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 58.11,
+    "close": 56.64,
+    "high": 58.77,
+    "low": 52.17,
+    "volume": 51684665,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 56.15,
+    "close": 63.83,
+    "high": 66.91,
+    "low": 54.55,
+    "volume": 53985053,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 64.19,
+    "close": 62.56,
+    "high": 65.49,
+    "low": 62.24,
+    "volume": 47581043,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 62.1,
+    "close": 64.45,
+    "high": 64.97,
+    "low": 59.01,
+    "volume": 52216757,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 64.29,
+    "close": 64.1,
+    "high": 65.18,
+    "low": 59.54,
+    "volume": 51776628,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 64.4,
+    "close": 74.24,
+    "high": 74.87,
+    "low": 62.5,
+    "volume": 66078494,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 73.56,
+    "close": 72.62,
+    "high": 74.82,
+    "low": 68.42,
+    "volume": 48756702,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 72.6,
+    "close": 74.94,
+    "high": 76.94,
+    "low": 71,
+    "volume": 49614300,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 75.76,
+    "close": 81.93,
+    "high": 82.87,
+    "low": 74.94,
+    "volume": 52077859,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 82.45,
+    "close": 81.95,
+    "high": 84.24,
+    "low": 80.39,
+    "volume": 73712578,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 82.02,
+    "close": 76.2,
+    "high": 82.27,
+    "low": 75.82,
+    "volume": 64017583,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 75.05,
+    "close": 85.76,
+    "high": 90.49,
+    "low": 74.65,
+    "volume": 90462138,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 86.28,
+    "close": 77.8,
+    "high": 86.32,
+    "low": 76.18,
+    "volume": 109101904,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 78.27,
+    "close": 79.01,
+    "high": 81.85,
+    "low": 76.07,
+    "volume": 44778761,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 79.23,
+    "close": 83.67,
+    "high": 85,
+    "low": 76.41,
+    "volume": 52580131,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 83.97,
+    "close": 86.17,
+    "high": 86.41,
+    "low": 80.1,
+    "volume": 49420179,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 86.59,
+    "close": 91.3,
+    "high": 91.96,
+    "low": 85.58,
+    "volume": 39711335,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 91.85,
+    "close": 86.11,
+    "high": 93.99,
+    "low": 83.9,
+    "volume": 62069422,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 85.51,
+    "close": 89.03,
+    "high": 89.86,
+    "low": 83.59,
+    "volume": 51495247,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 89.24,
+    "close": 91.88,
+    "high": 98.38,
+    "low": 88.93,
+    "volume": 68487084,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 91.25,
+    "close": 90.15,
+    "high": 94.92,
+    "low": 80.95,
+    "volume": 64857454,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 89.89,
+    "close": 91.13,
+    "high": 96.85,
+    "low": 86.79,
+    "volume": 57645869,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 90.47,
+    "close": 87.35,
+    "high": 95.54,
+    "low": 86.03,
+    "volume": 54758866,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 87.14,
+    "close": 97.18,
+    "high": 98.39,
+    "low": 86.23,
+    "volume": 50518050,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 97.68,
+    "close": 95.92,
+    "high": 103.59,
+    "low": 95.05,
+    "volume": 55469881,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 95.04,
+    "close": 96.14,
+    "high": 99.4,
+    "low": 94.37,
+    "volume": 39971502,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 95.43,
+    "close": 98.85,
+    "high": 100.87,
+    "low": 92.05,
+    "volume": 54491132,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 97.49,
+    "close": 92.46,
+    "high": 98.89,
+    "low": 89.35,
+    "volume": 63605337,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 92.81,
+    "close": 83.71,
+    "high": 93.92,
+    "low": 76.62,
+    "volume": 94384012,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 84.16,
+    "close": 91.92,
+    "high": 91.97,
+    "low": 83.72,
+    "volume": 69195355,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 93.34,
+    "close": 85.83,
+    "high": 94.62,
+    "low": 80.08,
+    "volume": 53482436,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 84.03,
+    "close": 98.86,
+    "high": 99.44,
+    "low": 80.46,
+    "volume": 62108642,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 99.17,
+    "close": 106.96,
+    "high": 108.28,
+    "low": 98.73,
+    "volume": 57052898,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 107.84,
+    "close": 105.27,
+    "high": 111.12,
+    "low": 103.3,
+    "volume": 58506681,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 106.52,
+    "close": 116.24,
+    "high": 118.54,
+    "low": 106.26,
+    "volume": 52103855,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 116.56,
+    "close": 96.62,
+    "high": 117.96,
+    "low": 95.94,
+    "volume": 71431404,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 97.31,
+    "close": 112.87,
+    "high": 114.42,
+    "low": 95.51,
+    "volume": 56130866,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 117.17,
+    "close": 117.46,
+    "high": 124.78,
+    "low": 111.31,
+    "volume": 41638421,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 117.78,
+    "close": 109.83,
+    "high": 120.15,
+    "low": 103.72,
+    "volume": 54670561,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 108.71,
+    "close": 111.73,
+    "high": 118.46,
+    "low": 105.83,
+    "volume": 37027420,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 114.81,
+    "close": 106.63,
+    "high": 116.19,
+    "low": 104.58,
+    "volume": 52428561,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 107.62,
+    "close": 112.95,
+    "high": 116.31,
+    "low": 107.51,
+    "volume": 45658249,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 113.06,
+    "close": 118.84,
+    "high": 120.55,
+    "low": 108.67,
+    "volume": 40797694,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 120.11,
+    "close": 109.75,
+    "high": 122.2,
+    "low": 109.2,
+    "volume": 43177724,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 110.7,
+    "close": 109.05,
+    "high": 127.3,
+    "low": 103.5,
+    "volume": 52655574,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 110.09,
+    "close": 89.65,
+    "high": 113.19,
+    "low": 79.08,
+    "volume": 97869316,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 86.04,
+    "close": 109.6,
+    "high": 114.06,
+    "low": 82.9,
+    "volume": 57050444,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 106.37,
+    "close": 112.95,
+    "high": 115.57,
+    "low": 100.09,
+    "volume": 47938068,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 112.37,
+    "close": 122.64,
+    "high": 127.39,
+    "low": 111.33,
+    "volume": 52147547,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 122.29,
+    "close": 114.85,
+    "high": 125.08,
+    "low": 110.47,
+    "volume": 83042737,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 115.87,
+    "close": 116.88,
+    "high": 121.25,
+    "low": 114.93,
+    "volume": 66052964,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 117.79,
+    "close": 116.74,
+    "high": 122.52,
+    "low": 110.66,
+    "volume": 67650325,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 118.98,
+    "close": 118.53,
+    "high": 126.49,
+    "low": 114,
+    "volume": 65424809,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 120.14,
+    "close": 139.08,
+    "high": 140.38,
+    "low": 117.62,
+    "volume": 60430840,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 140,
+    "close": 147.73,
+    "high": 147.83,
+    "low": 138.81,
+    "volume": 49071869,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 148.45,
+    "close": 147.33,
+    "high": 162.98,
+    "low": 144.62,
+    "volume": 55987936,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 148.34,
+    "close": 155.82,
+    "high": 164.4,
+    "low": 147,
+    "volume": 55389398,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 157.08,
+    "close": 155.08,
+    "high": 159.41,
+    "low": 142.25,
+    "volume": 77559449,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 157.38,
+    "close": 153.16,
+    "high": 163.9,
+    "low": 152.57,
+    "volume": 57786644,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 154,
+    "close": 164.6,
+    "high": 165.62,
+    "low": 144.07,
+    "volume": 84306151,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 163.76,
+    "close": 172.16,
+    "high": 172.45,
+    "low": 161.02,
+    "volume": 57348578,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 172.03,
+    "close": 167.42,
+    "high": 172.09,
+    "low": 156.55,
+    "volume": 56825998,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 168.64,
+    "close": 162.95,
+    "high": 175.25,
+    "low": 161.28,
+    "volume": 123813672,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 163.77,
+    "close": 167.48,
+    "high": 178.84,
+    "low": 161.04,
+    "volume": 111978794,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 167.83,
+    "close": 173.49,
+    "high": 182.39,
+    "low": 163.14,
+    "volume": 67881847,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 173.18,
+    "close": 180.25,
+    "high": 191.95,
+    "low": 172.91,
+    "volume": 62323491,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 182.28,
+    "close": 175.77,
+    "high": 188.19,
+    "low": 166.35,
+    "volume": 74001251,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 175.17,
+    "close": 163.97,
+    "high": 179.52,
+    "low": 151.18,
+    "volume": 86241756,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 164.1,
+    "close": 160.29,
+    "high": 169.43,
+    "low": 151.52,
+    "volume": 76951599,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 159.53,
+    "close": 165.18,
+    "high": 171.56,
+    "low": 143.81,
+    "volume": 86108501,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 166.5,
+    "close": 154.38,
+    "high": 167.14,
+    "low": 149.68,
+    "volume": 74710069,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 155.34,
+    "close": 168.4,
+    "high": 169.59,
+    "low": 149.97,
+    "volume": 77536552,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 169.18,
+    "close": 146.09,
+    "high": 169.41,
+    "low": 141.69,
+    "volume": 72063351,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 143.94,
+    "close": 171.96,
+    "high": 172.72,
+    "low": 138.5,
+    "volume": 64097286,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 170.71,
+    "close": 151.53,
+    "high": 180.01,
+    "low": 150.34,
+    "volume": 74159286,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "ADI",
+    "open": 148.99,
+    "close": 139.34,
+    "high": 155.85,
+    "low": 139.24,
+    "volume": 68939715,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 141.28,
+    "close": 142.62,
+    "high": 153.62,
+    "low": 133.48,
+    "volume": 82368287,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 145.11,
+    "close": 171.91,
+    "high": 173.3,
+    "low": 137.79,
+    "volume": 84505870,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 173.21,
+    "close": 164.03,
+    "high": 179.95,
+    "low": 160.06,
+    "volume": 60618786,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 165.57,
+    "close": 171.47,
+    "high": 172.03,
+    "low": 159.58,
+    "volume": 62930911,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "ADI",
+    "open": 171.33,
+    "close": 183.47,
+    "high": 196.41,
+    "low": 171.22,
+    "volume": 74497178,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 183.86,
+    "close": 197.22,
+    "high": 197.56,
+    "low": 179.08,
+    "volume": 79551526,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "ADI",
+    "open": 196.47,
+    "close": 179.88,
+    "high": 198.25,
+    "low": 171.24,
+    "volume": 50947831,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 180.75,
+    "close": 177.69,
+    "high": 193.14,
+    "low": 161.93,
+    "volume": 85217406,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "ADI",
+    "open": 179.22,
+    "close": 194.81,
+    "high": 195.36,
+    "low": 173.41,
+    "volume": 77557003,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "ADI",
+    "open": 193.98,
+    "close": 191.96,
+    "high": 199.44,
+    "low": 184.57,
+    "volume": 47167327,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "PCAR",
+    "open": 24.29,
+    "close": 22.04,
+    "high": 24.39,
+    "low": 21.84,
+    "volume": 46555394,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 22.01,
+    "close": 23.43,
+    "high": 24.19,
+    "low": 22.0,
+    "volume": 63497361,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 23.48,
+    "close": 23.78,
+    "high": 23.85,
+    "low": 21.8,
+    "volume": 56411889,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 23.7,
+    "close": 25.22,
+    "high": 25.48,
+    "low": 23.31,
+    "volume": 62039253,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 25.13,
+    "close": 23.31,
+    "high": 26.59,
+    "low": 23.27,
+    "volume": 64713971,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 23.72,
+    "close": 24.63,
+    "high": 25.25,
+    "low": 23.21,
+    "volume": 49220148,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 24.64,
+    "close": 24.91,
+    "high": 25.21,
+    "low": 22.05,
+    "volume": 58264546,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 24.84,
+    "close": 25.11,
+    "high": 26.98,
+    "low": 24.29,
+    "volume": 43641625,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 25.41,
+    "close": 24.8,
+    "high": 25.71,
+    "low": 22.67,
+    "volume": 51016677,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 24.68,
+    "close": 25.77,
+    "high": 26.04,
+    "low": 24,
+    "volume": 43591518,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 25.72,
+    "close": 26.65,
+    "high": 27.09,
+    "low": 23.53,
+    "volume": 53847056,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 26.72,
+    "close": 26.75,
+    "high": 27.44,
+    "low": 25.26,
+    "volume": 44642450,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 26.75,
+    "close": 30.72,
+    "high": 30.78,
+    "low": 26.44,
+    "volume": 57902447,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.08,
+    "close": 30.8,
+    "high": 31.95,
+    "low": 27.56,
+    "volume": 65181438,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 30.75,
+    "close": 34.71,
+    "high": 35.56,
+    "low": 30.6,
+    "volume": 58275114,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 34.82,
+    "close": 35.77,
+    "high": 36.19,
+    "low": 33.76,
+    "volume": 50344112,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 35.87,
+    "close": 31.4,
+    "high": 36.17,
+    "low": 30.44,
+    "volume": 56730440,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.78,
+    "close": 33.45,
+    "high": 33.73,
+    "low": 30.52,
+    "volume": 47144614,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 33.5,
+    "close": 32.17,
+    "high": 34.64,
+    "low": 31.29,
+    "volume": 43476867,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 32.45,
+    "close": 30.18,
+    "high": 32.71,
+    "low": 29.07,
+    "volume": 52152005,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 30.08,
+    "close": 31.44,
+    "high": 32.31,
+    "low": 28.37,
+    "volume": 52210318,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.4,
+    "close": 30.22,
+    "high": 32.91,
+    "low": 30.08,
+    "volume": 46614557,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 30.54,
+    "close": 32.1,
+    "high": 34.05,
+    "low": 29.68,
+    "volume": 41547073,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.93,
+    "close": 31.15,
+    "high": 32.82,
+    "low": 30.25,
+    "volume": 38879140,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.12,
+    "close": 30.17,
+    "high": 31.89,
+    "low": 29.43,
+    "volume": 32101186,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 30.11,
+    "close": 31.12,
+    "high": 31.26,
+    "low": 28.13,
+    "volume": 44777769,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.16,
+    "close": 31.92,
+    "high": 32.47,
+    "low": 30.81,
+    "volume": 33847159,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 32.02,
+    "close": 30.77,
+    "high": 32.71,
+    "low": 30.34,
+    "volume": 40097441,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 30.92,
+    "close": 30.93,
+    "high": 33.36,
+    "low": 30.53,
+    "volume": 40142848,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.06,
+    "close": 31.05,
+    "high": 31.77,
+    "low": 30.12,
+    "volume": 40709657,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.14,
+    "close": 31.32,
+    "high": 32.16,
+    "low": 30.13,
+    "volume": 39442846,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.54,
+    "close": 31.97,
+    "high": 33.45,
+    "low": 30.91,
+    "volume": 33444085,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.92,
+    "close": 34.16,
+    "high": 36.1,
+    "low": 31.87,
+    "volume": 61957174,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 34.04,
+    "close": 36.61,
+    "high": 36.84,
+    "low": 32.7,
+    "volume": 53834566,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 36.94,
+    "close": 35.89,
+    "high": 36.99,
+    "low": 33.93,
+    "volume": 39240173,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 35.81,
+    "close": 36.45,
+    "high": 39.27,
+    "low": 35.36,
+    "volume": 42641778,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 36.87,
+    "close": 38.01,
+    "high": 38.54,
+    "low": 35.37,
+    "volume": 48650863,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 38.01,
+    "close": 39.47,
+    "high": 41.69,
+    "low": 37.79,
+    "volume": 54089547,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 39.23,
+    "close": 43.53,
+    "high": 44.59,
+    "low": 38.69,
+    "volume": 43993797,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 43.67,
+    "close": 43.27,
+    "high": 46.17,
+    "low": 42.28,
+    "volume": 46827564,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 43.61,
+    "close": 44.56,
+    "high": 46.48,
+    "low": 42.15,
+    "volume": 61521423,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 44.79,
+    "close": 46.33,
+    "high": 49.49,
+    "low": 44.47,
+    "volume": 50749219,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 45.76,
+    "close": 48.93,
+    "high": 52.15,
+    "low": 44.84,
+    "volume": 67182621,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 49.16,
+    "close": 55.99,
+    "high": 60.47,
+    "low": 48.49,
+    "volume": 60436818,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 56.14,
+    "close": 58.18,
+    "high": 59.3,
+    "low": 55.92,
+    "volume": 47026249,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 58.46,
+    "close": 58.03,
+    "high": 61.53,
+    "low": 55.97,
+    "volume": 58151904,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 58.49,
+    "close": 54.55,
+    "high": 65.75,
+    "low": 53.17,
+    "volume": 76313695,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 54.24,
+    "close": 57.03,
+    "high": 57.29,
+    "low": 48.02,
+    "volume": 67556544,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 57.25,
+    "close": 56.83,
+    "high": 61.05,
+    "low": 53.25,
+    "volume": 38543107,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 57.11,
+    "close": 37.04,
+    "high": 58.95,
+    "low": 32.22,
+    "volume": 83968665,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 36.73,
+    "close": 33.74,
+    "high": 37.62,
+    "low": 30.77,
+    "volume": 102184561,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 33.77,
+    "close": 36.32,
+    "high": 38.73,
+    "low": 32.33,
+    "volume": 74798904,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 36.11,
+    "close": 31.28,
+    "high": 37.03,
+    "low": 28.18,
+    "volume": 128062927,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 32.33,
+    "close": 28.92,
+    "high": 32.33,
+    "low": 28,
+    "volume": 101710873,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 28.96,
+    "close": 30,
+    "high": 32.28,
+    "low": 27.43,
+    "volume": 110267857,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 30.67,
+    "close": 31.55,
+    "high": 33.61,
+    "low": 29.44,
+    "volume": 103739991,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.73,
+    "close": 35.59,
+    "high": 35.87,
+    "low": 31.25,
+    "volume": 83372643,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 35.65,
+    "close": 27.89,
+    "high": 35.82,
+    "low": 27.57,
+    "volume": 106513245,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 27.49,
+    "close": 28.04,
+    "high": 30.63,
+    "low": 25.81,
+    "volume": 128650494,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 28.44,
+    "close": 28.71,
+    "high": 30.47,
+    "low": 26.54,
+    "volume": 90942318,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 29.92,
+    "close": 25.46,
+    "high": 30.42,
+    "low": 24.15,
+    "volume": 159025612,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 25.22,
+    "close": 19.49,
+    "high": 25.33,
+    "low": 14.64,
+    "volume": 221911003,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 19.36,
+    "close": 18.58,
+    "high": 21.04,
+    "low": 14.66,
+    "volume": 143274651,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 18.01,
+    "close": 19.07,
+    "high": 21.31,
+    "low": 16.19,
+    "volume": 135237306,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 19.07,
+    "close": 17.59,
+    "high": 21.71,
+    "low": 16.4,
+    "volume": 135082770,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 17.03,
+    "close": 16.71,
+    "high": 20.85,
+    "low": 16.49,
+    "volume": 163296190,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 17.17,
+    "close": 17.17,
+    "high": 18.97,
+    "low": 13.59,
+    "volume": 212398827,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 17.33,
+    "close": 23.63,
+    "high": 24.6,
+    "low": 16.58,
+    "volume": 194392203,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 23.55,
+    "close": 19.9,
+    "high": 24.03,
+    "low": 18.58,
+    "volume": 137159466,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 20.37,
+    "close": 21.62,
+    "high": 23.43,
+    "low": 19.95,
+    "volume": 149662435,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 22.21,
+    "close": 23.1,
+    "high": 23.62,
+    "low": 19.01,
+    "volume": 162405841,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 23.32,
+    "close": 24.11,
+    "high": 25.27,
+    "low": 22.35,
+    "volume": 96483651,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 23.99,
+    "close": 25.14,
+    "high": 26.65,
+    "low": 22.92,
+    "volume": 104792217,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 24.87,
+    "close": 24.94,
+    "high": 26.84,
+    "low": 23.26,
+    "volume": 109952887,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 25.04,
+    "close": 24.72,
+    "high": 26.76,
+    "low": 24.32,
+    "volume": 70413681,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 24.91,
+    "close": 24.18,
+    "high": 25.67,
+    "low": 23.15,
+    "volume": 78861055,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 24.66,
+    "close": 24.02,
+    "high": 26.09,
+    "low": 23.27,
+    "volume": 83619876,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 24.11,
+    "close": 23.57,
+    "high": 24.46,
+    "low": 22.3,
+    "volume": 82132506,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 23.62,
+    "close": 28.89,
+    "high": 29.69,
+    "low": 23.59,
+    "volume": 113622156,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 29.01,
+    "close": 31.01,
+    "high": 32.43,
+    "low": 28.9,
+    "volume": 85436890,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.18,
+    "close": 27.33,
+    "high": 32.1,
+    "low": 25.17,
+    "volume": 126484815,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 27.16,
+    "close": 26.58,
+    "high": 30.27,
+    "low": 25.67,
+    "volume": 104153581,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 26.58,
+    "close": 30.55,
+    "high": 31.72,
+    "low": 25.73,
+    "volume": 109151107,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.03,
+    "close": 27.32,
+    "high": 31.43,
+    "low": 26.51,
+    "volume": 88499151,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 27.84,
+    "close": 32.1,
+    "high": 32.37,
+    "low": 27.74,
+    "volume": 82632915,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 32.45,
+    "close": 34.17,
+    "high": 34.47,
+    "low": 31.43,
+    "volume": 84494655,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 34.64,
+    "close": 35.91,
+    "high": 37,
+    "low": 34.01,
+    "volume": 74897557,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 36.99,
+    "close": 38.23,
+    "high": 38.55,
+    "low": 36.79,
+    "volume": 82285134,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 38.69,
+    "close": 37.66,
+    "high": 39.17,
+    "low": 36.19,
+    "volume": 64864036,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 36.65,
+    "close": 33.42,
+    "high": 36.67,
+    "low": 32.84,
+    "volume": 93878613,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 33.48,
+    "close": 34.91,
+    "high": 35.09,
+    "low": 31,
+    "volume": 96874915,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 35.26,
+    "close": 35.41,
+    "high": 36.39,
+    "low": 32.81,
+    "volume": 87011193,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 35.63,
+    "close": 33.33,
+    "high": 36,
+    "low": 32.65,
+    "volume": 60773272,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 33.31,
+    "close": 34.06,
+    "high": 34.2,
+    "low": 30.13,
+    "volume": 85177341,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 34.16,
+    "close": 28.54,
+    "high": 35.79,
+    "low": 28.17,
+    "volume": 104419918,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 28.85,
+    "close": 25.09,
+    "high": 29.11,
+    "low": 22.42,
+    "volume": 181950513,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 25.19,
+    "close": 22.55,
+    "high": 26.25,
+    "low": 22,
+    "volume": 129029086,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 22.34,
+    "close": 28.83,
+    "high": 29.56,
+    "low": 21.05,
+    "volume": 115013911,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 27.95,
+    "close": 27.05,
+    "high": 29.41,
+    "low": 24.56,
+    "volume": 94393572,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 26.99,
+    "close": 24.98,
+    "high": 27.53,
+    "low": 23.59,
+    "volume": 72374095,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 25.71,
+    "close": 29.47,
+    "high": 31.09,
+    "low": 25.57,
+    "volume": 100889016,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 30.12,
+    "close": 30.67,
+    "high": 31.33,
+    "low": 28.41,
+    "volume": 97997173,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 30.83,
+    "close": 31.22,
+    "high": 32,
+    "low": 29.25,
+    "volume": 61655389,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.14,
+    "close": 28.63,
+    "high": 32.15,
+    "low": 27.37,
+    "volume": 90926820,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 28.62,
+    "close": 25.05,
+    "high": 28.79,
+    "low": 24.67,
+    "volume": 100006231,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 24.58,
+    "close": 26.13,
+    "high": 27.09,
+    "low": 23.7,
+    "volume": 84466437,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 26.21,
+    "close": 26.67,
+    "high": 27.37,
+    "low": 23.47,
+    "volume": 89910382,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 26.87,
+    "close": 26.61,
+    "high": 27.96,
+    "low": 25.11,
+    "volume": 56882124,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 26.52,
+    "close": 26.68,
+    "high": 28.92,
+    "low": 25.84,
+    "volume": 62774092,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 26.8,
+    "close": 28.91,
+    "high": 29.01,
+    "low": 26.35,
+    "volume": 94800414,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 29,
+    "close": 29.29,
+    "high": 30.45,
+    "low": 27.45,
+    "volume": 74707552,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 29.41,
+    "close": 30.14,
+    "high": 30.29,
+    "low": 28.58,
+    "volume": 63091668,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 30.81,
+    "close": 31.37,
+    "high": 32.5,
+    "low": 30.28,
+    "volume": 62218714,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.68,
+    "close": 31.63,
+    "high": 32.47,
+    "low": 30.54,
+    "volume": 48974232,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31.49,
+    "close": 33.71,
+    "high": 34.25,
+    "low": 30.58,
+    "volume": 59887233,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 33.71,
+    "close": 33.19,
+    "high": 33.91,
+    "low": 31.41,
+    "volume": 72076548,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 33.02,
+    "close": 35.73,
+    "high": 36.7,
+    "low": 32.91,
+    "volume": 56411122,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 35.93,
+    "close": 35.77,
+    "high": 36.43,
+    "low": 34.09,
+    "volume": 43795419,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 35.77,
+    "close": 37.51,
+    "high": 40,
+    "low": 35.06,
+    "volume": 50824872,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 37.83,
+    "close": 35.74,
+    "high": 38.09,
+    "low": 35.59,
+    "volume": 34049805,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 36.35,
+    "close": 37.11,
+    "high": 38.95,
+    "low": 35.38,
+    "volume": 40235839,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 37.08,
+    "close": 37.07,
+    "high": 39.18,
+    "low": 35.78,
+    "volume": 51621705,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 37.19,
+    "close": 38.21,
+    "high": 38.55,
+    "low": 36.69,
+    "volume": 37523799,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 38.13,
+    "close": 39.45,
+    "high": 39.57,
+    "low": 36.67,
+    "volume": 37567156,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 39.29,
+    "close": 37.33,
+    "high": 40.11,
+    "low": 36.75,
+    "volume": 53709301,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 37.11,
+    "close": 43.89,
+    "high": 44.31,
+    "low": 35.73,
+    "volume": 76234032,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 43.35,
+    "close": 44.96,
+    "high": 45.87,
+    "low": 43.13,
+    "volume": 58565481,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 45.33,
+    "close": 42.65,
+    "high": 45.58,
+    "low": 41.88,
+    "volume": 63631054,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 42.49,
+    "close": 42.24,
+    "high": 43.16,
+    "low": 40.14,
+    "volume": 50247007,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 42.25,
+    "close": 41.89,
+    "high": 43.73,
+    "low": 41.73,
+    "volume": 50286450,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 42.29,
+    "close": 41.51,
+    "high": 45.09,
+    "low": 41.47,
+    "volume": 48987544,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 41.33,
+    "close": 41.87,
+    "high": 42.97,
+    "low": 40.34,
+    "volume": 35704309,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 42.07,
+    "close": 37.92,
+    "high": 42.15,
+    "low": 37.74,
+    "volume": 53415660,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 37.81,
+    "close": 43.55,
+    "high": 44.14,
+    "low": 36.89,
+    "volume": 88728583,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 43.47,
+    "close": 44.68,
+    "high": 45.36,
+    "low": 43.27,
+    "volume": 44172105,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 44.69,
+    "close": 45.34,
+    "high": 47.43,
+    "low": 44.15,
+    "volume": 62748825,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 45.48,
+    "close": 40.07,
+    "high": 45.91,
+    "low": 39.99,
+    "volume": 69696637,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 40.27,
+    "close": 42.7,
+    "high": 43.39,
+    "low": 39.55,
+    "volume": 50133034,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 42.84,
+    "close": 42.09,
+    "high": 43.49,
+    "low": 40.18,
+    "volume": 52920885,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 42.01,
+    "close": 43.57,
+    "high": 45.63,
+    "low": 40.33,
+    "volume": 58737927,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 43.6,
+    "close": 42.37,
+    "high": 44.78,
+    "low": 42.28,
+    "volume": 43638204,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 42.82,
+    "close": 42.54,
+    "high": 43.7,
+    "low": 42.11,
+    "volume": 45845775,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 42.97,
+    "close": 43.23,
+    "high": 44.29,
+    "low": 41.68,
+    "volume": 72225970,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 43.25,
+    "close": 39.31,
+    "high": 43.31,
+    "low": 35.63,
+    "volume": 71184076,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 38.51,
+    "close": 34.78,
+    "high": 39.21,
+    "low": 34.34,
+    "volume": 76854412,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 34.85,
+    "close": 35.1,
+    "high": 37.37,
+    "low": 32.97,
+    "volume": 101847573,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 35.24,
+    "close": 34.64,
+    "high": 36.33,
+    "low": 33.04,
+    "volume": 58027186,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 34.14,
+    "close": 31.6,
+    "high": 34.65,
+    "low": 30.03,
+    "volume": 90228337,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 31,
+    "close": 32.71,
+    "high": 33.05,
+    "low": 28.97,
+    "volume": 82831630,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 32.31,
+    "close": 34.33,
+    "high": 35.47,
+    "low": 30.61,
+    "volume": 73853023,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 34.73,
+    "close": 36.46,
+    "high": 37.07,
+    "low": 34.17,
+    "volume": 77879368,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 36.27,
+    "close": 39.27,
+    "high": 40.57,
+    "low": 34.66,
+    "volume": 73160182,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 39.45,
+    "close": 37.17,
+    "high": 39.57,
+    "low": 35.32,
+    "volume": 65969853,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 37.02,
+    "close": 34.58,
+    "high": 38.3,
+    "low": 32.11,
+    "volume": 85278771,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 34.59,
+    "close": 39.31,
+    "high": 39.73,
+    "low": 32.9,
+    "volume": 76619161,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 39.23,
+    "close": 39.89,
+    "high": 40.5,
+    "low": 38.02,
+    "volume": 56288380,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 39.99,
+    "close": 39.19,
+    "high": 40.11,
+    "low": 36.79,
+    "volume": 71708796,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 38.99,
+    "close": 36.61,
+    "high": 40.14,
+    "low": 36.03,
+    "volume": 59238591,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 36.69,
+    "close": 41.43,
+    "high": 41.75,
+    "low": 35.59,
+    "volume": 62201380,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 39.19,
+    "close": 42.6,
+    "high": 45.67,
+    "low": 39.19,
+    "volume": 68738404,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 43.08,
+    "close": 44.87,
+    "high": 45.79,
+    "low": 43.07,
+    "volume": 64759222,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 45.09,
+    "close": 44.54,
+    "high": 46.75,
+    "low": 44.43,
+    "volume": 50708851,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 45.27,
+    "close": 44.8,
+    "high": 46.41,
+    "low": 43.84,
+    "volume": 65227779,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 44.87,
+    "close": 44.49,
+    "high": 45.41,
+    "low": 42.67,
+    "volume": 58357182,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 44.65,
+    "close": 41.97,
+    "high": 46.11,
+    "low": 41.34,
+    "volume": 60352180,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 42.11,
+    "close": 44.03,
+    "high": 44.26,
+    "low": 41.29,
+    "volume": 60586132,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 44.27,
+    "close": 45.63,
+    "high": 46.88,
+    "low": 43.89,
+    "volume": 54502885,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 45.79,
+    "close": 44.22,
+    "high": 46.03,
+    "low": 41.81,
+    "volume": 51548067,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 44.37,
+    "close": 48.23,
+    "high": 48.86,
+    "low": 43.3,
+    "volume": 46258789,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 48.16,
+    "close": 47.82,
+    "high": 50.45,
+    "low": 45.91,
+    "volume": 88030192,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 48.25,
+    "close": 46.89,
+    "high": 48.32,
+    "low": 44.22,
+    "volume": 61366719,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 46.53,
+    "close": 47.39,
+    "high": 48.21,
+    "low": 45.55,
+    "volume": 52963293,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 48.38,
+    "close": 49.71,
+    "high": 53.13,
+    "low": 48.04,
+    "volume": 79080217,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 49.36,
+    "close": 47.73,
+    "high": 50.03,
+    "low": 43.54,
+    "volume": 73680177,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 47.76,
+    "close": 44.11,
+    "high": 47.76,
+    "low": 41.88,
+    "volume": 103338739,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 43.97,
+    "close": 42.45,
+    "high": 47.72,
+    "low": 42.23,
+    "volume": 81787290,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 42.33,
+    "close": 41.49,
+    "high": 44.5,
+    "low": 40.24,
+    "volume": 62770248,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 41.75,
+    "close": 41.31,
+    "high": 43.93,
+    "low": 40.65,
+    "volume": 57789517,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 40.19,
+    "close": 43.81,
+    "high": 44.55,
+    "low": 39.88,
+    "volume": 69239398,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 43.67,
+    "close": 45.61,
+    "high": 46.09,
+    "low": 41.87,
+    "volume": 61036785,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 45.3,
+    "close": 45.46,
+    "high": 48.59,
+    "low": 45.12,
+    "volume": 52663098,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 45.84,
+    "close": 38.14,
+    "high": 47.17,
+    "low": 35.97,
+    "volume": 88953645,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 38.37,
+    "close": 41.48,
+    "high": 41.53,
+    "low": 38.35,
+    "volume": 55024620,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 42.07,
+    "close": 38.09,
+    "high": 42.27,
+    "low": 35.62,
+    "volume": 74936700,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 37.51,
+    "close": 43.68,
+    "high": 43.71,
+    "low": 37.23,
+    "volume": 79512229,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 43.67,
+    "close": 45.2,
+    "high": 46.9,
+    "low": 42.79,
+    "volume": 50518587,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 45.5,
+    "close": 45.43,
+    "high": 46.01,
+    "low": 43.95,
+    "volume": 60555453,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 45.87,
+    "close": 47.78,
+    "high": 48.67,
+    "low": 45.3,
+    "volume": 59974683,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 47.87,
+    "close": 43.88,
+    "high": 48.19,
+    "low": 43.85,
+    "volume": 55873054,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 43.99,
+    "close": 47.77,
+    "high": 48.31,
+    "low": 43.89,
+    "volume": 38860605,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 48.42,
+    "close": 46.76,
+    "high": 48.57,
+    "low": 44.67,
+    "volume": 57034981,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 46.69,
+    "close": 43.71,
+    "high": 47.26,
+    "low": 41.42,
+    "volume": 55333039,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 43.39,
+    "close": 46.67,
+    "high": 48.29,
+    "low": 42.36,
+    "volume": 54693871,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 46.76,
+    "close": 50.71,
+    "high": 51.87,
+    "low": 43.45,
+    "volume": 67935493,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 50.95,
+    "close": 54.25,
+    "high": 54.83,
+    "low": 50.71,
+    "volume": 40315611,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 54.5,
+    "close": 52.73,
+    "high": 55.61,
+    "low": 52.4,
+    "volume": 46411236,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 52.79,
+    "close": 49.47,
+    "high": 53.11,
+    "low": 49.24,
+    "volume": 55859889,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 49.92,
+    "close": 44.6,
+    "high": 52.33,
+    "low": 43.43,
+    "volume": 62203461,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 44.88,
+    "close": 40.75,
+    "high": 47.39,
+    "low": 32.74,
+    "volume": 96759460,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 39.49,
+    "close": 46.15,
+    "high": 47.31,
+    "low": 38.81,
+    "volume": 74843605,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 45.4,
+    "close": 49.24,
+    "high": 50.35,
+    "low": 42.83,
+    "volume": 61156668,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 49.37,
+    "close": 49.9,
+    "high": 52.99,
+    "low": 47.26,
+    "volume": 52775175,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 50.37,
+    "close": 56.72,
+    "high": 58.16,
+    "low": 49.33,
+    "volume": 65326437,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 56.65,
+    "close": 57.23,
+    "high": 60.87,
+    "low": 56.33,
+    "volume": 44415805,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 57.32,
+    "close": 56.85,
+    "high": 59.35,
+    "low": 53.57,
+    "volume": 51681501,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 57.34,
+    "close": 56.92,
+    "high": 61.97,
+    "low": 55.23,
+    "volume": 53708472,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 57.77,
+    "close": 58.04,
+    "high": 63.88,
+    "low": 57.58,
+    "volume": 43295562,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 58.63,
+    "close": 57.52,
+    "high": 59.25,
+    "low": 56.04,
+    "volume": 43682995,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 57.74,
+    "close": 60.81,
+    "high": 68.79,
+    "low": 56.15,
+    "volume": 65173794,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 61.2,
+    "close": 60.66,
+    "high": 67.6,
+    "low": 60.03,
+    "volume": 51881059,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 61.23,
+    "close": 61.95,
+    "high": 66.32,
+    "low": 59.74,
+    "volume": 63878379,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 61.89,
+    "close": 59.92,
+    "high": 63.88,
+    "low": 59.82,
+    "volume": 58270731,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 60.53,
+    "close": 61.04,
+    "high": 64.47,
+    "low": 59.12,
+    "volume": 51688132,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 61.55,
+    "close": 59.5,
+    "high": 63.57,
+    "low": 57.69,
+    "volume": 55710343,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 59.73,
+    "close": 55.33,
+    "high": 60.06,
+    "low": 55.15,
+    "volume": 61878996,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 55.96,
+    "close": 54.58,
+    "high": 56.23,
+    "low": 52.7,
+    "volume": 78930990,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 54.93,
+    "close": 52.61,
+    "high": 56.89,
+    "low": 52.48,
+    "volume": 85404388,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 52.78,
+    "close": 59.75,
+    "high": 60.26,
+    "low": 51.97,
+    "volume": 60919585,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 59.81,
+    "close": 55.61,
+    "high": 61.31,
+    "low": 55.23,
+    "volume": 50488858,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 56.61,
+    "close": 58.84,
+    "high": 60.09,
+    "low": 54.03,
+    "volume": 59167807,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 58.84,
+    "close": 61.99,
+    "high": 65.04,
+    "low": 58.42,
+    "volume": 62526373,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 61.88,
+    "close": 61.21,
+    "high": 64.39,
+    "low": 59.62,
+    "volume": 46403767,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 60.99,
+    "close": 58.71,
+    "high": 61.8,
+    "low": 55.31,
+    "volume": 63777942,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 59.06,
+    "close": 55.37,
+    "high": 59.44,
+    "low": 54.53,
+    "volume": 60326350,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 55.65,
+    "close": 57.89,
+    "high": 58.83,
+    "low": 52.12,
+    "volume": 58407412,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 58.04,
+    "close": 54.89,
+    "high": 59.92,
+    "low": 53.71,
+    "volume": 60869368,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 54.82,
+    "close": 61.01,
+    "high": 61.22,
+    "low": 51.33,
+    "volume": 59029134,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 60.71,
+    "close": 58.34,
+    "high": 63.42,
+    "low": 57.99,
+    "volume": 52501866,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 57.99,
+    "close": 55.79,
+    "high": 59.82,
+    "low": 54.64,
+    "volume": 55508908,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 56.54,
+    "close": 64.55,
+    "high": 64.75,
+    "low": 56.26,
+    "volume": 64366086,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 64.79,
+    "close": 70.61,
+    "high": 71.45,
+    "low": 62.57,
+    "volume": 67756569,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 70.75,
+    "close": 65.98,
+    "high": 71.19,
+    "low": 64.33,
+    "volume": 65909157,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 65.92,
+    "close": 72.87,
+    "high": 75.26,
+    "low": 64.64,
+    "volume": 76066675,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 72.39,
+    "close": 72.2,
+    "high": 76.12,
+    "low": 71.28,
+    "volume": 53240474,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 71.97,
+    "close": 73.2,
+    "high": 76.72,
+    "low": 68.22,
+    "volume": 74282715,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 73.27,
+    "close": 74.69,
+    "high": 75.73,
+    "low": 67.48,
+    "volume": 65695040,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 74.69,
+    "close": 68.78,
+    "high": 75.7,
+    "low": 68.54,
+    "volume": 54069103,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 68.99,
+    "close": 83.65,
+    "high": 85.18,
+    "low": 68.4,
+    "volume": 47090284,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "PCAR",
+    "open": 83.47,
+    "close": 87.91,
+    "high": 90.05,
+    "low": 80.91,
+    "volume": 42428899,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

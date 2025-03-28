@@ -1,0 +1,642 @@
+[
+  {
+    "ticker": "DDOG",
+    "open": 40.35,
+    "close": 33.91,
+    "high": 41.44,
+    "low": 30.47,
+    "volume": 40414239,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 34.25,
+    "close": 33.59,
+    "high": 37.97,
+    "low": 27.55,
+    "volume": 40053689,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 33.7,
+    "close": 40.77,
+    "high": 44.09,
+    "low": 30.26,
+    "volume": 40367268,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 41.11,
+    "close": 37.78,
+    "high": 41.32,
+    "low": 33.06,
+    "volume": 56334128,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 38.22,
+    "close": 46.21,
+    "high": 47.26,
+    "low": 35.96,
+    "volume": 49832535,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 46.62,
+    "close": 45.15,
+    "high": 50.12,
+    "low": 41.72,
+    "volume": 62627950,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 45,
+    "close": 35.98,
+    "high": 48.12,
+    "low": 28.88,
+    "volume": 108060475,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 34.83,
+    "close": 45.12,
+    "high": 45.28,
+    "low": 33.04,
+    "volume": 53898376,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 44,
+    "close": 71.27,
+    "high": 75,
+    "low": 43.13,
+    "volume": 136511133,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 70.61,
+    "close": 86.95,
+    "high": 93,
+    "low": 67.18,
+    "volume": 113074259,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 87.19,
+    "close": 93.86,
+    "high": 98.99,
+    "low": 81.54,
+    "volume": 72534668,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 95.82,
+    "close": 83.55,
+    "high": 96.67,
+    "low": 72.6,
+    "volume": 105878115,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 83.99,
+    "close": 102.16,
+    "high": 107.99,
+    "low": 75.55,
+    "volume": 122038113,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 101.43,
+    "close": 90.75,
+    "high": 118.13,
+    "low": 90.54,
+    "volume": 96308933,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 91.78,
+    "close": 98.92,
+    "high": 103.95,
+    "low": 79.76,
+    "volume": 94310986,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 98.6,
+    "close": 98.44,
+    "high": 111.49,
+    "low": 90.13,
+    "volume": 69853491,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 98.69,
+    "close": 102.75,
+    "high": 112.29,
+    "low": 89.83,
+    "volume": 63284370,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 103.47,
+    "close": 95.41,
+    "high": 119.43,
+    "low": 92.81,
+    "volume": 67518894,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 96.78,
+    "close": 83.34,
+    "high": 98.65,
+    "low": 74.53,
+    "volume": 98840189,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 86.95,
+    "close": 85.77,
+    "high": 96.35,
+    "low": 81.7,
+    "volume": 59803391,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 86.33,
+    "close": 91.05,
+    "high": 94.39,
+    "low": 69.73,
+    "volume": 77122338,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 91.35,
+    "close": 104.08,
+    "high": 107.4,
+    "low": 87.1,
+    "volume": 56889443,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 103.51,
+    "close": 110.7,
+    "high": 114.2,
+    "low": 101.38,
+    "volume": 31843482,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 110.85,
+    "close": 137.8,
+    "high": 139.17,
+    "low": 109.11,
+    "volume": 74589394,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 138.08,
+    "close": 141.35,
+    "high": 150.67,
+    "low": 131.39,
+    "volume": 56634910,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 142.02,
+    "close": 167.05,
+    "high": 168.73,
+    "low": 134.63,
+    "volume": 50646413,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 167.46,
+    "close": 178.29,
+    "high": 199.68,
+    "low": 160.65,
+    "volume": 71478614,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 182.85,
+    "close": 178.11,
+    "high": 186.28,
+    "low": 152.82,
+    "volume": 87399440,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 178.75,
+    "close": 146.11,
+    "high": 180.28,
+    "low": 119.19,
+    "volume": 92988857,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 147.89,
+    "close": 161.11,
+    "high": 184.7,
+    "low": 135.11,
+    "volume": 101168556,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 160.24,
+    "close": 151.47,
+    "high": 166.99,
+    "low": 113.89,
+    "volume": 99838133,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 150.98,
+    "close": 120.78,
+    "high": 159,
+    "low": 117.86,
+    "volume": 71954228,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 119.94,
+    "close": 95.39,
+    "high": 124.43,
+    "low": 82.15,
+    "volume": 145661329,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 96.84,
+    "close": 95.24,
+    "high": 116.62,
+    "low": 81.12,
+    "volume": 120256997,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 95.25,
+    "close": 102.01,
+    "high": 112.58,
+    "low": 84.46,
+    "volume": 95276846,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 99.8,
+    "close": 104.95,
+    "high": 120.75,
+    "low": 97.62,
+    "volume": 98602031,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 101.88,
+    "close": 88.78,
+    "high": 104.95,
+    "low": 85.84,
+    "volume": 87966371,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 89.61,
+    "close": 80.51,
+    "high": 97.31,
+    "low": 75.53,
+    "volume": 89795634,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 83.24,
+    "close": 75.78,
+    "high": 86.88,
+    "low": 66.45,
+    "volume": 110337919,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 75.2,
+    "close": 73.5,
+    "high": 85.44,
+    "low": 67.33,
+    "volume": 83186166,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 75.19,
+    "close": 74.81,
+    "high": 78.63,
+    "low": 61.34,
+    "volume": 96667359,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 76.16,
+    "close": 76.52,
+    "high": 90.01,
+    "low": 75.31,
+    "volume": 108167851,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 76.84,
+    "close": 72.66,
+    "high": 78.18,
+    "low": 62.99,
+    "volume": 125435467,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 71.61,
+    "close": 67.38,
+    "high": 72.67,
+    "low": 62.6,
+    "volume": 90418257,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 66.78,
+    "close": 94.91,
+    "high": 97.4,
+    "low": 63,
+    "volume": 129413023,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 93,
+    "close": 98.38,
+    "high": 103.8,
+    "low": 90.88,
+    "volume": 86390769,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 98.1,
+    "close": 116.72,
+    "high": 118.02,
+    "low": 95.31,
+    "volume": 80628264,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 115,
+    "close": 96.48,
+    "high": 115.95,
+    "low": 83.87,
+    "volume": 123961520,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 97.73,
+    "close": 91.09,
+    "high": 102,
+    "low": 85.29,
+    "volume": 63325794,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 92.54,
+    "close": 81.47,
+    "high": 94.8,
+    "low": 79.37,
+    "volume": 80716165,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 82.02,
+    "close": 116.57,
+    "high": 120.26,
+    "low": 77.81,
+    "volume": 124437010,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 117.29,
+    "close": 121.38,
+    "high": 124.69,
+    "low": 112.25,
+    "volume": 60475403,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 119.22,
+    "close": 124.44,
+    "high": 136.07,
+    "low": 110.69,
+    "volume": 96181616,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 125.67,
+    "close": 131.46,
+    "high": 138.61,
+    "low": 123.43,
+    "volume": 104305125,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 131.75,
+    "close": 123.6,
+    "high": 131.94,
+    "low": 118.4,
+    "volume": 62918088,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 123.86,
+    "close": 125.5,
+    "high": 132.9,
+    "low": 118.46,
+    "volume": 70138834,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 127.02,
+    "close": 110.18,
+    "high": 129.62,
+    "low": 108.08,
+    "volume": 101828860,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 111,
+    "close": 129.69,
+    "high": 131.13,
+    "low": 107.3,
+    "volume": 77230981,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 129.04,
+    "close": 116.44,
+    "high": 134.8,
+    "low": 113.58,
+    "volume": 73511310,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 115.01,
+    "close": 116.26,
+    "high": 118.72,
+    "low": 98.8,
+    "volume": 75866025,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 114.87,
+    "close": 115.06,
+    "high": 118.38,
+    "low": 105.44,
+    "volume": 55179527,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 117.45,
+    "close": 125.44,
+    "high": 131.84,
+    "low": 113.08,
+    "volume": 68434264,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 124.43,
+    "close": 152.75,
+    "high": 157.48,
+    "low": 120.78,
+    "volume": 115105735,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "DDOG",
+    "open": 152.45,
+    "close": 142.89,
+    "high": 170.08,
+    "low": 142.44,
+    "volume": 95886415,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

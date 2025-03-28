@@ -1,0 +1,672 @@
+[
+  {
+    "ticker": "CRWD",
+    "open": 63.5,
+    "close": 68.29,
+    "high": 79.79,
+    "low": 56,
+    "volume": 64848230,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 69.1,
+    "close": 89.07,
+    "high": 96.19,
+    "low": 61.72,
+    "volume": 64428863,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 90.07,
+    "close": 81.28,
+    "high": 101.88,
+    "low": 78.89,
+    "volume": 43922625,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 80.85,
+    "close": 58.31,
+    "high": 87.77,
+    "low": 51.61,
+    "volume": 70479235,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 58.3,
+    "close": 49.91,
+    "high": 69.7,
+    "low": 44.58,
+    "volume": 61574919,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 49.94,
+    "close": 58,
+    "high": 60,
+    "low": 44.8,
+    "volume": 35830925,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 58.5,
+    "close": 49.87,
+    "high": 58.6,
+    "low": 46.32,
+    "volume": 103544913,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 50.03,
+    "close": 61.09,
+    "high": 64.04,
+    "low": 48.79,
+    "volume": 147721200,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 61.13,
+    "close": 59.64,
+    "high": 67.56,
+    "low": 54.34,
+    "volume": 87430916,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 60.2,
+    "close": 55.68,
+    "high": 60.97,
+    "low": 31.95,
+    "volume": 130483081,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 54,
+    "close": 67.66,
+    "high": 75,
+    "low": 53.53,
+    "volume": 101316697,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 66.28,
+    "close": 87.81,
+    "high": 88,
+    "low": 65.8,
+    "volume": 84591182,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 90.56,
+    "close": 100.29,
+    "high": 108.34,
+    "low": 88.87,
+    "volume": 208036009,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 100,
+    "close": 113.2,
+    "high": 118.58,
+    "low": 97.06,
+    "volume": 117837457,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 114.48,
+    "close": 125.73,
+    "high": 126.55,
+    "low": 93.37,
+    "volume": 86060859,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 134.44,
+    "close": 137.32,
+    "high": 153.1,
+    "low": 115.25,
+    "volume": 168634378,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 139.5,
+    "close": 123.84,
+    "high": 153.9,
+    "low": 120.45,
+    "volume": 90526065,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 124.55,
+    "close": 153.28,
+    "high": 155,
+    "low": 118.1,
+    "volume": 70064532,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 153.5,
+    "close": 211.82,
+    "high": 227.36,
+    "low": 138.24,
+    "volume": 135735604,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 209.96,
+    "close": 215.8,
+    "high": 238.54,
+    "low": 193.86,
+    "volume": 77822388,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 216.56,
+    "close": 216,
+    "high": 251.28,
+    "low": 198.16,
+    "volume": 62954066,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 220.82,
+    "close": 182.51,
+    "high": 231.16,
+    "low": 168.67,
+    "volume": 114507092,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 188.77,
+    "close": 208.51,
+    "high": 227.2,
+    "low": 184.72,
+    "volume": 72149136,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 209,
+    "close": 222.15,
+    "high": 225.93,
+    "low": 177.29,
+    "volume": 67077798,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 223.23,
+    "close": 251.31,
+    "high": 260.82,
+    "low": 204.53,
+    "volume": 96521118,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 251,
+    "close": 253.61,
+    "high": 272.63,
+    "low": 239.71,
+    "volume": 56164574,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 254.26,
+    "close": 281,
+    "high": 289.24,
+    "low": 227.25,
+    "volume": 90519746,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 273.22,
+    "close": 245.78,
+    "high": 285.45,
+    "low": 238.57,
+    "volume": 75480581,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 246.65,
+    "close": 281.8,
+    "high": 297.4,
+    "low": 235.63,
+    "volume": 53366531,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 275.54,
+    "close": 217.14,
+    "high": 298.48,
+    "low": 216.49,
+    "volume": 81797447,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 220.69,
+    "close": 204.75,
+    "high": 225.6,
+    "low": 185.71,
+    "volume": 89391043,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 205,
+    "close": 180.64,
+    "high": 205.57,
+    "low": 150.02,
+    "volume": 106781642,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 182.01,
+    "close": 195.21,
+    "high": 197.25,
+    "low": 153.5,
+    "volume": 72139612,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 201.33,
+    "close": 227.08,
+    "high": 232.35,
+    "low": 155.36,
+    "volume": 144905182,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 225.3,
+    "close": 198.76,
+    "high": 242,
+    "low": 197.8,
+    "volume": 79717431,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 198.5,
+    "close": 159.99,
+    "high": 207.83,
+    "low": 130,
+    "volume": 117574881,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 163.01,
+    "close": 168.56,
+    "high": 188.68,
+    "low": 150.63,
+    "volume": 96482672,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 168.24,
+    "close": 183.6,
+    "high": 194.85,
+    "low": 167.47,
+    "volume": 62384048,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 180.78,
+    "close": 182.61,
+    "high": 205.73,
+    "low": 178.38,
+    "volume": 82636861,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 178.45,
+    "close": 164.81,
+    "high": 195.29,
+    "low": 157.06,
+    "volume": 68497208,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 166.63,
+    "close": 161.2,
+    "high": 181.84,
+    "low": 142.36,
+    "volume": 56993086,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 165,
+    "close": 117.65,
+    "high": 168.48,
+    "low": 108.89,
+    "volume": 124331121,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 118.64,
+    "close": 105.29,
+    "high": 125.55,
+    "low": 98.7,
+    "volume": 100581932,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 107.5,
+    "close": 105.9,
+    "high": 109.01,
+    "low": 92.25,
+    "volume": 110875365,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 105.9,
+    "close": 120.69,
+    "high": 123.24,
+    "low": 105.1,
+    "volume": 83319678,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 120.23,
+    "close": 137.26,
+    "high": 138.33,
+    "low": 118.15,
+    "volume": 135753975,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 135.5,
+    "close": 120.05,
+    "high": 140.21,
+    "low": 119.42,
+    "volume": 68141122,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 118.56,
+    "close": 160.13,
+    "high": 161.79,
+    "low": 115.67,
+    "volume": 87830755,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 146.72,
+    "close": 146.87,
+    "high": 162.25,
+    "low": 141.35,
+    "volume": 91643474,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 147.18,
+    "close": 161.66,
+    "high": 163.41,
+    "low": 139.37,
+    "volume": 66919786,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 161,
+    "close": 163.03,
+    "high": 166.99,
+    "low": 140.52,
+    "volume": 85087505,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 163.12,
+    "close": 167.38,
+    "high": 172.64,
+    "low": 157.59,
+    "volume": 60176209,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 168,
+    "close": 176.77,
+    "high": 191.99,
+    "low": 160.86,
+    "volume": 66166604,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 178.12,
+    "close": 236.99,
+    "high": 238.48,
+    "low": 174.81,
+    "volume": 75232830,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 235.72,
+    "close": 255.32,
+    "high": 261.81,
+    "low": 229.8,
+    "volume": 55353196,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 251.47,
+    "close": 292.5,
+    "high": 307.55,
+    "low": 238.61,
+    "volume": 71582934,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 296.14,
+    "close": 324.15,
+    "high": 338.45,
+    "low": 273.16,
+    "volume": 68125888,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 319.25,
+    "close": 320.59,
+    "high": 365,
+    "low": 289.8,
+    "volume": 103630437,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 321,
+    "close": 292.54,
+    "high": 325.99,
+    "low": 280.88,
+    "volume": 45791652,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 290.44,
+    "close": 313.67,
+    "high": 358.84,
+    "low": 288.55,
+    "volume": 62561341,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 319.37,
+    "close": 383.19,
+    "high": 394.64,
+    "low": 303.5,
+    "volume": 156194229,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 385.28,
+    "close": 231.96,
+    "high": 398.33,
+    "low": 226.22,
+    "volume": 249704183,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 232,
+    "close": 277.28,
+    "high": 285.73,
+    "low": 200.81,
+    "volume": 141435260,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 275.78,
+    "close": 280.47,
+    "high": 302.16,
+    "low": 242.25,
+    "volume": 86280254,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 282.26,
+    "close": 296.87,
+    "high": 323.94,
+    "low": 272.67,
+    "volume": 76585233,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 296.79,
+    "close": 345.97,
+    "high": 377.42,
+    "low": 295.08,
+    "volume": 73873401,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "CRWD",
+    "open": 344.9,
+    "close": 342.16,
+    "high": 389,
+    "low": 336.56,
+    "volume": 68850803,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

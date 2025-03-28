@@ -1,0 +1,492 @@
+[
+  {
+    "ticker": "DASH",
+    "open": 182,
+    "close": 142.75,
+    "high": 195.5,
+    "low": 135.38,
+    "volume": 97195043,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "DASH",
+    "open": 142.5,
+    "close": 193.27,
+    "high": 256.09,
+    "low": 137.17,
+    "volume": 59418624,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "DASH",
+    "open": 194.59,
+    "close": 169.49,
+    "high": 226.47,
+    "low": 155.02,
+    "volume": 46243317,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "DASH",
+    "open": 171.44,
+    "close": 131.13,
+    "high": 173.79,
+    "low": 121,
+    "volume": 95992366,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "DASH",
+    "open": 136.88,
+    "close": 143.17,
+    "high": 167.23,
+    "low": 122.06,
+    "volume": 51471337,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "DASH",
+    "open": 142.85,
+    "close": 150.28,
+    "high": 155.5,
+    "low": 110.13,
+    "volume": 93462426,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "DASH",
+    "open": 152.2,
+    "close": 178.33,
+    "high": 184.28,
+    "low": 134.12,
+    "volume": 93185972,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "DASH",
+    "open": 179.36,
+    "close": 174.29,
+    "high": 188.62,
+    "low": 163.15,
+    "volume": 37005685,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "DASH",
+    "open": 175.35,
+    "close": 191.4,
+    "high": 196.65,
+    "low": 169.8,
+    "volume": 66809582,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "DASH",
+    "open": 192,
+    "close": 205.98,
+    "high": 227.4,
+    "low": 189.26,
+    "volume": 73580685,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "DASH",
+    "open": 208.46,
+    "close": 194.8,
+    "high": 220.61,
+    "low": 194.13,
+    "volume": 33196752,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "DASH",
+    "open": 195.01,
+    "close": 178.77,
+    "high": 257.25,
+    "low": 174.41,
+    "volume": 93616484,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "DASH",
+    "open": 183,
+    "close": 148.9,
+    "high": 185.28,
+    "low": 139,
+    "volume": 70340694,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "DASH",
+    "open": 149.61,
+    "close": 113.49,
+    "high": 152.5,
+    "low": 92.78,
+    "volume": 97494666,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "DASH",
+    "open": 112.4,
+    "close": 104.95,
+    "high": 117.24,
+    "low": 85.18,
+    "volume": 151697475,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "DASH",
+    "open": 103.99,
+    "close": 117.19,
+    "high": 129.24,
+    "low": 74.32,
+    "volume": 122790675,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "DASH",
+    "open": 118.8,
+    "close": 81.43,
+    "high": 130.2,
+    "low": 81.27,
+    "volume": 83579312,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "DASH",
+    "open": 81.62,
+    "close": 76.91,
+    "high": 85.37,
+    "low": 57.6,
+    "volume": 167901464,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "DASH",
+    "open": 77.2,
+    "close": 64.17,
+    "high": 77.44,
+    "low": 56.67,
+    "volume": 120844796,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "DASH",
+    "open": 65.05,
+    "close": 69.75,
+    "high": 79.37,
+    "low": 65.05,
+    "volume": 99089514,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "DASH",
+    "open": 68.4,
+    "close": 59.9,
+    "high": 87,
+    "low": 59.48,
+    "volume": 146114448,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "DASH",
+    "open": 58.8,
+    "close": 49.45,
+    "high": 68.16,
+    "low": 48.94,
+    "volume": 110134381,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "DASH",
+    "open": 49.73,
+    "close": 43.53,
+    "high": 54.73,
+    "low": 41.37,
+    "volume": 115442172,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "DASH",
+    "open": 46.5,
+    "close": 58.25,
+    "high": 65.49,
+    "low": 44.5,
+    "volume": 141155448,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "DASH",
+    "open": 57.92,
+    "close": 48.82,
+    "high": 62.32,
+    "low": 46.32,
+    "volume": 86488507,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "DASH",
+    "open": 49.98,
+    "close": 57.92,
+    "high": 62.05,
+    "low": 45.93,
+    "volume": 80630146,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "DASH",
+    "open": 57.45,
+    "close": 54.66,
+    "high": 70.13,
+    "low": 53.49,
+    "volume": 134285013,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "DASH",
+    "open": 54.59,
+    "close": 63.56,
+    "high": 64.47,
+    "low": 51.5,
+    "volume": 90542728,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "DASH",
+    "open": 62.5,
+    "close": 61.19,
+    "high": 65.14,
+    "low": 56.59,
+    "volume": 56674401,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "DASH",
+    "open": 60.93,
+    "close": 65.29,
+    "high": 69.34,
+    "low": 60.36,
+    "volume": 90596442,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "DASH",
+    "open": 64.83,
+    "close": 76.42,
+    "high": 77.8,
+    "low": 64.59,
+    "volume": 67692421,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "DASH",
+    "open": 76.74,
+    "close": 90.79,
+    "high": 92.61,
+    "low": 75.06,
+    "volume": 53842816,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "DASH",
+    "open": 89.5,
+    "close": 84.13,
+    "high": 90,
+    "low": 75.06,
+    "volume": 85326236,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "DASH",
+    "open": 85,
+    "close": 79.47,
+    "high": 85.38,
+    "low": 74.13,
+    "volume": 58424872,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "DASH",
+    "open": 78.58,
+    "close": 74.95,
+    "high": 83.84,
+    "low": 69.9,
+    "volume": 71536639,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "DASH",
+    "open": 75.42,
+    "close": 93.98,
+    "high": 96.99,
+    "low": 74.22,
+    "volume": 108221220,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "DASH",
+    "open": 93.05,
+    "close": 98.89,
+    "high": 103.98,
+    "low": 93.05,
+    "volume": 106805191,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "DASH",
+    "open": 97.8,
+    "close": 104.2,
+    "high": 110.49,
+    "low": 93.33,
+    "volume": 67941820,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "DASH",
+    "open": 104.89,
+    "close": 124.57,
+    "high": 126.65,
+    "low": 104.76,
+    "volume": 97211414,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "DASH",
+    "open": 124.5,
+    "close": 137.72,
+    "high": 143.34,
+    "low": 124.5,
+    "volume": 68468874,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "DASH",
+    "open": 137.91,
+    "close": 129.26,
+    "high": 142.76,
+    "low": 124.32,
+    "volume": 66071717,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "DASH",
+    "open": 128.15,
+    "close": 110.11,
+    "high": 132.53,
+    "low": 106.22,
+    "volume": 114151267,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "DASH",
+    "open": 110.25,
+    "close": 108.78,
+    "high": 115.69,
+    "low": 108.17,
+    "volume": 72265362,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "DASH",
+    "open": 107.6,
+    "close": 110.72,
+    "high": 112.17,
+    "low": 99.32,
+    "volume": 88793664,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "DASH",
+    "open": 108.62,
+    "close": 128.71,
+    "high": 131.21,
+    "low": 105.91,
+    "volume": 97771155,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "DASH",
+    "open": 128.04,
+    "close": 142.73,
+    "high": 146.36,
+    "low": 122.32,
+    "volume": 60638976,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "DASH",
+    "open": 143.36,
+    "close": 156.7,
+    "high": 165.07,
+    "low": 140.53,
+    "volume": 69686634,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "DASH",
+    "open": 155.91,
+    "close": 180.48,
+    "high": 181.3,
+    "low": 152.26,
+    "volume": 62033864,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "DASH",
+    "open": 179.99,
+    "close": 167.75,
+    "high": 181.78,
+    "low": 164.2,
+    "volume": 49997486,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

@@ -1,0 +1,2372 @@
+[
+  {
+    "ticker": "DXCM",
+    "open": 3.02,
+    "close": 2.5,
+    "high": 3.05,
+    "low": 2.4,
+    "volume": 10665176,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.47,
+    "close": 3.5,
+    "high": 3.69,
+    "low": 2.47,
+    "volume": 9434820,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.56,
+    "close": 3.1,
+    "high": 4.0,
+    "low": 2.88,
+    "volume": 4863584,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.1,
+    "close": 2.75,
+    "high": 3.14,
+    "low": 2.6,
+    "volume": 3158944,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.8,
+    "close": 3.11,
+    "high": 3.35,
+    "low": 2.46,
+    "volume": 4293008,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.12,
+    "close": 2.9,
+    "high": 3.2,
+    "low": 2.88,
+    "volume": 4037228,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.89,
+    "close": 3.25,
+    "high": 3.29,
+    "low": 2.5,
+    "volume": 16496752,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.29,
+    "close": 3.5,
+    "high": 3.91,
+    "low": 3.12,
+    "volume": 10440932,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.56,
+    "close": 3.73,
+    "high": 4.04,
+    "low": 3.45,
+    "volume": 4211736,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.74,
+    "close": 4.75,
+    "high": 4.86,
+    "low": 3.58,
+    "volume": 8483844,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 4.75,
+    "close": 4.36,
+    "high": 4.75,
+    "low": 4.07,
+    "volume": 10352936,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 4.36,
+    "close": 5.07,
+    "high": 5.92,
+    "low": 4.3,
+    "volume": 49386112,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 5.1,
+    "close": 6.29,
+    "high": 6.67,
+    "low": 4.75,
+    "volume": 39315408,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 6.29,
+    "close": 4.87,
+    "high": 6.5,
+    "low": 4.69,
+    "volume": 43280872,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 4.87,
+    "close": 3.4,
+    "high": 5.41,
+    "low": 2.92,
+    "volume": 66051240,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.37,
+    "close": 2.97,
+    "high": 3.49,
+    "low": 2.59,
+    "volume": 28588344,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.96,
+    "close": 3.21,
+    "high": 3.6,
+    "low": 2.71,
+    "volume": 30114004,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.21,
+    "close": 2.78,
+    "high": 3.21,
+    "low": 2.51,
+    "volume": 26630432,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.77,
+    "close": 2.2,
+    "high": 3.04,
+    "low": 2.12,
+    "volume": 52239844,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.21,
+    "close": 2.81,
+    "high": 2.99,
+    "low": 2.09,
+    "volume": 32446448,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.81,
+    "close": 2.46,
+    "high": 3.04,
+    "low": 2.43,
+    "volume": 22992000,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.49,
+    "close": 2.23,
+    "high": 2.53,
+    "low": 2.01,
+    "volume": 43833388,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.25,
+    "close": 2.02,
+    "high": 2.35,
+    "low": 2,
+    "volume": 20893508,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2,
+    "close": 1.97,
+    "high": 2.08,
+    "low": 1.54,
+    "volume": 30503920,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.97,
+    "close": 1.99,
+    "high": 2.29,
+    "low": 1.89,
+    "volume": 19674476,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.99,
+    "close": 1.64,
+    "high": 1.99,
+    "low": 1.59,
+    "volume": 19903444,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.77,
+    "close": 2.05,
+    "high": 2.09,
+    "low": 1.6,
+    "volume": 32441348,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.06,
+    "close": 2.02,
+    "high": 2.44,
+    "low": 1.95,
+    "volume": 27205556,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.99,
+    "close": 2.3,
+    "high": 2.51,
+    "low": 1.76,
+    "volume": 39413200,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.28,
+    "close": 2.5,
+    "high": 2.5,
+    "low": 2.23,
+    "volume": 11522728,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.5,
+    "close": 2.33,
+    "high": 2.73,
+    "low": 2.03,
+    "volume": 20781032,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.29,
+    "close": 2.16,
+    "high": 2.5,
+    "low": 2.04,
+    "volume": 9625868,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.16,
+    "close": 2.21,
+    "high": 2.41,
+    "low": 1.89,
+    "volume": 8904596,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.26,
+    "close": 2.1,
+    "high": 2.5,
+    "low": 1.97,
+    "volume": 18990172,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.07,
+    "close": 1.84,
+    "high": 2.25,
+    "low": 1.81,
+    "volume": 10638544,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.83,
+    "close": 1.03,
+    "high": 1.93,
+    "low": 0.92,
+    "volume": 35725584,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.02,
+    "close": 1.93,
+    "high": 2.05,
+    "low": 0.98,
+    "volume": 30991120,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.93,
+    "close": 1.97,
+    "high": 2.07,
+    "low": 1.58,
+    "volume": 15521856,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.98,
+    "close": 1.51,
+    "high": 2,
+    "low": 1.51,
+    "volume": 22646608,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.5,
+    "close": 1.68,
+    "high": 1.97,
+    "low": 1.33,
+    "volume": 13335896,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.68,
+    "close": 1.72,
+    "high": 1.88,
+    "low": 1.42,
+    "volume": 21305884,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.75,
+    "close": 1.55,
+    "high": 1.98,
+    "low": 1.49,
+    "volume": 22362040,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.54,
+    "close": 1.13,
+    "high": 1.62,
+    "low": 0.91,
+    "volume": 20683356,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.12,
+    "close": 0.5,
+    "high": 1.18,
+    "low": 0.34,
+    "volume": 20827984,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 0.57,
+    "close": 0.69,
+    "high": 0.96,
+    "low": 0.46,
+    "volume": 24409556,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 0.69,
+    "close": 0.81,
+    "high": 1.18,
+    "low": 0.66,
+    "volume": 13271168,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 0.81,
+    "close": 1.01,
+    "high": 1.1,
+    "low": 0.78,
+    "volume": 19530752,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.0,
+    "close": 1.03,
+    "high": 1.17,
+    "low": 0.8,
+    "volume": 24886752,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.02,
+    "close": 1.12,
+    "high": 1.22,
+    "low": 0.97,
+    "volume": 15763760,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.11,
+    "close": 1.39,
+    "high": 1.39,
+    "low": 0.88,
+    "volume": 22009260,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.38,
+    "close": 1.55,
+    "high": 1.76,
+    "low": 1.26,
+    "volume": 40494812,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.57,
+    "close": 1.61,
+    "high": 1.74,
+    "low": 1.31,
+    "volume": 28852156,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.62,
+    "close": 1.95,
+    "high": 2.24,
+    "low": 1.59,
+    "volume": 33243456,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.93,
+    "close": 1.98,
+    "high": 2.13,
+    "low": 1.88,
+    "volume": 20722100,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.98,
+    "close": 1.72,
+    "high": 2.06,
+    "low": 1.63,
+    "volume": 18256592,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.74,
+    "close": 1.81,
+    "high": 1.92,
+    "low": 1.65,
+    "volume": 14115392,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 1.82,
+    "close": 2.02,
+    "high": 2.06,
+    "low": 1.76,
+    "volume": 24250276,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.05,
+    "close": 2.27,
+    "high": 2.55,
+    "low": 2.05,
+    "volume": 44973104,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.3,
+    "close": 2.26,
+    "high": 2.46,
+    "low": 2.17,
+    "volume": 18658104,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.26,
+    "close": 2.44,
+    "high": 2.74,
+    "low": 2.25,
+    "volume": 27757196,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.44,
+    "close": 2.74,
+    "high": 2.85,
+    "low": 2.34,
+    "volume": 24948320,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.74,
+    "close": 2.63,
+    "high": 2.85,
+    "low": 2.29,
+    "volume": 26998812,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.58,
+    "close": 2.89,
+    "high": 3.0,
+    "low": 2.23,
+    "volume": 37584824,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.89,
+    "close": 2.79,
+    "high": 3.02,
+    "low": 2.67,
+    "volume": 31438584,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.83,
+    "close": 3.06,
+    "high": 3.33,
+    "low": 2.82,
+    "volume": 34215408,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.12,
+    "close": 3.31,
+    "high": 3.54,
+    "low": 3.12,
+    "volume": 28789728,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.34,
+    "close": 3.45,
+    "high": 3.62,
+    "low": 3.25,
+    "volume": 23218112,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.45,
+    "close": 2.82,
+    "high": 3.59,
+    "low": 2.48,
+    "volume": 70791708,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.88,
+    "close": 3.41,
+    "high": 3.51,
+    "low": 2.88,
+    "volume": 25513712,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.44,
+    "close": 3.53,
+    "high": 4.01,
+    "low": 3.29,
+    "volume": 41115604,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.54,
+    "close": 3.66,
+    "high": 3.76,
+    "low": 3.44,
+    "volume": 19780964,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.68,
+    "close": 3.88,
+    "high": 3.97,
+    "low": 3.25,
+    "volume": 35467484,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.91,
+    "close": 4.16,
+    "high": 4.21,
+    "low": 3.84,
+    "volume": 28171248,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 4.17,
+    "close": 3.94,
+    "high": 4.23,
+    "low": 3.62,
+    "volume": 44055636,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.93,
+    "close": 3.62,
+    "high": 3.94,
+    "low": 3.23,
+    "volume": 45346328,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.63,
+    "close": 3.54,
+    "high": 3.94,
+    "low": 3.48,
+    "volume": 40928324,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.6,
+    "close": 3.01,
+    "high": 3.63,
+    "low": 2.46,
+    "volume": 63255036,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.99,
+    "close": 3,
+    "high": 3.42,
+    "low": 2.75,
+    "volume": 40518524,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.96,
+    "close": 2.45,
+    "high": 3.11,
+    "low": 2.28,
+    "volume": 54680744,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.35,
+    "close": 2.0,
+    "high": 2.52,
+    "low": 1.69,
+    "volume": 81700632,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.0,
+    "close": 2.33,
+    "high": 2.39,
+    "low": 1.98,
+    "volume": 43112224,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.38,
+    "close": 2.74,
+    "high": 2.81,
+    "low": 2.16,
+    "volume": 47287076,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.77,
+    "close": 2.7,
+    "high": 2.97,
+    "low": 2.56,
+    "volume": 34226576,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.71,
+    "close": 2.61,
+    "high": 2.8,
+    "low": 2.52,
+    "volume": 29206112,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.59,
+    "close": 2.44,
+    "high": 2.71,
+    "low": 2.34,
+    "volume": 38064148,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.44,
+    "close": 2.69,
+    "high": 2.84,
+    "low": 2.41,
+    "volume": 42846664,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.61,
+    "close": 3.24,
+    "high": 3.3,
+    "low": 2.58,
+    "volume": 46893592,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.24,
+    "close": 2.75,
+    "high": 3.3,
+    "low": 2.75,
+    "volume": 42043260,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 2.77,
+    "close": 3.33,
+    "high": 3.33,
+    "low": 2.66,
+    "volume": 35073228,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.34,
+    "close": 3.76,
+    "high": 3.77,
+    "low": 3.26,
+    "volume": 36101160,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.79,
+    "close": 3.27,
+    "high": 3.87,
+    "low": 3.22,
+    "volume": 22878908,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.29,
+    "close": 3.27,
+    "high": 3.38,
+    "low": 3.01,
+    "volume": 46220660,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.25,
+    "close": 3.4,
+    "high": 3.62,
+    "low": 3.25,
+    "volume": 37494416,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.47,
+    "close": 3.81,
+    "high": 3.89,
+    "low": 3.42,
+    "volume": 30131748,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.81,
+    "close": 3.73,
+    "high": 3.99,
+    "low": 3.51,
+    "volume": 28580000,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 3.69,
+    "close": 4.18,
+    "high": 4.29,
+    "low": 3.66,
+    "volume": 30548740,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 4.19,
+    "close": 4.1,
+    "high": 4.41,
+    "low": 3.76,
+    "volume": 31505600,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 4.12,
+    "close": 5.21,
+    "high": 5.42,
+    "low": 3.98,
+    "volume": 63898604,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 5.21,
+    "close": 5.61,
+    "high": 5.74,
+    "low": 4.98,
+    "volume": 49367656,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 5.66,
+    "close": 5.45,
+    "high": 6.09,
+    "low": 5.44,
+    "volume": 45329948,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 5.5,
+    "close": 6.76,
+    "high": 7.04,
+    "low": 5.46,
+    "volume": 54910224,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 6.78,
+    "close": 7.05,
+    "high": 7.31,
+    "low": 6.37,
+    "volume": 50669932,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 7.05,
+    "close": 7.18,
+    "high": 7.92,
+    "low": 6.67,
+    "volume": 41984488,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 7.16,
+    "close": 8.27,
+    "high": 8.6,
+    "low": 6.78,
+    "volume": 56835748,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 8.22,
+    "close": 8.85,
+    "high": 8.99,
+    "low": 8.22,
+    "volume": 48974072,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 8.81,
+    "close": 10.12,
+    "high": 10.13,
+    "low": 8.53,
+    "volume": 57833988,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 10.12,
+    "close": 11.28,
+    "high": 11.94,
+    "low": 9.32,
+    "volume": 76700552,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 11.19,
+    "close": 10.34,
+    "high": 12.46,
+    "low": 9.92,
+    "volume": 81043436,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 10.3,
+    "close": 8.11,
+    "high": 10.62,
+    "low": 7.93,
+    "volume": 83394744,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 8.06,
+    "close": 8.44,
+    "high": 8.74,
+    "low": 7.02,
+    "volume": 89853480,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 8.41,
+    "close": 9.91,
+    "high": 10.4,
+    "low": 8.04,
+    "volume": 62642988,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 9.98,
+    "close": 9.42,
+    "high": 10.23,
+    "low": 8.67,
+    "volume": 57004244,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 9.43,
+    "close": 11.05,
+    "high": 11.59,
+    "low": 9.13,
+    "volume": 62604460,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 11.13,
+    "close": 10.0,
+    "high": 11.23,
+    "low": 9.97,
+    "volume": 49120248,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 9.95,
+    "close": 11.24,
+    "high": 11.56,
+    "low": 9.69,
+    "volume": 53821680,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 11.29,
+    "close": 12.87,
+    "high": 13.62,
+    "low": 10.86,
+    "volume": 57323428,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 12.72,
+    "close": 13.76,
+    "high": 14.58,
+    "low": 12.63,
+    "volume": 51621924,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 13.9,
+    "close": 14.95,
+    "high": 15.89,
+    "low": 13.32,
+    "volume": 55074564,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 15,
+    "close": 15.19,
+    "high": 16.16,
+    "low": 14.97,
+    "volume": 43646520,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 15.15,
+    "close": 15.59,
+    "high": 16,
+    "low": 14.36,
+    "volume": 65891620,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 15.47,
+    "close": 16.89,
+    "high": 17.81,
+    "low": 15.2,
+    "volume": 64648448,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 17.04,
+    "close": 17.93,
+    "high": 18.18,
+    "low": 16.35,
+    "volume": 45971264,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 17.9,
+    "close": 20.0,
+    "high": 20.14,
+    "low": 17.5,
+    "volume": 101748004,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 20.14,
+    "close": 21.16,
+    "high": 21.55,
+    "low": 19.5,
+    "volume": 67615976,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 21.25,
+    "close": 23.54,
+    "high": 24.71,
+    "low": 19.11,
+    "volume": 101254972,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 22.75,
+    "close": 21.46,
+    "high": 25.82,
+    "low": 20.52,
+    "volume": 87069600,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 21.4,
+    "close": 20.83,
+    "high": 22.18,
+    "low": 17.57,
+    "volume": 113628188,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 21.15,
+    "close": 21.25,
+    "high": 22.36,
+    "low": 20.16,
+    "volume": 53388344,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 21.11,
+    "close": 20.48,
+    "high": 21.98,
+    "low": 19.62,
+    "volume": 47257140,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 20.07,
+    "close": 17.82,
+    "high": 20.97,
+    "low": 16.58,
+    "volume": 74058928,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 17.75,
+    "close": 16.27,
+    "high": 18.21,
+    "low": 11.98,
+    "volume": 103255448,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 16.47,
+    "close": 16.98,
+    "high": 17.28,
+    "low": 14.61,
+    "volume": 70184788,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 16.86,
+    "close": 16.09,
+    "high": 18.03,
+    "low": 15.66,
+    "volume": 62769556,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 16.03,
+    "close": 16.12,
+    "high": 16.47,
+    "low": 15.02,
+    "volume": 69770092,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 15.88,
+    "close": 19.83,
+    "high": 20.31,
+    "low": 15.67,
+    "volume": 97714360,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 19.91,
+    "close": 23.06,
+    "high": 23.1,
+    "low": 19.05,
+    "volume": 71388284,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 23.17,
+    "close": 22.77,
+    "high": 23.62,
+    "low": 21.88,
+    "volume": 65833280,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 22.82,
+    "close": 21.91,
+    "high": 24.09,
+    "low": 21.18,
+    "volume": 79156988,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 21.73,
+    "close": 19.56,
+    "high": 21.95,
+    "low": 18.8,
+    "volume": 65800716,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 19.49,
+    "close": 16.32,
+    "high": 19.86,
+    "low": 14.87,
+    "volume": 151561236,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 16.25,
+    "close": 14.93,
+    "high": 16.95,
+    "low": 14.84,
+    "volume": 101710500,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 14.88,
+    "close": 19.79,
+    "high": 22.2,
+    "low": 14.42,
+    "volume": 148615640,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 19.95,
+    "close": 19.54,
+    "high": 21.21,
+    "low": 18.88,
+    "volume": 65069356,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 19.6,
+    "close": 21.18,
+    "high": 21.58,
+    "low": 18.78,
+    "volume": 81461116,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 21.19,
+    "close": 19.49,
+    "high": 21.33,
+    "low": 18.16,
+    "volume": 52354080,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 19.48,
+    "close": 16.71,
+    "high": 20.48,
+    "low": 16.54,
+    "volume": 121319256,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 16.59,
+    "close": 18.29,
+    "high": 19.83,
+    "low": 16.58,
+    "volume": 104198096,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 18.29,
+    "close": 16.65,
+    "high": 18.55,
+    "low": 16.5,
+    "volume": 90368768,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 16.75,
+    "close": 18.65,
+    "high": 19.73,
+    "low": 16.7,
+    "volume": 111791456,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 18.68,
+    "close": 12.23,
+    "high": 19.1,
+    "low": 10.65,
+    "volume": 234743864,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 12.33,
+    "close": 11.24,
+    "high": 12.58,
+    "low": 10.94,
+    "volume": 180339880,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 11.28,
+    "close": 14.61,
+    "high": 15.22,
+    "low": 11.12,
+    "volume": 155359780,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 14.55,
+    "close": 14.35,
+    "high": 15.59,
+    "low": 13.77,
+    "volume": 95854640,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 14.4,
+    "close": 14.55,
+    "high": 14.97,
+    "low": 12.76,
+    "volume": 136301692,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 14.49,
+    "close": 14.04,
+    "high": 14.67,
+    "low": 13.23,
+    "volume": 69802088,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 14.03,
+    "close": 18.54,
+    "high": 18.82,
+    "low": 13.32,
+    "volume": 108657636,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 18.55,
+    "close": 18.3,
+    "high": 18.89,
+    "low": 17.38,
+    "volume": 90241676,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 18.16,
+    "close": 22.0,
+    "high": 22.35,
+    "low": 18.15,
+    "volume": 96905372,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 22.02,
+    "close": 23.75,
+    "high": 25.52,
+    "low": 21.92,
+    "volume": 86961176,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 24.17,
+    "close": 23.78,
+    "high": 26.36,
+    "low": 23.08,
+    "volume": 68994660,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 23.53,
+    "close": 36.09,
+    "high": 36.49,
+    "low": 23.44,
+    "volume": 116910684,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 36.02,
+    "close": 35.76,
+    "high": 37.14,
+    "low": 33.8,
+    "volume": 75230624,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 35.23,
+    "close": 33.19,
+    "high": 35.43,
+    "low": 29.0,
+    "volume": 116960444,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 33.39,
+    "close": 32.4,
+    "high": 38.03,
+    "low": 28.88,
+    "volume": 178107048,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 33.41,
+    "close": 29.95,
+    "high": 34.65,
+    "low": 26.26,
+    "volume": 99270576,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 29.25,
+    "close": 35.26,
+    "high": 38.17,
+    "low": 27.58,
+    "volume": 110825928,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 35.17,
+    "close": 34.83,
+    "high": 39.04,
+    "low": 33.8,
+    "volume": 96453428,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 35.13,
+    "close": 29.77,
+    "high": 38.72,
+    "low": 28.16,
+    "volume": 138081176,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 29.99,
+    "close": 30.27,
+    "high": 31.43,
+    "low": 26.86,
+    "volume": 98357628,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 30.63,
+    "close": 30.32,
+    "high": 31.44,
+    "low": 28.41,
+    "volume": 94247152,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 30.27,
+    "close": 37.46,
+    "high": 39.38,
+    "low": 29.61,
+    "volume": 113874520,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 37.87,
+    "close": 39.22,
+    "high": 40,
+    "low": 35.33,
+    "volume": 66954088,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 39.25,
+    "close": 42.9,
+    "high": 44.61,
+    "low": 34.88,
+    "volume": 90403760,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 42.5,
+    "close": 37.31,
+    "high": 43.24,
+    "low": 34.57,
+    "volume": 65639852,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 37.4,
+    "close": 38.56,
+    "high": 40.53,
+    "low": 36.31,
+    "volume": 57982300,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 38.9,
+    "close": 56.83,
+    "high": 57.42,
+    "low": 37.6,
+    "volume": 114860148,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 54.54,
+    "close": 54.69,
+    "high": 58,
+    "low": 49.88,
+    "volume": 73269504,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 54.64,
+    "close": 60.19,
+    "high": 61.84,
+    "low": 53.42,
+    "volume": 65509476,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 60.26,
+    "close": 69,
+    "high": 76.68,
+    "low": 58.75,
+    "volume": 90950356,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 69.53,
+    "close": 67.32,
+    "high": 72.96,
+    "low": 45.52,
+    "volume": 130219552,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 63.88,
+    "close": 83.8,
+    "high": 87.74,
+    "low": 62.5,
+    "volume": 124231072,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 82.75,
+    "close": 94.58,
+    "high": 107.15,
+    "low": 82.1,
+    "volume": 225911460,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 95.62,
+    "close": 101.35,
+    "high": 103.87,
+    "low": 84.0,
+    "volume": 115121504,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 102.24,
+    "close": 108.89,
+    "high": 111.62,
+    "low": 95.28,
+    "volume": 85549728,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 110.16,
+    "close": 106.35,
+    "high": 114.06,
+    "low": 100.79,
+    "volume": 54431892,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 105.75,
+    "close": 103.06,
+    "high": 112.5,
+    "low": 93.91,
+    "volume": 70322548,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 104.27,
+    "close": 79.89,
+    "high": 105,
+    "low": 79.38,
+    "volume": 109503940,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 82.14,
+    "close": 79.92,
+    "high": 91.56,
+    "low": 76.41,
+    "volume": 90853528,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 80.34,
+    "close": 92.43,
+    "high": 92.66,
+    "low": 79.79,
+    "volume": 89575272,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 91.52,
+    "close": 93.71,
+    "high": 99.25,
+    "low": 86.9,
+    "volume": 75899164,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 94.09,
+    "close": 99.44,
+    "high": 105.85,
+    "low": 93.25,
+    "volume": 60149216,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 100.1,
+    "close": 89.85,
+    "high": 100.5,
+    "low": 84.28,
+    "volume": 80015856,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 90.6,
+    "close": 96.53,
+    "high": 107.23,
+    "low": 90.25,
+    "volume": 55799520,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 96.53,
+    "close": 92.35,
+    "high": 96.64,
+    "low": 79.61,
+    "volume": 71493864,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 92.8,
+    "close": 106.75,
+    "high": 109.91,
+    "low": 90.39,
+    "volume": 75390536,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 106.25,
+    "close": 128.88,
+    "high": 131.08,
+    "low": 105.19,
+    "volume": 54382240,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 129.3,
+    "close": 132.35,
+    "high": 132.61,
+    "low": 121.75,
+    "volume": 50119148,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 132.97,
+    "close": 136.72,
+    "high": 144.75,
+    "low": 130.73,
+    "volume": 45880264,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 137.9,
+    "close": 155.8,
+    "high": 156.99,
+    "low": 130.25,
+    "volume": 41300072,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 156.82,
+    "close": 140.65,
+    "high": 164.86,
+    "low": 140.16,
+    "volume": 56183876,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 141.85,
+    "close": 134.24,
+    "high": 144.96,
+    "low": 127.62,
+    "volume": 72890388,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 132.95,
+    "close": 107.62,
+    "high": 133.2,
+    "low": 95.5,
+    "volume": 80380508,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 108.53,
+    "close": 103.48,
+    "high": 113.81,
+    "low": 91.43,
+    "volume": 63810812,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 103.75,
+    "close": 127.9,
+    "high": 130.61,
+    "low": 97.09,
+    "volume": 76081132,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 130.62,
+    "close": 102.14,
+    "high": 134.76,
+    "low": 99.57,
+    "volume": 53134724,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 102.24,
+    "close": 74.48,
+    "high": 103.45,
+    "low": 66.89,
+    "volume": 101974692,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 74.78,
+    "close": 74.53,
+    "high": 78.72,
+    "low": 67.11,
+    "volume": 71559123,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 74.26,
+    "close": 82.08,
+    "high": 87.28,
+    "low": 73.93,
+    "volume": 51951134,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 82.61,
+    "close": 82.21,
+    "high": 94.6,
+    "low": 81.76,
+    "volume": 61631971,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 81.69,
+    "close": 80.54,
+    "high": 94.3,
+    "low": 78.94,
+    "volume": 49074272,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 81.47,
+    "close": 120.78,
+    "high": 122.02,
+    "low": 81.06,
+    "volume": 73576930,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 121.58,
+    "close": 116.28,
+    "high": 123.36,
+    "low": 110.13,
+    "volume": 55336823,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 116.39,
+    "close": 113.24,
+    "high": 125.55,
+    "low": 108.68,
+    "volume": 52273348,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 114.3,
+    "close": 107.09,
+    "high": 117.54,
+    "low": 102.5,
+    "volume": 50519323,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 107.16,
+    "close": 111.01,
+    "high": 121.11,
+    "low": 104.2,
+    "volume": 51808357,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 110.51,
+    "close": 116.18,
+    "high": 123.14,
+    "low": 106.16,
+    "volume": 52157074,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 116.03,
+    "close": 121.34,
+    "high": 126.44,
+    "low": 110.9,
+    "volume": 38982838,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 121.34,
+    "close": 117.26,
+    "high": 123.43,
+    "low": 112.27,
+    "volume": 56231028,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 117.48,
+    "close": 128.51,
+    "high": 134.14,
+    "low": 116.31,
+    "volume": 58640421,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 127.23,
+    "close": 124.56,
+    "high": 139.55,
+    "low": 124.03,
+    "volume": 56813205,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 124.45,
+    "close": 100.98,
+    "high": 125.95,
+    "low": 98.02,
+    "volume": 90470682,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 102.32,
+    "close": 93.3,
+    "high": 108.28,
+    "low": 85.31,
+    "volume": 95263554,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 92.86,
+    "close": 88.83,
+    "high": 96.18,
+    "low": 74.75,
+    "volume": 135822580,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 88.26,
+    "close": 115.52,
+    "high": 117.44,
+    "low": 87.81,
+    "volume": 91909853,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 114.24,
+    "close": 124.09,
+    "high": 126.37,
+    "low": 113.01,
+    "volume": 54863988,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 123.15,
+    "close": 121.35,
+    "high": 132.03,
+    "low": 119.55,
+    "volume": 54556178,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 122.15,
+    "close": 115.07,
+    "high": 127.37,
+    "low": 113.05,
+    "volume": 67528534,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 114.37,
+    "close": 138.7,
+    "high": 142,
+    "low": 113.69,
+    "volume": 67967110,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 138.79,
+    "close": 127.39,
+    "high": 141.99,
+    "low": 123.08,
+    "volume": 62322855,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 126.21,
+    "close": 118.77,
+    "high": 132.26,
+    "low": 116.26,
+    "volume": 49794200,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 118.16,
+    "close": 113.38,
+    "high": 120.48,
+    "low": 108.71,
+    "volume": 59167643,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 113,
+    "close": 67.82,
+    "high": 117.19,
+    "low": 62.34,
+    "volume": 144880799,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 68.15,
+    "close": 69.34,
+    "high": 77.77,
+    "low": 68.11,
+    "volume": 119425232,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 68.91,
+    "close": 67.04,
+    "high": 73.28,
+    "low": 66.32,
+    "volume": 79070183,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 67.39,
+    "close": 70.48,
+    "high": 76.06,
+    "low": 64.76,
+    "volume": 106691595,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 70.1,
+    "close": 77.99,
+    "high": 79.38,
+    "low": 67.69,
+    "volume": 77185289,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "DXCM",
+    "open": 78.19,
+    "close": 77.77,
+    "high": 82.26,
+    "low": 74.5,
+    "volume": 62661649,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "NFLX",
+    "open": 2.52,
+    "close": 2.4,
+    "high": 2.87,
+    "low": 2.17,
+    "volume": 245275940,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 2.39,
+    "close": 4.09,
+    "high": 4.36,
+    "low": 2.39,
+    "volume": 721252798,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 4.1,
+    "close": 3.5,
+    "high": 4.33,
+    "low": 3.16,
+    "volume": 608382950,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.53,
+    "close": 3.91,
+    "high": 4.23,
+    "low": 3.08,
+    "volume": 479850658,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 4.11,
+    "close": 5.24,
+    "high": 5.68,
+    "low": 3.84,
+    "volume": 936505024,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 5.3,
+    "close": 4.91,
+    "high": 5.64,
+    "low": 4.32,
+    "volume": 726878572,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 4.91,
+    "close": 4.87,
+    "high": 5.07,
+    "low": 3.95,
+    "volume": 417460197,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 5.16,
+    "close": 3.62,
+    "high": 5.52,
+    "low": 3.6,
+    "volume": 481402215,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.61,
+    "close": 4.7,
+    "high": 4.75,
+    "low": 3.61,
+    "volume": 285469128,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 4.61,
+    "close": 5.14,
+    "high": 5.22,
+    "low": 4.05,
+    "volume": 261872688,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 5.1,
+    "close": 2.93,
+    "high": 5.15,
+    "low": 2.64,
+    "volume": 575674974,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 2.83,
+    "close": 1.99,
+    "high": 2.91,
+    "low": 1.98,
+    "volume": 288992193,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 2.0,
+    "close": 2.2,
+    "high": 2.59,
+    "low": 1.98,
+    "volume": 336649642,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 2.49,
+    "close": 1.35,
+    "high": 2.8,
+    "low": 1.32,
+    "volume": 980273630,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 1.35,
+    "close": 1.63,
+    "high": 1.75,
+    "low": 1.34,
+    "volume": 407501486,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 1.62,
+    "close": 1.76,
+    "high": 1.97,
+    "low": 1.58,
+    "volume": 369632900,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 1.78,
+    "close": 1.64,
+    "high": 1.87,
+    "low": 1.5,
+    "volume": 278307498,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 1.63,
+    "close": 1.53,
+    "high": 1.74,
+    "low": 1.43,
+    "volume": 141035860,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 1.53,
+    "close": 1.55,
+    "high": 1.58,
+    "low": 1.27,
+    "volume": 168870457,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 1.56,
+    "close": 1.65,
+    "high": 1.86,
+    "low": 1.5,
+    "volume": 180129257,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 1.65,
+    "close": 2.04,
+    "high": 2.75,
+    "low": 1.62,
+    "volume": 410558372,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 2.03,
+    "close": 2.34,
+    "high": 2.55,
+    "low": 2.03,
+    "volume": 181267142,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 2.34,
+    "close": 2.65,
+    "high": 2.97,
+    "low": 2.29,
+    "volume": 222074391,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 2.67,
+    "close": 3.08,
+    "high": 3.25,
+    "low": 2.61,
+    "volume": 236126016,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.08,
+    "close": 3.71,
+    "high": 3.81,
+    "low": 3.04,
+    "volume": 190106910,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.71,
+    "close": 3.77,
+    "high": 4.21,
+    "low": 3.4,
+    "volume": 258887090,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.72,
+    "close": 3.93,
+    "high": 4.32,
+    "low": 3.63,
+    "volume": 198906974,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.96,
+    "close": 3.87,
+    "high": 4.01,
+    "low": 3.22,
+    "volume": 208037522,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.87,
+    "close": 3.94,
+    "high": 4.27,
+    "low": 3.3,
+    "volume": 312067350,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.91,
+    "close": 3.83,
+    "high": 3.93,
+    "low": 3.43,
+    "volume": 168448336,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.83,
+    "close": 4.14,
+    "high": 4.2,
+    "low": 3.52,
+    "volume": 138145343,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 4.14,
+    "close": 4.23,
+    "high": 4.73,
+    "low": 3.84,
+    "volume": 218098384,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 4.26,
+    "close": 3.96,
+    "high": 4.6,
+    "low": 3.83,
+    "volume": 153139595,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.95,
+    "close": 3.89,
+    "high": 4.11,
+    "low": 3.69,
+    "volume": 176597778,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.91,
+    "close": 2.96,
+    "high": 3.94,
+    "low": 2.66,
+    "volume": 309652007,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 2.96,
+    "close": 2.86,
+    "high": 3.11,
+    "low": 2.59,
+    "volume": 208029486,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 2.86,
+    "close": 3.25,
+    "high": 3.37,
+    "low": 2.84,
+    "volume": 158565197,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.26,
+    "close": 3.95,
+    "high": 4.06,
+    "low": 3.14,
+    "volume": 268839697,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.96,
+    "close": 4.18,
+    "high": 4.28,
+    "low": 3.74,
+    "volume": 143874192,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 4.2,
+    "close": 3.69,
+    "high": 4.29,
+    "low": 3.69,
+    "volume": 112982464,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.71,
+    "close": 3.26,
+    "high": 3.83,
+    "low": 3.04,
+    "volume": 391370581,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.27,
+    "close": 3.22,
+    "high": 3.41,
+    "low": 3.16,
+    "volume": 266752598,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.21,
+    "close": 3.31,
+    "high": 3.41,
+    "low": 2.9,
+    "volume": 198353001,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.33,
+    "close": 3.17,
+    "high": 3.57,
+    "low": 2.98,
+    "volume": 232844430,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.16,
+    "close": 3.13,
+    "high": 3.35,
+    "low": 3.03,
+    "volume": 162578752,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.12,
+    "close": 2.77,
+    "high": 3.71,
+    "low": 2.72,
+    "volume": 349591571,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 2.81,
+    "close": 2.46,
+    "high": 2.98,
+    "low": 2.23,
+    "volume": 311887023,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 2.46,
+    "close": 2.5,
+    "high": 2.64,
+    "low": 2.36,
+    "volume": 178147788,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 2.57,
+    "close": 2.96,
+    "high": 3.16,
+    "low": 2.44,
+    "volume": 162759912,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 2.96,
+    "close": 3.78,
+    "high": 3.8,
+    "low": 2.94,
+    "volume": 230973974,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.78,
+    "close": 3.3,
+    "high": 3.93,
+    "low": 3.04,
+    "volume": 180771381,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.43,
+    "close": 3.8,
+    "high": 4.16,
+    "low": 3.22,
+    "volume": 171875004,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.79,
+    "close": 3.59,
+    "high": 4.04,
+    "low": 2.91,
+    "volume": 365299928,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.54,
+    "close": 4.51,
+    "high": 4.9,
+    "low": 3.51,
+    "volume": 265347852,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 4.54,
+    "close": 4.95,
+    "high": 5.66,
+    "low": 4.31,
+    "volume": 254609313,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 5.07,
+    "close": 4.57,
+    "high": 5.84,
+    "low": 4.21,
+    "volume": 309638420,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 4.52,
+    "close": 4.34,
+    "high": 4.91,
+    "low": 4.22,
+    "volume": 230153462,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 4.33,
+    "close": 3.72,
+    "high": 4.86,
+    "low": 3.72,
+    "volume": 154665364,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.83,
+    "close": 4.41,
+    "high": 4.48,
+    "low": 3.77,
+    "volume": 281878142,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 4.36,
+    "close": 4.41,
+    "high": 4.65,
+    "low": 4.12,
+    "volume": 185108791,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 4.45,
+    "close": 4.41,
+    "high": 4.85,
+    "low": 3.92,
+    "volume": 192877405,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 4.33,
+    "close": 3.54,
+    "high": 4.43,
+    "low": 2.56,
+    "volume": 247457805,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.5,
+    "close": 3.28,
+    "high": 3.54,
+    "low": 2.6,
+    "volume": 143624355,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 3.17,
+    "close": 4.27,
+    "high": 4.34,
+    "low": 3.11,
+    "volume": 169221962,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 4.22,
+    "close": 5.16,
+    "high": 5.41,
+    "low": 4.11,
+    "volume": 260751169,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 5.08,
+    "close": 5.18,
+    "high": 5.55,
+    "low": 4.97,
+    "volume": 282866479,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 5.06,
+    "close": 6.13,
+    "high": 6.35,
+    "low": 4.86,
+    "volume": 333756892,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 6.11,
+    "close": 6.47,
+    "high": 7.18,
+    "low": 6.01,
+    "volume": 321937623,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 6.46,
+    "close": 5.63,
+    "high": 6.55,
+    "low": 5.18,
+    "volume": 261237872,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 5.71,
+    "close": 5.91,
+    "high": 6.12,
+    "low": 5.29,
+    "volume": 274939028,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 5.94,
+    "close": 6.28,
+    "high": 6.81,
+    "low": 5.42,
+    "volume": 263740001,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 6.34,
+    "close": 6.23,
+    "high": 6.67,
+    "low": 6.08,
+    "volume": 152154835,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 6.17,
+    "close": 6.6,
+    "high": 6.89,
+    "low": 5.61,
+    "volume": 188350078,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 6.54,
+    "close": 7.64,
+    "high": 8.21,
+    "low": 6.33,
+    "volume": 221152435,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 7.6,
+    "close": 8.38,
+    "high": 8.81,
+    "low": 7.51,
+    "volume": 166494216,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 8.22,
+    "close": 7.87,
+    "high": 8.54,
+    "low": 7.57,
+    "volume": 177162671,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 7.93,
+    "close": 8.89,
+    "high": 9.22,
+    "low": 6.93,
+    "volume": 324174984,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 8.83,
+    "close": 9.44,
+    "high": 9.61,
+    "low": 8.47,
+    "volume": 215010943,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 9.43,
+    "close": 10.53,
+    "high": 10.81,
+    "low": 9.37,
+    "volume": 190636453,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 10.52,
+    "close": 14.13,
+    "high": 15.67,
+    "low": 10.52,
+    "volume": 482244077,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 14.28,
+    "close": 15.88,
+    "high": 17.07,
+    "low": 12.86,
+    "volume": 533955310,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 15.61,
+    "close": 15.52,
+    "high": 18.28,
+    "low": 14.97,
+    "volume": 509673801,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 15.54,
+    "close": 14.65,
+    "high": 17.71,
+    "low": 13.62,
+    "volume": 541205063,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 14.86,
+    "close": 17.93,
+    "high": 20.13,
+    "low": 14.1,
+    "volume": 863554118,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 18.7,
+    "close": 23.17,
+    "high": 24.91,
+    "low": 18.44,
+    "volume": 853180811,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 22.94,
+    "close": 24.8,
+    "high": 26.39,
+    "low": 21.05,
+    "volume": 873748526,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 24.85,
+    "close": 29.41,
+    "high": 29.54,
+    "low": 23.37,
+    "volume": 750037470,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 29.69,
+    "close": 25.1,
+    "high": 29.89,
+    "low": 25.08,
+    "volume": 991646250,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 25,
+    "close": 30.58,
+    "high": 31.14,
+    "low": 24.79,
+    "volume": 761725881,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 30.66,
+    "close": 29.52,
+    "high": 35.36,
+    "low": 29,
+    "volume": 737423680,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 29.46,
+    "close": 33.97,
+    "high": 34.6,
+    "low": 26.98,
+    "volume": 989443413,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 34.43,
+    "close": 33.24,
+    "high": 36.43,
+    "low": 32.06,
+    "volume": 784457814,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 34.03,
+    "close": 38.69,
+    "high": 38.69,
+    "low": 32.19,
+    "volume": 678715625,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 38.5,
+    "close": 37.53,
+    "high": 39.67,
+    "low": 34.3,
+    "volume": 613752503,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 37.44,
+    "close": 38.0,
+    "high": 43.54,
+    "low": 35.92,
+    "volume": 717112739,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 38.36,
+    "close": 33.57,
+    "high": 38.5,
+    "low": 29.05,
+    "volume": 640910935,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 33.5,
+    "close": 16.18,
+    "high": 34.07,
+    "low": 15.38,
+    "volume": 1679911597,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 16.45,
+    "close": 11.73,
+    "high": 18.36,
+    "low": 10.61,
+    "volume": 1691517135,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 11.44,
+    "close": 9.22,
+    "high": 13.41,
+    "low": 8.91,
+    "volume": 1053990798,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 9.2,
+    "close": 9.9,
+    "high": 11.08,
+    "low": 9.14,
+    "volume": 842440620,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 10.04,
+    "close": 17.17,
+    "high": 18.5,
+    "low": 10.02,
+    "volume": 1829841097,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 17.34,
+    "close": 15.82,
+    "high": 19.06,
+    "low": 15.23,
+    "volume": 1003246468,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 15.59,
+    "close": 16.43,
+    "high": 17.64,
+    "low": 14.65,
+    "volume": 815001369,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 16.4,
+    "close": 11.45,
+    "high": 16.4,
+    "low": 11.39,
+    "volume": 842645258,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 11.47,
+    "close": 9.06,
+    "high": 11.85,
+    "low": 8.91,
+    "volume": 789291965,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 8.71,
+    "close": 9.78,
+    "high": 10.07,
+    "low": 8.67,
+    "volume": 499691143,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 9.82,
+    "close": 8.12,
+    "high": 12.38,
+    "low": 8.02,
+    "volume": 988293775,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 8.2,
+    "close": 8.53,
+    "high": 9.52,
+    "low": 7.54,
+    "volume": 601220389,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 8.29,
+    "close": 7.78,
+    "high": 8.77,
+    "low": 7.58,
+    "volume": 639322852,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 7.8,
+    "close": 11.32,
+    "high": 12.14,
+    "low": 7.76,
+    "volume": 1114646855,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 11.12,
+    "close": 11.67,
+    "high": 12.08,
+    "low": 10.64,
+    "volume": 498345120,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 11.69,
+    "close": 13.23,
+    "high": 13.97,
+    "low": 10.64,
+    "volume": 598514154,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 13.6,
+    "close": 23.61,
+    "high": 25.32,
+    "low": 12.96,
+    "volume": 992271161,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 24.29,
+    "close": 26.87,
+    "high": 28.23,
+    "low": 23.25,
+    "volume": 755918534,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 26.73,
+    "close": 27.04,
+    "high": 28.15,
+    "low": 25.17,
+    "volume": 520639994,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 27.28,
+    "close": 30.87,
+    "high": 32.04,
+    "low": 22.71,
+    "volume": 854605689,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 30.85,
+    "close": 32.32,
+    "high": 35.55,
+    "low": 29.15,
+    "volume": 537081027,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 32.44,
+    "close": 30.16,
+    "high": 33.7,
+    "low": 29.39,
+    "volume": 412711943,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 30.52,
+    "close": 34.93,
+    "high": 38.62,
+    "low": 30.29,
+    "volume": 543123070,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 35.22,
+    "close": 40.56,
+    "high": 41.46,
+    "low": 34.48,
+    "volume": 417280437,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 41.06,
+    "close": 44.17,
+    "high": 45.77,
+    "low": 40.65,
+    "volume": 387271255,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 44.97,
+    "close": 46.07,
+    "high": 55.59,
+    "low": 40.4,
+    "volume": 841001602,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 46.98,
+    "close": 52.26,
+    "high": 52.54,
+    "low": 46.45,
+    "volume": 343913248,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 52.13,
+    "close": 52.6,
+    "high": 54.85,
+    "low": 50.29,
+    "volume": 313029199,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 52.4,
+    "close": 58.48,
+    "high": 58.91,
+    "low": 45.58,
+    "volume": 602286447,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 58.84,
+    "close": 63.66,
+    "high": 65.4,
+    "low": 56.72,
+    "volume": 318080112,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 63.03,
+    "close": 50.29,
+    "high": 65.43,
+    "low": 49.98,
+    "volume": 377120128,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 50.25,
+    "close": 46.01,
+    "high": 54.41,
+    "low": 42.79,
+    "volume": 648997223,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 46.29,
+    "close": 59.69,
+    "high": 60.25,
+    "low": 44.91,
+    "volume": 524085058,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 59.93,
+    "close": 62.94,
+    "high": 64.4,
+    "low": 58.93,
+    "volume": 352929297,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 65.18,
+    "close": 60.39,
+    "high": 67.98,
+    "low": 59.79,
+    "volume": 430133872,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 60.25,
+    "close": 68.23,
+    "high": 69.33,
+    "low": 58.93,
+    "volume": 274470721,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 68.36,
+    "close": 64.45,
+    "high": 69.9,
+    "low": 62.7,
+    "volume": 268473009,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 64.1,
+    "close": 56.11,
+    "high": 66.86,
+    "low": 47.29,
+    "volume": 583487184,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 56.18,
+    "close": 49.51,
+    "high": 56.5,
+    "low": 49.14,
+    "volume": 256636317,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 49.29,
+    "close": 48.8,
+    "high": 51.14,
+    "low": 45.08,
+    "volume": 266168917,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 49.15,
+    "close": 63.11,
+    "high": 65.34,
+    "low": 45.26,
+    "volume": 425979239,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 62.84,
+    "close": 67.84,
+    "high": 69.5,
+    "low": 61.96,
+    "volume": 209175393,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 67.71,
+    "close": 59.53,
+    "high": 68.61,
+    "low": 58.57,
+    "volume": 327869290,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 59.64,
+    "close": 79.5,
+    "high": 82.3,
+    "low": 58.46,
+    "volume": 508466147,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 79.86,
+    "close": 89.15,
+    "high": 90.21,
+    "low": 78.89,
+    "volume": 280028602,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 88.84,
+    "close": 93.85,
+    "high": 100.89,
+    "low": 87.94,
+    "volume": 469252938,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 94.81,
+    "close": 114.31,
+    "high": 117.88,
+    "low": 92.28,
+    "volume": 406342242,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 114.6,
+    "close": 115.03,
+    "high": 129.29,
+    "low": 85.5,
+    "volume": 469714253,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 109.35,
+    "close": 103.26,
+    "high": 111.24,
+    "low": 93.55,
+    "volume": 497360772,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 102.91,
+    "close": 108.38,
+    "high": 115.83,
+    "low": 96.26,
+    "volume": 446441246,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 109.2,
+    "close": 123.33,
+    "high": 126.6,
+    "low": 101.86,
+    "volume": 320272664,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 124.47,
+    "close": 114.38,
+    "high": 133.27,
+    "low": 113.85,
+    "volume": 319998059,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 109,
+    "close": 91.84,
+    "high": 122.18,
+    "low": 90.11,
+    "volume": 488173337,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 91.79,
+    "close": 93.41,
+    "high": 97.48,
+    "low": 79.95,
+    "volume": 389268915,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 94.58,
+    "close": 102.23,
+    "high": 104.91,
+    "low": 93.61,
+    "volume": 311365242,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 102.93,
+    "close": 90.03,
+    "high": 111.85,
+    "low": 88.21,
+    "volume": 340173314,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 90.41,
+    "close": 102.57,
+    "high": 104,
+    "low": 85.74,
+    "volume": 265050817,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 101.5,
+    "close": 91.48,
+    "high": 102.15,
+    "low": 84.81,
+    "volume": 218258710,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 95,
+    "close": 91.25,
+    "high": 101.27,
+    "low": 84.5,
+    "volume": 320130464,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 91.23,
+    "close": 97.45,
+    "high": 98.85,
+    "low": 90.5,
+    "volume": 182611285,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 97.81,
+    "close": 98.55,
+    "high": 100.35,
+    "low": 93.26,
+    "volume": 169438735,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 98,
+    "close": 124.87,
+    "high": 129.29,
+    "low": 97.63,
+    "volume": 274077541,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 124.98,
+    "close": 117,
+    "high": 125.83,
+    "low": 110.68,
+    "volume": 147512942,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 117.52,
+    "close": 123.8,
+    "high": 129.07,
+    "low": 113.95,
+    "volume": 128523159,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 124.96,
+    "close": 140.71,
+    "high": 143.46,
+    "low": 124.31,
+    "volume": 182175811,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 141.2,
+    "close": 142.13,
+    "high": 145.95,
+    "low": 139.05,
+    "volume": 91439225,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 142.84,
+    "close": 147.81,
+    "high": 148.29,
+    "low": 138.26,
+    "volume": 110678083,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 146.7,
+    "close": 152.2,
+    "high": 153.52,
+    "low": 138.66,
+    "volume": 149732169,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 151.91,
+    "close": 163.07,
+    "high": 164.75,
+    "low": 151.61,
+    "volume": 116771819,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 163.52,
+    "close": 149.41,
+    "high": 166.87,
+    "low": 147.3,
+    "volume": 135699482,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 149.8,
+    "close": 181.66,
+    "high": 191.5,
+    "low": 144.25,
+    "volume": 185132774,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 182.49,
+    "close": 174.71,
+    "high": 184.62,
+    "low": 164.23,
+    "volume": 136508703,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 175.55,
+    "close": 181.35,
+    "high": 189.95,
+    "low": 172.44,
+    "volume": 111436033,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 182.11,
+    "close": 196.43,
+    "high": 204.38,
+    "low": 176.58,
+    "volume": 208641095,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 197.24,
+    "close": 187.58,
+    "high": 202.48,
+    "low": 184.32,
+    "volume": 110989656,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 186.99,
+    "close": 191.96,
+    "high": 194.49,
+    "low": 178.38,
+    "volume": 115081335,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 196.1,
+    "close": 270.3,
+    "high": 286.81,
+    "low": 195.42,
+    "volume": 238302533,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 266.41,
+    "close": 291.38,
+    "high": 297.36,
+    "low": 236.11,
+    "volume": 184585819,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 292.75,
+    "close": 295.35,
+    "high": 333.98,
+    "low": 275.9,
+    "volume": 263446891,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 291.94,
+    "close": 312.46,
+    "high": 338.82,
+    "low": 271.22,
+    "volume": 262046367,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 310.36,
+    "close": 351.6,
+    "high": 356.1,
+    "low": 305.73,
+    "volume": 141951514,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 353.88,
+    "close": 391.43,
+    "high": 423.21,
+    "low": 352.82,
+    "volume": 244003041,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 385.45,
+    "close": 337.45,
+    "high": 419.77,
+    "low": 328,
+    "volume": 305453282,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 335.87,
+    "close": 367.68,
+    "high": 376.81,
+    "low": 310.93,
+    "volume": 213132057,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 366.47,
+    "close": 374.13,
+    "high": 383.2,
+    "low": 335.83,
+    "volume": 170671656,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 375.85,
+    "close": 301.78,
+    "high": 386.8,
+    "low": 271.21,
+    "volume": 363561180,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 304.59,
+    "close": 286.13,
+    "high": 332.05,
+    "low": 250,
+    "volume": 257038798,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 293.19,
+    "close": 267.66,
+    "high": 298.72,
+    "low": 231.23,
+    "volume": 234203824,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 259.28,
+    "close": 339.5,
+    "high": 358.85,
+    "low": 256.58,
+    "volume": 306587091,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 337.18,
+    "close": 358.1,
+    "high": 371.49,
+    "low": 336.5,
+    "volume": 148162710,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 362.26,
+    "close": 356.56,
+    "high": 379,
+    "low": 342.47,
+    "volume": 144817452,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 359,
+    "close": 370.54,
+    "high": 384.8,
+    "low": 342.27,
+    "volume": 165062116,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 374,
+    "close": 343.28,
+    "high": 385.99,
+    "low": 341.39,
+    "volume": 125293554,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 343.56,
+    "close": 367.32,
+    "high": 375,
+    "low": 332.65,
+    "volume": 111042214,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 373.5,
+    "close": 322.99,
+    "high": 384.76,
+    "low": 305.81,
+    "volume": 196631032,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 324.25,
+    "close": 293.75,
+    "high": 328.58,
+    "low": 287.2,
+    "volume": 137384321,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 290.82,
+    "close": 267.62,
+    "high": 301.55,
+    "low": 252.28,
+    "volume": 176140842,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 267.35,
+    "close": 287.41,
+    "high": 308.75,
+    "low": 257.01,
+    "volume": 235134025,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 288.7,
+    "close": 314.66,
+    "high": 316.82,
+    "low": 281.14,
+    "volume": 113659542,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 314.39,
+    "close": 323.57,
+    "high": 338,
+    "low": 292.02,
+    "volume": 125035250,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 326.1,
+    "close": 345.09,
+    "high": 359.85,
+    "low": 321.2,
+    "volume": 169717391,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 347.24,
+    "close": 369.03,
+    "high": 392.95,
+    "low": 346.28,
+    "volume": 114096115,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 373.11,
+    "close": 375.5,
+    "high": 393.52,
+    "low": 290.25,
+    "volume": 201994270,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 376.05,
+    "close": 419.85,
+    "high": 449.52,
+    "low": 357.51,
+    "volume": 225161942,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 415.1,
+    "close": 419.73,
+    "high": 458.97,
+    "low": 397.86,
+    "volume": 135040121,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 418.83,
+    "close": 455.04,
+    "high": 474.01,
+    "low": 404.25,
+    "volume": 117279453,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 454,
+    "close": 488.88,
+    "high": 575.37,
+    "low": 454,
+    "volume": 232126645,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 490.86,
+    "close": 529.56,
+    "high": 549.04,
+    "low": 466.55,
+    "volume": 114566344,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 532.6,
+    "close": 500.03,
+    "high": 557.39,
+    "low": 458.6,
+    "volume": 118774502,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 506.03,
+    "close": 475.74,
+    "high": 572.49,
+    "low": 472.21,
+    "volume": 153917457,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 478.87,
+    "close": 490.7,
+    "high": 518.73,
+    "low": 463.41,
+    "volume": 91780695,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 492.34,
+    "close": 540.73,
+    "high": 545.5,
+    "low": 491.29,
+    "volume": 77524252,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 539,
+    "close": 532.39,
+    "high": 593.29,
+    "low": 485.67,
+    "volume": 139981069,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 536.79,
+    "close": 538.85,
+    "high": 566.65,
+    "low": 518.28,
+    "volume": 61902140,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 545.57,
+    "close": 521.66,
+    "high": 556.99,
+    "low": 492.85,
+    "volume": 89796123,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 529.93,
+    "close": 513.47,
+    "high": 563.56,
+    "low": 499,
+    "volume": 111466014,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 512.65,
+    "close": 502.81,
+    "high": 518.95,
+    "low": 478.54,
+    "volume": 66607779,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 504.01,
+    "close": 528.21,
+    "high": 536.13,
+    "low": 482.14,
+    "volume": 78295744,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 525.72,
+    "close": 517.57,
+    "high": 557.54,
+    "low": 504.66,
+    "volume": 77215403,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 519,
+    "close": 569.19,
+    "high": 569.48,
+    "low": 505.37,
+    "volume": 54698475,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 569,
+    "close": 610.34,
+    "high": 619,
+    "low": 568.08,
+    "volume": 82648540,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 604.24,
+    "close": 690.31,
+    "high": 690.97,
+    "low": 594.68,
+    "volume": 98477841,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 689.06,
+    "close": 641.9,
+    "high": 700.99,
+    "low": 640.01,
+    "volume": 64413191,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 649.48,
+    "close": 602.44,
+    "high": 654.52,
+    "low": 581.74,
+    "volume": 60032875,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 605.61,
+    "close": 427.14,
+    "high": 609.99,
+    "low": 351.46,
+    "volume": 241509478,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 432.96,
+    "close": 394.52,
+    "high": 458.48,
+    "low": 354.72,
+    "volume": 150565817,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 391.6,
+    "close": 374.59,
+    "high": 396.5,
+    "low": 329.82,
+    "volume": 119090951,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 376.8,
+    "close": 190.36,
+    "high": 396.02,
+    "low": 185.6,
+    "volume": 402560896,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 191.71,
+    "close": 197.44,
+    "high": 204.38,
+    "low": 162.71,
+    "volume": 251015525,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 198.7,
+    "close": 174.87,
+    "high": 207.38,
+    "low": 164.28,
+    "volume": 192521138,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 176.49,
+    "close": 224.9,
+    "high": 230.75,
+    "low": 169.7,
+    "volume": 270026006,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 223.09,
+    "close": 223.56,
+    "high": 251.99,
+    "low": 218.74,
+    "volume": 152097118,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 220.72,
+    "close": 235.44,
+    "high": 250.49,
+    "low": 214.69,
+    "volume": 233885377,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 237.85,
+    "close": 291.88,
+    "high": 305.63,
+    "low": 211.73,
+    "volume": 335121772,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 296.17,
+    "close": 305.53,
+    "high": 312.71,
+    "low": 252.09,
+    "volume": 185644010,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 303.99,
+    "close": 294.88,
+    "high": 332.72,
+    "low": 273.41,
+    "volume": 193035227,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 298.06,
+    "close": 353.86,
+    "high": 369.02,
+    "low": 288.7,
+    "volume": 206348926,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 353.86,
+    "close": 322.13,
+    "high": 379.43,
+    "low": 314.3,
+    "volume": 123352828,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 321.55,
+    "close": 345.48,
+    "high": 345.84,
+    "low": 285.33,
+    "volume": 157584004,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 341.83,
+    "close": 329.93,
+    "high": 349.8,
+    "low": 316.1,
+    "volume": 127977489,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 329.44,
+    "close": 395.23,
+    "high": 405.11,
+    "low": 315.62,
+    "volume": 145435670,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 397.41,
+    "close": 440.49,
+    "high": 448.65,
+    "low": 393.08,
+    "volume": 147223494,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "NFLX",
+    "open": 439.76,
+    "close": 427.5,
+    "high": 485,
+    "low": 423.19,
+    "volume": 130020855,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

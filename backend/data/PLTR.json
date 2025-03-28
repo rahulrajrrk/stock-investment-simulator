@@ -1,0 +1,522 @@
+[
+  {
+    "ticker": "PLTR",
+    "open": 10,
+    "close": 9.5,
+    "high": 11.42,
+    "low": 9.11,
+    "volume": 338549492,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 9.69,
+    "close": 10.13,
+    "high": 11.1,
+    "low": 8.9,
+    "volume": 720142550,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 10.23,
+    "close": 27.11,
+    "high": 33.5,
+    "low": 10.23,
+    "volume": 1679010014,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 28.09,
+    "close": 23.55,
+    "high": 31.24,
+    "low": 21.15,
+    "volume": 1492482199,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 23.91,
+    "close": 35.18,
+    "high": 45,
+    "low": 22.5,
+    "volume": 1258126202,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 35.33,
+    "close": 23.9,
+    "high": 39.22,
+    "low": 22.7,
+    "volume": 2212197060,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 25.19,
+    "close": 23.29,
+    "high": 27.47,
+    "low": 20.18,
+    "volume": 1821744646,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 23.95,
+    "close": 23.04,
+    "high": 26.2,
+    "low": 21.24,
+    "volume": 1021736228,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 23.01,
+    "close": 22.95,
+    "high": 24.75,
+    "low": 17.05,
+    "volume": 1473150112,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 23.19,
+    "close": 26.36,
+    "high": 27.5,
+    "low": 22.36,
+    "volume": 1186345509,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 26.1,
+    "close": 21.71,
+    "high": 26.13,
+    "low": 20.55,
+    "volume": 586525954,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 21.91,
+    "close": 26.34,
+    "high": 26.6,
+    "low": 21.48,
+    "volume": 1091102704,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 26.46,
+    "close": 24.04,
+    "high": 29.29,
+    "low": 23.88,
+    "volume": 1180979388,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 24.21,
+    "close": 25.88,
+    "high": 26.75,
+    "low": 23.02,
+    "volume": 750239456,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 26.11,
+    "close": 20.65,
+    "high": 27.11,
+    "low": 20.05,
+    "volume": 885889113,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 20.53,
+    "close": 18.21,
+    "high": 20.89,
+    "low": 17.81,
+    "volume": 781499505,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 18.36,
+    "close": 13.71,
+    "high": 18.84,
+    "low": 11.75,
+    "volume": 1053837529,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 14.23,
+    "close": 11.85,
+    "high": 14.37,
+    "low": 9.74,
+    "volume": 1301259278,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 11.99,
+    "close": 13.73,
+    "high": 14.36,
+    "low": 10.27,
+    "volume": 1012897965,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 13.77,
+    "close": 10.4,
+    "high": 14.86,
+    "low": 10.36,
+    "volume": 645685939,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 10.38,
+    "close": 8.68,
+    "high": 11.01,
+    "low": 6.44,
+    "volume": 1127334444,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 8.72,
+    "close": 9.07,
+    "high": 10.2,
+    "low": 7.5,
+    "volume": 827006724,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 9.11,
+    "close": 10.35,
+    "high": 10.76,
+    "low": 8.65,
+    "volume": 711754213,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 10.25,
+    "close": 7.72,
+    "high": 11.62,
+    "low": 7.68,
+    "volume": 905450458,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 7.61,
+    "close": 8.13,
+    "high": 8.5,
+    "low": 7.13,
+    "volume": 757826699,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 8.14,
+    "close": 8.79,
+    "high": 9.05,
+    "low": 7.53,
+    "volume": 664804027,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 8.99,
+    "close": 7.5,
+    "high": 9.06,
+    "low": 6.89,
+    "volume": 813112530,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 7.51,
+    "close": 6.42,
+    "high": 7.97,
+    "low": 5.92,
+    "volume": 627319917,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 6.58,
+    "close": 7.78,
+    "high": 7.82,
+    "low": 5.84,
+    "volume": 606502967,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 7.73,
+    "close": 7.84,
+    "high": 10.31,
+    "low": 7.45,
+    "volume": 1276138906,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 7.83,
+    "close": 8.45,
+    "high": 8.62,
+    "low": 7.19,
+    "volume": 663577697,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 8.37,
+    "close": 7.75,
+    "high": 9.04,
+    "low": 7.62,
+    "volume": 502712487,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 7.75,
+    "close": 14.71,
+    "high": 15.01,
+    "low": 7.28,
+    "volume": 2092172931,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 14.46,
+    "close": 15.33,
+    "high": 17.16,
+    "low": 13.56,
+    "volume": 1912054759,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 15.49,
+    "close": 19.84,
+    "high": 20.0,
+    "low": 14.62,
+    "volume": 1223821116,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 19.46,
+    "close": 14.98,
+    "high": 20.24,
+    "low": 13.68,
+    "volume": 1700305646,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 15.16,
+    "close": 16,
+    "high": 16.81,
+    "low": 13.68,
+    "volume": 945490820,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 16.03,
+    "close": 14.8,
+    "high": 18.44,
+    "low": 14.55,
+    "volume": 1208333398,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 14.8,
+    "close": 20.05,
+    "high": 21.85,
+    "low": 14.48,
+    "volume": 1547739058,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 19.93,
+    "close": 17.17,
+    "high": 20.29,
+    "low": 17.05,
+    "volume": 1110697972,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 16.95,
+    "close": 16.09,
+    "high": 18.35,
+    "low": 15.66,
+    "volume": 880341549,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 16.21,
+    "close": 25.08,
+    "high": 25.52,
+    "low": 16.03,
+    "volume": 2235830331,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 25.3,
+    "close": 23.01,
+    "high": 27.5,
+    "low": 22.92,
+    "volume": 1265122343,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 22.98,
+    "close": 21.97,
+    "high": 24.1,
+    "low": 20.33,
+    "volume": 755740012,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 21.93,
+    "close": 21.68,
+    "high": 25.36,
+    "low": 20.5,
+    "volume": 1119342228,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 21.7,
+    "close": 25.33,
+    "high": 26.57,
+    "low": 21.0,
+    "volume": 768021989,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 25.48,
+    "close": 26.89,
+    "high": 29.83,
+    "low": 25.14,
+    "volume": 928931401,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 27.02,
+    "close": 31.48,
+    "high": 33.12,
+    "low": 21.23,
+    "volume": 1195694545,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 31.35,
+    "close": 37.2,
+    "high": 38.19,
+    "low": 29.31,
+    "volume": 1493947032,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 37.21,
+    "close": 41.56,
+    "high": 45.14,
+    "low": 36.05,
+    "volume": 1058647320,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 41.93,
+    "close": 67.08,
+    "high": 67.88,
+    "low": 41.03,
+    "volume": 1696372743,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "PLTR",
+    "open": 67.44,
+    "close": 75.63,
+    "high": 84.8,
+    "low": 65.96,
+    "volume": 1910556546,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

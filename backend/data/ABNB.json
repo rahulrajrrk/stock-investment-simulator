@@ -1,0 +1,492 @@
+[
+  {
+    "ticker": "ABNB",
+    "open": 146,
+    "close": 146.8,
+    "high": 174.97,
+    "low": 121.5,
+    "volume": 231764701,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 150.99,
+    "close": 183.63,
+    "high": 216,
+    "low": 137,
+    "volume": 142193190,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 187.48,
+    "close": 206.35,
+    "high": 219.94,
+    "low": 175,
+    "volume": 98552259,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 195.82,
+    "close": 187.94,
+    "high": 215.49,
+    "low": 161.9,
+    "volume": 134245111,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 192.5,
+    "close": 172.71,
+    "high": 194.48,
+    "low": 164.12,
+    "volume": 69626582,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 173.19,
+    "close": 140.4,
+    "high": 173.44,
+    "low": 129.71,
+    "volume": 232917187,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 143.89,
+    "close": 153.14,
+    "high": 154.8,
+    "low": 141.04,
+    "volume": 196089193,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 154.5,
+    "close": 144.01,
+    "high": 157.41,
+    "low": 130.31,
+    "volume": 118887543,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 143.85,
+    "close": 154.99,
+    "high": 163.06,
+    "low": 141.5,
+    "volume": 152545114,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 154.84,
+    "close": 167.75,
+    "high": 176.96,
+    "low": 154.29,
+    "volume": 125904982,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 170.31,
+    "close": 170.66,
+    "high": 176.75,
+    "low": 160.63,
+    "volume": 67111531,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 170.5,
+    "close": 172.54,
+    "high": 212.58,
+    "low": 167.04,
+    "volume": 171028340,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 174.01,
+    "close": 166.49,
+    "high": 187.5,
+    "low": 149.44,
+    "volume": 132205558,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 165.3,
+    "close": 153.97,
+    "high": 175.9,
+    "low": 134.37,
+    "volume": 114678310,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 155.35,
+    "close": 151.49,
+    "high": 191.73,
+    "low": 141.18,
+    "volume": 146575924,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 150.53,
+    "close": 171.76,
+    "high": 178.88,
+    "low": 131.5,
+    "volume": 125573140,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 173.06,
+    "close": 153.21,
+    "high": 179.09,
+    "low": 150.44,
+    "volume": 83821961,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 153.21,
+    "close": 120.87,
+    "high": 158.74,
+    "low": 103.74,
+    "volume": 205828064,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 121.05,
+    "close": 89.08,
+    "high": 125.51,
+    "low": 86.71,
+    "volume": 169939463,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 89.09,
+    "close": 110.98,
+    "high": 111.16,
+    "low": 86.75,
+    "volume": 115446010,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 110,
+    "close": 113.12,
+    "high": 127.09,
+    "low": 107.48,
+    "volume": 149001086,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 111.1,
+    "close": 105.04,
+    "high": 129.38,
+    "low": 99.71,
+    "volume": 123834896,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 105.49,
+    "close": 106.91,
+    "high": 120.71,
+    "low": 102.18,
+    "volume": 105810779,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 110.97,
+    "close": 102.14,
+    "high": 113.1,
+    "low": 91.27,
+    "volume": 159631155,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 101.49,
+    "close": 85.5,
+    "high": 102.76,
+    "low": 81.91,
+    "volume": 117913042,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 87.39,
+    "close": 111.11,
+    "high": 117.12,
+    "low": 84.3,
+    "volume": 105781865,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 111.11,
+    "close": 123.28,
+    "high": 144.63,
+    "low": 106.54,
+    "volume": 163760905,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 122.38,
+    "close": 124.4,
+    "high": 130.85,
+    "low": 111.51,
+    "volume": 111102617,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 123,
+    "close": 119.67,
+    "high": 123.09,
+    "low": 107.66,
+    "volume": 97154316,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 119.26,
+    "close": 109.77,
+    "high": 128.96,
+    "low": 103.55,
+    "volume": 186079972,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 109.84,
+    "close": 128.16,
+    "high": 131.88,
+    "low": 109.11,
+    "volume": 120963085,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 129.28,
+    "close": 152.19,
+    "high": 154.95,
+    "low": 126.06,
+    "volume": 104762631,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 149.62,
+    "close": 131.55,
+    "high": 150.42,
+    "low": 123.38,
+    "volume": 108582952,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 133.7,
+    "close": 137.21,
+    "high": 151.16,
+    "low": 130.8,
+    "volume": 208484658,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 136.55,
+    "close": 118.29,
+    "high": 138,
+    "low": 113.23,
+    "volume": 108401749,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 118.25,
+    "close": 126.34,
+    "high": 131.62,
+    "low": 114.1,
+    "volume": 124241192,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 125.5,
+    "close": 136.14,
+    "high": 149.92,
+    "low": 125.4,
+    "volume": 104651266,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 134.43,
+    "close": 144.14,
+    "high": 153.38,
+    "low": 130.82,
+    "volume": 90395562,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 144.8,
+    "close": 157.47,
+    "high": 160,
+    "low": 141.24,
+    "volume": 124282787,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 157.23,
+    "close": 164.96,
+    "high": 170.1,
+    "low": 156.14,
+    "volume": 88962723,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 166.43,
+    "close": 158.57,
+    "high": 166.74,
+    "low": 153.76,
+    "volume": 66981752,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 157.58,
+    "close": 144.93,
+    "high": 165.5,
+    "low": 140.82,
+    "volume": 104119008,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 145.74,
+    "close": 151.63,
+    "high": 152.93,
+    "low": 143.73,
+    "volume": 71195643,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 152.2,
+    "close": 139.56,
+    "high": 155.66,
+    "low": 137.58,
+    "volume": 79545756,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 139.7,
+    "close": 117.31,
+    "high": 139.78,
+    "low": 110.38,
+    "volume": 135033236,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 116.39,
+    "close": 126.81,
+    "high": 133.34,
+    "low": 112.55,
+    "volume": 86572490,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 127.35,
+    "close": 134.79,
+    "high": 138.66,
+    "low": 123.58,
+    "volume": 69500427,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 133.96,
+    "close": 136.11,
+    "high": 148.64,
+    "low": 129.87,
+    "volume": 112242534,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "ABNB",
+    "open": 136.01,
+    "close": 131.41,
+    "high": 140.38,
+    "low": 127.23,
+    "volume": 86486307,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

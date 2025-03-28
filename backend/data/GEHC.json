@@ -1,0 +1,242 @@
+[
+  {
+    "ticker": "GEHC",
+    "open": 54.13,
+    "close": 69.52,
+    "high": 73.95,
+    "low": 53.5,
+    "volume": 113175207,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 69,
+    "close": 76,
+    "high": 76.98,
+    "low": 67.53,
+    "volume": 43609663,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 75.37,
+    "close": 82.03,
+    "high": 82.59,
+    "low": 74.04,
+    "volume": 45393714,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 82,
+    "close": 81.34,
+    "high": 87.83,
+    "low": 77.56,
+    "volume": 37569099,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 81.08,
+    "close": 79.51,
+    "high": 81.73,
+    "low": 74.27,
+    "volume": 43228079,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 79.73,
+    "close": 81.24,
+    "high": 83.18,
+    "low": 76.19,
+    "volume": 105647772,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 81.41,
+    "close": 78,
+    "high": 83.14,
+    "low": 76.25,
+    "volume": 60752652,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 77.84,
+    "close": 70.45,
+    "high": 78.03,
+    "low": 67.61,
+    "volume": 60775189,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 70.67,
+    "close": 68.04,
+    "high": 71.02,
+    "low": 63.74,
+    "volume": 68117917,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 68,
+    "close": 66.57,
+    "high": 68.99,
+    "low": 62.35,
+    "volume": 56989485,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 66.75,
+    "close": 68.46,
+    "high": 74.18,
+    "low": 66,
+    "volume": 57466959,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 68.35,
+    "close": 77.32,
+    "high": 78.33,
+    "low": 67,
+    "volume": 46770079,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 76.58,
+    "close": 73.36,
+    "high": 77.66,
+    "low": 71.31,
+    "volume": 55080777,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 73.36,
+    "close": 91.28,
+    "high": 93.96,
+    "low": 72.52,
+    "volume": 90518097,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 91.05,
+    "close": 90.91,
+    "high": 94.5,
+    "low": 86.55,
+    "volume": 75089124,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 91.31,
+    "close": 76.24,
+    "high": 91.46,
+    "low": 76.08,
+    "volume": 64430540,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 76.52,
+    "close": 78,
+    "high": 84,
+    "low": 76.5,
+    "volume": 52730742,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 78.06,
+    "close": 77.92,
+    "high": 80.1,
+    "low": 74.51,
+    "volume": 54186706,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 78.35,
+    "close": 84.63,
+    "high": 88.25,
+    "low": 75.68,
+    "volume": 60227802,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 84.1,
+    "close": 84.82,
+    "high": 85.94,
+    "low": 78.78,
+    "volume": 39647315,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 84.56,
+    "close": 93.85,
+    "high": 94.55,
+    "low": 83.14,
+    "volume": 79830769,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 93.82,
+    "close": 87.35,
+    "high": 93.82,
+    "low": 84.9,
+    "volume": 50260616,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 87.21,
+    "close": 83.22,
+    "high": 90,
+    "low": 80.56,
+    "volume": 71700125,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "GEHC",
+    "open": 82.89,
+    "close": 78.18,
+    "high": 83.33,
+    "low": 76.89,
+    "volume": 57577912,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

@@ -1,0 +1,1622 @@
+[
+  {
+    "ticker": "APP",
+    "open": 24.94,
+    "close": 23,
+    "high": 24.94,
+    "low": 23,
+    "volume": 77900,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "APP",
+    "open": 23.5,
+    "close": 23.76,
+    "high": 23.99,
+    "low": 22.9,
+    "volume": 128600,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "APP",
+    "open": 23.86,
+    "close": 24.95,
+    "high": 25.2,
+    "low": 23.75,
+    "volume": 238500,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "APP",
+    "open": 24.99,
+    "close": 25.5,
+    "high": 25.67,
+    "low": 24.8,
+    "volume": 93400,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "APP",
+    "open": 25.38,
+    "close": 26.4,
+    "high": 26.93,
+    "low": 25.38,
+    "volume": 268000,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "APP",
+    "open": 26.4,
+    "close": 27.11,
+    "high": 27.38,
+    "low": 26.4,
+    "volume": 193700,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "APP",
+    "open": 27.1,
+    "close": 26.31,
+    "high": 27.45,
+    "low": 25.7,
+    "volume": 382700,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "APP",
+    "open": 26.44,
+    "close": 26.9,
+    "high": 27.47,
+    "low": 26.38,
+    "volume": 270200,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "APP",
+    "open": 26.99,
+    "close": 26.93,
+    "high": 27.43,
+    "low": 26.28,
+    "volume": 198600,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "APP",
+    "open": 26.93,
+    "close": 26.82,
+    "high": 27.27,
+    "low": 26.54,
+    "volume": 142200,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "APP",
+    "open": 26.78,
+    "close": 25.1,
+    "high": 26.83,
+    "low": 24.65,
+    "volume": 317900,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "APP",
+    "open": 25.26,
+    "close": 25.92,
+    "high": 26.08,
+    "low": 24.5,
+    "volume": 273800,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "APP",
+    "open": 25.92,
+    "close": 23.91,
+    "high": 26.33,
+    "low": 23.14,
+    "volume": 99900,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "APP",
+    "open": 24.19,
+    "close": 22.15,
+    "high": 24.78,
+    "low": 21.04,
+    "volume": 147900,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "APP",
+    "open": 21.94,
+    "close": 21.52,
+    "high": 23.34,
+    "low": 20.79,
+    "volume": 124600,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "APP",
+    "open": 25,
+    "close": 25.2,
+    "high": 80.25,
+    "low": 24.9,
+    "volume": 119650,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "APP",
+    "open": 25.2,
+    "close": 26,
+    "high": 26.3,
+    "low": 25,
+    "volume": 166800,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "APP",
+    "open": 26.15,
+    "close": 26,
+    "high": 26.5,
+    "low": 25.1,
+    "volume": 107600,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "APP",
+    "open": 26.13,
+    "close": 26.32,
+    "high": 26.69,
+    "low": 25.95,
+    "volume": 119100,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "APP",
+    "open": 26.36,
+    "close": 26.8,
+    "high": 26.8,
+    "low": 26.15,
+    "volume": 114300,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "APP",
+    "open": 26.8,
+    "close": 26.15,
+    "high": 26.98,
+    "low": 26,
+    "volume": 104100,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "APP",
+    "open": 26.05,
+    "close": 26.69,
+    "high": 26.7,
+    "low": 26.05,
+    "volume": 26000,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "APP",
+    "open": 15.6,
+    "close": 15,
+    "high": 16.22,
+    "low": 13.4,
+    "volume": 3916015,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "APP",
+    "open": 15.28,
+    "close": 12.74,
+    "high": 15.28,
+    "low": 10.75,
+    "volume": 8055170,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "APP",
+    "open": 12.79,
+    "close": 12.17,
+    "high": 13.25,
+    "low": 11.57,
+    "volume": 4751667,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "APP",
+    "open": 11.97,
+    "close": 9.45,
+    "high": 12.22,
+    "low": 7.98,
+    "volume": 6300596,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "APP",
+    "open": 9.01,
+    "close": 7.82,
+    "high": 10.25,
+    "low": 6.66,
+    "volume": 11827329,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "APP",
+    "open": 7.91,
+    "close": 6.69,
+    "high": 9.25,
+    "low": 6.69,
+    "volume": 13059148,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "APP",
+    "open": 6.76,
+    "close": 6.65,
+    "high": 7.64,
+    "low": 5.52,
+    "volume": 12413822,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "APP",
+    "open": 6.51,
+    "close": 5.88,
+    "high": 7.21,
+    "low": 5,
+    "volume": 11300594,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "APP",
+    "open": 5.99,
+    "close": 8.95,
+    "high": 9.65,
+    "low": 5.38,
+    "volume": 11595666,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "APP",
+    "open": 9.05,
+    "close": 8.2,
+    "high": 10.25,
+    "low": 7.79,
+    "volume": 11728208,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "APP",
+    "open": 8.18,
+    "close": 5.88,
+    "high": 8.45,
+    "low": 4.7,
+    "volume": 14838225,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "APP",
+    "open": 6.05,
+    "close": 4.25,
+    "high": 6.98,
+    "low": 2.45,
+    "volume": 8730927,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "APP",
+    "open": 3.68,
+    "close": 1.99,
+    "high": 4,
+    "low": 1.55,
+    "volume": 12571002,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "APP",
+    "open": 2.18,
+    "close": 2.03,
+    "high": 2.84,
+    "low": 1.45,
+    "volume": 14141551,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.91,
+    "close": 1.72,
+    "high": 2.55,
+    "low": 1.72,
+    "volume": 4822674,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.79,
+    "close": 2.92,
+    "high": 3.7,
+    "low": 1.2,
+    "volume": 14896536,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "APP",
+    "open": 2.86,
+    "close": 6.75,
+    "high": 6.97,
+    "low": 2.66,
+    "volume": 15302236,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "APP",
+    "open": 6.86,
+    "close": 3.96,
+    "high": 6.9,
+    "low": 3.36,
+    "volume": 15168771,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "APP",
+    "open": 3.89,
+    "close": 3.64,
+    "high": 4.1,
+    "low": 3,
+    "volume": 6600384,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "APP",
+    "open": 3.56,
+    "close": 3.84,
+    "high": 4.09,
+    "low": 2.8,
+    "volume": 5442782,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "APP",
+    "open": 3.73,
+    "close": 3.7,
+    "high": 4.2,
+    "low": 3.35,
+    "volume": 5331539,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "APP",
+    "open": 3.71,
+    "close": 3.51,
+    "high": 3.88,
+    "low": 3.42,
+    "volume": 3411838,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "APP",
+    "open": 3.5,
+    "close": 3.07,
+    "high": 3.55,
+    "low": 2.42,
+    "volume": 7515437,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "APP",
+    "open": 3.12,
+    "close": 2.96,
+    "high": 3.4,
+    "low": 2.47,
+    "volume": 9265931,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "APP",
+    "open": 2.97,
+    "close": 3.1,
+    "high": 3.21,
+    "low": 2.72,
+    "volume": 6354592,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "APP",
+    "open": 3.19,
+    "close": 2.83,
+    "high": 3.45,
+    "low": 2.74,
+    "volume": 3442835,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "APP",
+    "open": 2.85,
+    "close": 2.81,
+    "high": 3.04,
+    "low": 2.56,
+    "volume": 2318457,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "APP",
+    "open": 2.81,
+    "close": 3.03,
+    "high": 3.88,
+    "low": 2.65,
+    "volume": 9821001,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "APP",
+    "open": 3.04,
+    "close": 3.07,
+    "high": 3.62,
+    "low": 2.96,
+    "volume": 5418049,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "APP",
+    "open": 3.1,
+    "close": 1.58,
+    "high": 3.3,
+    "low": 1.29,
+    "volume": 14845065,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.51,
+    "close": 1.83,
+    "high": 2.19,
+    "low": 1.14,
+    "volume": 19920246,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.81,
+    "close": 1.61,
+    "high": 1.88,
+    "low": 1.35,
+    "volume": 7429480,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.63,
+    "close": 0.78,
+    "high": 1.66,
+    "low": 0.66,
+    "volume": 17780323,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.85,
+    "close": 1.23,
+    "high": 1.65,
+    "low": 0.82,
+    "volume": 11985691,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.35,
+    "close": 0.97,
+    "high": 1.51,
+    "low": 0.86,
+    "volume": 8722790,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.99,
+    "close": 1.4,
+    "high": 1.65,
+    "low": 0.95,
+    "volume": 14901613,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.43,
+    "close": 1.66,
+    "high": 1.9,
+    "low": 1.4,
+    "volume": 12881261,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.68,
+    "close": 1.03,
+    "high": 1.72,
+    "low": 0.98,
+    "volume": 18332530,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.12,
+    "close": 1.14,
+    "high": 1.22,
+    "low": 1.02,
+    "volume": 7450475,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.14,
+    "close": 0.96,
+    "high": 1.14,
+    "low": 0.88,
+    "volume": 7337504,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.8,
+    "close": 1.45,
+    "high": 1.69,
+    "low": 0.7,
+    "volume": 37448581,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.54,
+    "close": 1.05,
+    "high": 1.54,
+    "low": 0.95,
+    "volume": 17003146,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.06,
+    "close": 0.89,
+    "high": 1.11,
+    "low": 0.8,
+    "volume": 11550447,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.87,
+    "close": 1.04,
+    "high": 1.21,
+    "low": 0.86,
+    "volume": 12710930,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.08,
+    "close": 0.97,
+    "high": 1.09,
+    "low": 0.85,
+    "volume": 7716530,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "APP",
+    "open": 1,
+    "close": 0.79,
+    "high": 1.03,
+    "low": 0.75,
+    "volume": 2945348,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.8,
+    "close": 0.87,
+    "high": 0.94,
+    "low": 0.68,
+    "volume": 4432560,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.85,
+    "close": 0.52,
+    "high": 0.98,
+    "low": 0.52,
+    "volume": 9300246,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.56,
+    "close": 0.72,
+    "high": 0.8,
+    "low": 0.52,
+    "volume": 8379093,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.74,
+    "close": 0.75,
+    "high": 1,
+    "low": 0.7,
+    "volume": 10406951,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.75,
+    "close": 0.76,
+    "high": 0.84,
+    "low": 0.63,
+    "volume": 5328110,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.77,
+    "close": 0.8,
+    "high": 1.21,
+    "low": 0.72,
+    "volume": 19205709,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.81,
+    "close": 0.99,
+    "high": 1.09,
+    "low": 0.75,
+    "volume": 18810748,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.99,
+    "close": 0.86,
+    "high": 0.99,
+    "low": 0.77,
+    "volume": 5478197,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.83,
+    "close": 0.86,
+    "high": 0.9,
+    "low": 0.8,
+    "volume": 4491190,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.89,
+    "close": 0.82,
+    "high": 0.95,
+    "low": 0.82,
+    "volume": 3476686,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.87,
+    "close": 1.06,
+    "high": 1.17,
+    "low": 0.85,
+    "volume": 11145979,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.05,
+    "close": 1.54,
+    "high": 1.7,
+    "low": 1.05,
+    "volume": 16364711,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.58,
+    "close": 1.06,
+    "high": 1.61,
+    "low": 1,
+    "volume": 11728349,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.07,
+    "close": 0.98,
+    "high": 1.15,
+    "low": 0.83,
+    "volume": 7385918,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.99,
+    "close": 1.01,
+    "high": 1.04,
+    "low": 0.9,
+    "volume": 3187995,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.05,
+    "close": 1.42,
+    "high": 1.46,
+    "low": 1,
+    "volume": 11363866,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.42,
+    "close": 1.33,
+    "high": 1.58,
+    "low": 1.25,
+    "volume": 7027005,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.35,
+    "close": 2.17,
+    "high": 2.4,
+    "low": 1.27,
+    "volume": 25634456,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "APP",
+    "open": 2.2,
+    "close": 1.93,
+    "high": 2.2,
+    "low": 1.76,
+    "volume": 19838130,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.95,
+    "close": 1.95,
+    "high": 2.08,
+    "low": 1.78,
+    "volume": 10851861,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.93,
+    "close": 1.92,
+    "high": 2.17,
+    "low": 1.85,
+    "volume": 14088298,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.89,
+    "close": 2.01,
+    "high": 2.09,
+    "low": 1.7,
+    "volume": 10474305,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "APP",
+    "open": 2.01,
+    "close": 1.43,
+    "high": 2.01,
+    "low": 1.41,
+    "volume": 11769640,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.47,
+    "close": 1.3,
+    "high": 1.52,
+    "low": 1.23,
+    "volume": 12415947,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.3,
+    "close": 1.34,
+    "high": 1.52,
+    "low": 1.04,
+    "volume": 17381154,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.33,
+    "close": 1.19,
+    "high": 1.37,
+    "low": 1.08,
+    "volume": 16919512,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.19,
+    "close": 1.23,
+    "high": 1.28,
+    "low": 1.01,
+    "volume": 12275244,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.21,
+    "close": 0.99,
+    "high": 1.45,
+    "low": 0.95,
+    "volume": 23271876,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.99,
+    "close": 0.72,
+    "high": 1.05,
+    "low": 0.55,
+    "volume": 26839086,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.75,
+    "close": 0.5,
+    "high": 0.91,
+    "low": 0.46,
+    "volume": 33050809,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.5,
+    "close": 0.65,
+    "high": 0.82,
+    "low": 0.46,
+    "volume": 96610085,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.63,
+    "close": 0.64,
+    "high": 0.75,
+    "low": 0.55,
+    "volume": 37317730,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.64,
+    "close": 0.9,
+    "high": 1,
+    "low": 0.51,
+    "volume": 179522219,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.9,
+    "close": 0.92,
+    "high": 1.3,
+    "low": 0.79,
+    "volume": 133991208,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.93,
+    "close": 0.94,
+    "high": 1.08,
+    "low": 0.83,
+    "volume": 40742249,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.95,
+    "close": 0.82,
+    "high": 1.03,
+    "low": 0.72,
+    "volume": 30735119,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.82,
+    "close": 0.71,
+    "high": 0.85,
+    "low": 0.6,
+    "volume": 28408551,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.71,
+    "close": 0.61,
+    "high": 0.78,
+    "low": 0.59,
+    "volume": 19712762,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.6,
+    "close": 1.03,
+    "high": 1.2,
+    "low": 0.5,
+    "volume": 73772523,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "APP",
+    "open": 1.05,
+    "close": 0.89,
+    "high": 1.06,
+    "low": 0.76,
+    "volume": 29530317,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.88,
+    "close": 0.89,
+    "high": 0.95,
+    "low": 0.84,
+    "volume": 11812675,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.89,
+    "close": 0.7,
+    "high": 0.89,
+    "low": 0.61,
+    "volume": 16515780,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.7,
+    "close": 0.67,
+    "high": 0.72,
+    "low": 0.59,
+    "volume": 16302690,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.68,
+    "close": 0.58,
+    "high": 0.68,
+    "low": 0.53,
+    "volume": 16084195,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.59,
+    "close": 0.49,
+    "high": 0.59,
+    "low": 0.41,
+    "volume": 18518085,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.52,
+    "close": 0.22,
+    "high": 0.53,
+    "low": 0.16,
+    "volume": 37684793,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.22,
+    "close": 0.2,
+    "high": 0.26,
+    "low": 0.1,
+    "volume": 31293844,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.2,
+    "close": 0.11,
+    "high": 0.2,
+    "low": 0.1,
+    "volume": 12388309,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "APP",
+    "open": 0.12,
+    "close": 0.11,
+    "high": 0.13,
+    "low": 0.11,
+    "volume": 1318810,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "APP",
+    "open": 70,
+    "close": 58.01,
+    "high": 71.51,
+    "low": 55.7,
+    "volume": 31337292,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "APP",
+    "open": 58.53,
+    "close": 74.31,
+    "high": 75.18,
+    "low": 49.41,
+    "volume": 19922712,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "APP",
+    "open": 74.25,
+    "close": 75.17,
+    "high": 90.03,
+    "low": 67.67,
+    "volume": 21135861,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "APP",
+    "open": 74.28,
+    "close": 61.47,
+    "high": 74.9,
+    "low": 58.15,
+    "volume": 14475495,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "APP",
+    "open": 62.02,
+    "close": 70.4,
+    "high": 77.03,
+    "low": 54.62,
+    "volume": 24299726,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "APP",
+    "open": 69.22,
+    "close": 72.37,
+    "high": 80.75,
+    "low": 67.91,
+    "volume": 29467618,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "APP",
+    "open": 72.59,
+    "close": 98.25,
+    "high": 100.5,
+    "low": 70.05,
+    "volume": 36493320,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "APP",
+    "open": 99,
+    "close": 91.11,
+    "high": 116.09,
+    "low": 88.83,
+    "volume": 42624621,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "APP",
+    "open": 93.77,
+    "close": 94.26,
+    "high": 99.29,
+    "low": 81.05,
+    "volume": 56129462,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "APP",
+    "open": 95,
+    "close": 64.42,
+    "high": 98.14,
+    "low": 57,
+    "volume": 28206669,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "APP",
+    "open": 65,
+    "close": 58.08,
+    "high": 76.38,
+    "low": 52.84,
+    "volume": 40771899,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "APP",
+    "open": 59.11,
+    "close": 55.07,
+    "high": 61.03,
+    "low": 43.08,
+    "volume": 46949042,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "APP",
+    "open": 55.24,
+    "close": 38.15,
+    "high": 58.27,
+    "low": 36.6,
+    "volume": 28481307,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "APP",
+    "open": 37.88,
+    "close": 38.11,
+    "high": 43.25,
+    "low": 27.04,
+    "volume": 89664610,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "APP",
+    "open": 38.56,
+    "close": 34.44,
+    "high": 44.76,
+    "low": 30.23,
+    "volume": 72378906,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "APP",
+    "open": 34.69,
+    "close": 35.54,
+    "high": 38.7,
+    "low": 30.63,
+    "volume": 39252644,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "APP",
+    "open": 34.98,
+    "close": 24.63,
+    "high": 40.55,
+    "low": 24.17,
+    "volume": 76228974,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "APP",
+    "open": 24.14,
+    "close": 19.49,
+    "high": 28.66,
+    "low": 19.34,
+    "volume": 53874786,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "APP",
+    "open": 19.62,
+    "close": 16.96,
+    "high": 21.79,
+    "low": 16.47,
+    "volume": 41475104,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "APP",
+    "open": 17.64,
+    "close": 14.41,
+    "high": 18.56,
+    "low": 13,
+    "volume": 80777789,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "APP",
+    "open": 14.3,
+    "close": 10.53,
+    "high": 14.49,
+    "low": 9.14,
+    "volume": 84075597,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "APP",
+    "open": 10.81,
+    "close": 12.7,
+    "high": 12.71,
+    "low": 9.21,
+    "volume": 52726143,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "APP",
+    "open": 12.76,
+    "close": 13.5,
+    "high": 17.38,
+    "low": 12.35,
+    "volume": 80019928,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "APP",
+    "open": 13.5,
+    "close": 15.75,
+    "high": 15.88,
+    "low": 11.69,
+    "volume": 54577588,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "APP",
+    "open": 15.62,
+    "close": 17,
+    "high": 17.34,
+    "low": 15.25,
+    "volume": 45509762,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "APP",
+    "open": 16.97,
+    "close": 25.01,
+    "high": 25.5,
+    "low": 15.7,
+    "volume": 76044002,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "APP",
+    "open": 24.51,
+    "close": 25.73,
+    "high": 26.62,
+    "low": 21.04,
+    "volume": 61515015,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "APP",
+    "open": 25.65,
+    "close": 31.4,
+    "high": 31.89,
+    "low": 25.24,
+    "volume": 34102230,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "APP",
+    "open": 31.14,
+    "close": 43.22,
+    "high": 43.24,
+    "low": 28.99,
+    "volume": 79201228,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "APP",
+    "open": 43.49,
+    "close": 39.96,
+    "high": 44.89,
+    "low": 37.12,
+    "volume": 54783881,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "APP",
+    "open": 40.15,
+    "close": 36.44,
+    "high": 42.22,
+    "low": 34.45,
+    "volume": 43335330,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "APP",
+    "open": 36.57,
+    "close": 37.48,
+    "high": 45.1,
+    "low": 36.05,
+    "volume": 76670320,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "APP",
+    "open": 37.65,
+    "close": 39.85,
+    "high": 44.57,
+    "low": 35.79,
+    "volume": 54214225,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "APP",
+    "open": 39.41,
+    "close": 41.13,
+    "high": 47.04,
+    "low": 37.4,
+    "volume": 64331764,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "APP",
+    "open": 41.54,
+    "close": 59.72,
+    "high": 61.35,
+    "low": 40.71,
+    "volume": 106001967,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "APP",
+    "open": 60.73,
+    "close": 69.22,
+    "high": 74.55,
+    "low": 59.3,
+    "volume": 89279734,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "APP",
+    "open": 69.04,
+    "close": 70.57,
+    "high": 79.55,
+    "low": 65.62,
+    "volume": 79105794,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "APP",
+    "open": 70.73,
+    "close": 81.48,
+    "high": 88.5,
+    "low": 69.37,
+    "volume": 108968719,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "APP",
+    "open": 83.05,
+    "close": 83.22,
+    "high": 87.08,
+    "low": 72.15,
+    "volume": 85633965,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "APP",
+    "open": 85.12,
+    "close": 77.1,
+    "high": 91.91,
+    "low": 73.08,
+    "volume": 60532867,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "APP",
+    "open": 78.89,
+    "close": 92.87,
+    "high": 93.7,
+    "low": 60.67,
+    "volume": 86934541,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "APP",
+    "open": 92.62,
+    "close": 130.55,
+    "high": 133.05,
+    "low": 82.51,
+    "volume": 108039465,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "APP",
+    "open": 130.79,
+    "close": 169.39,
+    "high": 174.46,
+    "low": 128.01,
+    "volume": 78519921,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "APP",
+    "open": 171.14,
+    "close": 336.75,
+    "high": 344.77,
+    "low": 158.33,
+    "volume": 152279183,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "APP",
+    "open": 335.79,
+    "close": 323.83,
+    "high": 417.63,
+    "low": 308.13,
+    "volume": 120581032,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

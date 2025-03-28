@@ -1,0 +1,1002 @@
+[
+  {
+    "ticker": "TTD",
+    "open": 2.88,
+    "close": 2.92,
+    "high": 3.34,
+    "low": 2.68,
+    "volume": 157062460,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 2.91,
+    "close": 2.52,
+    "high": 2.95,
+    "low": 2.35,
+    "volume": 88008980,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 2.54,
+    "close": 2.66,
+    "high": 3.05,
+    "low": 2.2,
+    "volume": 105955650,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 2.64,
+    "close": 2.77,
+    "high": 3.14,
+    "low": 2.55,
+    "volume": 79630040,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 2.81,
+    "close": 2.97,
+    "high": 3.12,
+    "low": 2.64,
+    "volume": 41853840,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 3.0,
+    "close": 4.22,
+    "high": 4.23,
+    "low": 2.81,
+    "volume": 101453970,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 4.16,
+    "close": 3.73,
+    "high": 4.62,
+    "low": 3.48,
+    "volume": 149568860,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 3.72,
+    "close": 3.73,
+    "high": 3.84,
+    "low": 3.5,
+    "volume": 86775470,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 3.76,
+    "close": 5.5,
+    "high": 5.54,
+    "low": 3.69,
+    "volume": 409638770,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 5.59,
+    "close": 5.01,
+    "high": 5.76,
+    "low": 4.73,
+    "volume": 237034660,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 5.06,
+    "close": 5.33,
+    "high": 5.79,
+    "low": 4.81,
+    "volume": 180744140,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 5.35,
+    "close": 5.3,
+    "high": 5.68,
+    "low": 4.65,
+    "volume": 250554100,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "TTD",
+    "open": 5.31,
+    "close": 6.15,
+    "high": 6.29,
+    "low": 5.16,
+    "volume": 197278600,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 6.2,
+    "close": 6.59,
+    "high": 6.73,
+    "low": 5.86,
+    "volume": 153247110,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 6.63,
+    "close": 4.91,
+    "high": 6.67,
+    "low": 4.51,
+    "volume": 360527140,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 4.84,
+    "close": 4.57,
+    "high": 5.09,
+    "low": 4.34,
+    "volume": 186363470,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 4.57,
+    "close": 4.85,
+    "high": 5.19,
+    "low": 4.54,
+    "volume": 154034560,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 4.79,
+    "close": 5.63,
+    "high": 6.09,
+    "low": 4.07,
+    "volume": 268841750,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 5.58,
+    "close": 4.96,
+    "high": 5.99,
+    "low": 4.73,
+    "volume": 178105920,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 4.9,
+    "close": 5.12,
+    "high": 5.5,
+    "low": 4.58,
+    "volume": 128227820,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 5.12,
+    "close": 8.55,
+    "high": 8.78,
+    "low": 4.76,
+    "volume": 454762840,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 8.6,
+    "close": 9.38,
+    "high": 9.46,
+    "low": 8.01,
+    "volume": 237140750,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 9.25,
+    "close": 8.43,
+    "high": 9.79,
+    "low": 8.37,
+    "volume": 135640290,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 8.41,
+    "close": 14.19,
+    "high": 14.35,
+    "low": 8.41,
+    "volume": 325342990,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "TTD",
+    "open": 14.19,
+    "close": 15.09,
+    "high": 16.15,
+    "low": 13.45,
+    "volume": 187729490,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 15.15,
+    "close": 12.36,
+    "high": 15.28,
+    "low": 10.5,
+    "volume": 304569130,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 12.48,
+    "close": 14.24,
+    "high": 14.35,
+    "low": 10.53,
+    "volume": 350075410,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 14.8,
+    "close": 11.61,
+    "high": 14.9,
+    "low": 10.24,
+    "volume": 249629820,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 11.19,
+    "close": 14.27,
+    "high": 14.58,
+    "low": 10.94,
+    "volume": 174159130,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 14.25,
+    "close": 19.75,
+    "high": 20.23,
+    "low": 13.86,
+    "volume": 368814560,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 19.92,
+    "close": 19.8,
+    "high": 21.47,
+    "low": 17.83,
+    "volume": 334729880,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 20.16,
+    "close": 22.15,
+    "high": 22.64,
+    "low": 19.12,
+    "volume": 239822470,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 22.29,
+    "close": 19.88,
+    "high": 23.27,
+    "low": 17.36,
+    "volume": 463089560,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 19.99,
+    "close": 22.78,
+    "high": 25.8,
+    "low": 19.6,
+    "volume": 342353080,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 23.6,
+    "close": 26.33,
+    "high": 27.97,
+    "low": 22.58,
+    "volume": 267752340,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 26.44,
+    "close": 24.58,
+    "high": 28.95,
+    "low": 23.9,
+    "volume": 345497110,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "TTD",
+    "open": 24.21,
+    "close": 18.75,
+    "high": 24.59,
+    "low": 18.01,
+    "volume": 316229040,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 18.8,
+    "close": 20.08,
+    "high": 21.66,
+    "low": 18.04,
+    "volume": 332110150,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 20.27,
+    "close": 26.33,
+    "high": 26.76,
+    "low": 18.59,
+    "volume": 329708330,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 26.11,
+    "close": 25.98,
+    "high": 27.89,
+    "low": 22.05,
+    "volume": 340249830,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 26.35,
+    "close": 26.92,
+    "high": 29.39,
+    "low": 26.11,
+    "volume": 369065160,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 26.81,
+    "close": 28.73,
+    "high": 32.38,
+    "low": 24.15,
+    "volume": 381634530,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 29.55,
+    "close": 19.3,
+    "high": 29.75,
+    "low": 13.6,
+    "volume": 527059660,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 18.49,
+    "close": 29.26,
+    "high": 30.6,
+    "low": 15.35,
+    "volume": 454427410,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 28.21,
+    "close": 31.16,
+    "high": 32.73,
+    "low": 26.9,
+    "volume": 477071750,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 31.02,
+    "close": 40.65,
+    "high": 42.11,
+    "low": 30.51,
+    "volume": 408093300,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "TTD",
+    "open": 40.71,
+    "close": 45.13,
+    "high": 47.57,
+    "low": 40.4,
+    "volume": 301619650,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "TTD",
+    "open": 45.6,
+    "close": 48.13,
+    "high": 51,
+    "low": 44.45,
+    "volume": 222012080,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 48.67,
+    "close": 51.88,
+    "high": 52.04,
+    "low": 40.85,
+    "volume": 226736380,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 53.0,
+    "close": 56.65,
+    "high": 67.5,
+    "low": 52.6,
+    "volume": 219105310,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 57.15,
+    "close": 90.11,
+    "high": 90.43,
+    "low": 54.35,
+    "volume": 224941550,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 90.41,
+    "close": 80.1,
+    "high": 97.28,
+    "low": 79.61,
+    "volume": 165203780,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 80.6,
+    "close": 76.6,
+    "high": 83.93,
+    "low": 73.11,
+    "volume": 150696100,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 78.25,
+    "close": 80.54,
+    "high": 92.11,
+    "low": 74.5,
+    "volume": 151583270,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 81.98,
+    "close": 65.17,
+    "high": 83.5,
+    "low": 56.1,
+    "volume": 245478490,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 67.39,
+    "close": 72.93,
+    "high": 76.87,
+    "low": 63.93,
+    "volume": 113351890,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 73.24,
+    "close": 58.81,
+    "high": 73.58,
+    "low": 46.71,
+    "volume": 309314730,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 59.52,
+    "close": 77.36,
+    "high": 81.25,
+    "low": 56.28,
+    "volume": 196168746,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "TTD",
+    "open": 77.16,
+    "close": 81.91,
+    "high": 86.15,
+    "low": 67.37,
+    "volume": 111455345,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "TTD",
+    "open": 82.16,
+    "close": 80.05,
+    "high": 90,
+    "low": 75.14,
+    "volume": 94416603,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 80.25,
+    "close": 70.3,
+    "high": 80.7,
+    "low": 67.71,
+    "volume": 70100122,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 70.03,
+    "close": 74.91,
+    "high": 82.99,
+    "low": 65.32,
+    "volume": 67234518,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 75.19,
+    "close": 103.42,
+    "high": 114.09,
+    "low": 68.46,
+    "volume": 164567874,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 105.2,
+    "close": 91.64,
+    "high": 105.85,
+    "low": 84.2,
+    "volume": 76528219,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 92.66,
+    "close": 69.54,
+    "high": 93.26,
+    "low": 55.05,
+    "volume": 136600265,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 70.46,
+    "close": 85.32,
+    "high": 86.88,
+    "low": 63.32,
+    "volume": 143746666,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 85.5,
+    "close": 69.25,
+    "high": 86.24,
+    "low": 51.18,
+    "volume": 145021195,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 69.85,
+    "close": 58.92,
+    "high": 75.98,
+    "low": 56.69,
+    "volume": 89835958,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 58.51,
+    "close": 52.05,
+    "high": 63.16,
+    "low": 39.39,
+    "volume": 189445625,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 52.74,
+    "close": 41.89,
+    "high": 55.86,
+    "low": 40.34,
+    "volume": 111198556,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "TTD",
+    "open": 42.13,
+    "close": 45,
+    "high": 51.19,
+    "low": 39,
+    "volume": 125197403,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "TTD",
+    "open": 44.3,
+    "close": 62.7,
+    "high": 76.75,
+    "low": 43.5,
+    "volume": 162035411,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 61.19,
+    "close": 59.75,
+    "high": 67.77,
+    "low": 55.92,
+    "volume": 96670755,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 60.25,
+    "close": 53.24,
+    "high": 64.66,
+    "low": 48.16,
+    "volume": 114284446,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 55.41,
+    "close": 52.14,
+    "high": 56.15,
+    "low": 39.43,
+    "volume": 131617334,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 51.98,
+    "close": 44.83,
+    "high": 54.97,
+    "low": 42.71,
+    "volume": 82777564,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 45.99,
+    "close": 50.7,
+    "high": 52.6,
+    "low": 41.2,
+    "volume": 78070114,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 50.9,
+    "close": 55.96,
+    "high": 66.35,
+    "low": 47.68,
+    "volume": 127063572,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 55.75,
+    "close": 60.91,
+    "high": 62.53,
+    "low": 50.33,
+    "volume": 81846690,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 60,
+    "close": 64.34,
+    "high": 65.67,
+    "low": 57.17,
+    "volume": 53059654,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 63.86,
+    "close": 70.08,
+    "high": 70.39,
+    "low": 60.56,
+    "volume": 98279042,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 70.12,
+    "close": 77.22,
+    "high": 79.38,
+    "low": 69.84,
+    "volume": 71140935,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "TTD",
+    "open": 77.24,
+    "close": 91.26,
+    "high": 91.85,
+    "low": 73.91,
+    "volume": 124396074,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "TTD",
+    "open": 90.34,
+    "close": 80.03,
+    "high": 90.67,
+    "low": 69.72,
+    "volume": 81817836,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 80.87,
+    "close": 78.15,
+    "high": 87.74,
+    "low": 73.76,
+    "volume": 63031595,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 78.16,
+    "close": 70.96,
+    "high": 86.42,
+    "low": 64.69,
+    "volume": 85106083,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 70.39,
+    "close": 70.46,
+    "high": 80.38,
+    "low": 60.23,
+    "volume": 150861857,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 70.14,
+    "close": 71.96,
+    "high": 78.34,
+    "low": 67.35,
+    "volume": 82711293,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 71.65,
+    "close": 68.43,
+    "high": 72.15,
+    "low": 61.48,
+    "volume": 98196982,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 68.75,
+    "close": 85.43,
+    "high": 94,
+    "low": 66.56,
+    "volume": 136930710,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 85.9,
+    "close": 87.42,
+    "high": 89.88,
+    "low": 76.42,
+    "volume": 74481526,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 87.4,
+    "close": 82.85,
+    "high": 88.61,
+    "low": 76.12,
+    "volume": 59634327,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "TTD",
+    "open": 83.14,
+    "close": 92.78,
+    "high": 97.65,
+    "low": 83.14,
+    "volume": 90658826,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "TTD",
+    "open": 93.29,
+    "close": 97.67,
+    "high": 99.54,
+    "low": 90.76,
+    "volume": 63474242,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 97.43,
+    "close": 89.88,
+    "high": 102.67,
+    "low": 88.26,
+    "volume": 74881622,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "TTD",
+    "open": 90.52,
+    "close": 104.53,
+    "high": 105.39,
+    "low": 77.11,
+    "volume": 81032393,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "TTD",
+    "open": 103.93,
+    "close": 109.65,
+    "high": 112.22,
+    "low": 97.84,
+    "volume": 54005857,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 110.58,
+    "close": 120.21,
+    "high": 123.85,
+    "low": 106.7,
+    "volume": 53435724,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "TTD",
+    "open": 119.86,
+    "close": 128.55,
+    "high": 132.65,
+    "low": 116,
+    "volume": 91658800,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "TTD",
+    "open": 128.59,
+    "close": 117.53,
+    "high": 141.53,
+    "low": 117.36,
+    "volume": 69699139,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

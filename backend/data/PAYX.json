@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "PAYX",
+    "open": 35.67,
+    "close": 34.1,
+    "high": 35.77,
+    "low": 33.55,
+    "volume": 34911575,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 33.92,
+    "close": 38.92,
+    "high": 39.19,
+    "low": 33.35,
+    "volume": 51766063,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 38.82,
+    "close": 38.44,
+    "high": 40.54,
+    "low": 36.93,
+    "volume": 42505803,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 38.59,
+    "close": 37.2,
+    "high": 40,
+    "low": 35.72,
+    "volume": 55688635,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 37.36,
+    "close": 37.5,
+    "high": 37.85,
+    "low": 34.39,
+    "volume": 54962280,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 37.32,
+    "close": 32.05,
+    "high": 37.61,
+    "low": 31.74,
+    "volume": 49493718,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 32.14,
+    "close": 35.6,
+    "high": 36.1,
+    "low": 31.88,
+    "volume": 64234932,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 35.62,
+    "close": 37.17,
+    "high": 39.12,
+    "low": 35.55,
+    "volume": 47079827,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 37.23,
+    "close": 37.51,
+    "high": 38.73,
+    "low": 35.89,
+    "volume": 43557160,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 37.35,
+    "close": 33.88,
+    "high": 38.88,
+    "low": 32.61,
+    "volume": 57502881,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 33.85,
+    "close": 30.71,
+    "high": 33.94,
+    "low": 29.06,
+    "volume": 54920462,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 30.7,
+    "close": 29.67,
+    "high": 31.23,
+    "low": 28.83,
+    "volume": 41021904,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 29.51,
+    "close": 30.15,
+    "high": 32.31,
+    "low": 29.25,
+    "volume": 40624637,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 30.08,
+    "close": 32.79,
+    "high": 33.22,
+    "low": 29.91,
+    "volume": 41611292,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 31.92,
+    "close": 33.16,
+    "high": 34.45,
+    "low": 31.8,
+    "volume": 33827481,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 33.3,
+    "close": 34.08,
+    "high": 34.57,
+    "low": 32.21,
+    "volume": 33118805,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 34.08,
+    "close": 30.49,
+    "high": 34.16,
+    "low": 29.69,
+    "volume": 39804210,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 30.6,
+    "close": 31.93,
+    "high": 31.97,
+    "low": 29.74,
+    "volume": 35734867,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 31.91,
+    "close": 32.82,
+    "high": 34.69,
+    "low": 31.05,
+    "volume": 51669839,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 33,
+    "close": 30.6,
+    "high": 33.07,
+    "low": 30.25,
+    "volume": 35199644,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 30.5,
+    "close": 28.88,
+    "high": 31.53,
+    "low": 28.8,
+    "volume": 43204485,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 28.87,
+    "close": 32.52,
+    "high": 33.72,
+    "low": 28.6,
+    "volume": 62672206,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 32.72,
+    "close": 34.91,
+    "high": 35.37,
+    "low": 32.5,
+    "volume": 43457931,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 34.78,
+    "close": 34.13,
+    "high": 35.27,
+    "low": 33.45,
+    "volume": 35089559,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 33.99,
+    "close": 37.09,
+    "high": 37.93,
+    "low": 32.37,
+    "volume": 51221981,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 37.02,
+    "close": 38.76,
+    "high": 39.01,
+    "low": 35.97,
+    "volume": 50619151,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 38.84,
+    "close": 42.41,
+    "high": 43.37,
+    "low": 38.7,
+    "volume": 44393561,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 42.73,
+    "close": 38.12,
+    "high": 43.2,
+    "low": 38.12,
+    "volume": 53991708,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 38.5,
+    "close": 36.35,
+    "high": 39,
+    "low": 36,
+    "volume": 53924685,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 35.98,
+    "close": 40.05,
+    "high": 40.18,
+    "low": 35.52,
+    "volume": 39049256,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 39.97,
+    "close": 41.66,
+    "high": 41.76,
+    "low": 38.97,
+    "volume": 49576594,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 42,
+    "close": 40.39,
+    "high": 42.37,
+    "low": 39.36,
+    "volume": 35103565,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 40.76,
+    "close": 36.71,
+    "high": 40.77,
+    "low": 36.11,
+    "volume": 41766154,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 36.87,
+    "close": 38.98,
+    "high": 39.89,
+    "low": 36.42,
+    "volume": 51784414,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 39.52,
+    "close": 34.18,
+    "high": 39.52,
+    "low": 33.65,
+    "volume": 39561659,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 33.95,
+    "close": 35.95,
+    "high": 36.37,
+    "low": 32.98,
+    "volume": 44747543,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 36.22,
+    "close": 36.85,
+    "high": 37.48,
+    "low": 34.65,
+    "volume": 39327647,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 36.96,
+    "close": 39.48,
+    "high": 40.34,
+    "low": 36.49,
+    "volume": 45034891,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 39.64,
+    "close": 39.41,
+    "high": 40.57,
+    "low": 38.23,
+    "volume": 34652935,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 39.48,
+    "close": 39.54,
+    "high": 41.21,
+    "low": 38.66,
+    "volume": 38755786,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 39.55,
+    "close": 40.01,
+    "high": 41,
+    "low": 38.79,
+    "volume": 42947778,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 40.03,
+    "close": 40.63,
+    "high": 42.5,
+    "low": 40.03,
+    "volume": 49408751,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 39.69,
+    "close": 37.87,
+    "high": 41.1,
+    "low": 37.57,
+    "volume": 74784304,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 38.19,
+    "close": 37.1,
+    "high": 38.34,
+    "low": 36.08,
+    "volume": 78904946,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 37.02,
+    "close": 40.4,
+    "high": 40.5,
+    "low": 37.01,
+    "volume": 80926009,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 40.63,
+    "close": 39.12,
+    "high": 40.84,
+    "low": 38.69,
+    "volume": 59261933,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 39.41,
+    "close": 41.38,
+    "high": 44.14,
+    "low": 38.79,
+    "volume": 81322396,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 41.35,
+    "close": 44.43,
+    "high": 47.14,
+    "low": 41,
+    "volume": 93893547,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 44.59,
+    "close": 41,
+    "high": 45.65,
+    "low": 40.77,
+    "volume": 57854423,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 40.86,
+    "close": 41.78,
+    "high": 43,
+    "low": 39.75,
+    "volume": 56631088,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 41.4,
+    "close": 39,
+    "high": 41.94,
+    "low": 37.05,
+    "volume": 63981240,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 38.72,
+    "close": 36.22,
+    "high": 40.68,
+    "low": 35.96,
+    "volume": 55183770,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 36.02,
+    "close": 32.72,
+    "high": 36.25,
+    "low": 31.41,
+    "volume": 89871299,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 33.53,
+    "close": 31.46,
+    "high": 35.29,
+    "low": 31.35,
+    "volume": 68603802,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 31.85,
+    "close": 34.26,
+    "high": 34.46,
+    "low": 30.09,
+    "volume": 80554624,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 34.47,
+    "close": 36.37,
+    "high": 37.15,
+    "low": 34.38,
+    "volume": 69394373,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 36.18,
+    "close": 34.55,
+    "high": 37.47,
+    "low": 33.93,
+    "volume": 60355917,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 34.3,
+    "close": 31.28,
+    "high": 34.36,
+    "low": 31.18,
+    "volume": 92453669,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 31.02,
+    "close": 32.92,
+    "high": 34.07,
+    "low": 30.26,
+    "volume": 89496104,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 33.06,
+    "close": 34.08,
+    "high": 35.53,
+    "low": 32.1,
+    "volume": 55423205,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 35.2,
+    "close": 33.03,
+    "high": 35.29,
+    "low": 31.16,
+    "volume": 96016579,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 33.67,
+    "close": 28.54,
+    "high": 33.67,
+    "low": 23.7,
+    "volume": 143419054,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 28.64,
+    "close": 28.26,
+    "high": 29.41,
+    "low": 23.22,
+    "volume": 86451716,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 27.91,
+    "close": 26.28,
+    "high": 27.95,
+    "low": 24.45,
+    "volume": 85722456,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 26.31,
+    "close": 24.29,
+    "high": 27.06,
+    "low": 24.08,
+    "volume": 81707518,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 24.12,
+    "close": 22.06,
+    "high": 27.03,
+    "low": 21.83,
+    "volume": 97568967,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 21.69,
+    "close": 25.67,
+    "high": 26.05,
+    "low": 20.31,
+    "volume": 124908039,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 25.16,
+    "close": 27.01,
+    "high": 27.74,
+    "low": 24.93,
+    "volume": 79137070,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 26.76,
+    "close": 27.34,
+    "high": 28.2,
+    "low": 26.25,
+    "volume": 63482333,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 28.18,
+    "close": 25.2,
+    "high": 28.65,
+    "low": 24.06,
+    "volume": 114212942,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 25.27,
+    "close": 26.5,
+    "high": 27,
+    "low": 23.84,
+    "volume": 83373680,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 26.5,
+    "close": 28.29,
+    "high": 28.74,
+    "low": 26.01,
+    "volume": 64506705,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 28.45,
+    "close": 29.05,
+    "high": 31.54,
+    "low": 27.16,
+    "volume": 78374800,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 28.8,
+    "close": 28.41,
+    "high": 29.6,
+    "low": 27.85,
+    "volume": 68316825,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 28.86,
+    "close": 31.35,
+    "high": 31.85,
+    "low": 28.15,
+    "volume": 65515640,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 31.47,
+    "close": 30.64,
+    "high": 32.88,
+    "low": 30.64,
+    "volume": 72224858,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 31.14,
+    "close": 28.99,
+    "high": 31.9,
+    "low": 28.62,
+    "volume": 76125267,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 29.26,
+    "close": 29.94,
+    "high": 30.57,
+    "low": 28.5,
+    "volume": 55831501,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 30.24,
+    "close": 30.72,
+    "high": 32.82,
+    "low": 29.86,
+    "volume": 67588661,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 30.72,
+    "close": 30.57,
+    "high": 31.91,
+    "low": 30.4,
+    "volume": 53244611,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 30.6,
+    "close": 28.54,
+    "high": 30.98,
+    "low": 28.11,
+    "volume": 84767115,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 28.39,
+    "close": 25.97,
+    "high": 29.14,
+    "low": 25.78,
+    "volume": 80441380,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 25.85,
+    "close": 25.99,
+    "high": 27.29,
+    "low": 24.89,
+    "volume": 105254692,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 26.31,
+    "close": 24.89,
+    "high": 26.31,
+    "low": 24.65,
+    "volume": 74243830,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 25.25,
+    "close": 27.49,
+    "high": 27.72,
+    "low": 25.16,
+    "volume": 76085098,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 27.54,
+    "close": 27.74,
+    "high": 28.29,
+    "low": 27.02,
+    "volume": 78872757,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 27.78,
+    "close": 28.54,
+    "high": 28.88,
+    "low": 27.45,
+    "volume": 61354807,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 28.86,
+    "close": 30.91,
+    "high": 31.29,
+    "low": 28.78,
+    "volume": 61869279,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 31.24,
+    "close": 32,
+    "high": 33.37,
+    "low": 30.68,
+    "volume": 55388775,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 32.19,
+    "close": 33.63,
+    "high": 33.69,
+    "low": 32.17,
+    "volume": 36638104,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 33.75,
+    "close": 31.39,
+    "high": 33.91,
+    "low": 30.75,
+    "volume": 65908392,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 31.39,
+    "close": 32.71,
+    "high": 33.71,
+    "low": 31.39,
+    "volume": 46438821,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 32.91,
+    "close": 32.3,
+    "high": 33,
+    "low": 31.3,
+    "volume": 45260987,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 32.27,
+    "close": 30.72,
+    "high": 32.27,
+    "low": 29.11,
+    "volume": 73773968,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 30.6,
+    "close": 28.23,
+    "high": 31.68,
+    "low": 27.88,
+    "volume": 64368837,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 28.41,
+    "close": 26.98,
+    "high": 28.49,
+    "low": 25.12,
+    "volume": 108151877,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 27,
+    "close": 26.37,
+    "high": 27.65,
+    "low": 25.25,
+    "volume": 81495972,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 26.07,
+    "close": 29.14,
+    "high": 30.11,
+    "low": 25.2,
+    "volume": 91595366,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 28.36,
+    "close": 29.11,
+    "high": 29.74,
+    "low": 27.11,
+    "volume": 59439384,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 29.18,
+    "close": 30.11,
+    "high": 30.59,
+    "low": 28.76,
+    "volume": 50439275,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 30.67,
+    "close": 31.51,
+    "high": 32.73,
+    "low": 29.94,
+    "volume": 70791047,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 31.83,
+    "close": 31.3,
+    "high": 32.27,
+    "low": 30.87,
+    "volume": 43885803,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 31.57,
+    "close": 30.99,
+    "high": 32.24,
+    "low": 30.88,
+    "volume": 52914125,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 30.87,
+    "close": 30.98,
+    "high": 32.08,
+    "low": 30.3,
+    "volume": 63376691,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 30.97,
+    "close": 29.97,
+    "high": 31.16,
+    "low": 29.12,
+    "volume": 54443972,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 29.49,
+    "close": 31.41,
+    "high": 32.73,
+    "low": 29.12,
+    "volume": 56919774,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 31.19,
+    "close": 32.69,
+    "high": 33.4,
+    "low": 31.05,
+    "volume": 77219262,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 32.9,
+    "close": 33.26,
+    "high": 33.44,
+    "low": 31.91,
+    "volume": 42420439,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 33.13,
+    "close": 33.29,
+    "high": 34.7,
+    "low": 32.87,
+    "volume": 48159824,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 33.06,
+    "close": 32.42,
+    "high": 33.91,
+    "low": 32.22,
+    "volume": 35615047,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 32.6,
+    "close": 32.54,
+    "high": 33.61,
+    "low": 31.27,
+    "volume": 44222579,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 32.63,
+    "close": 31.1,
+    "high": 34.06,
+    "low": 30.55,
+    "volume": 71002731,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 31.7,
+    "close": 32.65,
+    "high": 32.69,
+    "low": 31.47,
+    "volume": 61215944,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 32.75,
+    "close": 33.1,
+    "high": 34.05,
+    "low": 32.61,
+    "volume": 53958018,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 32.73,
+    "close": 35.06,
+    "high": 35.18,
+    "low": 32.73,
+    "volume": 49862208,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 34.86,
+    "close": 36.41,
+    "high": 36.42,
+    "low": 34.65,
+    "volume": 54297329,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 36.48,
+    "close": 37.23,
+    "high": 38.66,
+    "low": 36.21,
+    "volume": 44840277,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 37.49,
+    "close": 36.51,
+    "high": 38.14,
+    "low": 35.74,
+    "volume": 48033867,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 36.43,
+    "close": 39.44,
+    "high": 39.66,
+    "low": 36.32,
+    "volume": 56941397,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 39.61,
+    "close": 38.68,
+    "high": 40.84,
+    "low": 38.33,
+    "volume": 36490629,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 38.96,
+    "close": 40.64,
+    "high": 41.24,
+    "low": 36.8,
+    "volume": 30998466,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 39.92,
+    "close": 42.27,
+    "high": 43.62,
+    "low": 39.21,
+    "volume": 54056386,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 42.22,
+    "close": 43.73,
+    "high": 44.01,
+    "low": 41.27,
+    "volume": 41546490,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 43.87,
+    "close": 45.53,
+    "high": 45.94,
+    "low": 42.52,
+    "volume": 56039617,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 45.44,
+    "close": 41.82,
+    "high": 45.95,
+    "low": 41.47,
+    "volume": 56914161,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 41.87,
+    "close": 41.76,
+    "high": 41.98,
+    "low": 39.86,
+    "volume": 51142111,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 41.55,
+    "close": 42.6,
+    "high": 43.56,
+    "low": 40.99,
+    "volume": 45133557,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 42.51,
+    "close": 41.81,
+    "high": 43.3,
+    "low": 39.8,
+    "volume": 50616330,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 41.78,
+    "close": 41.11,
+    "high": 41.89,
+    "low": 40.03,
+    "volume": 38281307,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 41.15,
+    "close": 41.56,
+    "high": 41.99,
+    "low": 40.2,
+    "volume": 35129387,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 40.7,
+    "close": 41.01,
+    "high": 42.66,
+    "low": 40.59,
+    "volume": 43428910,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 40.98,
+    "close": 41.65,
+    "high": 42.22,
+    "low": 40.1,
+    "volume": 34225563,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 41.82,
+    "close": 44.2,
+    "high": 44.49,
+    "low": 41.59,
+    "volume": 46110669,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 43.54,
+    "close": 46.94,
+    "high": 46.99,
+    "low": 42.06,
+    "volume": 53447048,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 46.88,
+    "close": 47.41,
+    "high": 48.2,
+    "low": 46.75,
+    "volume": 40354196,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 47.39,
+    "close": 46.17,
+    "high": 47.75,
+    "low": 46.1,
+    "volume": 58681396,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 46.36,
+    "close": 45.26,
+    "high": 48.48,
+    "low": 45.07,
+    "volume": 46323250,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 45.44,
+    "close": 49.84,
+    "high": 50.19,
+    "low": 44.52,
+    "volume": 35557911,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 49.96,
+    "close": 49.62,
+    "high": 51.72,
+    "low": 48.08,
+    "volume": 47932929,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 49.22,
+    "close": 48.39,
+    "high": 49.81,
+    "low": 48,
+    "volume": 32174289,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 48.51,
+    "close": 49.41,
+    "high": 50.68,
+    "low": 48.43,
+    "volume": 31979410,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 49.58,
+    "close": 46.88,
+    "high": 49.79,
+    "low": 46.52,
+    "volume": 41976681,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 46,
+    "close": 46.4,
+    "high": 48.45,
+    "low": 44.38,
+    "volume": 48643953,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 46.16,
+    "close": 44.66,
+    "high": 48.66,
+    "low": 41.59,
+    "volume": 52958492,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 43.81,
+    "close": 47.63,
+    "high": 47.7,
+    "low": 43.19,
+    "volume": 49602203,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 47.44,
+    "close": 51.58,
+    "high": 52.38,
+    "low": 46.39,
+    "volume": 55803459,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 51.71,
+    "close": 54.25,
+    "high": 54.54,
+    "low": 51.47,
+    "volume": 39282269,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 54.24,
+    "close": 52.89,
+    "high": 54.78,
+    "low": 51.11,
+    "volume": 50950292,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 52,
+    "close": 47.86,
+    "high": 52.11,
+    "low": 45.76,
+    "volume": 72643010,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 47.73,
+    "close": 51.39,
+    "high": 52.5,
+    "low": 45.83,
+    "volume": 61705437,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 51.9,
+    "close": 54.01,
+    "high": 54.57,
+    "low": 51.43,
+    "volume": 40710575,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 53.31,
+    "close": 52.12,
+    "high": 54.51,
+    "low": 51.8,
+    "volume": 38978033,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 52.23,
+    "close": 54.22,
+    "high": 54.58,
+    "low": 51.06,
+    "volume": 34918852,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 54.11,
+    "close": 59.5,
+    "high": 59.55,
+    "low": 53.57,
+    "volume": 51095367,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 59.11,
+    "close": 59.28,
+    "high": 61.87,
+    "low": 58.52,
+    "volume": 51152609,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 59.29,
+    "close": 60.67,
+    "high": 61.19,
+    "low": 58.23,
+    "volume": 33176879,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 60.8,
+    "close": 57.87,
+    "high": 61.62,
+    "low": 57.01,
+    "volume": 45744915,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 57.48,
+    "close": 55.2,
+    "high": 57.78,
+    "low": 54.75,
+    "volume": 37474417,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 55.34,
+    "close": 58.95,
+    "high": 59.68,
+    "low": 52.78,
+    "volume": 62118324,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 58.95,
+    "close": 60.88,
+    "high": 62.18,
+    "low": 58.23,
+    "volume": 38322582,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 61.15,
+    "close": 60.29,
+    "high": 62.17,
+    "low": 60.09,
+    "volume": 27640185,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 59.5,
+    "close": 61.42,
+    "high": 62.13,
+    "low": 57.07,
+    "volume": 43418072,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 61.71,
+    "close": 58.9,
+    "high": 63.03,
+    "low": 58.58,
+    "volume": 44951669,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 58.75,
+    "close": 59.28,
+    "high": 60.07,
+    "low": 57.68,
+    "volume": 33566863,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 59.33,
+    "close": 59.23,
+    "high": 59.5,
+    "low": 56.57,
+    "volume": 40360685,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 59.49,
+    "close": 56.94,
+    "high": 61.57,
+    "low": 56.51,
+    "volume": 51487589,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 56.4,
+    "close": 57.85,
+    "high": 61.37,
+    "low": 56.35,
+    "volume": 47409569,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 57.9,
+    "close": 57.03,
+    "high": 57.96,
+    "low": 54.2,
+    "volume": 46700792,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 57.04,
+    "close": 59.96,
+    "high": 60.65,
+    "low": 56.43,
+    "volume": 32793152,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 59.95,
+    "close": 63.79,
+    "high": 65.62,
+    "low": 59.34,
+    "volume": 54435741,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 63.87,
+    "close": 67.31,
+    "high": 67.88,
+    "low": 63.48,
+    "volume": 35283099,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 66.9,
+    "close": 68.08,
+    "high": 70.39,
+    "low": 65.89,
+    "volume": 41111252,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 68.34,
+    "close": 68.25,
+    "high": 73.1,
+    "low": 66.29,
+    "volume": 49590783,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 68.09,
+    "close": 65.13,
+    "high": 68.49,
+    "low": 61.8,
+    "volume": 45246898,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 63.65,
+    "close": 61.59,
+    "high": 67.46,
+    "low": 59.36,
+    "volume": 52367041,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 61.5,
+    "close": 60.57,
+    "high": 62.49,
+    "low": 59.55,
+    "volume": 48093771,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 60.59,
+    "close": 65.58,
+    "high": 66.36,
+    "low": 60.13,
+    "volume": 44563100,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 65.98,
+    "close": 68.35,
+    "high": 70.38,
+    "low": 65.93,
+    "volume": 49022143,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 67.8,
+    "close": 69.02,
+    "high": 72.51,
+    "low": 67.24,
+    "volume": 43903497,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 68.97,
+    "close": 73.25,
+    "high": 73.4,
+    "low": 68.1,
+    "volume": 33376447,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 73.16,
+    "close": 73.65,
+    "high": 75.73,
+    "low": 72.29,
+    "volume": 34498251,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 74.01,
+    "close": 65.49,
+    "high": 76.02,
+    "low": 62.89,
+    "volume": 66056057,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 65.43,
+    "close": 70.76,
+    "high": 70.99,
+    "low": 64.58,
+    "volume": 44461793,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 71.55,
+    "close": 65.15,
+    "high": 71.75,
+    "low": 61.32,
+    "volume": 47830900,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 64.08,
+    "close": 70.8,
+    "high": 71.17,
+    "low": 63.33,
+    "volume": 39746174,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 70.94,
+    "close": 77.02,
+    "high": 77.05,
+    "low": 70.94,
+    "volume": 39001214,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 77.36,
+    "close": 80.2,
+    "high": 80.74,
+    "low": 75.1,
+    "volume": 43901967,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 80.75,
+    "close": 84.31,
+    "high": 84.39,
+    "low": 79.97,
+    "volume": 32465380,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 84.5,
+    "close": 85.79,
+    "high": 87.75,
+    "low": 81.83,
+    "volume": 38843932,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 85.95,
+    "close": 82.29,
+    "high": 88.43,
+    "low": 81.27,
+    "volume": 43990685,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 83.31,
+    "close": 83.05,
+    "high": 86.74,
+    "low": 81.7,
+    "volume": 42293551,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 83.12,
+    "close": 81.7,
+    "high": 84.47,
+    "low": 79.37,
+    "volume": 33013820,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 81.09,
+    "close": 82.77,
+    "high": 84.49,
+    "low": 78.81,
+    "volume": 33133312,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 83.15,
+    "close": 83.64,
+    "high": 85.42,
+    "low": 80,
+    "volume": 32544183,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 84.16,
+    "close": 86.12,
+    "high": 86.77,
+    "low": 81.89,
+    "volume": 26439914,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 86.02,
+    "close": 85.06,
+    "high": 87.84,
+    "low": 83.61,
+    "volume": 31533622,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 85.5,
+    "close": 85.77,
+    "high": 89.96,
+    "low": 84.11,
+    "volume": 28893631,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 86.45,
+    "close": 77.48,
+    "high": 90.53,
+    "low": 75.35,
+    "volume": 29990191,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 77.61,
+    "close": 62.92,
+    "high": 82.8,
+    "low": 47.87,
+    "volume": 96967304,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 59.42,
+    "close": 68.52,
+    "high": 70.86,
+    "low": 58.85,
+    "volume": 63240130,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 67.14,
+    "close": 72.28,
+    "high": 73,
+    "low": 60.0,
+    "volume": 50457247,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 72.09,
+    "close": 75.75,
+    "high": 80.64,
+    "low": 71.04,
+    "volume": 48533891,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 75.78,
+    "close": 71.92,
+    "high": 78.78,
+    "low": 69.96,
+    "volume": 44605138,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 71.87,
+    "close": 76.47,
+    "high": 77.42,
+    "low": 71.47,
+    "volume": 29171475,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 76.24,
+    "close": 79.77,
+    "high": 80.52,
+    "low": 74.1,
+    "volume": 38012612,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 80.11,
+    "close": 82.25,
+    "high": 85.12,
+    "low": 78,
+    "volume": 35347355,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 83.19,
+    "close": 93.15,
+    "high": 94.95,
+    "low": 82.41,
+    "volume": 28983195,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 93.74,
+    "close": 93.18,
+    "high": 99.95,
+    "low": 90.73,
+    "volume": 37871626,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 93.21,
+    "close": 87.32,
+    "high": 93.52,
+    "low": 85.3,
+    "volume": 36096873,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 87.77,
+    "close": 91.07,
+    "high": 93.8,
+    "low": 87.51,
+    "volume": 33179845,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 92,
+    "close": 98.02,
+    "high": 101.01,
+    "low": 88.69,
+    "volume": 47619142,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 97.44,
+    "close": 97.49,
+    "high": 101.15,
+    "low": 92.74,
+    "volume": 38734420,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 98.44,
+    "close": 101.14,
+    "high": 102.61,
+    "low": 96.12,
+    "volume": 31140707,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 101.26,
+    "close": 107.3,
+    "high": 108.23,
+    "low": 99.88,
+    "volume": 31881597,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 106.98,
+    "close": 113.82,
+    "high": 114.15,
+    "low": 106.98,
+    "volume": 34966439,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 114.14,
+    "close": 114.47,
+    "high": 118.22,
+    "low": 112.29,
+    "volume": 24803453,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 114.69,
+    "close": 112.45,
+    "high": 114.72,
+    "low": 106.55,
+    "volume": 32561984,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 113.34,
+    "close": 123.28,
+    "high": 124.21,
+    "low": 111.35,
+    "volume": 28184267,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 123.28,
+    "close": 119.2,
+    "high": 126.82,
+    "low": 118.29,
+    "volume": 25461009,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 120.74,
+    "close": 136.5,
+    "high": 138.97,
+    "low": 117.76,
+    "volume": 38508046,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 136.01,
+    "close": 117.76,
+    "high": 136.85,
+    "low": 109.87,
+    "volume": 43236268,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 117.08,
+    "close": 119.06,
+    "high": 124.3,
+    "low": 111.39,
+    "volume": 36523164,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 118.88,
+    "close": 136.47,
+    "high": 140.67,
+    "low": 116.84,
+    "volume": 40737293,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 136.77,
+    "close": 126.73,
+    "high": 141.92,
+    "low": 126.45,
+    "volume": 41993215,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 126.89,
+    "close": 123.83,
+    "high": 132.9,
+    "low": 114.1,
+    "volume": 39758053,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 124.2,
+    "close": 113.87,
+    "high": 127.45,
+    "low": 110.47,
+    "volume": 41170755,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 114.22,
+    "close": 128.28,
+    "high": 129,
+    "low": 111.17,
+    "volume": 30578052,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 127.24,
+    "close": 123.34,
+    "high": 139.47,
+    "low": 123.04,
+    "volume": 31768365,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 123.08,
+    "close": 112.21,
+    "high": 128.37,
+    "low": 111.87,
+    "volume": 38248296,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 113.27,
+    "close": 118.31,
+    "high": 120.51,
+    "low": 105.66,
+    "volume": 36021054,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 119.06,
+    "close": 124.03,
+    "high": 124.19,
+    "low": 111.26,
+    "volume": 30997840,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 124.45,
+    "close": 115.56,
+    "high": 127.89,
+    "low": 108,
+    "volume": 36991639,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 116.64,
+    "close": 115.86,
+    "high": 120.96,
+    "low": 112.38,
+    "volume": 33308711,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 115.64,
+    "close": 110.4,
+    "high": 120.92,
+    "low": 109.45,
+    "volume": 28706733,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 110.24,
+    "close": 114.59,
+    "high": 117.93,
+    "low": 106.17,
+    "volume": 52548263,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 112.66,
+    "close": 109.86,
+    "high": 112.75,
+    "low": 104.78,
+    "volume": 38039590,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 109.52,
+    "close": 104.93,
+    "high": 110.72,
+    "low": 104.09,
+    "volume": 50874901,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 105.89,
+    "close": 111.87,
+    "high": 114.77,
+    "low": 105.07,
+    "volume": 44519140,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "PAYX",
+    "open": 111.43,
+    "close": 123.41,
+    "high": 124.89,
+    "low": 110.53,
+    "volume": 35631283,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

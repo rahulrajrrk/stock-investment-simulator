@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "ORLY",
+    "open": 18.68,
+    "close": 18.4,
+    "high": 19.98,
+    "low": 18.38,
+    "volume": 7967354,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 18.42,
+    "close": 21.73,
+    "high": 22.45,
+    "low": 18.27,
+    "volume": 13135536,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 21.75,
+    "close": 21.76,
+    "high": 21.85,
+    "low": 20.14,
+    "volume": 8779996,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 21.7,
+    "close": 19.28,
+    "high": 21.9,
+    "low": 18.98,
+    "volume": 14426794,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 19.32,
+    "close": 19.3,
+    "high": 19.84,
+    "low": 18.23,
+    "volume": 12209934,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 19.14,
+    "close": 20.32,
+    "high": 20.84,
+    "low": 18.62,
+    "volume": 11627734,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 20.32,
+    "close": 20.02,
+    "high": 20.45,
+    "low": 18.66,
+    "volume": 15129794,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 19.94,
+    "close": 22.45,
+    "high": 23.34,
+    "low": 19.59,
+    "volume": 15382410,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 22.35,
+    "close": 22.47,
+    "high": 22.55,
+    "low": 20.57,
+    "volume": 14123394,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 22.5,
+    "close": 22.6,
+    "high": 23.54,
+    "low": 21.73,
+    "volume": 12288090,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 22.68,
+    "close": 20.25,
+    "high": 22.68,
+    "low": 19.48,
+    "volume": 15848680,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 20.27,
+    "close": 19.7,
+    "high": 20.33,
+    "low": 18.03,
+    "volume": 19881738,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 19.71,
+    "close": 19.14,
+    "high": 20.8,
+    "low": 18.89,
+    "volume": 16945182,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 19.11,
+    "close": 21.53,
+    "high": 21.6,
+    "low": 18.5,
+    "volume": 18940228,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 21.39,
+    "close": 21.77,
+    "high": 22.82,
+    "low": 21.39,
+    "volume": 13873668,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 21.67,
+    "close": 22.52,
+    "high": 22.66,
+    "low": 21.35,
+    "volume": 11510232,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 22.61,
+    "close": 22.86,
+    "high": 23.5,
+    "low": 21.98,
+    "volume": 11282948,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 23.12,
+    "close": 25.45,
+    "high": 25.48,
+    "low": 22.71,
+    "volume": 13394198,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 25.39,
+    "close": 24.77,
+    "high": 26.21,
+    "low": 24.2,
+    "volume": 11075636,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 24.86,
+    "close": 25.66,
+    "high": 26.24,
+    "low": 23.2,
+    "volume": 13540010,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 25.49,
+    "close": 27.78,
+    "high": 28.8,
+    "low": 25.45,
+    "volume": 15196104,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 27.89,
+    "close": 29.83,
+    "high": 30.5,
+    "low": 27.75,
+    "volume": 11838694,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 29.67,
+    "close": 32.26,
+    "high": 32.53,
+    "low": 29.04,
+    "volume": 9791826,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 32.47,
+    "close": 27.57,
+    "high": 32.47,
+    "low": 27.27,
+    "volume": 10216247,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 27.44,
+    "close": 28.18,
+    "high": 29.98,
+    "low": 26.55,
+    "volume": 11503661,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 28.39,
+    "close": 28.2,
+    "high": 29.14,
+    "low": 25.75,
+    "volume": 12443211,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 28.09,
+    "close": 30.45,
+    "high": 31.16,
+    "low": 28,
+    "volume": 7959463,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 30.73,
+    "close": 32.01,
+    "high": 32.52,
+    "low": 30.47,
+    "volume": 7260622,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 32.25,
+    "close": 32.82,
+    "high": 32.95,
+    "low": 30.87,
+    "volume": 6815349,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 32.73,
+    "close": 32.72,
+    "high": 34.61,
+    "low": 32.08,
+    "volume": 5814678,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 35.04,
+    "close": 36.56,
+    "high": 38.3,
+    "low": 35,
+    "volume": 11772935,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 36.82,
+    "close": 33.88,
+    "high": 36.99,
+    "low": 32.42,
+    "volume": 8125646,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 34.02,
+    "close": 31.69,
+    "high": 34.34,
+    "low": 31.11,
+    "volume": 9101115,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 31.58,
+    "close": 31.19,
+    "high": 33.32,
+    "low": 29.3,
+    "volume": 15009324,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 31.12,
+    "close": 28.35,
+    "high": 31.61,
+    "low": 27.49,
+    "volume": 18856035,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 28.2,
+    "close": 29.69,
+    "high": 30,
+    "low": 27.67,
+    "volume": 9755701,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 29.7,
+    "close": 33.21,
+    "high": 34.24,
+    "low": 29.29,
+    "volume": 10596115,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 33.27,
+    "close": 32.29,
+    "high": 35.1,
+    "low": 30.92,
+    "volume": 14922764,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 32.49,
+    "close": 31.67,
+    "high": 33.45,
+    "low": 31.14,
+    "volume": 7838684,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 31.64,
+    "close": 32.06,
+    "high": 32.64,
+    "low": 31.21,
+    "volume": 11065998,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 32.18,
+    "close": 34.91,
+    "high": 35,
+    "low": 31.45,
+    "volume": 12660087,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 35.02,
+    "close": 34.43,
+    "high": 35.72,
+    "low": 32.8,
+    "volume": 11058940,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 33.96,
+    "close": 33.1,
+    "high": 34.35,
+    "low": 31.51,
+    "volume": 12963594,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 33.25,
+    "close": 35.6,
+    "high": 38.84,
+    "low": 32.58,
+    "volume": 16709772,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 35.7,
+    "close": 37.99,
+    "high": 38.29,
+    "low": 35,
+    "volume": 16276993,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 38.11,
+    "close": 36.55,
+    "high": 38.28,
+    "low": 35.64,
+    "volume": 13297539,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 36.66,
+    "close": 33.31,
+    "high": 37.25,
+    "low": 32.01,
+    "volume": 23968866,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 33.4,
+    "close": 35.54,
+    "high": 38.2,
+    "low": 31.44,
+    "volume": 20998869,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 35.38,
+    "close": 33.41,
+    "high": 36.6,
+    "low": 33.25,
+    "volume": 8309766,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 33.37,
+    "close": 33.02,
+    "high": 34.72,
+    "low": 32.16,
+    "volume": 15679964,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 32.75,
+    "close": 32.86,
+    "high": 33.29,
+    "low": 30.5,
+    "volume": 11856432,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 33.02,
+    "close": 32.43,
+    "high": 34.69,
+    "low": 30.43,
+    "volume": 13183777,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 32.28,
+    "close": 29.43,
+    "high": 32.68,
+    "low": 24.08,
+    "volume": 42491282,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 30,
+    "close": 26.96,
+    "high": 31.77,
+    "low": 26.74,
+    "volume": 21446255,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 26.96,
+    "close": 28.52,
+    "high": 30.45,
+    "low": 25.42,
+    "volume": 17582650,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 29.45,
+    "close": 28.87,
+    "high": 30.5,
+    "low": 25.77,
+    "volume": 47454775,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 28.77,
+    "close": 26.15,
+    "high": 30.49,
+    "low": 25.89,
+    "volume": 27470249,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 26.14,
+    "close": 22.35,
+    "high": 26.42,
+    "low": 22.32,
+    "volume": 38376009,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 22.3,
+    "close": 25.54,
+    "high": 26.64,
+    "low": 21.92,
+    "volume": 59318835,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 25.48,
+    "close": 29.12,
+    "high": 29.98,
+    "low": 25.15,
+    "volume": 36094523,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 29.71,
+    "close": 26.77,
+    "high": 30.38,
+    "low": 26.14,
+    "volume": 38436566,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 26.57,
+    "close": 27.11,
+    "high": 27.61,
+    "low": 20,
+    "volume": 44238731,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 27.1,
+    "close": 26.07,
+    "high": 27.54,
+    "low": 21.36,
+    "volume": 28316075,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 26.02,
+    "close": 30.74,
+    "high": 31.18,
+    "low": 23.68,
+    "volume": 48218562,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 30.59,
+    "close": 29.07,
+    "high": 31.58,
+    "low": 26.47,
+    "volume": 34933001,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 28.82,
+    "close": 33.36,
+    "high": 33.8,
+    "low": 26.83,
+    "volume": 70610469,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 32.7,
+    "close": 35.01,
+    "high": 36.17,
+    "low": 31.44,
+    "volume": 89949938,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 34.4,
+    "close": 38.85,
+    "high": 40.5,
+    "low": 33.69,
+    "volume": 50830992,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 38.17,
+    "close": 36.05,
+    "high": 38.69,
+    "low": 34.85,
+    "volume": 39997652,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 36.52,
+    "close": 38.08,
+    "high": 38.87,
+    "low": 34.91,
+    "volume": 38368305,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 38.43,
+    "close": 40.66,
+    "high": 42.92,
+    "low": 36.83,
+    "volume": 46000029,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 40.24,
+    "close": 38.28,
+    "high": 40.44,
+    "low": 35.86,
+    "volume": 44125797,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 38.02,
+    "close": 36.14,
+    "high": 38.65,
+    "low": 35.7,
+    "volume": 43493104,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 36.66,
+    "close": 37.28,
+    "high": 38.5,
+    "low": 33.61,
+    "volume": 82661218,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 37.39,
+    "close": 38.78,
+    "high": 40.4,
+    "low": 36.83,
+    "volume": 36528006,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 39,
+    "close": 38.12,
+    "high": 39.72,
+    "low": 36.91,
+    "volume": 23609383,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 39.24,
+    "close": 37.8,
+    "high": 39.46,
+    "low": 37.47,
+    "volume": 23826941,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 38.05,
+    "close": 39.3,
+    "high": 40.98,
+    "low": 37.58,
+    "volume": 39877659,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 39.29,
+    "close": 41.71,
+    "high": 43,
+    "low": 38.88,
+    "volume": 31524033,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 41.81,
+    "close": 48.87,
+    "high": 50.09,
+    "low": 41.3,
+    "volume": 35170070,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 48.78,
+    "close": 51.02,
+    "high": 51.7,
+    "low": 45.22,
+    "volume": 39561282,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 50.93,
+    "close": 47.56,
+    "high": 51.6,
+    "low": 47.23,
+    "volume": 28837378,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 47.45,
+    "close": 49.28,
+    "high": 50.17,
+    "low": 45.65,
+    "volume": 30360204,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 49.88,
+    "close": 47.27,
+    "high": 49.9,
+    "low": 45.74,
+    "volume": 30286625,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 47.5,
+    "close": 53.2,
+    "high": 54.19,
+    "low": 47.5,
+    "volume": 21761575,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 53.67,
+    "close": 58.5,
+    "high": 58.6,
+    "low": 52.4,
+    "volume": 24058569,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 58.65,
+    "close": 60.18,
+    "high": 61,
+    "low": 56.93,
+    "volume": 21835383,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 60.74,
+    "close": 60.42,
+    "high": 63.05,
+    "low": 59.21,
+    "volume": 23102433,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 60.99,
+    "close": 56.83,
+    "high": 61.7,
+    "low": 55.6,
+    "volume": 22746179,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 57.31,
+    "close": 55.58,
+    "high": 59.35,
+    "low": 53.33,
+    "volume": 27554548,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 55.62,
+    "close": 57.46,
+    "high": 58.55,
+    "low": 54.5,
+    "volume": 21266896,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 57.6,
+    "close": 59.06,
+    "high": 59.5,
+    "low": 54.98,
+    "volume": 21554540,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 59.27,
+    "close": 60.11,
+    "high": 61.29,
+    "low": 57.11,
+    "volume": 25683467,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 59.9,
+    "close": 65.51,
+    "high": 65.63,
+    "low": 58.58,
+    "volume": 26245884,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 65.61,
+    "close": 59.5,
+    "high": 66.52,
+    "low": 58.32,
+    "volume": 29222612,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 59.08,
+    "close": 64.88,
+    "high": 66.02,
+    "low": 56.25,
+    "volume": 58432066,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 64.47,
+    "close": 66.63,
+    "high": 72,
+    "low": 63.39,
+    "volume": 31312044,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 66.34,
+    "close": 76.05,
+    "high": 77.35,
+    "low": 63.75,
+    "volume": 24852094,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 74.14,
+    "close": 77.24,
+    "high": 78.99,
+    "low": 73.9,
+    "volume": 21260022,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 77.31,
+    "close": 79.95,
+    "high": 82.17,
+    "low": 76.92,
+    "volume": 17399955,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 80.95,
+    "close": 81.51,
+    "high": 85.32,
+    "low": 77.77,
+    "volume": 17088295,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 81.53,
+    "close": 86.5,
+    "high": 87.36,
+    "low": 81.42,
+    "volume": 24147827,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 86.64,
+    "close": 91.35,
+    "high": 91.79,
+    "low": 86.52,
+    "volume": 17974945,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 91.19,
+    "close": 105.5,
+    "high": 106.82,
+    "low": 91.09,
+    "volume": 21482750,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 105.01,
+    "close": 95.79,
+    "high": 107.13,
+    "low": 91.65,
+    "volume": 29960221,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 94.7,
+    "close": 83.77,
+    "high": 102.96,
+    "low": 75.61,
+    "volume": 40573477,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 84.25,
+    "close": 85.74,
+    "high": 97,
+    "low": 82.46,
+    "volume": 37202638,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 86.29,
+    "close": 84.95,
+    "high": 88.9,
+    "low": 84.06,
+    "volume": 25834805,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 84.82,
+    "close": 83.62,
+    "high": 86.49,
+    "low": 80.06,
+    "volume": 34889184,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 83.58,
+    "close": 85.85,
+    "high": 88.45,
+    "low": 78.58,
+    "volume": 38987671,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 85.95,
+    "close": 94.08,
+    "high": 94.39,
+    "low": 85,
+    "volume": 29044385,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 94.68,
+    "close": 89.42,
+    "high": 94.88,
+    "low": 87.32,
+    "volume": 26656527,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 90.66,
+    "close": 92.65,
+    "high": 92.96,
+    "low": 87.06,
+    "volume": 22109168,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 92.86,
+    "close": 101.79,
+    "high": 103.69,
+    "low": 92.21,
+    "volume": 26143269,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 101.68,
+    "close": 102.44,
+    "high": 105.22,
+    "low": 101.13,
+    "volume": 17888700,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 103.13,
+    "close": 107.32,
+    "high": 108.99,
+    "low": 97.77,
+    "volume": 20772777,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 107.5,
+    "close": 108.85,
+    "high": 112.92,
+    "low": 106.79,
+    "volume": 13158216,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 109.24,
+    "close": 112.62,
+    "high": 114.06,
+    "low": 107.8,
+    "volume": 12416732,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 113.03,
+    "close": 125.3,
+    "high": 126.14,
+    "low": 112.72,
+    "volume": 14913193,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 126.23,
+    "close": 122.71,
+    "high": 128.45,
+    "low": 121.41,
+    "volume": 11859625,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 123.97,
+    "close": 127.59,
+    "high": 127.97,
+    "low": 121.61,
+    "volume": 11945122,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 127.3,
+    "close": 123.81,
+    "high": 135.62,
+    "low": 122.66,
+    "volume": 20278735,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 124.81,
+    "close": 124.96,
+    "high": 126.4,
+    "low": 122.42,
+    "volume": 11294600,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 124.3,
+    "close": 128.71,
+    "high": 129.99,
+    "low": 120.34,
+    "volume": 15295448,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 128.42,
+    "close": 130.98,
+    "high": 137.28,
+    "low": 128.2,
+    "volume": 14561502,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 133.39,
+    "close": 150.85,
+    "high": 155.94,
+    "low": 129.72,
+    "volume": 19782577,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 150.13,
+    "close": 148.39,
+    "high": 153.05,
+    "low": 145.13,
+    "volume": 12129230,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 148.48,
+    "close": 148.79,
+    "high": 151.26,
+    "low": 141.08,
+    "volume": 15912685,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 148.99,
+    "close": 147.95,
+    "high": 151.2,
+    "low": 144.38,
+    "volume": 12023721,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 148.43,
+    "close": 150.6,
+    "high": 154.21,
+    "low": 147.21,
+    "volume": 10783151,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 150.03,
+    "close": 150,
+    "high": 156.37,
+    "low": 145.51,
+    "volume": 15921096,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 150.18,
+    "close": 155.98,
+    "high": 157.18,
+    "low": 148.74,
+    "volume": 11672108,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 156.65,
+    "close": 150.36,
+    "high": 158.63,
+    "low": 149.51,
+    "volume": 11977477,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 149.97,
+    "close": 175.88,
+    "high": 177,
+    "low": 146.22,
+    "volume": 19249656,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 175.65,
+    "close": 182.74,
+    "high": 183.63,
+    "low": 175.01,
+    "volume": 13455562,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 182.72,
+    "close": 192.62,
+    "high": 196.8,
+    "low": 180.69,
+    "volume": 14634614,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 192.86,
+    "close": 187.36,
+    "high": 195.03,
+    "low": 179,
+    "volume": 16961792,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 187.7,
+    "close": 208.13,
+    "high": 214.15,
+    "low": 184.76,
+    "volume": 14633524,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 209.12,
+    "close": 216.24,
+    "high": 220.11,
+    "low": 202.44,
+    "volume": 12519053,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 216.64,
+    "close": 217.83,
+    "high": 230.77,
+    "low": 212.15,
+    "volume": 12619831,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 219,
+    "close": 219.53,
+    "high": 226,
+    "low": 216.41,
+    "volume": 10286317,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 220.8,
+    "close": 225.98,
+    "high": 233.84,
+    "low": 218.82,
+    "volume": 10819446,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 228.01,
+    "close": 240.31,
+    "high": 247,
+    "low": 227.77,
+    "volume": 12666484,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 241.3,
+    "close": 240.07,
+    "high": 258.15,
+    "low": 226.05,
+    "volume": 14594308,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 235.69,
+    "close": 250,
+    "high": 255.57,
+    "low": 230.91,
+    "volume": 17097238,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 251,
+    "close": 276.26,
+    "high": 277.96,
+    "low": 246.12,
+    "volume": 15745992,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 276.38,
+    "close": 263.87,
+    "high": 277.66,
+    "low": 258.63,
+    "volume": 12278251,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 264.96,
+    "close": 253.42,
+    "high": 267.19,
+    "low": 246.88,
+    "volume": 19228572,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 248.45,
+    "close": 260.9,
+    "high": 261.27,
+    "low": 225.12,
+    "volume": 19264151,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 260.32,
+    "close": 260.32,
+    "high": 269,
+    "low": 226.51,
+    "volume": 24242044,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 263.18,
+    "close": 273.66,
+    "high": 277.68,
+    "low": 258.55,
+    "volume": 17234978,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 273.19,
+    "close": 262.68,
+    "high": 277.83,
+    "low": 260.16,
+    "volume": 14826647,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 262.75,
+    "close": 264.43,
+    "high": 269.68,
+    "low": 248.14,
+    "volume": 15585017,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 264.34,
+    "close": 271.1,
+    "high": 274.79,
+    "low": 255.01,
+    "volume": 14436251,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 271.88,
+    "close": 290.63,
+    "high": 292.84,
+    "low": 266.81,
+    "volume": 14443888,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 290.63,
+    "close": 279.95,
+    "high": 291.68,
+    "low": 276.67,
+    "volume": 12138531,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 280.7,
+    "close": 280.11,
+    "high": 285.67,
+    "low": 272.42,
+    "volume": 17068949,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 279.43,
+    "close": 264.44,
+    "high": 283.2,
+    "low": 251.62,
+    "volume": 19106709,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 263.9,
+    "close": 274.5,
+    "high": 279.36,
+    "low": 250.07,
+    "volume": 19190046,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 273.62,
+    "close": 278.41,
+    "high": 286.57,
+    "low": 272.17,
+    "volume": 13450650,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 280,
+    "close": 262.27,
+    "high": 283.97,
+    "low": 259.15,
+    "volume": 15513490,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 262.19,
+    "close": 271.71,
+    "high": 277.4,
+    "low": 253.54,
+    "volume": 21985561,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 273.24,
+    "close": 269.84,
+    "high": 276.75,
+    "low": 267.04,
+    "volume": 19097352,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 266,
+    "close": 248.15,
+    "high": 270.1,
+    "low": 245.01,
+    "volume": 24212213,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 248.44,
+    "close": 242.08,
+    "high": 260.31,
+    "low": 234.14,
+    "volume": 34887759,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 243.54,
+    "close": 218.74,
+    "high": 246.51,
+    "low": 215.76,
+    "volume": 29155514,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 218.74,
+    "close": 204.3,
+    "high": 220.89,
+    "low": 169.43,
+    "volume": 58573692,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 204.44,
+    "close": 196.13,
+    "high": 211.02,
+    "low": 186.82,
+    "volume": 32456679,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 197.19,
+    "close": 215.37,
+    "high": 219.98,
+    "low": 194.06,
+    "volume": 24170788,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 215.98,
+    "close": 210.95,
+    "high": 217.91,
+    "low": 190,
+    "volume": 23752060,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 211.24,
+    "close": 236.21,
+    "high": 241.63,
+    "low": 205.65,
+    "volume": 18560367,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 235,
+    "close": 240.54,
+    "high": 263.63,
+    "low": 228.34,
+    "volume": 21316240,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 241.34,
+    "close": 264.69,
+    "high": 279.23,
+    "low": 241.29,
+    "volume": 18277188,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 263.01,
+    "close": 244.19,
+    "high": 266.47,
+    "low": 238.41,
+    "volume": 22624303,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 243.63,
+    "close": 247.38,
+    "high": 254.11,
+    "low": 237.7,
+    "volume": 15594262,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 245.48,
+    "close": 256.07,
+    "high": 265,
+    "low": 217.64,
+    "volume": 22868136,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 254.09,
+    "close": 269.41,
+    "high": 280.4,
+    "low": 254.09,
+    "volume": 16398299,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 269.91,
+    "close": 273.57,
+    "high": 290.35,
+    "low": 269.26,
+    "volume": 13956030,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 272.45,
+    "close": 306,
+    "high": 310,
+    "low": 270.97,
+    "volume": 14193472,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 302.66,
+    "close": 335.42,
+    "high": 335.98,
+    "low": 301.02,
+    "volume": 11920564,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 335.52,
+    "close": 347.32,
+    "high": 351.65,
+    "low": 329.99,
+    "volume": 10968601,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 349.38,
+    "close": 320.75,
+    "high": 349.67,
+    "low": 314.13,
+    "volume": 17072255,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 319.11,
+    "close": 346.78,
+    "high": 363.2,
+    "low": 318.33,
+    "volume": 14950622,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 350.37,
+    "close": 344.33,
+    "high": 356.4,
+    "low": 326.71,
+    "volume": 13509742,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 335.82,
+    "close": 344.66,
+    "high": 353.74,
+    "low": 329.86,
+    "volume": 14591168,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 346.08,
+    "close": 371.96,
+    "high": 394.42,
+    "low": 342.77,
+    "volume": 15641017,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 373.1,
+    "close": 388.3,
+    "high": 391.78,
+    "low": 361.54,
+    "volume": 11831116,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 391.4,
+    "close": 378.57,
+    "high": 414.63,
+    "low": 367.12,
+    "volume": 14687911,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 377.69,
+    "close": 371.37,
+    "high": 383.11,
+    "low": 349.71,
+    "volume": 15129700,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 371.49,
+    "close": 369.32,
+    "high": 391.15,
+    "low": 364.08,
+    "volume": 10755850,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 373,
+    "close": 380.76,
+    "high": 407.2,
+    "low": 371.1,
+    "volume": 13012311,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 380.86,
+    "close": 383.76,
+    "high": 390.01,
+    "low": 359.86,
+    "volume": 13010706,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 380,
+    "close": 398.51,
+    "high": 409.17,
+    "low": 378.24,
+    "volume": 10656641,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 400.04,
+    "close": 435.51,
+    "high": 446.78,
+    "low": 383.77,
+    "volume": 11293424,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 437.93,
+    "close": 442.28,
+    "high": 454.31,
+    "low": 432.19,
+    "volume": 7969240,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 443.38,
+    "close": 438.26,
+    "high": 448.53,
+    "low": 433.63,
+    "volume": 8757656,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 438.5,
+    "close": 406.1,
+    "high": 446.83,
+    "low": 405,
+    "volume": 12836018,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 407.84,
+    "close": 368.72,
+    "high": 421.71,
+    "low": 358.87,
+    "volume": 19305995,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 367.01,
+    "close": 301.05,
+    "high": 394.55,
+    "low": 251.51,
+    "volume": 28761126,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 288.42,
+    "close": 386.34,
+    "high": 399.99,
+    "low": 283.59,
+    "volume": 18202914,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 379.39,
+    "close": 417.24,
+    "high": 423.31,
+    "low": 373.14,
+    "volume": 13018761,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 418.95,
+    "close": 421.67,
+    "high": 434.37,
+    "low": 401.65,
+    "volume": 13083281,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 419.94,
+    "close": 477.38,
+    "high": 487.95,
+    "low": 413,
+    "volume": 13266307,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 479.61,
+    "close": 465.63,
+    "high": 480.69,
+    "low": 452.52,
+    "volume": 9621031,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 467.35,
+    "close": 461.08,
+    "high": 485.0,
+    "low": 437.35,
+    "volume": 10219142,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 462.93,
+    "close": 436.6,
+    "high": 475.38,
+    "low": 431.26,
+    "volume": 10245696,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 442.71,
+    "close": 442.44,
+    "high": 470.46,
+    "low": 434.96,
+    "volume": 9997815,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 446.36,
+    "close": 452.57,
+    "high": 467.77,
+    "low": 437.22,
+    "volume": 12374655,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 454.22,
+    "close": 425.47,
+    "high": 496.61,
+    "low": 424.03,
+    "volume": 12932091,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 428.3,
+    "close": 447.33,
+    "high": 464.57,
+    "low": 425.49,
+    "volume": 13287110,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 450.1,
+    "close": 507.25,
+    "high": 512.24,
+    "low": 446.56,
+    "volume": 13451575,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 509.61,
+    "close": 552.88,
+    "high": 553.43,
+    "low": 504.12,
+    "volume": 9871692,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 555.1,
+    "close": 535.12,
+    "high": 568.63,
+    "low": 527.46,
+    "volume": 10099610,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 537.05,
+    "close": 566.21,
+    "high": 569.47,
+    "low": 519.32,
+    "volume": 10568623,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 566.92,
+    "close": 603.84,
+    "high": 621.73,
+    "low": 566.39,
+    "volume": 7744927,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 604.55,
+    "close": 594.08,
+    "high": 617.3,
+    "low": 590.07,
+    "volume": 8177753,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 596,
+    "close": 611.06,
+    "high": 629.39,
+    "low": 573.93,
+    "volume": 9439772,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 612.82,
+    "close": 622.32,
+    "high": 669.09,
+    "low": 594.2,
+    "volume": 8860531,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 622.33,
+    "close": 638.16,
+    "high": 659.52,
+    "low": 614.01,
+    "volume": 7709394,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 642.41,
+    "close": 706.23,
+    "high": 710.86,
+    "low": 636.26,
+    "volume": 9134031,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 703.76,
+    "close": 651.75,
+    "high": 708.71,
+    "low": 629.51,
+    "volume": 10333587,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 651.36,
+    "close": 649.24,
+    "high": 684.43,
+    "low": 620.82,
+    "volume": 12222330,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 647.42,
+    "close": 684.96,
+    "high": 705,
+    "low": 645.71,
+    "volume": 13730773,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 688.41,
+    "close": 606.55,
+    "high": 748.68,
+    "low": 606.01,
+    "volume": 12162914,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 603.21,
+    "close": 637.17,
+    "high": 652.3,
+    "low": 562.9,
+    "volume": 16084663,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 640,
+    "close": 631.76,
+    "high": 650.53,
+    "low": 580.01,
+    "volume": 11957410,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 626.92,
+    "close": 703.59,
+    "high": 711.87,
+    "low": 624.85,
+    "volume": 9198714,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 701.27,
+    "close": 697.12,
+    "high": 750.88,
+    "low": 692.29,
+    "volume": 9692751,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 699.31,
+    "close": 703.35,
+    "high": 729.57,
+    "low": 680,
+    "volume": 10582646,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 708.54,
+    "close": 837.17,
+    "high": 845.24,
+    "low": 705.71,
+    "volume": 10641261,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 838.51,
+    "close": 864.54,
+    "high": 870.92,
+    "low": 805.25,
+    "volume": 9654292,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 869.06,
+    "close": 844.03,
+    "high": 869.99,
+    "low": 800.38,
+    "volume": 9053078,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 842.43,
+    "close": 792.35,
+    "high": 856.57,
+    "low": 767.27,
+    "volume": 8444908,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 788.56,
+    "close": 830.1,
+    "high": 873.94,
+    "low": 776.43,
+    "volume": 11268624,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 822.69,
+    "close": 848.98,
+    "high": 850,
+    "low": 795.75,
+    "volume": 9092633,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 851.67,
+    "close": 917.31,
+    "high": 922.8,
+    "low": 851.22,
+    "volume": 6582390,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 917.75,
+    "close": 903.31,
+    "high": 964.58,
+    "low": 873.78,
+    "volume": 10108957,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 903.31,
+    "close": 955.3,
+    "high": 959.8,
+    "low": 875.06,
+    "volume": 10665096,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "ORLY",
+    "open": 954.46,
+    "close": 956.23,
+    "high": 975.72,
+    "low": 930.21,
+    "volume": 5215479,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

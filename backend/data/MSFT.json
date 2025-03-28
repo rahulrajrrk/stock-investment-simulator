@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "MSFT",
+    "open": 28.03,
+    "close": 27.8,
+    "high": 30,
+    "low": 26.7,
+    "volume": 853543295,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.03,
+    "close": 26.14,
+    "high": 29.46,
+    "low": 25.91,
+    "volume": 1399224632,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.35,
+    "close": 25.71,
+    "high": 26.75,
+    "low": 24.84,
+    "volume": 1443685508,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.9,
+    "close": 27.37,
+    "high": 27.55,
+    "low": 25.61,
+    "volume": 1473501701,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.58,
+    "close": 27.65,
+    "high": 28.83,
+    "low": 27.26,
+    "volume": 1228226400,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.63,
+    "close": 26.53,
+    "high": 27.8,
+    "low": 26.35,
+    "volume": 1031177815,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.65,
+    "close": 24.93,
+    "high": 26.72,
+    "low": 24.01,
+    "volume": 1699380581,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 24.95,
+    "close": 26.13,
+    "high": 27.72,
+    "low": 24.85,
+    "volume": 1558799454,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.21,
+    "close": 26.23,
+    "high": 26.6,
+    "low": 25.42,
+    "volume": 1139995344,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.11,
+    "close": 28.56,
+    "high": 28.8,
+    "low": 25.86,
+    "volume": 1536791899,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.68,
+    "close": 28.49,
+    "high": 29.89,
+    "low": 27.25,
+    "volume": 1550620426,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.29,
+    "close": 27.3,
+    "high": 28.55,
+    "low": 25.95,
+    "volume": 1092298567,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.24,
+    "close": 27.65,
+    "high": 27.79,
+    "low": 26.74,
+    "volume": 1143845343,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.81,
+    "close": 27.97,
+    "high": 28.89,
+    "low": 27.42,
+    "volume": 1297237070,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.15,
+    "close": 26.81,
+    "high": 30.2,
+    "low": 24.86,
+    "volume": 1746715085,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.95,
+    "close": 26.72,
+    "high": 27.44,
+    "low": 26.68,
+    "volume": 1827429471,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.8,
+    "close": 26.28,
+    "high": 27.1,
+    "low": 25.64,
+    "volume": 1528527983,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.25,
+    "close": 25.16,
+    "high": 26.5,
+    "low": 25.13,
+    "volume": 1366790885,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.19,
+    "close": 24.17,
+    "high": 25.79,
+    "low": 23.82,
+    "volume": 1566038696,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 24.24,
+    "close": 25.3,
+    "high": 25.45,
+    "low": 23.94,
+    "volume": 1524495171,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.23,
+    "close": 25.8,
+    "high": 26.09,
+    "low": 24.31,
+    "volume": 1272316818,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.73,
+    "close": 24.84,
+    "high": 26,
+    "low": 24.82,
+    "volume": 1323551851,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 24.85,
+    "close": 25.61,
+    "high": 26.48,
+    "low": 24.5,
+    "volume": 1332446501,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.81,
+    "close": 27.38,
+    "high": 27.94,
+    "low": 25.76,
+    "volume": 1447837101,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.38,
+    "close": 25.73,
+    "high": 27.39,
+    "low": 25.12,
+    "volume": 1352035622,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.71,
+    "close": 25.7,
+    "high": 29.03,
+    "low": 24.25,
+    "volume": 1442928229,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.61,
+    "close": 27.68,
+    "high": 28.25,
+    "low": 25.61,
+    "volume": 1441312147,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.73,
+    "close": 26.15,
+    "high": 28.1,
+    "low": 26.1,
+    "volume": 1271809364,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.25,
+    "close": 28.15,
+    "high": 28.38,
+    "low": 26.1,
+    "volume": 1386796300,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.96,
+    "close": 26.87,
+    "high": 28.07,
+    "low": 26.34,
+    "volume": 1048206227,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.98,
+    "close": 27.21,
+    "high": 28.22,
+    "low": 26.62,
+    "volume": 1438677894,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.67,
+    "close": 24.15,
+    "high": 27.94,
+    "low": 24,
+    "volume": 1449551469,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 24.32,
+    "close": 22.65,
+    "high": 25,
+    "low": 22.45,
+    "volume": 2314401903,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 22.74,
+    "close": 23.3,
+    "high": 23.65,
+    "low": 21.46,
+    "volume": 1978441135,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 23.53,
+    "close": 24.06,
+    "high": 24.6,
+    "low": 22.23,
+    "volume": 1331667107,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 24.02,
+    "close": 25.7,
+    "high": 26.25,
+    "low": 23.85,
+    "volume": 1131585080,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.89,
+    "close": 27.35,
+    "high": 27.52,
+    "low": 25.39,
+    "volume": 1099281540,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.32,
+    "close": 28.71,
+    "high": 28.85,
+    "low": 27.15,
+    "volume": 1290711208,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.78,
+    "close": 29.36,
+    "high": 30.0,
+    "low": 28.58,
+    "volume": 1241337592,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 29.21,
+    "close": 29.86,
+    "high": 30.26,
+    "low": 28.8,
+    "volume": 1136847621,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 29.91,
+    "close": 30.86,
+    "high": 31.48,
+    "low": 29.4,
+    "volume": 1326255486,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 30.84,
+    "close": 28.17,
+    "high": 30.94,
+    "low": 27.79,
+    "volume": 1293963608,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.82,
+    "close": 27.87,
+    "high": 28.55,
+    "low": 26.71,
+    "volume": 1276070572,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.89,
+    "close": 29.94,
+    "high": 30.74,
+    "low": 27.56,
+    "volume": 965993273,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 29.94,
+    "close": 30.69,
+    "high": 31.16,
+    "low": 29.9,
+    "volume": 1330807129,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 30.79,
+    "close": 29.47,
+    "high": 30.9,
+    "low": 29.04,
+    "volume": 1184693341,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 29.67,
+    "close": 28.99,
+    "high": 31.84,
+    "low": 28.95,
+    "volume": 1298258798,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.97,
+    "close": 28.69,
+    "high": 30.1,
+    "low": 27.51,
+    "volume": 1228751224,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.5,
+    "close": 29.46,
+    "high": 29.85,
+    "low": 28.27,
+    "volume": 1117311166,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 29.46,
+    "close": 36.81,
+    "high": 37,
+    "low": 29.29,
+    "volume": 1771766718,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 36.53,
+    "close": 33.6,
+    "high": 37.5,
+    "low": 32.68,
+    "volume": 1830709433,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 33.5,
+    "close": 35.6,
+    "high": 36.72,
+    "low": 32.63,
+    "volume": 1066687413,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 35.79,
+    "close": 32.6,
+    "high": 35.96,
+    "low": 31.04,
+    "volume": 1949693214,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 31.05,
+    "close": 27.2,
+    "high": 33.25,
+    "low": 27.02,
+    "volume": 2324691955,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.24,
+    "close": 28.38,
+    "high": 29.59,
+    "low": 26.87,
+    "volume": 1452976727,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.83,
+    "close": 28.52,
+    "high": 32.1,
+    "low": 27.93,
+    "volume": 1447652337,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.5,
+    "close": 28.32,
+    "high": 30.53,
+    "low": 27.95,
+    "volume": 1405212055,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.29,
+    "close": 27.51,
+    "high": 29.57,
+    "low": 27.11,
+    "volume": 1564812757,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.27,
+    "close": 25.72,
+    "high": 27.91,
+    "low": 24.87,
+    "volume": 1637422111,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.92,
+    "close": 27.29,
+    "high": 28.5,
+    "low": 25.07,
+    "volume": 1206924561,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.66,
+    "close": 26.69,
+    "high": 27.76,
+    "low": 23.5,
+    "volume": 1928440305,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.38,
+    "close": 22.33,
+    "high": 27.47,
+    "low": 20.65,
+    "volume": 3046393544,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 22.48,
+    "close": 20.22,
+    "high": 23.66,
+    "low": 17.5,
+    "volume": 1798510684,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 19.88,
+    "close": 19.44,
+    "high": 21.25,
+    "low": 18.47,
+    "volume": 1549722362,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 19.53,
+    "close": 17.1,
+    "high": 21,
+    "low": 16.75,
+    "volume": 1565502258,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 17.03,
+    "close": 16.15,
+    "high": 19.93,
+    "low": 16.1,
+    "volume": 1456067770,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 15.96,
+    "close": 18.37,
+    "high": 18.88,
+    "low": 14.87,
+    "volume": 1626016457,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 18.23,
+    "close": 20.26,
+    "high": 21.2,
+    "low": 18.18,
+    "volume": 1562238079,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 20.19,
+    "close": 20.89,
+    "high": 20.94,
+    "low": 19.01,
+    "volume": 1099450870,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 21,
+    "close": 23.77,
+    "high": 24.34,
+    "low": 20.86,
+    "volume": 1411152154,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 24.05,
+    "close": 23.52,
+    "high": 25.72,
+    "low": 22,
+    "volume": 1517386865,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 23.82,
+    "close": 24.65,
+    "high": 25.49,
+    "low": 23.03,
+    "volume": 992885247,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 24.35,
+    "close": 25.72,
+    "high": 26.25,
+    "low": 23.76,
+    "volume": 1038100169,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.41,
+    "close": 27.73,
+    "high": 29.35,
+    "low": 24.43,
+    "volume": 1523414411,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.7,
+    "close": 29.41,
+    "high": 30.14,
+    "low": 27.41,
+    "volume": 1018289529,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 29.52,
+    "close": 30.48,
+    "high": 31.5,
+    "low": 29.25,
+    "volume": 920643429,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 30.62,
+    "close": 28.18,
+    "high": 31.24,
+    "low": 27.66,
+    "volume": 1359607990,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.39,
+    "close": 28.67,
+    "high": 29.03,
+    "low": 27.57,
+    "volume": 1074185251,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.77,
+    "close": 29.29,
+    "high": 30.57,
+    "low": 28.24,
+    "volume": 1109148287,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 29.35,
+    "close": 30.54,
+    "high": 31.58,
+    "low": 28.62,
+    "volume": 1319075078,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 30.67,
+    "close": 25.8,
+    "high": 31.06,
+    "low": 24.56,
+    "volume": 1719994954,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.53,
+    "close": 23.01,
+    "high": 26.93,
+    "low": 22.95,
+    "volume": 1671686482,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 23.09,
+    "close": 25.81,
+    "high": 26.41,
+    "low": 22.73,
+    "volume": 1406623271,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.99,
+    "close": 23.46,
+    "high": 26.38,
+    "low": 23.32,
+    "volume": 1279359735,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 23.67,
+    "close": 24.49,
+    "high": 25.53,
+    "low": 23.54,
+    "volume": 1272951371,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 24.77,
+    "close": 26.66,
+    "high": 27.2,
+    "low": 23.78,
+    "volume": 1281521264,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.88,
+    "close": 25.26,
+    "high": 27.49,
+    "low": 24.93,
+    "volume": 1361053386,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.57,
+    "close": 27.91,
+    "high": 28.4,
+    "low": 25.56,
+    "volume": 1033033792,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.05,
+    "close": 27.73,
+    "high": 29.46,
+    "low": 27.42,
+    "volume": 1361283805,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.8,
+    "close": 26.58,
+    "high": 28.34,
+    "low": 26.43,
+    "volume": 1113229326,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.6,
+    "close": 25.39,
+    "high": 26.78,
+    "low": 24.68,
+    "volume": 1311034182,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.53,
+    "close": 25.92,
+    "high": 26.87,
+    "low": 24.72,
+    "volume": 1313293573,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.94,
+    "close": 25.01,
+    "high": 26.25,
+    "low": 24.03,
+    "volume": 1363608231,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 24.99,
+    "close": 26,
+    "high": 26,
+    "low": 23.65,
+    "volume": 1297173543,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.93,
+    "close": 27.4,
+    "high": 28.14,
+    "low": 25.84,
+    "volume": 1259375988,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.51,
+    "close": 26.6,
+    "high": 27.68,
+    "low": 23.79,
+    "volume": 1719238759,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.46,
+    "close": 24.89,
+    "high": 27.5,
+    "low": 24.6,
+    "volume": 1279990706,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 24.72,
+    "close": 26.63,
+    "high": 27.5,
+    "low": 24.26,
+    "volume": 1217969637,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.19,
+    "close": 25.58,
+    "high": 27.2,
+    "low": 24.3,
+    "volume": 1046247617,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 25.56,
+    "close": 25.96,
+    "high": 26.19,
+    "low": 25.16,
+    "volume": 1007176719,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.55,
+    "close": 29.53,
+    "high": 29.95,
+    "low": 26.39,
+    "volume": 1354673469,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 29.79,
+    "close": 31.74,
+    "high": 32,
+    "low": 29.71,
+    "volume": 980908356,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 31.93,
+    "close": 32.26,
+    "high": 32.95,
+    "low": 31.49,
+    "volume": 942154069,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 32.22,
+    "close": 32.02,
+    "high": 32.89,
+    "low": 30.23,
+    "volume": 940769326,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 32.05,
+    "close": 29.19,
+    "high": 32.34,
+    "low": 28.64,
+    "volume": 1014427704,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.76,
+    "close": 30.59,
+    "high": 31.14,
+    "low": 28.32,
+    "volume": 973155613,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 30.62,
+    "close": 29.47,
+    "high": 31.05,
+    "low": 28.54,
+    "volume": 846511291,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 29.59,
+    "close": 30.82,
+    "high": 30.96,
+    "low": 28.97,
+    "volume": 671795186,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 30.45,
+    "close": 29.76,
+    "high": 31.61,
+    "low": 29.74,
+    "volume": 893163944,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 29.81,
+    "close": 28.54,
+    "high": 30.25,
+    "low": 27.76,
+    "volume": 1105410938,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.84,
+    "close": 26.61,
+    "high": 30.2,
+    "low": 26.36,
+    "volume": 1310564881,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 26.78,
+    "close": 26.71,
+    "high": 27.73,
+    "low": 26.26,
+    "volume": 947413211,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.25,
+    "close": 27.45,
+    "high": 28.23,
+    "low": 26.28,
+    "volume": 1145115182,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.67,
+    "close": 27.8,
+    "high": 28.2,
+    "low": 27.1,
+    "volume": 780123373,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 27.72,
+    "close": 28.61,
+    "high": 28.66,
+    "low": 27.52,
+    "volume": 845031920,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 28.64,
+    "close": 33.1,
+    "high": 33.11,
+    "low": 28.11,
+    "volume": 1465799323,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 32.93,
+    "close": 34.9,
+    "high": 35.28,
+    "low": 32.32,
+    "volume": 1071937685,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 34.92,
+    "close": 34.55,
+    "high": 35.78,
+    "low": 32.57,
+    "volume": 945214458,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 34.75,
+    "close": 31.84,
+    "high": 36.43,
+    "low": 31.02,
+    "volume": 1111193512,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 32.06,
+    "close": 33.4,
+    "high": 35.2,
+    "low": 30.84,
+    "volume": 1051268989,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 31.75,
+    "close": 33.28,
+    "high": 33.75,
+    "low": 30.95,
+    "volume": 1245167567,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 33.35,
+    "close": 35.41,
+    "high": 36.29,
+    "low": 32.8,
+    "volume": 965359848,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 35.67,
+    "close": 38.13,
+    "high": 38.29,
+    "low": 35.39,
+    "volume": 800450240,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 38.09,
+    "close": 37.41,
+    "high": 38.98,
+    "low": 35.53,
+    "volume": 825651493,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 37.35,
+    "close": 37.84,
+    "high": 37.89,
+    "low": 34.63,
+    "volume": 932085256,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 37.74,
+    "close": 38.31,
+    "high": 38.46,
+    "low": 35.69,
+    "volume": 718231974,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 37.92,
+    "close": 40.99,
+    "high": 41.5,
+    "low": 37.49,
+    "volume": 777550020,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 41.15,
+    "close": 40.4,
+    "high": 41.66,
+    "low": 38.9,
+    "volume": 746136121,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 40.24,
+    "close": 40.94,
+    "high": 40.97,
+    "low": 38.51,
+    "volume": 574357636,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 40.95,
+    "close": 41.7,
+    "high": 42.29,
+    "low": 39.86,
+    "volume": 555811208,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 41.86,
+    "close": 43.16,
+    "high": 45.71,
+    "low": 41.05,
+    "volume": 731659116,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 43.21,
+    "close": 45.43,
+    "high": 45.47,
+    "low": 42.21,
+    "volume": 513884805,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 45.43,
+    "close": 46.36,
+    "high": 47.57,
+    "low": 44.53,
+    "volume": 860678049,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 46.27,
+    "close": 46.95,
+    "high": 46.97,
+    "low": 42.1,
+    "volume": 853286589,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 46.89,
+    "close": 47.81,
+    "high": 50.05,
+    "low": 46.73,
+    "volume": 522936288,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 47.88,
+    "close": 46.45,
+    "high": 49.06,
+    "low": 44.9,
+    "volume": 626574312,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 46.66,
+    "close": 40.4,
+    "high": 47.91,
+    "low": 40.35,
+    "volume": 918929788,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 40.59,
+    "close": 43.85,
+    "high": 44.3,
+    "low": 40.23,
+    "volume": 651817965,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 43.67,
+    "close": 40.66,
+    "high": 44.19,
+    "low": 40.54,
+    "volume": 823770353,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 40.6,
+    "close": 48.64,
+    "high": 49.54,
+    "low": 40.12,
+    "volume": 874449363,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 48.58,
+    "close": 46.86,
+    "high": 48.91,
+    "low": 46.02,
+    "volume": 632716358,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 47.06,
+    "close": 44.15,
+    "high": 47.77,
+    "low": 43.94,
+    "volume": 664837715,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 44.46,
+    "close": 46.7,
+    "high": 47.4,
+    "low": 43.32,
+    "volume": 725449572,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 46.98,
+    "close": 43.52,
+    "high": 48.41,
+    "low": 39.72,
+    "volume": 776457347,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 42.17,
+    "close": 44.26,
+    "high": 45,
+    "low": 41.66,
+    "volume": 673059332,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 44.75,
+    "close": 52.64,
+    "high": 54.37,
+    "low": 43.75,
+    "volume": 857260573,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 52.85,
+    "close": 54.35,
+    "high": 54.98,
+    "low": 52.53,
+    "volume": 661507221,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 54.41,
+    "close": 55.48,
+    "high": 56.85,
+    "low": 53.68,
+    "volume": 792250700,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 54.32,
+    "close": 55.09,
+    "high": 55.39,
+    "low": 49.1,
+    "volume": 927875985,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 54.88,
+    "close": 50.88,
+    "high": 55.09,
+    "low": 48.19,
+    "volume": 814751579,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 50.97,
+    "close": 55.23,
+    "high": 55.64,
+    "low": 50.58,
+    "volume": 641036152,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 55.05,
+    "close": 49.87,
+    "high": 56.77,
+    "low": 49.35,
+    "volume": 699025638,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 50,
+    "close": 53,
+    "high": 53,
+    "low": 49.46,
+    "volume": 530869057,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 52.44,
+    "close": 51.17,
+    "high": 52.95,
+    "low": 48.03,
+    "volume": 823986079,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 51.13,
+    "close": 56.68,
+    "high": 57.29,
+    "low": 50.39,
+    "volume": 647587537,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 56.6,
+    "close": 57.46,
+    "high": 58.7,
+    "low": 56.14,
+    "volume": 466804636,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 57.01,
+    "close": 57.6,
+    "high": 58.19,
+    "low": 55.61,
+    "volume": 526854875,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 57.41,
+    "close": 59.92,
+    "high": 61.37,
+    "low": 56.31,
+    "volume": 614792202,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 59.97,
+    "close": 60.26,
+    "high": 61.41,
+    "low": 57.28,
+    "volume": 613056964,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 60.11,
+    "close": 62.14,
+    "high": 64.1,
+    "low": 58.8,
+    "volume": 513543128,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 62.79,
+    "close": 64.65,
+    "high": 65.91,
+    "low": 61.95,
+    "volume": 494385826,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 64.36,
+    "close": 63.98,
+    "high": 65.24,
+    "low": 62.75,
+    "volume": 440744043,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 64.13,
+    "close": 65.86,
+    "high": 66.19,
+    "low": 63.62,
+    "volume": 489099700,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 65.81,
+    "close": 68.46,
+    "high": 69.14,
+    "low": 64.85,
+    "volume": 433090662,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 68.68,
+    "close": 69.84,
+    "high": 70.74,
+    "low": 67.14,
+    "volume": 517291484,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 70.24,
+    "close": 68.93,
+    "high": 72.89,
+    "low": 68.09,
+    "volume": 629700618,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 69.33,
+    "close": 72.7,
+    "high": 74.42,
+    "low": 68.02,
+    "volume": 469810547,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 73.1,
+    "close": 74.77,
+    "high": 74.96,
+    "low": 71.28,
+    "volume": 442761884,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 74.71,
+    "close": 74.49,
+    "high": 75.97,
+    "low": 72.92,
+    "volume": 376668498,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 74.71,
+    "close": 83.18,
+    "high": 86.2,
+    "low": 73.71,
+    "volume": 449949950,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 83.68,
+    "close": 84.17,
+    "high": 85.06,
+    "low": 82.24,
+    "volume": 421820859,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 83.6,
+    "close": 85.54,
+    "high": 87.5,
+    "low": 80.7,
+    "volume": 466203334,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 86.12,
+    "close": 95.01,
+    "high": 95.45,
+    "low": 85.5,
+    "volume": 574108506,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 94.79,
+    "close": 93.77,
+    "high": 96.07,
+    "low": 83.83,
+    "volume": 725547948,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 93.99,
+    "close": 91.27,
+    "high": 97.24,
+    "low": 87.08,
+    "volume": 750754886,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 90.47,
+    "close": 93.52,
+    "high": 97.9,
+    "low": 87.51,
+    "volume": 668229045,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 93.21,
+    "close": 98.84,
+    "high": 99.99,
+    "low": 92.45,
+    "volume": 509396369,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 99.28,
+    "close": 98.61,
+    "high": 102.69,
+    "low": 97.26,
+    "volume": 602585341,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 98.1,
+    "close": 106.08,
+    "high": 111.15,
+    "low": 98,
+    "volume": 569474673,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 106.03,
+    "close": 112.33,
+    "high": 112.78,
+    "low": 104.84,
+    "volume": 456610221,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 110.85,
+    "close": 114.37,
+    "high": 115.29,
+    "low": 107.23,
+    "volume": 480252674,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 114.75,
+    "close": 106.81,
+    "high": 116.18,
+    "low": 100.11,
+    "volume": 927547957,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 107.05,
+    "close": 110.89,
+    "high": 112.24,
+    "low": 99.35,
+    "volume": 720128643,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 113,
+    "close": 101.57,
+    "high": 113.42,
+    "low": 93.96,
+    "volume": 944248385,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 99.55,
+    "close": 104.43,
+    "high": 107.9,
+    "low": 97.2,
+    "volume": 714191742,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 103.78,
+    "close": 112.03,
+    "high": 113.24,
+    "low": 102.35,
+    "volume": 469042970,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 112.89,
+    "close": 117.94,
+    "high": 120.82,
+    "low": 108.8,
+    "volume": 589020341,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 118.95,
+    "close": 130.6,
+    "high": 131.37,
+    "low": 118.1,
+    "volume": 432997868,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 130.53,
+    "close": 123.68,
+    "high": 130.65,
+    "low": 123.04,
+    "volume": 547049048,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 123.85,
+    "close": 133.96,
+    "high": 138.4,
+    "low": 119.01,
+    "volume": 508314832,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 136.63,
+    "close": 136.27,
+    "high": 141.68,
+    "low": 134.67,
+    "volume": 484499323,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 137,
+    "close": 137.86,
+    "high": 140.94,
+    "low": 130.78,
+    "volume": 585429911,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 136.61,
+    "close": 139.03,
+    "high": 142.37,
+    "low": 134.51,
+    "volume": 477145820,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 139.66,
+    "close": 143.37,
+    "high": 145.67,
+    "low": 133.22,
+    "volume": 562952896,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 144.26,
+    "close": 151.38,
+    "high": 152.5,
+    "low": 142.97,
+    "volume": 391689843,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 151.81,
+    "close": 157.7,
+    "high": 159.55,
+    "low": 146.65,
+    "volume": 452664126,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 158.78,
+    "close": 170.23,
+    "high": 174.05,
+    "low": 156.51,
+    "volume": 559007740,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 170.43,
+    "close": 162.01,
+    "high": 190.7,
+    "low": 152,
+    "volume": 887766284,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 165.31,
+    "close": 157.71,
+    "high": 175,
+    "low": 132.52,
+    "volume": 1612849486,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 153,
+    "close": 179.21,
+    "high": 180.4,
+    "low": 150.36,
+    "volume": 984806705,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 175.8,
+    "close": 183.25,
+    "high": 187.51,
+    "low": 173.8,
+    "volume": 688894553,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 182.54,
+    "close": 203.51,
+    "high": 204.4,
+    "low": 181.35,
+    "volume": 764927279,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 203.14,
+    "close": 205.01,
+    "high": 216.38,
+    "low": 197.51,
+    "volume": 770184464,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 211.52,
+    "close": 225.53,
+    "high": 231.15,
+    "low": 203.14,
+    "volume": 691634898,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 225.51,
+    "close": 210.33,
+    "high": 232.86,
+    "low": 196.25,
+    "volume": 767863892,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 213.49,
+    "close": 202.47,
+    "high": 225.21,
+    "low": 199.62,
+    "volume": 631222673,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 204.29,
+    "close": 214.07,
+    "high": 228.12,
+    "low": 200.12,
+    "volume": 573318439,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 214.51,
+    "close": 222.42,
+    "high": 227.18,
+    "low": 209.11,
+    "volume": 593246634,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 222.53,
+    "close": 231.96,
+    "high": 242.64,
+    "low": 211.94,
+    "volume": 647380571,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 235.06,
+    "close": 232.38,
+    "high": 246.13,
+    "low": 227.88,
+    "volume": 489367639,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 235.9,
+    "close": 235.77,
+    "high": 241.05,
+    "low": 224.26,
+    "volume": 724766906,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 238.47,
+    "close": 252.18,
+    "high": 263.19,
+    "low": 238.05,
+    "volume": 568254647,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 253.4,
+    "close": 249.68,
+    "high": 254.35,
+    "low": 238.07,
+    "volume": 494778030,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 251.23,
+    "close": 270.9,
+    "high": 271.65,
+    "low": 243,
+    "volume": 506315528,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 269.61,
+    "close": 284.91,
+    "high": 290.15,
+    "low": 269.6,
+    "volume": 522341354,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 286.36,
+    "close": 301.88,
+    "high": 305.84,
+    "low": 283.74,
+    "volume": 440977454,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 302.87,
+    "close": 281.92,
+    "high": 305.32,
+    "low": 281.62,
+    "volume": 504597133,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 282.12,
+    "close": 331.62,
+    "high": 332,
+    "low": 280.25,
+    "volume": 515939075,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 331.36,
+    "close": 330.59,
+    "high": 349.67,
+    "low": 326.37,
+    "volume": 508703261,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 335.13,
+    "close": 336.32,
+    "high": 344.3,
+    "low": 317.25,
+    "volume": 625805310,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 335.35,
+    "close": 310.98,
+    "high": 338,
+    "low": 276.05,
+    "volume": 947704246,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 310.41,
+    "close": 298.79,
+    "high": 315.12,
+    "low": 271.52,
+    "volume": 697200455,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 296.4,
+    "close": 308.31,
+    "high": 315.95,
+    "low": 270,
+    "volume": 734040989,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 309.37,
+    "close": 277.52,
+    "high": 315.11,
+    "low": 270,
+    "volume": 627277427,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 277.71,
+    "close": 271.87,
+    "high": 290.88,
+    "low": 246.44,
+    "volume": 742821323,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 275.19,
+    "close": 256.83,
+    "high": 277.69,
+    "low": 241.51,
+    "volume": 621231930,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 256.39,
+    "close": 280.74,
+    "high": 282,
+    "low": 245.94,
+    "volume": 534880900,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 277.82,
+    "close": 261.47,
+    "high": 294.18,
+    "low": 260.66,
+    "volume": 476886206,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 258.87,
+    "close": 232.9,
+    "high": 267.45,
+    "low": 232.73,
+    "volume": 575170743,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 235.41,
+    "close": 232.13,
+    "high": 251.04,
+    "low": 219.13,
+    "volume": 671148524,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 234.6,
+    "close": 255.14,
+    "high": 255.33,
+    "low": 213.43,
+    "volume": 615299274,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 253.87,
+    "close": 239.82,
+    "high": 263.92,
+    "low": 233.87,
+    "volume": 591277618,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 243.08,
+    "close": 247.81,
+    "high": 249.83,
+    "low": 219.35,
+    "volume": 665937418,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 248,
+    "close": 249.42,
+    "high": 276.76,
+    "low": 245.47,
+    "volume": 615239928,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 250.76,
+    "close": 288.3,
+    "high": 289.27,
+    "low": 245.61,
+    "volume": 747442921,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 286.52,
+    "close": 307.26,
+    "high": 308.93,
+    "low": 275.37,
+    "volume": 550980997,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 306.97,
+    "close": 328.39,
+    "high": 335.94,
+    "low": 303.4,
+    "volume": 599568241,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 325.93,
+    "close": 340.54,
+    "high": 351.47,
+    "low": 322.5,
+    "volume": 547431232,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "MSFT",
+    "open": 339.19,
+    "close": 343.77,
+    "high": 366.78,
+    "low": 327,
+    "volume": 446501045,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

@@ -1,0 +1,2392 @@
+[
+  {
+    "ticker": "AZN",
+    "open": 21.67,
+    "close": 21.7,
+    "high": 22.05,
+    "low": 21.13,
+    "volume": 21801400,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 21.68,
+    "close": 23.84,
+    "high": 24.74,
+    "low": 20.32,
+    "volume": 70513600,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.93,
+    "close": 22.98,
+    "high": 24.39,
+    "low": 22.55,
+    "volume": 77336336,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.96,
+    "close": 24.19,
+    "high": 24.43,
+    "low": 22.55,
+    "volume": 43057600,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.45,
+    "close": 24.14,
+    "high": 25.27,
+    "low": 23.04,
+    "volume": 49226600,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.3,
+    "close": 24.31,
+    "high": 25.25,
+    "low": 23.87,
+    "volume": 30275600,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.49,
+    "close": 23.36,
+    "high": 25.6,
+    "low": 22.99,
+    "volume": 57921400,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.36,
+    "close": 23.93,
+    "high": 24.48,
+    "low": 22.9,
+    "volume": 45501600,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.87,
+    "close": 23.45,
+    "high": 24.75,
+    "low": 22.98,
+    "volume": 37832800,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.45,
+    "close": 22.82,
+    "high": 24.38,
+    "low": 22.59,
+    "volume": 39056400,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.75,
+    "close": 22.46,
+    "high": 22.92,
+    "low": 21.45,
+    "volume": 61041000,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.53,
+    "close": 23.27,
+    "high": 23.32,
+    "low": 21.73,
+    "volume": 46118000,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.95,
+    "close": 20.57,
+    "high": 23.57,
+    "low": 20.5,
+    "volume": 103560400,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 20.54,
+    "close": 20.6,
+    "high": 20.7,
+    "low": 18.98,
+    "volume": 64485200,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 20.55,
+    "close": 19.7,
+    "high": 22.13,
+    "low": 19.57,
+    "volume": 82802000,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 19.95,
+    "close": 18.2,
+    "high": 20.7,
+    "low": 17.8,
+    "volume": 73774200,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 18.2,
+    "close": 18.8,
+    "high": 18.98,
+    "low": 17.36,
+    "volume": 48264400,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 18.96,
+    "close": 19.87,
+    "high": 20.88,
+    "low": 18.95,
+    "volume": 36675400,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 19.95,
+    "close": 19.77,
+    "high": 21.25,
+    "low": 19.43,
+    "volume": 47733800,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 19.91,
+    "close": 21.98,
+    "high": 22.11,
+    "low": 19.48,
+    "volume": 41373600,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 21.82,
+    "close": 21.26,
+    "high": 22.61,
+    "low": 21.15,
+    "volume": 36666000,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 21.22,
+    "close": 20.63,
+    "high": 21.47,
+    "low": 20.34,
+    "volume": 28592200,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 20.72,
+    "close": 22.72,
+    "high": 22.79,
+    "low": 20.02,
+    "volume": 42614600,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.73,
+    "close": 23.06,
+    "high": 23.77,
+    "low": 22.45,
+    "volume": 38306800,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.34,
+    "close": 23.55,
+    "high": 24.7,
+    "low": 23.21,
+    "volume": 34003600,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.53,
+    "close": 22.45,
+    "high": 24.53,
+    "low": 21.96,
+    "volume": 41620200,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.39,
+    "close": 23.02,
+    "high": 23.25,
+    "low": 22.06,
+    "volume": 48543600,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.23,
+    "close": 24.3,
+    "high": 25.07,
+    "low": 23.23,
+    "volume": 34932400,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.8,
+    "close": 24.32,
+    "high": 25.75,
+    "low": 23.23,
+    "volume": 44420600,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.35,
+    "close": 23.12,
+    "high": 24.55,
+    "low": 22.45,
+    "volume": 35976800,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.25,
+    "close": 25.11,
+    "high": 25.91,
+    "low": 22.82,
+    "volume": 62643600,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 25.18,
+    "close": 27.57,
+    "high": 27.75,
+    "low": 25.11,
+    "volume": 39272000,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 28.18,
+    "close": 26.47,
+    "high": 28.18,
+    "low": 25.92,
+    "volume": 52602200,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 26.27,
+    "close": 29.91,
+    "high": 30.22,
+    "low": 25.91,
+    "volume": 55699800,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 30,
+    "close": 30.52,
+    "high": 31.05,
+    "low": 28.1,
+    "volume": 44222800,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 30.44,
+    "close": 32.57,
+    "high": 32.62,
+    "low": 29.89,
+    "volume": 48313200,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 32.59,
+    "close": 31.25,
+    "high": 32.76,
+    "low": 30.57,
+    "volume": 42344200,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 31.45,
+    "close": 29.35,
+    "high": 33.24,
+    "low": 29.34,
+    "volume": 65705000,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 30.16,
+    "close": 28.95,
+    "high": 30.88,
+    "low": 28.08,
+    "volume": 66796200,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 28.67,
+    "close": 26.77,
+    "high": 28.89,
+    "low": 26.52,
+    "volume": 61726200,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 27.12,
+    "close": 27.98,
+    "high": 28.77,
+    "low": 26.84,
+    "volume": 56811200,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 28.8,
+    "close": 28.07,
+    "high": 29.43,
+    "low": 27.72,
+    "volume": 40942800,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 27.45,
+    "close": 26.82,
+    "high": 28.56,
+    "low": 26.64,
+    "volume": 60085852,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 26.89,
+    "close": 27.16,
+    "high": 29.73,
+    "low": 26.73,
+    "volume": 57257840,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 27.17,
+    "close": 26.59,
+    "high": 27.22,
+    "low": 26.34,
+    "volume": 48893618,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 26.49,
+    "close": 26.74,
+    "high": 26.93,
+    "low": 25.25,
+    "volume": 54557398,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 26.95,
+    "close": 25.91,
+    "high": 28.3,
+    "low": 25.62,
+    "volume": 45782202,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 25.67,
+    "close": 24.6,
+    "high": 26.05,
+    "low": 22.31,
+    "volume": 65743600,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.45,
+    "close": 25.04,
+    "high": 25.07,
+    "low": 23.41,
+    "volume": 35484312,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 25.28,
+    "close": 24.55,
+    "high": 26.48,
+    "low": 24.1,
+    "volume": 55036786,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.27,
+    "close": 23.69,
+    "high": 24.43,
+    "low": 21.52,
+    "volume": 51307916,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.77,
+    "close": 21.41,
+    "high": 23.84,
+    "low": 21.11,
+    "volume": 37865316,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 21.43,
+    "close": 20.95,
+    "high": 23.42,
+    "low": 20.05,
+    "volume": 86878140,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 20.44,
+    "close": 18.82,
+    "high": 20.95,
+    "low": 18.72,
+    "volume": 77650886,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 18.86,
+    "close": 19.0,
+    "high": 19.43,
+    "low": 17.52,
+    "volume": 81526504,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 19.7,
+    "close": 20.99,
+    "high": 21.32,
+    "low": 19.61,
+    "volume": 91425582,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 20.73,
+    "close": 21.84,
+    "high": 22.64,
+    "low": 20.14,
+    "volume": 53163248,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 21.62,
+    "close": 21.27,
+    "high": 21.7,
+    "low": 20.34,
+    "volume": 41373018,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 21.01,
+    "close": 24.27,
+    "high": 24.59,
+    "low": 20.99,
+    "volume": 112678740,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.24,
+    "close": 24.35,
+    "high": 24.93,
+    "low": 23.67,
+    "volume": 74365960,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.7,
+    "close": 21.94,
+    "high": 24.79,
+    "low": 21.35,
+    "volume": 72402202,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.34,
+    "close": 21.23,
+    "high": 22.8,
+    "low": 17.39,
+    "volume": 99802418,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 21.35,
+    "close": 18.86,
+    "high": 22.29,
+    "low": 16.29,
+    "volume": 79675004,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 18.51,
+    "close": 20.52,
+    "high": 20.84,
+    "low": 17.55,
+    "volume": 56315846,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 20.11,
+    "close": 19.27,
+    "high": 21.02,
+    "low": 18.64,
+    "volume": 60285120,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 18.78,
+    "close": 15.79,
+    "high": 20.18,
+    "low": 15.73,
+    "volume": 50073704,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 15.96,
+    "close": 17.73,
+    "high": 17.87,
+    "low": 14.98,
+    "volume": 83989342,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 17.3,
+    "close": 17.48,
+    "high": 18.43,
+    "low": 16.57,
+    "volume": 70476094,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 17.3,
+    "close": 20.86,
+    "high": 20.99,
+    "low": 17.2,
+    "volume": 76930746,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 21.14,
+    "close": 22.07,
+    "high": 22.61,
+    "low": 20.03,
+    "volume": 54720192,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.22,
+    "close": 23.22,
+    "high": 23.8,
+    "low": 21.36,
+    "volume": 59925794,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.57,
+    "close": 23.32,
+    "high": 23.75,
+    "low": 22.47,
+    "volume": 51364238,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.29,
+    "close": 22.48,
+    "high": 23.48,
+    "low": 21.92,
+    "volume": 73149726,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.4,
+    "close": 22.45,
+    "high": 23.23,
+    "low": 21.73,
+    "volume": 69147980,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.16,
+    "close": 22.41,
+    "high": 23.25,
+    "low": 21.95,
+    "volume": 48375286,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.71,
+    "close": 23.47,
+    "high": 23.64,
+    "low": 22.55,
+    "volume": 46533698,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.71,
+    "close": 23.25,
+    "high": 25.35,
+    "low": 22.79,
+    "volume": 77393854,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.31,
+    "close": 22.06,
+    "high": 23.55,
+    "low": 21.11,
+    "volume": 59369638,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 21.98,
+    "close": 22.36,
+    "high": 22.75,
+    "low": 21.88,
+    "volume": 53427850,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.45,
+    "close": 22.11,
+    "high": 22.93,
+    "low": 21.5,
+    "volume": 53034082,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.03,
+    "close": 21.12,
+    "high": 22.16,
+    "low": 20.15,
+    "volume": 106374042,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 21.16,
+    "close": 23.57,
+    "high": 24.9,
+    "low": 20.96,
+    "volume": 106415170,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.87,
+    "close": 25.22,
+    "high": 26.15,
+    "low": 23.36,
+    "volume": 107271424,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 25.77,
+    "close": 24.71,
+    "high": 26.77,
+    "low": 24.66,
+    "volume": 57149876,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 25.3,
+    "close": 25.35,
+    "high": 26.39,
+    "low": 25.16,
+    "volume": 37939958,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 25.57,
+    "close": 25.23,
+    "high": 26.75,
+    "low": 24.93,
+    "volume": 45006826,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.98,
+    "close": 23.46,
+    "high": 25.34,
+    "low": 23.31,
+    "volume": 50115090,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.73,
+    "close": 23.09,
+    "high": 24.78,
+    "low": 22.75,
+    "volume": 54003460,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.22,
+    "close": 24.45,
+    "high": 24.82,
+    "low": 23.13,
+    "volume": 56447860,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.52,
+    "close": 24.59,
+    "high": 24.71,
+    "low": 23.6,
+    "volume": 48603718,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.38,
+    "close": 23.06,
+    "high": 24.52,
+    "low": 22.49,
+    "volume": 65990774,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.16,
+    "close": 24.91,
+    "high": 25.86,
+    "low": 23.07,
+    "volume": 54351312,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 25.02,
+    "close": 26.2,
+    "high": 26.27,
+    "low": 24.95,
+    "volume": 49656202,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 26.21,
+    "close": 25.04,
+    "high": 26.23,
+    "low": 24.09,
+    "volume": 56878304,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.95,
+    "close": 24.25,
+    "high": 25.59,
+    "low": 24.16,
+    "volume": 66915860,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.56,
+    "close": 23.71,
+    "high": 24.56,
+    "low": 20.45,
+    "volume": 117691808,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.61,
+    "close": 22.18,
+    "high": 23.81,
+    "low": 21.17,
+    "volume": 61822124,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.07,
+    "close": 23.95,
+    "high": 24.97,
+    "low": 21.46,
+    "volume": 60931780,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.33,
+    "close": 22.99,
+    "high": 24.0,
+    "low": 21.19,
+    "volume": 62843114,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.97,
+    "close": 23.14,
+    "high": 23.23,
+    "low": 22.23,
+    "volume": 61222142,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.52,
+    "close": 24.07,
+    "high": 24.23,
+    "low": 23.12,
+    "volume": 50921536,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.23,
+    "close": 22.45,
+    "high": 24.5,
+    "low": 22.26,
+    "volume": 66017252,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.5,
+    "close": 22.25,
+    "high": 22.86,
+    "low": 22.07,
+    "volume": 71496046,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.32,
+    "close": 21.95,
+    "high": 23.18,
+    "low": 21.5,
+    "volume": 76724558,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.05,
+    "close": 20.2,
+    "high": 22.27,
+    "low": 20.07,
+    "volume": 60501782,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 20,
+    "close": 22.38,
+    "high": 22.52,
+    "low": 19.86,
+    "volume": 60023702,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.41,
+    "close": 23.41,
+    "high": 23.71,
+    "low": 22.36,
+    "volume": 84746574,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.52,
+    "close": 23.39,
+    "high": 24.2,
+    "low": 23.25,
+    "volume": 55977214,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.17,
+    "close": 23.93,
+    "high": 24.25,
+    "low": 23.05,
+    "volume": 48795432,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.39,
+    "close": 23.2,
+    "high": 23.91,
+    "low": 22.89,
+    "volume": 61386062,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.35,
+    "close": 23.77,
+    "high": 23.82,
+    "low": 22.09,
+    "volume": 40382504,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.94,
+    "close": 23.64,
+    "high": 24.64,
+    "low": 23.36,
+    "volume": 48353150,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.08,
+    "close": 24.09,
+    "high": 25.07,
+    "low": 23.87,
+    "volume": 63067550,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.2,
+    "close": 22.72,
+    "high": 24.26,
+    "low": 22.23,
+    "volume": 86016302,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 22.61,
+    "close": 24.99,
+    "high": 25.06,
+    "low": 22.56,
+    "volume": 87462108,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.91,
+    "close": 25.96,
+    "high": 26.12,
+    "low": 24.72,
+    "volume": 93100026,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 25.98,
+    "close": 25.62,
+    "high": 26.73,
+    "low": 25.46,
+    "volume": 73899878,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 25.63,
+    "close": 23.65,
+    "high": 25.91,
+    "low": 23.43,
+    "volume": 85309552,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 23.98,
+    "close": 25.36,
+    "high": 25.54,
+    "low": 23.75,
+    "volume": 66736708,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 25.23,
+    "close": 24.61,
+    "high": 25.74,
+    "low": 24.55,
+    "volume": 71467826,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 24.66,
+    "close": 25.96,
+    "high": 26.17,
+    "low": 24.27,
+    "volume": 56009352,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 26.04,
+    "close": 26.43,
+    "high": 26.86,
+    "low": 24.82,
+    "volume": 54581046,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 26.37,
+    "close": 28.59,
+    "high": 28.81,
+    "low": 26.04,
+    "volume": 64394886,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 28.68,
+    "close": 29.68,
+    "high": 29.84,
+    "low": 28.06,
+    "volume": 101256056,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 29.29,
+    "close": 31.75,
+    "high": 32.91,
+    "low": 29.15,
+    "volume": 102484908,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 31.79,
+    "close": 33.88,
+    "high": 34.38,
+    "low": 30.88,
+    "volume": 109901668,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 33.26,
+    "close": 32.44,
+    "high": 34.12,
+    "low": 31.79,
+    "volume": 77951770,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 32.62,
+    "close": 39.52,
+    "high": 39.95,
+    "low": 30.9,
+    "volume": 198337944,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 39.66,
+    "close": 36.1,
+    "high": 41.34,
+    "low": 34.89,
+    "volume": 356205002,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 36.37,
+    "close": 37.16,
+    "high": 38.08,
+    "low": 36,
+    "volume": 125285462,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 37.65,
+    "close": 36.4,
+    "high": 38.28,
+    "low": 36.28,
+    "volume": 89336714,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 36.32,
+    "close": 38.01,
+    "high": 38.12,
+    "low": 33.74,
+    "volume": 123835584,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 36.91,
+    "close": 35.72,
+    "high": 37.81,
+    "low": 35.23,
+    "volume": 76851852,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 35.62,
+    "close": 36.47,
+    "high": 36.56,
+    "low": 33.19,
+    "volume": 105803974,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 36.24,
+    "close": 37.09,
+    "high": 37.97,
+    "low": 35.84,
+    "volume": 55543992,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 37.18,
+    "close": 35.19,
+    "high": 37.33,
+    "low": 34.66,
+    "volume": 77436798,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 35.53,
+    "close": 35.52,
+    "high": 36.11,
+    "low": 33.73,
+    "volume": 71271756,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 35.65,
+    "close": 34.45,
+    "high": 35.95,
+    "low": 33.57,
+    "volume": 73786364,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 34.42,
+    "close": 34.22,
+    "high": 36.5,
+    "low": 32.13,
+    "volume": 56511100,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 34.48,
+    "close": 34.24,
+    "high": 36.69,
+    "low": 34.12,
+    "volume": 50210664,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 34.05,
+    "close": 33.77,
+    "high": 35.34,
+    "low": 33.38,
+    "volume": 48937410,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 33.69,
+    "close": 31.86,
+    "high": 33.95,
+    "low": 31.61,
+    "volume": 69247370,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 32.39,
+    "close": 33.79,
+    "high": 34.06,
+    "low": 32.1,
+    "volume": 52970442,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 33.85,
+    "close": 31.28,
+    "high": 34.69,
+    "low": 29.5,
+    "volume": 41569122,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 30.92,
+    "close": 31.82,
+    "high": 34.47,
+    "low": 30.54,
+    "volume": 60824132,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 31.84,
+    "close": 31.89,
+    "high": 32.45,
+    "low": 30.26,
+    "volume": 56357980,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 31.89,
+    "close": 34.05,
+    "high": 34.35,
+    "low": 30.74,
+    "volume": 75412776,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 34.33,
+    "close": 33.95,
+    "high": 34.88,
+    "low": 32.57,
+    "volume": 65251094,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 33.5,
+    "close": 32.22,
+    "high": 33.94,
+    "low": 29.96,
+    "volume": 83153479,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 32.02,
+    "close": 28.67,
+    "high": 32.82,
+    "low": 28.29,
+    "volume": 115218826,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 28.58,
+    "close": 28.16,
+    "high": 29.63,
+    "low": 27.68,
+    "volume": 105609008,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 27.75,
+    "close": 28.96,
+    "high": 30.41,
+    "low": 27.7,
+    "volume": 79302805,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 29.11,
+    "close": 29.7,
+    "high": 30.2,
+    "low": 27.74,
+    "volume": 79866368,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 29.36,
+    "close": 30.19,
+    "high": 30.24,
+    "low": 26.97,
+    "volume": 116260708,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 30.19,
+    "close": 34.14,
+    "high": 34.35,
+    "low": 29.68,
+    "volume": 160150855,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 33.66,
+    "close": 32.81,
+    "high": 35.04,
+    "low": 32.61,
+    "volume": 119289883,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 32.37,
+    "close": 32.86,
+    "high": 34.34,
+    "low": 32.19,
+    "volume": 103599364,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 32.86,
+    "close": 28.32,
+    "high": 33.27,
+    "low": 28,
+    "volume": 117184035,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 28.25,
+    "close": 26.14,
+    "high": 29.16,
+    "low": 25.88,
+    "volume": 163455193,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 26.21,
+    "close": 27.32,
+    "high": 28.01,
+    "low": 25.55,
+    "volume": 179867140,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 27.53,
+    "close": 27.23,
+    "high": 28.81,
+    "low": 26.51,
+    "volume": 133110611,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 27.32,
+    "close": 29.26,
+    "high": 29.73,
+    "low": 26.98,
+    "volume": 115246379,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 29.01,
+    "close": 31.14,
+    "high": 31.88,
+    "low": 28.95,
+    "volume": 109208108,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 31.05,
+    "close": 30.25,
+    "high": 31.4,
+    "low": 29.63,
+    "volume": 69197252,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 30.32,
+    "close": 34.39,
+    "high": 34.69,
+    "low": 30.21,
+    "volume": 95803758,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 34.74,
+    "close": 34.09,
+    "high": 35.6,
+    "low": 33.87,
+    "volume": 83002834,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 33.84,
+    "close": 30.18,
+    "high": 34.5,
+    "low": 28.43,
+    "volume": 142114415,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 30.43,
+    "close": 29.83,
+    "high": 30.5,
+    "low": 28.78,
+    "volume": 85967362,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 30.19,
+    "close": 33.88,
+    "high": 34.07,
+    "low": 29.98,
+    "volume": 116190632,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 33.85,
+    "close": 34.5,
+    "high": 34.94,
+    "low": 33.35,
+    "volume": 78950772,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 34.5,
+    "close": 32.87,
+    "high": 34.79,
+    "low": 32.61,
+    "volume": 61438254,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 32.8,
+    "close": 34.7,
+    "high": 34.95,
+    "low": 31.99,
+    "volume": 57891041,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 35.24,
+    "close": 35.06,
+    "high": 36.7,
+    "low": 34.91,
+    "volume": 74281069,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 35.15,
+    "close": 33.19,
+    "high": 36.29,
+    "low": 32.85,
+    "volume": 98292803,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 33.34,
+    "close": 34.97,
+    "high": 35.53,
+    "low": 32.69,
+    "volume": 76796906,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 34.89,
+    "close": 35.53,
+    "high": 36.75,
+    "low": 34.48,
+    "volume": 84188920,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 35.69,
+    "close": 37.03,
+    "high": 37.3,
+    "low": 35.4,
+    "volume": 103133074,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 36.72,
+    "close": 35.11,
+    "high": 37.06,
+    "low": 34.38,
+    "volume": 61063787,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 34.52,
+    "close": 39.13,
+    "high": 39.25,
+    "low": 34.4,
+    "volume": 78319651,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 38.69,
+    "close": 38.34,
+    "high": 39.76,
+    "low": 37.84,
+    "volume": 99230712,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 37.83,
+    "close": 39.57,
+    "high": 39.74,
+    "low": 36.88,
+    "volume": 70319572,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 39.59,
+    "close": 38.78,
+    "high": 40.16,
+    "low": 36.66,
+    "volume": 105373949,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 38.47,
+    "close": 39.82,
+    "high": 41.77,
+    "low": 37.63,
+    "volume": 98653388,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 39.95,
+    "close": 37.98,
+    "high": 40.35,
+    "low": 36.49,
+    "volume": 85253141,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 37.72,
+    "close": 36.58,
+    "high": 39.38,
+    "low": 35.3,
+    "volume": 124692013,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 36.6,
+    "close": 41.58,
+    "high": 42.58,
+    "low": 36.54,
+    "volume": 96447057,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 41.61,
+    "close": 40.43,
+    "high": 43.3,
+    "low": 40.14,
+    "volume": 114340118,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 41.44,
+    "close": 37.66,
+    "high": 41.66,
+    "low": 37.59,
+    "volume": 118397459,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 37.51,
+    "close": 37.38,
+    "high": 39.32,
+    "low": 37.12,
+    "volume": 95176200,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 38.04,
+    "close": 41.28,
+    "high": 42.08,
+    "low": 37.76,
+    "volume": 46829386,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 41.65,
+    "close": 43.41,
+    "high": 44.74,
+    "low": 39.84,
+    "volume": 72160317,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 43.57,
+    "close": 45.03,
+    "high": 45.69,
+    "low": 43.16,
+    "volume": 70530388,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 45.16,
+    "close": 44.57,
+    "high": 46.22,
+    "low": 42.19,
+    "volume": 71880062,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 44.03,
+    "close": 49.03,
+    "high": 49.06,
+    "low": 42.25,
+    "volume": 72308002,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 49.21,
+    "close": 48.48,
+    "high": 49.22,
+    "low": 46.31,
+    "volume": 52186660,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 48.67,
+    "close": 49.86,
+    "high": 51.23,
+    "low": 47.45,
+    "volume": 64134904,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 50.3,
+    "close": 48.7,
+    "high": 51.55,
+    "low": 48.47,
+    "volume": 55751093,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 48.62,
+    "close": 43.8,
+    "high": 50.25,
+    "low": 42.96,
+    "volume": 63564147,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 44.45,
+    "close": 44.66,
+    "high": 48.69,
+    "low": 36.15,
+    "volume": 145149638,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 43.75,
+    "close": 52.28,
+    "high": 54,
+    "low": 42.8,
+    "volume": 89894706,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 52.03,
+    "close": 54.6,
+    "high": 57.44,
+    "low": 50.81,
+    "volume": 104056672,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 54.32,
+    "close": 52.89,
+    "high": 55.29,
+    "low": 50.95,
+    "volume": 124955051,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 52.83,
+    "close": 55.78,
+    "high": 64.94,
+    "low": 52.39,
+    "volume": 237136870,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 56.68,
+    "close": 56,
+    "high": 57.92,
+    "low": 54.97,
+    "volume": 80517917,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 55.85,
+    "close": 54.8,
+    "high": 56.8,
+    "low": 52.57,
+    "volume": 99147607,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 55.2,
+    "close": 50.16,
+    "high": 55.45,
+    "low": 49.79,
+    "volume": 93785640,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 50.47,
+    "close": 52.94,
+    "high": 58.08,
+    "low": 50.15,
+    "volume": 137978793,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 53.06,
+    "close": 49.99,
+    "high": 55.06,
+    "low": 48.17,
+    "volume": 301187898,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 50.92,
+    "close": 50.6,
+    "high": 54.65,
+    "low": 49.89,
+    "volume": 237755916,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 51.26,
+    "close": 48.38,
+    "high": 51.98,
+    "low": 47.98,
+    "volume": 197420378,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 48.46,
+    "close": 49.72,
+    "high": 51.21,
+    "low": 46.48,
+    "volume": 251649190,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 49.61,
+    "close": 53.07,
+    "high": 54.56,
+    "low": 48.26,
+    "volume": 215909275,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 53.37,
+    "close": 56.77,
+    "high": 57.73,
+    "low": 52.74,
+    "volume": 143130055,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 57.14,
+    "close": 59.9,
+    "high": 60.37,
+    "low": 55.73,
+    "volume": 141722304,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 59.87,
+    "close": 57.24,
+    "high": 60.93,
+    "low": 56,
+    "volume": 387385622,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 57.05,
+    "close": 58.28,
+    "high": 60.19,
+    "low": 56,
+    "volume": 135634640,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 58.74,
+    "close": 60.06,
+    "high": 61.3,
+    "low": 55.12,
+    "volume": 138650008,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 59.29,
+    "close": 62.38,
+    "high": 62.86,
+    "low": 58.69,
+    "volume": 82722314,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 62.19,
+    "close": 54.83,
+    "high": 64.21,
+    "low": 54.71,
+    "volume": 113414042,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 55.4,
+    "close": 58.25,
+    "high": 58.88,
+    "low": 53.63,
+    "volume": 95497492,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 58.27,
+    "close": 58.21,
+    "high": 60.62,
+    "low": 55.5,
+    "volume": 110113262,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 57.35,
+    "close": 60.88,
+    "high": 61.91,
+    "low": 55.65,
+    "volume": 192565212,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 62.23,
+    "close": 66.34,
+    "high": 67.55,
+    "low": 56.36,
+    "volume": 176145829,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 65.73,
+    "close": 66.4,
+    "high": 71.7,
+    "low": 64.81,
+    "volume": 141105491,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 65.96,
+    "close": 66.48,
+    "high": 67.4,
+    "low": 60.34,
+    "volume": 145318718,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 66.52,
+    "close": 66.07,
+    "high": 67.55,
+    "low": 58.41,
+    "volume": 140837905,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 64.1,
+    "close": 66.23,
+    "high": 68.39,
+    "low": 63.9,
+    "volume": 121730604,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 66.52,
+    "close": 62.38,
+    "high": 68.26,
+    "low": 62.16,
+    "volume": 138342670,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "AZN",
+    "open": 61.39,
+    "close": 54.84,
+    "high": 62.18,
+    "low": 52.65,
+    "volume": 157917462,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 55.07,
+    "close": 58.81,
+    "high": 59.34,
+    "low": 53.52,
+    "volume": 134410725,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 59.9,
+    "close": 67.97,
+    "high": 67.98,
+    "low": 58.85,
+    "volume": 111521372,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 68.5,
+    "close": 67.8,
+    "high": 70.84,
+    "low": 67.12,
+    "volume": 79840527,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 68.65,
+    "close": 65.37,
+    "high": 72.12,
+    "low": 64.85,
+    "volume": 120004041,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "AZN",
+    "open": 64.44,
+    "close": 65.18,
+    "high": 70.58,
+    "low": 62.52,
+    "volume": 99161200,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 65.16,
+    "close": 69.41,
+    "high": 69.93,
+    "low": 63.77,
+    "volume": 99863859,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "AZN",
+    "open": 69.53,
+    "close": 73.22,
+    "high": 76.56,
+    "low": 69.36,
+    "volume": 84270917,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 73.35,
+    "close": 73.08,
+    "high": 75.66,
+    "low": 71.23,
+    "volume": 75411066,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "AZN",
+    "open": 72.28,
+    "close": 71.57,
+    "high": 75.75,
+    "low": 70.12,
+    "volume": 97057900,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "AZN",
+    "open": 67.09,
+    "close": 69.34,
+    "high": 69.65,
+    "low": 64.55,
+    "volume": 112120372,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  }
+]

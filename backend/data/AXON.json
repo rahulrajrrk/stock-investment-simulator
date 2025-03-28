@@ -1,0 +1,932 @@
+[
+  {
+    "ticker": "AXON",
+    "open": 20.93,
+    "close": 20.38,
+    "high": 31.17,
+    "low": 18.18,
+    "volume": 26146883,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 20.8,
+    "close": 14.01,
+    "high": 22.88,
+    "low": 13.82,
+    "volume": 18531250,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 14.48,
+    "close": 12.02,
+    "high": 14.48,
+    "low": 9.99,
+    "volume": 13187789,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 11.69,
+    "close": 12.92,
+    "high": 17.4,
+    "low": 11.31,
+    "volume": 11913148,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "AXON",
+    "open": 13.1,
+    "close": 12.19,
+    "high": 14.37,
+    "low": 11.01,
+    "volume": 10267517,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "AXON",
+    "open": 12.26,
+    "close": 18.98,
+    "high": 19.16,
+    "low": 12,
+    "volume": 7109894,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 18.63,
+    "close": 18.03,
+    "high": 21.3,
+    "low": 17.5,
+    "volume": 6861065,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "AXON",
+    "open": 17.6,
+    "close": 15.93,
+    "high": 18.33,
+    "low": 14.58,
+    "volume": 8314772,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 15.85,
+    "close": 12.61,
+    "high": 17.18,
+    "low": 8.86,
+    "volume": 11174758,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 12.63,
+    "close": 11.48,
+    "high": 13.39,
+    "low": 10.7,
+    "volume": 6743667,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 11.41,
+    "close": 13,
+    "high": 14.08,
+    "low": 11.15,
+    "volume": 5327214,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 13.34,
+    "close": 13.21,
+    "high": 14.28,
+    "low": 10.69,
+    "volume": 6703164,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 13.12,
+    "close": 12.84,
+    "high": 15.7,
+    "low": 11.13,
+    "volume": 10622161,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 12.92,
+    "close": 14.8,
+    "high": 14.86,
+    "low": 11.94,
+    "volume": 5120083,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 14.85,
+    "close": 16.41,
+    "high": 17.66,
+    "low": 14.5,
+    "volume": 6749555,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "AXON",
+    "open": 16.34,
+    "close": 14,
+    "high": 17.46,
+    "low": 12.22,
+    "volume": 18358874,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 14.08,
+    "close": 12.31,
+    "high": 14.15,
+    "low": 12.3,
+    "volume": 4651678,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 12.19,
+    "close": 13.53,
+    "high": 14.56,
+    "low": 11.01,
+    "volume": 6098696,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 13.62,
+    "close": 12.42,
+    "high": 14.79,
+    "low": 11.78,
+    "volume": 5787896,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 12.58,
+    "close": 12.25,
+    "high": 13.54,
+    "low": 11.59,
+    "volume": 4560734,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 12.34,
+    "close": 12.71,
+    "high": 14.09,
+    "low": 11.01,
+    "volume": 10712831,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 12.83,
+    "close": 14.94,
+    "high": 15.8,
+    "low": 12.61,
+    "volume": 6661279,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 15,
+    "close": 24.24,
+    "high": 24.49,
+    "low": 14.7,
+    "volume": 25716196,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 24.22,
+    "close": 21.39,
+    "high": 25.18,
+    "low": 20.51,
+    "volume": 12917852,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 21.5,
+    "close": 23.19,
+    "high": 25.08,
+    "low": 20.12,
+    "volume": 11408353,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 23.27,
+    "close": 22.92,
+    "high": 26.49,
+    "low": 20.87,
+    "volume": 11509793,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 22.99,
+    "close": 20,
+    "high": 23.73,
+    "low": 18.91,
+    "volume": 12149558,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "AXON",
+    "open": 20,
+    "close": 6.88,
+    "high": 27.98,
+    "low": 6.13,
+    "volume": 78234510,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 6.86,
+    "close": 5.24,
+    "high": 8.01,
+    "low": 4.6,
+    "volume": 41844214,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 5.25,
+    "close": 5.52,
+    "high": 5.72,
+    "low": 4.72,
+    "volume": 19786096,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 5.51,
+    "close": 5.27,
+    "high": 5.7,
+    "low": 4.87,
+    "volume": 22890859,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 5.34,
+    "close": 2.03,
+    "high": 5.48,
+    "low": 2,
+    "volume": 52494278,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 2.01,
+    "close": 1.44,
+    "high": 2.11,
+    "low": 1.41,
+    "volume": 25634568,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 1.43,
+    "close": 1.33,
+    "high": 1.69,
+    "low": 1.32,
+    "volume": 13313994,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 1.34,
+    "close": 1.07,
+    "high": 1.35,
+    "low": 1.02,
+    "volume": 10842037,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 1.08,
+    "close": 1.69,
+    "high": 1.8,
+    "low": 1.03,
+    "volume": 29617855,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 1.73,
+    "close": 2.26,
+    "high": 6.59,
+    "low": 1.67,
+    "volume": 327596298,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 2.25,
+    "close": 2.13,
+    "high": 3.04,
+    "low": 2.01,
+    "volume": 44196691,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 2.11,
+    "close": 2.5,
+    "high": 2.5,
+    "low": 1.94,
+    "volume": 19340770,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "AXON",
+    "open": 2.5,
+    "close": 2.42,
+    "high": 2.58,
+    "low": 1.91,
+    "volume": 13558820,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 2.42,
+    "close": 1.87,
+    "high": 2.6,
+    "low": 1.85,
+    "volume": 16942780,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 1.88,
+    "close": 1.81,
+    "high": 2.18,
+    "low": 1.75,
+    "volume": 9240533,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 1.83,
+    "close": 1.0,
+    "high": 1.85,
+    "low": 0.93,
+    "volume": 27204456,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 0.98,
+    "close": 1.05,
+    "high": 1.26,
+    "low": 0.93,
+    "volume": 27939639,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 1.05,
+    "close": 1.22,
+    "high": 1.42,
+    "low": 1.03,
+    "volume": 18003927,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 176.52,
+    "close": 164.16,
+    "high": 180.69,
+    "low": 160.3,
+    "volume": 2597681,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 167.13,
+    "close": 165.49,
+    "high": 212.37,
+    "low": 156.89,
+    "volume": 12669801,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 170.74,
+    "close": 142.42,
+    "high": 174.83,
+    "low": 127.25,
+    "volume": 13210534,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 144.42,
+    "close": 151.61,
+    "high": 161.51,
+    "low": 142.55,
+    "volume": 7522507,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 152.26,
+    "close": 140.59,
+    "high": 152.53,
+    "low": 121.09,
+    "volume": 8976688,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 142.42,
+    "close": 176.8,
+    "high": 179.3,
+    "low": 136.53,
+    "volume": 9543408,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "AXON",
+    "open": 176.8,
+    "close": 186.02,
+    "high": 188.37,
+    "low": 168.41,
+    "volume": 5899329,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "AXON",
+    "open": 186.8,
+    "close": 181.87,
+    "high": 198,
+    "low": 180.29,
+    "volume": 7159660,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 181.78,
+    "close": 175.02,
+    "high": 187.09,
+    "low": 168.76,
+    "volume": 7645552,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 176.44,
+    "close": 179.96,
+    "high": 187.41,
+    "low": 161.85,
+    "volume": 5896014,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 180.99,
+    "close": 168.79,
+    "high": 209,
+    "low": 167.25,
+    "volume": 12615906,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 162.81,
+    "close": 157,
+    "high": 172.63,
+    "low": 138.68,
+    "volume": 12372046,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 156.6,
+    "close": 139.93,
+    "high": 157.5,
+    "low": 124.66,
+    "volume": 13144301,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 142.05,
+    "close": 140.25,
+    "high": 148.87,
+    "low": 117.05,
+    "volume": 7432805,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 138.73,
+    "close": 137.73,
+    "high": 146.5,
+    "low": 117.78,
+    "volume": 9088245,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 137.69,
+    "close": 112.2,
+    "high": 142.5,
+    "low": 111.38,
+    "volume": 7936739,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 112.35,
+    "close": 101.36,
+    "high": 118.17,
+    "low": 82.49,
+    "volume": 10685299,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 101.8,
+    "close": 93.17,
+    "high": 105.87,
+    "low": 83.01,
+    "volume": 9858125,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "AXON",
+    "open": 93.72,
+    "close": 110.19,
+    "high": 111.13,
+    "low": 88.61,
+    "volume": 5385528,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "AXON",
+    "open": 109.38,
+    "close": 116.68,
+    "high": 133.26,
+    "low": 107.5,
+    "volume": 7692829,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 115.13,
+    "close": 115.75,
+    "high": 125.4,
+    "low": 109.31,
+    "volume": 8529024,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 116.09,
+    "close": 145.44,
+    "high": 145.5,
+    "low": 112.53,
+    "volume": 9549892,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 147.17,
+    "close": 184.03,
+    "high": 193.85,
+    "low": 142.46,
+    "volume": 13913454,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 177.95,
+    "close": 165.93,
+    "high": 190.47,
+    "low": 162.39,
+    "volume": 10759169,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 167.88,
+    "close": 195.44,
+    "high": 198.4,
+    "low": 164.66,
+    "volume": 13041637,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 197.16,
+    "close": 200.31,
+    "high": 204.99,
+    "low": 168.3,
+    "volume": 17790326,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 208.74,
+    "close": 224.85,
+    "high": 227.56,
+    "low": 202.85,
+    "volume": 17738054,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 223.98,
+    "close": 210.71,
+    "high": 229.0,
+    "low": 207.72,
+    "volume": 11829854,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 211.33,
+    "close": 192.91,
+    "high": 229.95,
+    "low": 186.32,
+    "volume": 42336618,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 191.59,
+    "close": 195.12,
+    "high": 206.33,
+    "low": 186.88,
+    "volume": 17784184,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "AXON",
+    "open": 194.31,
+    "close": 185.93,
+    "high": 197.42,
+    "low": 176.08,
+    "volume": 12556576,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "AXON",
+    "open": 184.45,
+    "close": 212.91,
+    "high": 215.28,
+    "low": 175.37,
+    "volume": 17184807,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 213.61,
+    "close": 198.99,
+    "high": 217.61,
+    "low": 189.12,
+    "volume": 9316809,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 197.29,
+    "close": 204.49,
+    "high": 223.3,
+    "low": 190.01,
+    "volume": 8550303,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 204.95,
+    "close": 229.87,
+    "high": 231.71,
+    "low": 203.16,
+    "volume": 10738000,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 229.87,
+    "close": 258.33,
+    "high": 260.69,
+    "low": 226.55,
+    "volume": 8250851,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 254.47,
+    "close": 249.06,
+    "high": 262.95,
+    "low": 241.72,
+    "volume": 7530464,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 250.65,
+    "close": 307.37,
+    "high": 318.9,
+    "low": 247.04,
+    "volume": 10971851,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 303,
+    "close": 312.88,
+    "high": 325.63,
+    "low": 302.24,
+    "volume": 10798836,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 314.34,
+    "close": 313.66,
+    "high": 329.87,
+    "low": 291.35,
+    "volume": 9234121,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "AXON",
+    "open": 312.18,
+    "close": 281.67,
+    "high": 329.18,
+    "low": 275.19,
+    "volume": 13022676,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "AXON",
+    "open": 281.35,
+    "close": 294.24,
+    "high": 304.56,
+    "low": 273.52,
+    "volume": 8906916,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 296.56,
+    "close": 300.01,
+    "high": 326.32,
+    "low": 286.51,
+    "volume": 9313627,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "AXON",
+    "open": 300,
+    "close": 364.97,
+    "high": 378.89,
+    "low": 279.02,
+    "volume": 15723394,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "AXON",
+    "open": 361.35,
+    "close": 399.6,
+    "high": 400.33,
+    "low": 346.71,
+    "volume": 10015887,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 399.87,
+    "close": 423.5,
+    "high": 455.17,
+    "low": 395.37,
+    "volume": 11493626,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "AXON",
+    "open": 426.82,
+    "close": 646.96,
+    "high": 652.23,
+    "low": 424.57,
+    "volume": 18995134,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "AXON",
+    "open": 649.2,
+    "close": 594.32,
+    "high": 698.67,
+    "low": 591.14,
+    "volume": 21920605,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]

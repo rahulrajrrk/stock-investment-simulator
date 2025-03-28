@@ -1,0 +1,2402 @@
+[
+  {
+    "ticker": "BIIB",
+    "open": 35.22,
+    "close": 38.18,
+    "high": 38.49,
+    "low": 34.29,
+    "volume": 64978231,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 38.37,
+    "close": 36.7,
+    "high": 39.41,
+    "low": 35.39,
+    "volume": 61408212,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 36.95,
+    "close": 42.98,
+    "high": 45.75,
+    "low": 36.6,
+    "volume": 103908636,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 42.51,
+    "close": 55.87,
+    "high": 59.28,
+    "low": 41.75,
+    "volume": 133582490,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 56.05,
+    "close": 55.55,
+    "high": 59.63,
+    "low": 50.87,
+    "volume": 109812200,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 55.4,
+    "close": 59,
+    "high": 62.25,
+    "low": 54.56,
+    "volume": 79195399,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 59.09,
+    "close": 62.15,
+    "high": 63.94,
+    "low": 55.15,
+    "volume": 81709306,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 62.02,
+    "close": 63.25,
+    "high": 64,
+    "low": 56.5,
+    "volume": 72444713,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 63.05,
+    "close": 60,
+    "high": 63.5,
+    "low": 53.06,
+    "volume": 71839928,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 59.9,
+    "close": 59.33,
+    "high": 60.99,
+    "low": 55,
+    "volume": 64614441,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 59.06,
+    "close": 61.17,
+    "high": 62.95,
+    "low": 58.93,
+    "volume": 51812831,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 60.78,
+    "close": 58.16,
+    "high": 63.1,
+    "low": 55.25,
+    "volume": 73273583,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 57.94,
+    "close": 58.68,
+    "high": 62.33,
+    "low": 54.3,
+    "volume": 93063748,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 59.15,
+    "close": 66.61,
+    "high": 68.13,
+    "low": 59.12,
+    "volume": 77627992,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 66.92,
+    "close": 64.96,
+    "high": 68.39,
+    "low": 61.27,
+    "volume": 77708253,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 64.78,
+    "close": 38.65,
+    "high": 70,
+    "low": 35.86,
+    "volume": 173135992,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 40,
+    "close": 34.51,
+    "high": 42.25,
+    "low": 33.85,
+    "volume": 309471512,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 34.67,
+    "close": 36.24,
+    "high": 37.31,
+    "low": 34.21,
+    "volume": 101538551,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 36.38,
+    "close": 39.1,
+    "high": 39.98,
+    "low": 36.38,
+    "volume": 81231393,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 39.41,
+    "close": 34.45,
+    "high": 40.02,
+    "low": 33.18,
+    "volume": 126677746,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 34.35,
+    "close": 39.29,
+    "high": 39.95,
+    "low": 33.88,
+    "volume": 81049756,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 39.41,
+    "close": 42.14,
+    "high": 42.65,
+    "low": 37.69,
+    "volume": 93164708,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 42.2,
+    "close": 39.48,
+    "high": 43.41,
+    "low": 37.61,
+    "volume": 68670177,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 39.58,
+    "close": 40.63,
+    "high": 40.85,
+    "low": 35.66,
+    "volume": 76547429,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 40.51,
+    "close": 42.81,
+    "high": 46,
+    "low": 39.81,
+    "volume": 59604546,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 42.95,
+    "close": 45.28,
+    "high": 46.72,
+    "low": 42.33,
+    "volume": 60290130,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 45.69,
+    "close": 44.75,
+    "high": 48.5,
+    "low": 43.39,
+    "volume": 59965058,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 44.48,
+    "close": 47.25,
+    "high": 50.72,
+    "low": 43.03,
+    "volume": 69894742,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 47,
+    "close": 47.1,
+    "high": 49.69,
+    "low": 44.93,
+    "volume": 91538167,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 47.2,
+    "close": 44.85,
+    "high": 47.75,
+    "low": 42.52,
+    "volume": 62502435,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 44.81,
+    "close": 46.63,
+    "high": 47.74,
+    "low": 43.72,
+    "volume": 73283727,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 46.91,
+    "close": 46.32,
+    "high": 48.97,
+    "low": 43.66,
+    "volume": 70148055,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 46.52,
+    "close": 42.05,
+    "high": 47.46,
+    "low": 40.24,
+    "volume": 63617188,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 41.97,
+    "close": 44.2,
+    "high": 45.01,
+    "low": 40.81,
+    "volume": 64622091,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 44.4,
+    "close": 44.68,
+    "high": 45.02,
+    "low": 42.51,
+    "volume": 56327847,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 44.81,
+    "close": 47.6,
+    "high": 48.5,
+    "low": 43.49,
+    "volume": 67596758,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 47.67,
+    "close": 52.27,
+    "high": 52.5,
+    "low": 46.74,
+    "volume": 65183392,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 52.5,
+    "close": 49.19,
+    "high": 52.72,
+    "low": 48,
+    "volume": 61929293,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 49.28,
+    "close": 48.34,
+    "high": 52.45,
+    "low": 47.04,
+    "volume": 62103162,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 48.32,
+    "close": 45.19,
+    "high": 50.51,
+    "low": 45.02,
+    "volume": 66792836,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 44.22,
+    "close": 44.38,
+    "high": 46.1,
+    "low": 42.86,
+    "volume": 75063222,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 44.55,
+    "close": 47.21,
+    "high": 49,
+    "low": 43.43,
+    "volume": 68896163,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 47.5,
+    "close": 52.22,
+    "high": 52.47,
+    "low": 45.77,
+    "volume": 99061534,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 52.49,
+    "close": 53.5,
+    "high": 53.96,
+    "low": 50.63,
+    "volume": 118777011,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 53.5,
+    "close": 56.54,
+    "high": 59.78,
+    "low": 53.24,
+    "volume": 110225724,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 56.62,
+    "close": 63.82,
+    "high": 64.8,
+    "low": 55.26,
+    "volume": 106600004,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 63.77,
+    "close": 66.33,
+    "high": 69,
+    "low": 62.76,
+    "volume": 71772159,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 66.69,
+    "close": 74.44,
+    "high": 84.75,
+    "low": 65.07,
+    "volume": 129907542,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 74.4,
+    "close": 74.12,
+    "high": 77.45,
+    "low": 67.53,
+    "volume": 81924068,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 73.63,
+    "close": 56.92,
+    "high": 78.57,
+    "low": 53.65,
+    "volume": 110308663,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 56.91,
+    "close": 60.95,
+    "high": 62.68,
+    "low": 54.9,
+    "volume": 85462166,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 61.13,
+    "close": 58.36,
+    "high": 64.49,
+    "low": 57.95,
+    "volume": 61185169,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 58.02,
+    "close": 61.69,
+    "high": 63.75,
+    "low": 54.5,
+    "volume": 73133302,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 62.14,
+    "close": 60.69,
+    "high": 67.45,
+    "low": 60.59,
+    "volume": 69509431,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 60.94,
+    "close": 62.75,
+    "high": 64.36,
+    "low": 60.6,
+    "volume": 43652484,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 62.85,
+    "close": 55.89,
+    "high": 66.41,
+    "low": 55.68,
+    "volume": 66934092,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 56.07,
+    "close": 69.76,
+    "high": 73.59,
+    "low": 55.36,
+    "volume": 97833130,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 51.66,
+    "close": 50.93,
+    "high": 55.45,
+    "low": 49.64,
+    "volume": 125441135,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 51.89,
+    "close": 50.29,
+    "high": 52.37,
+    "low": 45.37,
+    "volume": 94743632,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 49.15,
+    "close": 42.55,
+    "high": 52.36,
+    "low": 38.04,
+    "volume": 122863707,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 44.26,
+    "close": 42.31,
+    "high": 47.98,
+    "low": 37.21,
+    "volume": 69796723,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 41.43,
+    "close": 47.63,
+    "high": 49.58,
+    "low": 39.01,
+    "volume": 74440454,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 47.49,
+    "close": 48.65,
+    "high": 52.35,
+    "low": 45.43,
+    "volume": 81152293,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 48.15,
+    "close": 46.04,
+    "high": 53.66,
+    "low": 45.55,
+    "volume": 74924474,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 45.21,
+    "close": 52.42,
+    "high": 53.5,
+    "low": 42.92,
+    "volume": 77384367,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 51.47,
+    "close": 48.34,
+    "high": 55.34,
+    "low": 45.7,
+    "volume": 78684935,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 47.65,
+    "close": 51.79,
+    "high": 52.36,
+    "low": 45.5,
+    "volume": 53543967,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 52.25,
+    "close": 45.15,
+    "high": 54.5,
+    "low": 44.56,
+    "volume": 69767006,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 45.33,
+    "close": 47.55,
+    "high": 49.76,
+    "low": 44.41,
+    "volume": 74051622,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 47.47,
+    "close": 50.2,
+    "high": 50.43,
+    "low": 46.39,
+    "volume": 45804596,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 49.61,
+    "close": 50.52,
+    "high": 52.12,
+    "low": 48.64,
+    "volume": 54680402,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 50.44,
+    "close": 42.13,
+    "high": 50.48,
+    "low": 41.75,
+    "volume": 78180505,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 42.86,
+    "close": 46.94,
+    "high": 47.71,
+    "low": 42.31,
+    "volume": 79704691,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 47.1,
+    "close": 53.5,
+    "high": 54,
+    "low": 47.07,
+    "volume": 63754999,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 53.97,
+    "close": 53.74,
+    "high": 55.37,
+    "low": 52.16,
+    "volume": 59025171,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 53.41,
+    "close": 55.01,
+    "high": 56.99,
+    "low": 52.23,
+    "volume": 53876482,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 55.48,
+    "close": 57.39,
+    "high": 60.28,
+    "low": 55.34,
+    "volume": 49409529,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 57.8,
+    "close": 53.29,
+    "high": 57.99,
+    "low": 51.62,
+    "volume": 62151193,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 53.5,
+    "close": 47.43,
+    "high": 53.92,
+    "low": 47.1,
+    "volume": 64801495,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 47.25,
+    "close": 47.45,
+    "high": 50.55,
+    "low": 45.96,
+    "volume": 74880144,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 47.7,
+    "close": 55.88,
+    "high": 58.16,
+    "low": 46.15,
+    "volume": 91475160,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 56.59,
+    "close": 53.8,
+    "high": 58.16,
+    "low": 53.14,
+    "volume": 46814067,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 54.48,
+    "close": 56.12,
+    "high": 58.64,
+    "low": 53.97,
+    "volume": 51785411,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 56,
+    "close": 62.71,
+    "high": 64.92,
+    "low": 55.63,
+    "volume": 49601202,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 62.89,
+    "close": 63.97,
+    "high": 66.43,
+    "low": 61.82,
+    "volume": 46618268,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 64.89,
+    "close": 67.05,
+    "high": 68.6,
+    "low": 64.63,
+    "volume": 37416839,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 67.68,
+    "close": 65.47,
+    "high": 68.99,
+    "low": 64.28,
+    "volume": 37409231,
+    "time": "2011-01-01T05:00:00Z",
+    "time_milliseconds": 1293858000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 67.75,
+    "close": 68.4,
+    "high": 68.5,
+    "low": 64.61,
+    "volume": 35194221,
+    "time": "2011-02-01T05:00:00Z",
+    "time_milliseconds": 1296536400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 68.41,
+    "close": 73.47,
+    "high": 73.53,
+    "low": 68.26,
+    "volume": 40820795,
+    "time": "2011-03-01T05:00:00Z",
+    "time_milliseconds": 1298955600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 73.59,
+    "close": 97.65,
+    "high": 106.99,
+    "low": 72.7,
+    "volume": 73670022,
+    "time": "2011-04-01T04:00:00Z",
+    "time_milliseconds": 1301630400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 97.44,
+    "close": 94.73,
+    "high": 99.19,
+    "low": 92.3,
+    "volume": 39895893,
+    "time": "2011-05-01T04:00:00Z",
+    "time_milliseconds": 1304222400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 94.36,
+    "close": 106.92,
+    "high": 109.63,
+    "low": 91.08,
+    "volume": 59713072,
+    "time": "2011-06-01T04:00:00Z",
+    "time_milliseconds": 1306900800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 107.35,
+    "close": 101.87,
+    "high": 109.14,
+    "low": 99.54,
+    "volume": 33091424,
+    "time": "2011-07-01T04:00:00Z",
+    "time_milliseconds": 1309492800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 105.91,
+    "close": 94.2,
+    "high": 105.98,
+    "low": 83.83,
+    "volume": 53674226,
+    "time": "2011-08-01T04:00:00Z",
+    "time_milliseconds": 1312171200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 94.02,
+    "close": 93.15,
+    "high": 102.01,
+    "low": 89.04,
+    "volume": 38950257,
+    "time": "2011-09-01T04:00:00Z",
+    "time_milliseconds": 1314849600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 92.55,
+    "close": 116.36,
+    "high": 120.66,
+    "low": 87.72,
+    "volume": 51277204,
+    "time": "2011-10-01T04:00:00Z",
+    "time_milliseconds": 1317441600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 114.37,
+    "close": 114.95,
+    "high": 115.5,
+    "low": 106.31,
+    "volume": 36336082,
+    "time": "2011-11-01T04:00:00Z",
+    "time_milliseconds": 1320120000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 114.95,
+    "close": 110.05,
+    "high": 117.55,
+    "low": 109.05,
+    "volume": 26722333,
+    "time": "2011-12-01T05:00:00Z",
+    "time_milliseconds": 1322715600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 111.44,
+    "close": 117.95,
+    "high": 119.56,
+    "low": 111.44,
+    "volume": 38306728,
+    "time": "2012-01-01T05:00:00Z",
+    "time_milliseconds": 1325394000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 118.46,
+    "close": 116.47,
+    "high": 123.23,
+    "low": 114.53,
+    "volume": 27743982,
+    "time": "2012-02-01T05:00:00Z",
+    "time_milliseconds": 1328072400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 116.01,
+    "close": 126,
+    "high": 127.85,
+    "low": 116.01,
+    "volume": 26032003,
+    "time": "2012-03-01T05:00:00Z",
+    "time_milliseconds": 1330578000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 126.11,
+    "close": 134.01,
+    "high": 134.5,
+    "low": 124.23,
+    "volume": 22423215,
+    "time": "2012-04-01T04:00:00Z",
+    "time_milliseconds": 1333252800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 131.61,
+    "close": 130.75,
+    "high": 138.5,
+    "low": 129.48,
+    "volume": 29034907,
+    "time": "2012-05-01T04:00:00Z",
+    "time_milliseconds": 1335844800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 128.89,
+    "close": 144.38,
+    "high": 144.38,
+    "low": 126.39,
+    "volume": 27195816,
+    "time": "2012-06-01T04:00:00Z",
+    "time_milliseconds": 1338523200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 143.5,
+    "close": 145.83,
+    "high": 150.29,
+    "low": 137.88,
+    "volume": 21559053,
+    "time": "2012-07-01T04:00:00Z",
+    "time_milliseconds": 1341115200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 146.3,
+    "close": 146.59,
+    "high": 147.89,
+    "low": 141.88,
+    "volume": 16993065,
+    "time": "2012-08-01T04:00:00Z",
+    "time_milliseconds": 1343793600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 145.9,
+    "close": 149.21,
+    "high": 157.18,
+    "low": 144.9,
+    "volume": 20479477,
+    "time": "2012-09-01T04:00:00Z",
+    "time_milliseconds": 1346472000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 149.16,
+    "close": 138.21,
+    "high": 154.91,
+    "low": 136.28,
+    "volume": 24196302,
+    "time": "2012-10-01T04:00:00Z",
+    "time_milliseconds": 1349064000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 139.3,
+    "close": 149.09,
+    "high": 151.5,
+    "low": 134,
+    "volume": 24036514,
+    "time": "2012-11-01T04:00:00Z",
+    "time_milliseconds": 1351742400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 150.04,
+    "close": 146.37,
+    "high": 155.3,
+    "low": 145.04,
+    "volume": 17678788,
+    "time": "2012-12-01T05:00:00Z",
+    "time_milliseconds": 1354338000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 148.72,
+    "close": 156.08,
+    "high": 156.94,
+    "low": 139.72,
+    "volume": 38911652,
+    "time": "2013-01-01T05:00:00Z",
+    "time_milliseconds": 1357016400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 157.28,
+    "close": 166.34,
+    "high": 169.07,
+    "low": 155.1,
+    "volume": 24464982,
+    "time": "2013-02-01T05:00:00Z",
+    "time_milliseconds": 1359694800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 165.3,
+    "close": 192.62,
+    "high": 192.92,
+    "low": 164.45,
+    "volume": 28581949,
+    "time": "2013-03-01T05:00:00Z",
+    "time_milliseconds": 1362114000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 193.66,
+    "close": 218.93,
+    "high": 226.18,
+    "low": 191.8,
+    "volume": 32452014,
+    "time": "2013-04-01T04:00:00Z",
+    "time_milliseconds": 1364788800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 215.39,
+    "close": 237.49,
+    "high": 242.64,
+    "low": 208.5,
+    "volume": 27268670,
+    "time": "2013-05-01T04:00:00Z",
+    "time_milliseconds": 1367380800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 234.15,
+    "close": 215.2,
+    "high": 234.7,
+    "low": 194.66,
+    "volume": 38129034,
+    "time": "2013-06-01T04:00:00Z",
+    "time_milliseconds": 1370059200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 220.25,
+    "close": 218.13,
+    "high": 234.74,
+    "low": 214.21,
+    "volume": 28307128,
+    "time": "2013-07-01T04:00:00Z",
+    "time_milliseconds": 1372651200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 218.82,
+    "close": 213.02,
+    "high": 229,
+    "low": 203.55,
+    "volume": 22019035,
+    "time": "2013-08-01T04:00:00Z",
+    "time_milliseconds": 1375329600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 216,
+    "close": 240.76,
+    "high": 248.95,
+    "low": 213.05,
+    "volume": 22603262,
+    "time": "2013-09-01T04:00:00Z",
+    "time_milliseconds": 1378008000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 242.85,
+    "close": 244.19,
+    "high": 262,
+    "low": 221.07,
+    "volume": 26396181,
+    "time": "2013-10-01T04:00:00Z",
+    "time_milliseconds": 1380600000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 245.57,
+    "close": 290.97,
+    "high": 297.98,
+    "low": 230.25,
+    "volume": 27464208,
+    "time": "2013-11-01T04:00:00Z",
+    "time_milliseconds": 1383278400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 291.71,
+    "close": 279.57,
+    "high": 298.82,
+    "low": 270.27,
+    "volume": 23683707,
+    "time": "2013-12-01T05:00:00Z",
+    "time_milliseconds": 1385874000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 279.44,
+    "close": 312.64,
+    "high": 321.25,
+    "low": 270.62,
+    "volume": 31070220,
+    "time": "2014-01-01T05:00:00Z",
+    "time_milliseconds": 1388552400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 314.84,
+    "close": 340.68,
+    "high": 353.47,
+    "low": 294.02,
+    "volume": 27921811,
+    "time": "2014-02-01T05:00:00Z",
+    "time_milliseconds": 1391230800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 335.79,
+    "close": 305.87,
+    "high": 358.89,
+    "low": 292.67,
+    "volume": 40196399,
+    "time": "2014-03-01T05:00:00Z",
+    "time_milliseconds": 1393650000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 308.42,
+    "close": 287.12,
+    "high": 317,
+    "low": 272.02,
+    "volume": 41961947,
+    "time": "2014-04-01T04:00:00Z",
+    "time_milliseconds": 1396324800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 287.11,
+    "close": 319.37,
+    "high": 322.25,
+    "low": 278.1,
+    "volume": 25223322,
+    "time": "2014-05-01T04:00:00Z",
+    "time_milliseconds": 1398916800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 318.93,
+    "close": 315.31,
+    "high": 322.05,
+    "low": 302.01,
+    "volume": 20472159,
+    "time": "2014-06-01T04:00:00Z",
+    "time_milliseconds": 1401595200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 317.03,
+    "close": 334.39,
+    "high": 349,
+    "low": 298.31,
+    "volume": 28991217,
+    "time": "2014-07-01T04:00:00Z",
+    "time_milliseconds": 1404187200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 332.93,
+    "close": 343.04,
+    "high": 348.49,
+    "low": 317,
+    "volume": 20919661,
+    "time": "2014-08-01T04:00:00Z",
+    "time_milliseconds": 1406865600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 345.47,
+    "close": 330.81,
+    "high": 347.79,
+    "low": 315.71,
+    "volume": 22178516,
+    "time": "2014-09-01T04:00:00Z",
+    "time_milliseconds": 1409544000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 330.97,
+    "close": 321.08,
+    "high": 331.15,
+    "low": 290.85,
+    "volume": 39396618,
+    "time": "2014-10-01T04:00:00Z",
+    "time_milliseconds": 1412136000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 320.78,
+    "close": 307.69,
+    "high": 330.37,
+    "low": 297.83,
+    "volume": 26192542,
+    "time": "2014-11-01T04:00:00Z",
+    "time_milliseconds": 1414814400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 306.43,
+    "close": 339.45,
+    "high": 361.93,
+    "low": 306.11,
+    "volume": 44135461,
+    "time": "2014-12-01T05:00:00Z",
+    "time_milliseconds": 1417410000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 342.84,
+    "close": 389.16,
+    "high": 397,
+    "low": 334.4,
+    "volume": 39435036,
+    "time": "2015-01-01T05:00:00Z",
+    "time_milliseconds": 1420088400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 389.03,
+    "close": 409.59,
+    "high": 412.02,
+    "low": 381.36,
+    "volume": 26282260,
+    "time": "2015-02-01T05:00:00Z",
+    "time_milliseconds": 1422766800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 410.67,
+    "close": 422.24,
+    "high": 480.18,
+    "low": 406.02,
+    "volume": 52479596,
+    "time": "2015-03-01T05:00:00Z",
+    "time_milliseconds": 1425186000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 423.2,
+    "close": 373.93,
+    "high": 432.88,
+    "low": 368.88,
+    "volume": 45443108,
+    "time": "2015-04-01T04:00:00Z",
+    "time_milliseconds": 1427860800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 377.52,
+    "close": 396.99,
+    "high": 404,
+    "low": 377.52,
+    "volume": 26961855,
+    "time": "2015-05-01T04:00:00Z",
+    "time_milliseconds": 1430452800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 398.87,
+    "close": 403.94,
+    "high": 420.99,
+    "low": 378,
+    "volume": 28667015,
+    "time": "2015-06-01T04:00:00Z",
+    "time_milliseconds": 1433131200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 408.32,
+    "close": 318.78,
+    "high": 412.24,
+    "low": 299.76,
+    "volume": 67088872,
+    "time": "2015-07-01T04:00:00Z",
+    "time_milliseconds": 1435723200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 320.33,
+    "close": 297.3,
+    "high": 338.51,
+    "low": 265,
+    "volume": 55783842,
+    "time": "2015-08-01T04:00:00Z",
+    "time_milliseconds": 1438401600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 292.22,
+    "close": 291.81,
+    "high": 330.54,
+    "low": 267,
+    "volume": 56792719,
+    "time": "2015-09-01T04:00:00Z",
+    "time_milliseconds": 1441080000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 291.99,
+    "close": 290.51,
+    "high": 299.41,
+    "low": 254,
+    "volume": 82774270,
+    "time": "2015-10-01T04:00:00Z",
+    "time_milliseconds": 1443672000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 294.52,
+    "close": 286.86,
+    "high": 304.37,
+    "low": 278.28,
+    "volume": 37007313,
+    "time": "2015-11-01T04:00:00Z",
+    "time_milliseconds": 1446350400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 289.3,
+    "close": 306.35,
+    "high": 311.65,
+    "low": 274.23,
+    "volume": 33039557,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 300.34,
+    "close": 273.06,
+    "high": 301.02,
+    "low": 257.66,
+    "volume": 44372835,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 270.34,
+    "close": 259.42,
+    "high": 279.38,
+    "low": 242.07,
+    "volume": 38095028,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 261.37,
+    "close": 260.32,
+    "high": 274.57,
+    "low": 242.25,
+    "volume": 36344376,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 258.83,
+    "close": 274.99,
+    "high": 286.32,
+    "low": 257.5,
+    "volume": 39321444,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 274.74,
+    "close": 289.73,
+    "high": 291.63,
+    "low": 256.42,
+    "volume": 28359484,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 287.97,
+    "close": 241.82,
+    "high": 292.69,
+    "low": 223.02,
+    "volume": 53170169,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 242.57,
+    "close": 289.93,
+    "high": 290.92,
+    "low": 240.07,
+    "volume": 37005385,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 300,
+    "close": 305.63,
+    "high": 333.65,
+    "low": 297.66,
+    "volume": 43386016,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 307.96,
+    "close": 313.03,
+    "high": 318.88,
+    "low": 293.83,
+    "volume": 30254527,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 313,
+    "close": 280.18,
+    "high": 314.0,
+    "low": 279.23,
+    "volume": 29027068,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 280.03,
+    "close": 294.07,
+    "high": 329.83,
+    "low": 268,
+    "volume": 37951353,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 296.32,
+    "close": 283.58,
+    "high": 306.98,
+    "low": 272.96,
+    "volume": 41473354,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 285.82,
+    "close": 277.24,
+    "high": 301.42,
+    "low": 271.43,
+    "volume": 33795743,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 278.98,
+    "close": 288.6,
+    "high": 293.98,
+    "low": 260.5,
+    "volume": 33018081,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 290.07,
+    "close": 273.42,
+    "high": 298,
+    "low": 267.74,
+    "volume": 39708436,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 274.08,
+    "close": 271.21,
+    "high": 291.9,
+    "low": 267.1,
+    "volume": 28712669,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 271.35,
+    "close": 247.77,
+    "high": 273.81,
+    "low": 244.28,
+    "volume": 31706324,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 250.03,
+    "close": 271.36,
+    "high": 284.46,
+    "low": 248.61,
+    "volume": 38873570,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 272.62,
+    "close": 289.59,
+    "high": 296.95,
+    "low": 269.5,
+    "volume": 27039411,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 290.8,
+    "close": 316.56,
+    "high": 316.85,
+    "low": 280.6,
+    "volume": 26006604,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 317.16,
+    "close": 313.12,
+    "high": 330,
+    "low": 303,
+    "volume": 25636191,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 315.19,
+    "close": 311.66,
+    "high": 348.84,
+    "low": 301.81,
+    "volume": 35228815,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 312.75,
+    "close": 322.17,
+    "high": 323.69,
+    "low": 306.11,
+    "volume": 22217388,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 320.7,
+    "close": 318.57,
+    "high": 335.8,
+    "low": 311.75,
+    "volume": 21077165,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 321.15,
+    "close": 347.81,
+    "high": 370.57,
+    "low": 318.33,
+    "volume": 27670722,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 348.18,
+    "close": 288.99,
+    "high": 352.38,
+    "low": 283.97,
+    "volume": 37924911,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 288.11,
+    "close": 273.82,
+    "high": 292.3,
+    "low": 259.76,
+    "volume": 36663723,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 272.02,
+    "close": 273.6,
+    "high": 280.31,
+    "low": 249.17,
+    "volume": 38300574,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 274.89,
+    "close": 293.96,
+    "high": 301.22,
+    "low": 264.03,
+    "volume": 38094952,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 294.94,
+    "close": 290.24,
+    "high": 310.91,
+    "low": 283.24,
+    "volume": 29903507,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 290.3,
+    "close": 334.37,
+    "high": 388.67,
+    "low": 288.13,
+    "volume": 57018241,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 335.84,
+    "close": 353.49,
+    "high": 355.94,
+    "low": 334.38,
+    "volume": 23560938,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 353.85,
+    "close": 353.31,
+    "high": 357.5,
+    "low": 332.48,
+    "volume": 23392071,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 355.3,
+    "close": 304.27,
+    "high": 358.41,
+    "low": 288.34,
+    "volume": 33586865,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 304.43,
+    "close": 333.72,
+    "high": 333.77,
+    "low": 304.27,
+    "volume": 23347185,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 335,
+    "close": 300.92,
+    "high": 338.72,
+    "low": 278.46,
+    "volume": 28348703,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 296.84,
+    "close": 333.78,
+    "high": 344,
+    "low": 296.54,
+    "volume": 27441433,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 333.75,
+    "close": 328.01,
+    "high": 338.87,
+    "low": 305.45,
+    "volume": 22281694,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 331.29,
+    "close": 236.38,
+    "high": 336.57,
+    "low": 216.12,
+    "volume": 69734924,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 239.06,
+    "close": 229.24,
+    "high": 244.08,
+    "low": 221.53,
+    "volume": 52926072,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 228.97,
+    "close": 219.29,
+    "high": 238.17,
+    "low": 219.2,
+    "volume": 41140619,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 220.31,
+    "close": 233.87,
+    "high": 245.35,
+    "low": 219.51,
+    "volume": 35402205,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 236.59,
+    "close": 237.82,
+    "high": 246.99,
+    "low": 227.19,
+    "volume": 29325299,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 238.76,
+    "close": 219.75,
+    "high": 245.3,
+    "low": 217.9,
+    "volume": 26464665,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 218.15,
+    "close": 232.82,
+    "high": 242.71,
+    "low": 215.78,
+    "volume": 32059188,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 232.76,
+    "close": 298.71,
+    "high": 318,
+    "low": 219.7,
+    "volume": 71283532,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 299.79,
+    "close": 299.81,
+    "high": 307.35,
+    "low": 271.48,
+    "volume": 34279173,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 292.35,
+    "close": 296.73,
+    "high": 309.06,
+    "low": 275.04,
+    "volume": 37060060,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 299.06,
+    "close": 268.85,
+    "high": 306.35,
+    "low": 267.59,
+    "volume": 31387968,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 270.61,
+    "close": 308.39,
+    "high": 374.99,
+    "low": 269.76,
+    "volume": 41544104,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 308.64,
+    "close": 316.38,
+    "high": 333,
+    "low": 262.25,
+    "volume": 53921667,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 308.81,
+    "close": 296.83,
+    "high": 350.24,
+    "low": 289.02,
+    "volume": 46780881,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 295.07,
+    "close": 307.09,
+    "high": 335,
+    "low": 291.83,
+    "volume": 26425107,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 305.72,
+    "close": 267.55,
+    "high": 308.27,
+    "low": 257.6,
+    "volume": 45310318,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 266.89,
+    "close": 274.69,
+    "high": 294.99,
+    "low": 261.87,
+    "volume": 26175440,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 274.7,
+    "close": 287.64,
+    "high": 312,
+    "low": 274.43,
+    "volume": 26384826,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 287.48,
+    "close": 283.68,
+    "high": 288.03,
+    "low": 265.05,
+    "volume": 26003226,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 284.96,
+    "close": 252.07,
+    "high": 293.34,
+    "low": 243.25,
+    "volume": 23311934,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 253.64,
+    "close": 240.17,
+    "high": 363.92,
+    "low": 223.25,
+    "volume": 54867140,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 241.23,
+    "close": 244.86,
+    "high": 254,
+    "low": 240.35,
+    "volume": 26730289,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 245.74,
+    "close": 282.61,
+    "high": 296.38,
+    "low": 238.4,
+    "volume": 26908386,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 283.2,
+    "close": 272.88,
+    "high": 288.08,
+    "low": 260.97,
+    "volume": 23883108,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 274.42,
+    "close": 279.75,
+    "high": 280.83,
+    "low": 250.42,
+    "volume": 29519481,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 280,
+    "close": 267.33,
+    "high": 281.88,
+    "low": 257.03,
+    "volume": 19633814,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 267.87,
+    "close": 267.48,
+    "high": 290.36,
+    "low": 266,
+    "volume": 20137928,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 272.35,
+    "close": 346.27,
+    "high": 468.55,
+    "low": 264.12,
+    "volume": 79185714,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 346,
+    "close": 326.73,
+    "high": 372.12,
+    "low": 317.25,
+    "volume": 27810369,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 327.04,
+    "close": 338.91,
+    "high": 351.86,
+    "low": 325.09,
+    "volume": 18691871,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 340.78,
+    "close": 282.99,
+    "high": 341.29,
+    "low": 282.64,
+    "volume": 22870373,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 281.35,
+    "close": 266.68,
+    "high": 290.76,
+    "low": 259.63,
+    "volume": 22858712,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 266.15,
+    "close": 235.74,
+    "high": 284.59,
+    "low": 228.68,
+    "volume": 25856697,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 236.98,
+    "close": 239.92,
+    "high": 265.54,
+    "low": 221.72,
+    "volume": 36745037,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 240.15,
+    "close": 226,
+    "high": 249,
+    "low": 214.88,
+    "volume": 39596312,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 227.17,
+    "close": 211.01,
+    "high": 231.22,
+    "low": 200.36,
+    "volume": 21697910,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 210.58,
+    "close": 210.6,
+    "high": 218.22,
+    "low": 192.67,
+    "volume": 24043252,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 212.49,
+    "close": 207.44,
+    "high": 225.5,
+    "low": 204.86,
+    "volume": 20107924,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 206.3,
+    "close": 200,
+    "high": 214.78,
+    "low": 187.16,
+    "volume": 25702551,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 202,
+    "close": 203.94,
+    "high": 213.88,
+    "low": 188.53,
+    "volume": 24795828,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 205.37,
+    "close": 215.06,
+    "high": 222.2,
+    "low": 203.92,
+    "volume": 18673704,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 213.9,
+    "close": 195.38,
+    "high": 222.82,
+    "low": 193.65,
+    "volume": 17169496,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 194.77,
+    "close": 267,
+    "high": 283.44,
+    "low": 193.65,
+    "volume": 44100467,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 269,
+    "close": 283.44,
+    "high": 285.35,
+    "low": 250.31,
+    "volume": 35033743,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 283.44,
+    "close": 305.17,
+    "high": 311.88,
+    "low": 274.63,
+    "volume": 27701742,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 305.51,
+    "close": 276.92,
+    "high": 306.28,
+    "low": 272.2,
+    "volume": 23478633,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 276.73,
+    "close": 290.9,
+    "high": 295.9,
+    "low": 265.32,
+    "volume": 24111420,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 289.57,
+    "close": 269.86,
+    "high": 293.47,
+    "low": 266.77,
+    "volume": 17527706,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 267.97,
+    "close": 278.03,
+    "high": 279,
+    "low": 254.8,
+    "volume": 19956636,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 276.34,
+    "close": 304.23,
+    "high": 305.5,
+    "low": 273.39,
+    "volume": 17355890,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 305.75,
+    "close": 296.41,
+    "high": 319.74,
+    "low": 291.64,
+    "volume": 20556690,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 301.02,
+    "close": 284.85,
+    "high": 319.76,
+    "low": 277.71,
+    "volume": 23447880,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 282.87,
+    "close": 270.19,
+    "high": 287.6,
+    "low": 256.13,
+    "volume": 28761850,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 269.36,
+    "close": 267.36,
+    "high": 278.95,
+    "low": 259.75,
+    "volume": 18352843,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 269.01,
+    "close": 257.01,
+    "high": 270.5,
+    "low": 251.85,
+    "volume": 16166057,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "BIIB",
+    "open": 255.85,
+    "close": 252.86,
+    "high": 256.86,
+    "low": 251.08,
+    "volume": 752406,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  }
+]

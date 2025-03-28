@@ -1,0 +1,1972 @@
+[
+  {
+    "ticker": "TEAM",
+    "open": 6.36,
+    "close": 6.11,
+    "high": 6.59,
+    "low": 6,
+    "volume": 253776,
+    "time": "2003-09-01T04:00:00Z",
+    "time_milliseconds": 1062388800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 6.11,
+    "close": 5.95,
+    "high": 6.34,
+    "low": 5.68,
+    "volume": 426330,
+    "time": "2003-10-01T04:00:00Z",
+    "time_milliseconds": 1064980800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 6,
+    "close": 6.75,
+    "high": 7.38,
+    "low": 5.72,
+    "volume": 1975206,
+    "time": "2003-11-01T05:00:00Z",
+    "time_milliseconds": 1067662800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 6.74,
+    "close": 6.99,
+    "high": 7.25,
+    "low": 6.5,
+    "volume": 476162,
+    "time": "2003-12-01T05:00:00Z",
+    "time_milliseconds": 1070254800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 6.84,
+    "close": 7.4,
+    "high": 7.95,
+    "low": 6.84,
+    "volume": 856980,
+    "time": "2004-01-01T05:00:00Z",
+    "time_milliseconds": 1072933200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 7.26,
+    "close": 7.96,
+    "high": 8.22,
+    "low": 6.79,
+    "volume": 1069030,
+    "time": "2004-02-01T05:00:00Z",
+    "time_milliseconds": 1075611600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 7.98,
+    "close": 7.31,
+    "high": 8.13,
+    "low": 7.13,
+    "volume": 432765,
+    "time": "2004-03-01T05:00:00Z",
+    "time_milliseconds": 1078117200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 7.35,
+    "close": 7.39,
+    "high": 7.61,
+    "low": 6.63,
+    "volume": 555707,
+    "time": "2004-04-01T05:00:00Z",
+    "time_milliseconds": 1080795600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 7.5,
+    "close": 7.69,
+    "high": 8.2,
+    "low": 6.89,
+    "volume": 438501,
+    "time": "2004-05-01T04:00:00Z",
+    "time_milliseconds": 1083384000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 7.71,
+    "close": 9.07,
+    "high": 9.45,
+    "low": 7.68,
+    "volume": 977546,
+    "time": "2004-06-01T04:00:00Z",
+    "time_milliseconds": 1086062400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 9.22,
+    "close": 10.15,
+    "high": 10.25,
+    "low": 8.56,
+    "volume": 789447,
+    "time": "2004-07-01T04:00:00Z",
+    "time_milliseconds": 1088654400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 10.2,
+    "close": 9.77,
+    "high": 10.89,
+    "low": 9.21,
+    "volume": 860666,
+    "time": "2004-08-01T04:00:00Z",
+    "time_milliseconds": 1091332800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 9.62,
+    "close": 9.4,
+    "high": 9.79,
+    "low": 9.15,
+    "volume": 753215,
+    "time": "2004-09-01T04:00:00Z",
+    "time_milliseconds": 1094011200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 9.76,
+    "close": 9.6,
+    "high": 9.81,
+    "low": 8.35,
+    "volume": 980633,
+    "time": "2004-10-01T04:00:00Z",
+    "time_milliseconds": 1096603200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 9.7,
+    "close": 9.39,
+    "high": 9.75,
+    "low": 8.88,
+    "volume": 413418,
+    "time": "2004-11-01T05:00:00Z",
+    "time_milliseconds": 1099285200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 9.4,
+    "close": 10.17,
+    "high": 10.38,
+    "low": 9.18,
+    "volume": 411290,
+    "time": "2004-12-01T05:00:00Z",
+    "time_milliseconds": 1101877200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 10.07,
+    "close": 10.89,
+    "high": 11.2,
+    "low": 9.82,
+    "volume": 972564,
+    "time": "2005-01-01T05:00:00Z",
+    "time_milliseconds": 1104555600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 10.94,
+    "close": 11,
+    "high": 11.91,
+    "low": 10.38,
+    "volume": 766045,
+    "time": "2005-02-01T05:00:00Z",
+    "time_milliseconds": 1107234000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 11.13,
+    "close": 11.03,
+    "high": 12,
+    "low": 10.25,
+    "volume": 807175,
+    "time": "2005-03-01T05:00:00Z",
+    "time_milliseconds": 1109653200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 11.08,
+    "close": 11.87,
+    "high": 12.5,
+    "low": 10.02,
+    "volume": 959562,
+    "time": "2005-04-01T05:00:00Z",
+    "time_milliseconds": 1112331600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 11.99,
+    "close": 14,
+    "high": 14.79,
+    "low": 11.26,
+    "volume": 3824564,
+    "time": "2005-05-01T04:00:00Z",
+    "time_milliseconds": 1114920000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 13.99,
+    "close": 12.94,
+    "high": 15.34,
+    "low": 11.79,
+    "volume": 2005341,
+    "time": "2005-06-01T04:00:00Z",
+    "time_milliseconds": 1117598400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 13.04,
+    "close": 13.4,
+    "high": 14.99,
+    "low": 12.55,
+    "volume": 984245,
+    "time": "2005-07-01T04:00:00Z",
+    "time_milliseconds": 1120190400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 13.37,
+    "close": 12.32,
+    "high": 13.82,
+    "low": 10.75,
+    "volume": 1791652,
+    "time": "2005-08-01T04:00:00Z",
+    "time_milliseconds": 1122868800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 12.47,
+    "close": 12.07,
+    "high": 14.15,
+    "low": 11.64,
+    "volume": 1022495,
+    "time": "2005-09-01T04:00:00Z",
+    "time_milliseconds": 1125547200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 12.21,
+    "close": 9.32,
+    "high": 12.76,
+    "low": 8.57,
+    "volume": 1252178,
+    "time": "2005-10-01T04:00:00Z",
+    "time_milliseconds": 1128139200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 9.32,
+    "close": 9.18,
+    "high": 9.47,
+    "low": 7.5,
+    "volume": 1274926,
+    "time": "2005-11-01T05:00:00Z",
+    "time_milliseconds": 1130821200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 9.99,
+    "close": 10.05,
+    "high": 10.45,
+    "low": 9.24,
+    "volume": 643354,
+    "time": "2005-12-01T05:00:00Z",
+    "time_milliseconds": 1133413200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 10.1,
+    "close": 10.27,
+    "high": 11.59,
+    "low": 9.99,
+    "volume": 1644789,
+    "time": "2006-01-01T05:00:00Z",
+    "time_milliseconds": 1136091600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 10.24,
+    "close": 10.75,
+    "high": 11.04,
+    "low": 9,
+    "volume": 1712152,
+    "time": "2006-02-01T05:00:00Z",
+    "time_milliseconds": 1138770000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 10.67,
+    "close": 11.13,
+    "high": 11.21,
+    "low": 9.91,
+    "volume": 1318149,
+    "time": "2006-03-01T05:00:00Z",
+    "time_milliseconds": 1141189200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 11.13,
+    "close": 10.01,
+    "high": 11.23,
+    "low": 8.72,
+    "volume": 820336,
+    "time": "2006-04-01T05:00:00Z",
+    "time_milliseconds": 1143867600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 9.97,
+    "close": 9.93,
+    "high": 10.81,
+    "low": 9.78,
+    "volume": 593136,
+    "time": "2006-05-01T04:00:00Z",
+    "time_milliseconds": 1146456000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 10.05,
+    "close": 9.15,
+    "high": 10.09,
+    "low": 8.8,
+    "volume": 423514,
+    "time": "2006-06-01T04:00:00Z",
+    "time_milliseconds": 1149134400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 9.03,
+    "close": 8.67,
+    "high": 9.26,
+    "low": 8.26,
+    "volume": 226596,
+    "time": "2006-07-01T04:00:00Z",
+    "time_milliseconds": 1151726400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 8.64,
+    "close": 7.75,
+    "high": 8.71,
+    "low": 7.07,
+    "volume": 1112608,
+    "time": "2006-08-01T04:00:00Z",
+    "time_milliseconds": 1154404800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 7.78,
+    "close": 7.86,
+    "high": 8.49,
+    "low": 7.55,
+    "volume": 773602,
+    "time": "2006-09-01T04:00:00Z",
+    "time_milliseconds": 1157083200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 7.87,
+    "close": 8.9,
+    "high": 9.24,
+    "low": 7.82,
+    "volume": 318000,
+    "time": "2006-10-01T04:00:00Z",
+    "time_milliseconds": 1159675200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 8.94,
+    "close": 10.92,
+    "high": 11.02,
+    "low": 8.62,
+    "volume": 392265,
+    "time": "2006-11-01T05:00:00Z",
+    "time_milliseconds": 1162357200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 10.95,
+    "close": 11.25,
+    "high": 11.3,
+    "low": 10.41,
+    "volume": 227585,
+    "time": "2006-12-01T05:00:00Z",
+    "time_milliseconds": 1164949200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 11.33,
+    "close": 11.03,
+    "high": 11.33,
+    "low": 10.5,
+    "volume": 224849,
+    "time": "2007-01-01T05:00:00Z",
+    "time_milliseconds": 1167627600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 10.99,
+    "close": 12.05,
+    "high": 12.19,
+    "low": 10.65,
+    "volume": 374202,
+    "time": "2007-02-01T05:00:00Z",
+    "time_milliseconds": 1170306000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 12.05,
+    "close": 12.5,
+    "high": 12.87,
+    "low": 12.02,
+    "volume": 329968,
+    "time": "2007-03-01T05:00:00Z",
+    "time_milliseconds": 1172725200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 12.4,
+    "close": 13.45,
+    "high": 13.5,
+    "low": 12.26,
+    "volume": 234563,
+    "time": "2007-04-01T04:00:00Z",
+    "time_milliseconds": 1175400000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 13.5,
+    "close": 13.18,
+    "high": 13.75,
+    "low": 12.29,
+    "volume": 524782,
+    "time": "2007-05-01T04:00:00Z",
+    "time_milliseconds": 1177992000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 13.2,
+    "close": 12.06,
+    "high": 13.27,
+    "low": 11.42,
+    "volume": 298409,
+    "time": "2007-06-01T04:00:00Z",
+    "time_milliseconds": 1180670400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 11.81,
+    "close": 11.64,
+    "high": 12.23,
+    "low": 11.5,
+    "volume": 228279,
+    "time": "2007-07-01T04:00:00Z",
+    "time_milliseconds": 1183262400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 11.53,
+    "close": 12,
+    "high": 12.12,
+    "low": 9.66,
+    "volume": 395332,
+    "time": "2007-08-01T04:00:00Z",
+    "time_milliseconds": 1185940800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 12,
+    "close": 11.9,
+    "high": 12.11,
+    "low": 11.1,
+    "volume": 115723,
+    "time": "2007-09-01T04:00:00Z",
+    "time_milliseconds": 1188619200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 11.89,
+    "close": 12.82,
+    "high": 13.78,
+    "low": 11.5,
+    "volume": 306543,
+    "time": "2007-10-01T04:00:00Z",
+    "time_milliseconds": 1191211200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 12.85,
+    "close": 12.7,
+    "high": 14.08,
+    "low": 11.42,
+    "volume": 385934,
+    "time": "2007-11-01T04:00:00Z",
+    "time_milliseconds": 1193889600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 12.7,
+    "close": 12.6,
+    "high": 12.98,
+    "low": 11.65,
+    "volume": 334836,
+    "time": "2007-12-01T05:00:00Z",
+    "time_milliseconds": 1196485200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 12.51,
+    "close": 9.2,
+    "high": 12.6,
+    "low": 8.12,
+    "volume": 796222,
+    "time": "2008-01-01T05:00:00Z",
+    "time_milliseconds": 1199163600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 9.18,
+    "close": 8.75,
+    "high": 9.25,
+    "low": 7.8,
+    "volume": 659269,
+    "time": "2008-02-01T05:00:00Z",
+    "time_milliseconds": 1201842000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 8.72,
+    "close": 9.07,
+    "high": 9.57,
+    "low": 8.26,
+    "volume": 299590,
+    "time": "2008-03-01T05:00:00Z",
+    "time_milliseconds": 1204347600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 8.64,
+    "close": 9.31,
+    "high": 9.5,
+    "low": 8.45,
+    "volume": 271287,
+    "time": "2008-04-01T04:00:00Z",
+    "time_milliseconds": 1207022400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 9.03,
+    "close": 10,
+    "high": 10,
+    "low": 8.95,
+    "volume": 286176,
+    "time": "2008-05-01T04:00:00Z",
+    "time_milliseconds": 1209614400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 9.85,
+    "close": 10.7,
+    "high": 10.85,
+    "low": 9.59,
+    "volume": 286073,
+    "time": "2008-06-01T04:00:00Z",
+    "time_milliseconds": 1212292800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 10.65,
+    "close": 10,
+    "high": 10.65,
+    "low": 9.2,
+    "volume": 291299,
+    "time": "2008-07-01T04:00:00Z",
+    "time_milliseconds": 1214884800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 9.9,
+    "close": 8.53,
+    "high": 10.08,
+    "low": 8,
+    "volume": 344602,
+    "time": "2008-08-01T04:00:00Z",
+    "time_milliseconds": 1217563200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 8.53,
+    "close": 7.42,
+    "high": 8.78,
+    "low": 7.15,
+    "volume": 134061,
+    "time": "2008-09-01T04:00:00Z",
+    "time_milliseconds": 1220241600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 7.31,
+    "close": 5.85,
+    "high": 7.31,
+    "low": 3.71,
+    "volume": 980549,
+    "time": "2008-10-01T04:00:00Z",
+    "time_milliseconds": 1222833600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 6.06,
+    "close": 4.34,
+    "high": 6.85,
+    "low": 3.35,
+    "volume": 275376,
+    "time": "2008-11-01T04:00:00Z",
+    "time_milliseconds": 1225512000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 4.27,
+    "close": 5.85,
+    "high": 5.85,
+    "low": 3.34,
+    "volume": 979764,
+    "time": "2008-12-01T05:00:00Z",
+    "time_milliseconds": 1228107600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 5.72,
+    "close": 4.8,
+    "high": 6.45,
+    "low": 4.15,
+    "volume": 213104,
+    "time": "2009-01-01T05:00:00Z",
+    "time_milliseconds": 1230786000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 4.66,
+    "close": 4.25,
+    "high": 4.72,
+    "low": 3.75,
+    "volume": 387294,
+    "time": "2009-02-01T05:00:00Z",
+    "time_milliseconds": 1233464400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 4.24,
+    "close": 4.88,
+    "high": 5.25,
+    "low": 3.5,
+    "volume": 211426,
+    "time": "2009-03-01T05:00:00Z",
+    "time_milliseconds": 1235883600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 4.93,
+    "close": 5.17,
+    "high": 5.54,
+    "low": 4.44,
+    "volume": 152792,
+    "time": "2009-04-01T04:00:00Z",
+    "time_milliseconds": 1238558400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 5.16,
+    "close": 5.98,
+    "high": 6.1,
+    "low": 5.15,
+    "volume": 284475,
+    "time": "2009-05-01T04:00:00Z",
+    "time_milliseconds": 1241150400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 5.94,
+    "close": 6.54,
+    "high": 7.1,
+    "low": 5.86,
+    "volume": 138063,
+    "time": "2009-06-01T04:00:00Z",
+    "time_milliseconds": 1243828800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 6.53,
+    "close": 6.61,
+    "high": 7.13,
+    "low": 5.41,
+    "volume": 170440,
+    "time": "2009-07-01T04:00:00Z",
+    "time_milliseconds": 1246420800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 6.47,
+    "close": 7.29,
+    "high": 7.38,
+    "low": 6.3,
+    "volume": 139796,
+    "time": "2009-08-01T04:00:00Z",
+    "time_milliseconds": 1249099200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 7.35,
+    "close": 8.5,
+    "high": 9.79,
+    "low": 7.25,
+    "volume": 305578,
+    "time": "2009-09-01T04:00:00Z",
+    "time_milliseconds": 1251777600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 8.25,
+    "close": 7.7,
+    "high": 8.37,
+    "low": 7,
+    "volume": 306674,
+    "time": "2009-10-01T04:00:00Z",
+    "time_milliseconds": 1254369600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 7.7,
+    "close": 6.42,
+    "high": 8.47,
+    "low": 6.41,
+    "volume": 193958,
+    "time": "2009-11-01T04:00:00Z",
+    "time_milliseconds": 1257048000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 6.41,
+    "close": 7.61,
+    "high": 7.95,
+    "low": 6.4,
+    "volume": 578227,
+    "time": "2009-12-01T05:00:00Z",
+    "time_milliseconds": 1259643600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 7.6,
+    "close": 7.33,
+    "high": 7.91,
+    "low": 6.7,
+    "volume": 483219,
+    "time": "2010-01-01T05:00:00Z",
+    "time_milliseconds": 1262322000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 7.3,
+    "close": 6.58,
+    "high": 7.32,
+    "low": 6.39,
+    "volume": 188092,
+    "time": "2010-02-01T05:00:00Z",
+    "time_milliseconds": 1265000400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 6.75,
+    "close": 6.73,
+    "high": 6.99,
+    "low": 6.44,
+    "volume": 256666,
+    "time": "2010-03-01T05:00:00Z",
+    "time_milliseconds": 1267419600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 6.74,
+    "close": 6.16,
+    "high": 6.85,
+    "low": 6.12,
+    "volume": 365776,
+    "time": "2010-04-01T04:00:00Z",
+    "time_milliseconds": 1270094400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 6.15,
+    "close": 5.1,
+    "high": 6.37,
+    "low": 4.72,
+    "volume": 544416,
+    "time": "2010-05-01T04:00:00Z",
+    "time_milliseconds": 1272686400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 4.78,
+    "close": 5.99,
+    "high": 6.5,
+    "low": 4.74,
+    "volume": 947415,
+    "time": "2010-06-01T04:00:00Z",
+    "time_milliseconds": 1275364800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 6,
+    "close": 6.16,
+    "high": 6.71,
+    "low": 5.64,
+    "volume": 149416,
+    "time": "2010-07-01T04:00:00Z",
+    "time_milliseconds": 1277956800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 6.38,
+    "close": 5.81,
+    "high": 7.03,
+    "low": 5.81,
+    "volume": 382039,
+    "time": "2010-08-01T04:00:00Z",
+    "time_milliseconds": 1280635200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 5.81,
+    "close": 6.95,
+    "high": 7.05,
+    "low": 5.76,
+    "volume": 297183,
+    "time": "2010-09-01T04:00:00Z",
+    "time_milliseconds": 1283313600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 7,
+    "close": 7.26,
+    "high": 7.44,
+    "low": 6.81,
+    "volume": 220972,
+    "time": "2010-10-01T04:00:00Z",
+    "time_milliseconds": 1285905600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 7.32,
+    "close": 8.33,
+    "high": 8.36,
+    "low": 6.96,
+    "volume": 3521194,
+    "time": "2010-11-01T04:00:00Z",
+    "time_milliseconds": 1288584000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 8.34,
+    "close": 8.37,
+    "high": 8.45,
+    "low": 8,
+    "volume": 252649,
+    "time": "2010-12-01T05:00:00Z",
+    "time_milliseconds": 1291179600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 27.67,
+    "close": 30.08,
+    "high": 31.46,
+    "low": 26.11,
+    "volume": 26872135,
+    "time": "2015-12-01T05:00:00Z",
+    "time_milliseconds": 1448946000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 28.94,
+    "close": 20.77,
+    "high": 29.03,
+    "low": 20.17,
+    "volume": 17835837,
+    "time": "2016-01-01T05:00:00Z",
+    "time_milliseconds": 1451624400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 20.69,
+    "close": 23.77,
+    "high": 24.88,
+    "low": 16.92,
+    "volume": 23242157,
+    "time": "2016-02-01T05:00:00Z",
+    "time_milliseconds": 1454302800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 23.86,
+    "close": 25.15,
+    "high": 25.18,
+    "low": 21.24,
+    "volume": 11737391,
+    "time": "2016-03-01T05:00:00Z",
+    "time_milliseconds": 1456808400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 24.85,
+    "close": 23.17,
+    "high": 24.98,
+    "low": 22.5,
+    "volume": 7667433,
+    "time": "2016-04-01T04:00:00Z",
+    "time_milliseconds": 1459483200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 23.35,
+    "close": 22.57,
+    "high": 24.21,
+    "low": 20.51,
+    "volume": 9767491,
+    "time": "2016-05-01T04:00:00Z",
+    "time_milliseconds": 1462075200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 22.45,
+    "close": 25.9,
+    "high": 26.84,
+    "low": 22.45,
+    "volume": 30327834,
+    "time": "2016-06-01T04:00:00Z",
+    "time_milliseconds": 1464753600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 25.68,
+    "close": 29.97,
+    "high": 30,
+    "low": 25.22,
+    "volume": 14036432,
+    "time": "2016-07-01T04:00:00Z",
+    "time_milliseconds": 1467345600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 29.99,
+    "close": 29.48,
+    "high": 32.54,
+    "low": 28,
+    "volume": 24234679,
+    "time": "2016-08-01T04:00:00Z",
+    "time_milliseconds": 1470024000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 29.3,
+    "close": 29.97,
+    "high": 35.16,
+    "low": 28.96,
+    "volume": 14705775,
+    "time": "2016-09-01T04:00:00Z",
+    "time_milliseconds": 1472702400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 29.8,
+    "close": 26.86,
+    "high": 30,
+    "low": 26.06,
+    "volume": 14883122,
+    "time": "2016-10-01T04:00:00Z",
+    "time_milliseconds": 1475294400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 26.78,
+    "close": 27.14,
+    "high": 29.4,
+    "low": 25.74,
+    "volume": 18957162,
+    "time": "2016-11-01T04:00:00Z",
+    "time_milliseconds": 1477972800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 27.03,
+    "close": 24.08,
+    "high": 27.03,
+    "low": 23.8,
+    "volume": 21115604,
+    "time": "2016-12-01T05:00:00Z",
+    "time_milliseconds": 1480568400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 24.32,
+    "close": 27.63,
+    "high": 28.69,
+    "low": 24.2,
+    "volume": 16244439,
+    "time": "2017-01-01T05:00:00Z",
+    "time_milliseconds": 1483246800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 27.57,
+    "close": 28.44,
+    "high": 30.24,
+    "low": 27.33,
+    "volume": 8753096,
+    "time": "2017-02-01T05:00:00Z",
+    "time_milliseconds": 1485925200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 28.73,
+    "close": 29.95,
+    "high": 30,
+    "low": 28.25,
+    "volume": 10064927,
+    "time": "2017-03-01T05:00:00Z",
+    "time_milliseconds": 1488344400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 29.85,
+    "close": 34.48,
+    "high": 34.97,
+    "low": 29.56,
+    "volume": 13807947,
+    "time": "2017-04-01T04:00:00Z",
+    "time_milliseconds": 1491019200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 33.65,
+    "close": 35.76,
+    "high": 37.42,
+    "low": 32.84,
+    "volume": 19230821,
+    "time": "2017-05-01T04:00:00Z",
+    "time_milliseconds": 1493611200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 35.86,
+    "close": 35.18,
+    "high": 37.9,
+    "low": 32.58,
+    "volume": 15091625,
+    "time": "2017-06-01T04:00:00Z",
+    "time_milliseconds": 1496289600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 35.25,
+    "close": 35.82,
+    "high": 39.25,
+    "low": 33.34,
+    "volume": 11397273,
+    "time": "2017-07-01T04:00:00Z",
+    "time_milliseconds": 1498881600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 35.82,
+    "close": 35.6,
+    "high": 37.67,
+    "low": 33.94,
+    "volume": 12191088,
+    "time": "2017-08-01T04:00:00Z",
+    "time_milliseconds": 1501560000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 35.53,
+    "close": 35.15,
+    "high": 36.74,
+    "low": 33.16,
+    "volume": 10688896,
+    "time": "2017-09-01T04:00:00Z",
+    "time_milliseconds": 1504238400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 35,
+    "close": 48.37,
+    "high": 50.88,
+    "low": 35,
+    "volume": 32426767,
+    "time": "2017-10-01T04:00:00Z",
+    "time_milliseconds": 1506830400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 48.23,
+    "close": 46.69,
+    "high": 53.45,
+    "low": 46.03,
+    "volume": 23375064,
+    "time": "2017-11-01T04:00:00Z",
+    "time_milliseconds": 1509508800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 46.79,
+    "close": 45.52,
+    "high": 48,
+    "low": 43.11,
+    "volume": 15164410,
+    "time": "2017-12-01T05:00:00Z",
+    "time_milliseconds": 1512104400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 45.94,
+    "close": 53.99,
+    "high": 55.91,
+    "low": 45.61,
+    "volume": 27726823,
+    "time": "2018-01-01T05:00:00Z",
+    "time_milliseconds": 1514782800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 53.47,
+    "close": 54.29,
+    "high": 57.47,
+    "low": 47.74,
+    "volume": 17256251,
+    "time": "2018-02-01T05:00:00Z",
+    "time_milliseconds": 1517461200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 54.57,
+    "close": 53.92,
+    "high": 62.25,
+    "low": 50.84,
+    "volume": 20324607,
+    "time": "2018-03-01T05:00:00Z",
+    "time_milliseconds": 1519880400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 53.54,
+    "close": 55.98,
+    "high": 62.78,
+    "low": 51.76,
+    "volume": 38534431,
+    "time": "2018-04-01T04:00:00Z",
+    "time_milliseconds": 1522555200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 55.6,
+    "close": 63.79,
+    "high": 66,
+    "low": 55.11,
+    "volume": 28162259,
+    "time": "2018-05-01T04:00:00Z",
+    "time_milliseconds": 1525147200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 64.05,
+    "close": 62.52,
+    "high": 68.75,
+    "low": 60.39,
+    "volume": 25631708,
+    "time": "2018-06-01T04:00:00Z",
+    "time_milliseconds": 1527825600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 62.03,
+    "close": 72.41,
+    "high": 79.82,
+    "low": 61.66,
+    "volume": 27607719,
+    "time": "2018-07-01T04:00:00Z",
+    "time_milliseconds": 1530417600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 72.5,
+    "close": 90.01,
+    "high": 91.42,
+    "low": 72.41,
+    "volume": 28166006,
+    "time": "2018-08-01T04:00:00Z",
+    "time_milliseconds": 1533096000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 90.2,
+    "close": 96.14,
+    "high": 97.06,
+    "low": 84.46,
+    "volume": 26844263,
+    "time": "2018-09-01T04:00:00Z",
+    "time_milliseconds": 1535774400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 97.18,
+    "close": 75.91,
+    "high": 98.21,
+    "low": 66.8,
+    "volume": 53729301,
+    "time": "2018-10-01T04:00:00Z",
+    "time_milliseconds": 1538366400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 76.67,
+    "close": 85.94,
+    "high": 87,
+    "low": 65.17,
+    "volume": 25681352,
+    "time": "2018-11-01T04:00:00Z",
+    "time_milliseconds": 1541044800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 89,
+    "close": 88.98,
+    "high": 90.88,
+    "low": 75.55,
+    "volume": 28821237,
+    "time": "2018-12-01T05:00:00Z",
+    "time_milliseconds": 1543640400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 85.82,
+    "close": 98.4,
+    "high": 100,
+    "low": 84.18,
+    "volume": 43884472,
+    "time": "2019-01-01T05:00:00Z",
+    "time_milliseconds": 1546318800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 98.21,
+    "close": 107.48,
+    "high": 107.96,
+    "low": 97.86,
+    "volume": 26001274,
+    "time": "2019-02-01T05:00:00Z",
+    "time_milliseconds": 1548997200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 108.22,
+    "close": 112.39,
+    "high": 115.88,
+    "low": 99.77,
+    "volume": 32538027,
+    "time": "2019-03-01T05:00:00Z",
+    "time_milliseconds": 1551416400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 114.03,
+    "close": 110.15,
+    "high": 117.06,
+    "low": 100.25,
+    "volume": 42761762,
+    "time": "2019-04-01T04:00:00Z",
+    "time_milliseconds": 1554091200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 110.23,
+    "close": 125.88,
+    "high": 132.87,
+    "low": 106.11,
+    "volume": 38497119,
+    "time": "2019-05-01T04:00:00Z",
+    "time_milliseconds": 1556683200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 126.24,
+    "close": 130.84,
+    "high": 137.78,
+    "low": 115.87,
+    "volume": 25357758,
+    "time": "2019-06-01T04:00:00Z",
+    "time_milliseconds": 1559361600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 133.2,
+    "close": 140.12,
+    "high": 149.8,
+    "low": 129.6,
+    "volume": 29112588,
+    "time": "2019-07-01T04:00:00Z",
+    "time_milliseconds": 1561953600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 140,
+    "close": 134.51,
+    "high": 147.59,
+    "low": 130.84,
+    "volume": 25707067,
+    "time": "2019-08-01T04:00:00Z",
+    "time_milliseconds": 1564632000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 132.92,
+    "close": 125.44,
+    "high": 138.47,
+    "low": 119.65,
+    "volume": 35301366,
+    "time": "2019-09-01T04:00:00Z",
+    "time_milliseconds": 1567310400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 125.28,
+    "close": 120.79,
+    "high": 133.69,
+    "low": 107,
+    "volume": 56118917,
+    "time": "2019-10-01T04:00:00Z",
+    "time_milliseconds": 1569902400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 121.19,
+    "close": 127.11,
+    "high": 130.98,
+    "low": 112.83,
+    "volume": 23203353,
+    "time": "2019-11-01T04:00:00Z",
+    "time_milliseconds": 1572580800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 126.75,
+    "close": 120.34,
+    "high": 126.86,
+    "low": 113.91,
+    "volume": 25325423,
+    "time": "2019-12-01T05:00:00Z",
+    "time_milliseconds": 1575176400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 121.15,
+    "close": 147,
+    "high": 151.87,
+    "low": 119.84,
+    "volume": 41875139,
+    "time": "2020-01-01T05:00:00Z",
+    "time_milliseconds": 1577854800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 146.9,
+    "close": 144.96,
+    "high": 156.12,
+    "low": 136,
+    "volume": 29495975,
+    "time": "2020-02-01T05:00:00Z",
+    "time_milliseconds": 1580533200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 147.57,
+    "close": 137.26,
+    "high": 155.3,
+    "low": 110.01,
+    "volume": 49886214,
+    "time": "2020-03-01T05:00:00Z",
+    "time_milliseconds": 1583038800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 132.96,
+    "close": 155.49,
+    "high": 158.98,
+    "low": 126.54,
+    "volume": 37925758,
+    "time": "2020-04-01T04:00:00Z",
+    "time_milliseconds": 1585713600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 150,
+    "close": 185.3,
+    "high": 190.21,
+    "low": 146.06,
+    "volume": 41493999,
+    "time": "2020-05-01T04:00:00Z",
+    "time_milliseconds": 1588305600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 184.02,
+    "close": 180.27,
+    "high": 191.72,
+    "low": 163.72,
+    "volume": 40905678,
+    "time": "2020-06-01T04:00:00Z",
+    "time_milliseconds": 1590984000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 180.99,
+    "close": 176.65,
+    "high": 198.41,
+    "low": 169.11,
+    "volume": 44959126,
+    "time": "2020-07-01T04:00:00Z",
+    "time_milliseconds": 1593576000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 176.34,
+    "close": 191.76,
+    "high": 193.3,
+    "low": 160.01,
+    "volume": 37669410,
+    "time": "2020-08-01T04:00:00Z",
+    "time_milliseconds": 1596254400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 192.61,
+    "close": 181.79,
+    "high": 199.5,
+    "low": 164.16,
+    "volume": 28563363,
+    "time": "2020-09-01T04:00:00Z",
+    "time_milliseconds": 1598932800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 183.22,
+    "close": 191.62,
+    "high": 216.29,
+    "low": 180.57,
+    "volume": 43366968,
+    "time": "2020-10-01T04:00:00Z",
+    "time_milliseconds": 1601524800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 191.62,
+    "close": 225.05,
+    "high": 228.97,
+    "low": 176.42,
+    "volume": 40059496,
+    "time": "2020-11-01T04:00:00Z",
+    "time_milliseconds": 1604203200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 226,
+    "close": 233.87,
+    "high": 250.03,
+    "low": 218.9,
+    "volume": 32574010,
+    "time": "2020-12-01T05:00:00Z",
+    "time_milliseconds": 1606798800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 234.5,
+    "close": 231.13,
+    "high": 240.26,
+    "low": 208.62,
+    "volume": 28258823,
+    "time": "2021-01-01T05:00:00Z",
+    "time_milliseconds": 1609477200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 231.21,
+    "close": 237.7,
+    "high": 262.4,
+    "low": 224.09,
+    "volume": 23982137,
+    "time": "2021-02-01T05:00:00Z",
+    "time_milliseconds": 1612155600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 242.48,
+    "close": 210.76,
+    "high": 254.18,
+    "low": 198.8,
+    "volume": 35526569,
+    "time": "2021-03-01T05:00:00Z",
+    "time_milliseconds": 1614574800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 216.01,
+    "close": 237.56,
+    "high": 244.93,
+    "low": 212.25,
+    "volume": 28600001,
+    "time": "2021-04-01T04:00:00Z",
+    "time_milliseconds": 1617249600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 237.79,
+    "close": 233.28,
+    "high": 239.26,
+    "low": 207.83,
+    "volume": 34919031,
+    "time": "2021-05-01T04:00:00Z",
+    "time_milliseconds": 1619841600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 233.49,
+    "close": 256.86,
+    "high": 272.13,
+    "low": 221.09,
+    "volume": 26062132,
+    "time": "2021-06-01T04:00:00Z",
+    "time_milliseconds": 1622520000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 256.23,
+    "close": 325.12,
+    "high": 349.5,
+    "low": 255.35,
+    "volume": 23513067,
+    "time": "2021-07-01T04:00:00Z",
+    "time_milliseconds": 1625112000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 324.2,
+    "close": 367.06,
+    "high": 368.33,
+    "low": 313.4,
+    "volume": 20488752,
+    "time": "2021-08-01T04:00:00Z",
+    "time_milliseconds": 1627790400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 369.05,
+    "close": 391.42,
+    "high": 420.23,
+    "low": 368,
+    "volume": 23016133,
+    "time": "2021-09-01T04:00:00Z",
+    "time_milliseconds": 1630468800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 393,
+    "close": 458.13,
+    "high": 483.13,
+    "low": 376,
+    "volume": 20453514,
+    "time": "2021-10-01T04:00:00Z",
+    "time_milliseconds": 1633060800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 455.2,
+    "close": 376.32,
+    "high": 461.45,
+    "low": 373.2,
+    "volume": 18567778,
+    "time": "2021-11-01T04:00:00Z",
+    "time_milliseconds": 1635739200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 383.71,
+    "close": 381.29,
+    "high": 399.1,
+    "low": 332.01,
+    "volume": 32426906,
+    "time": "2021-12-01T05:00:00Z",
+    "time_milliseconds": 1638334800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 380.43,
+    "close": 324.34,
+    "high": 380.63,
+    "low": 273.42,
+    "volume": 58693420,
+    "time": "2022-01-01T05:00:00Z",
+    "time_milliseconds": 1641013200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 324.83,
+    "close": 305.72,
+    "high": 352.92,
+    "low": 268.2,
+    "volume": 31597294,
+    "time": "2022-02-01T05:00:00Z",
+    "time_milliseconds": 1643691600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 308,
+    "close": 293.83,
+    "high": 321.76,
+    "low": 232.69,
+    "volume": 44824168,
+    "time": "2022-03-01T05:00:00Z",
+    "time_milliseconds": 1646110800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 297.03,
+    "close": 224.83,
+    "high": 318.64,
+    "low": 224.03,
+    "volume": 37885589,
+    "time": "2022-04-01T04:00:00Z",
+    "time_milliseconds": 1648785600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 224.39,
+    "close": 177.32,
+    "high": 235.47,
+    "low": 159.54,
+    "volume": 55294124,
+    "time": "2022-05-01T04:00:00Z",
+    "time_milliseconds": 1651377600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 181.1,
+    "close": 187.4,
+    "high": 211.83,
+    "low": 162.87,
+    "volume": 36490714,
+    "time": "2022-06-01T04:00:00Z",
+    "time_milliseconds": 1654056000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 188.39,
+    "close": 209.32,
+    "high": 220.13,
+    "low": 178.68,
+    "volume": 34389584,
+    "time": "2022-07-01T04:00:00Z",
+    "time_milliseconds": 1656648000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 207.83,
+    "close": 247.66,
+    "high": 300.29,
+    "low": 204.68,
+    "volume": 45675027,
+    "time": "2022-08-01T04:00:00Z",
+    "time_milliseconds": 1659326400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 243.02,
+    "close": 210.59,
+    "high": 264.97,
+    "low": 204.73,
+    "volume": 30036919,
+    "time": "2022-09-01T04:00:00Z",
+    "time_milliseconds": 1662004800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 214.55,
+    "close": 202.73,
+    "high": 246.15,
+    "low": 184.47,
+    "volume": 37496431,
+    "time": "2022-10-01T04:00:00Z",
+    "time_milliseconds": 1664596800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 209.87,
+    "close": 131.55,
+    "high": 211.99,
+    "low": 113.86,
+    "volume": 78259437,
+    "time": "2022-11-01T04:00:00Z",
+    "time_milliseconds": 1667275200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 132.07,
+    "close": 128.68,
+    "high": 157.73,
+    "low": 121.2,
+    "volume": 94130652,
+    "time": "2022-12-01T05:00:00Z",
+    "time_milliseconds": 1669870800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 131.91,
+    "close": 161.62,
+    "high": 165.06,
+    "low": 116.4,
+    "volume": 52106885,
+    "time": "2023-01-01T05:00:00Z",
+    "time_milliseconds": 1672549200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 161.7,
+    "close": 164.33,
+    "high": 188.57,
+    "low": 158.41,
+    "volume": 55157774,
+    "time": "2023-02-01T05:00:00Z",
+    "time_milliseconds": 1675227600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 165.06,
+    "close": 171.17,
+    "high": 182.72,
+    "low": 146.42,
+    "volume": 41524937,
+    "time": "2023-03-01T05:00:00Z",
+    "time_milliseconds": 1677646800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 169.32,
+    "close": 147.66,
+    "high": 170.67,
+    "low": 142.86,
+    "volume": 29390482,
+    "time": "2023-04-01T04:00:00Z",
+    "time_milliseconds": 1680321600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 146.12,
+    "close": 180.79,
+    "high": 182.81,
+    "low": 128.02,
+    "volume": 56890217,
+    "time": "2023-05-01T04:00:00Z",
+    "time_milliseconds": 1682913600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 174.17,
+    "close": 167.81,
+    "high": 192.45,
+    "low": 156.44,
+    "volume": 40116322,
+    "time": "2023-06-01T04:00:00Z",
+    "time_milliseconds": 1685592000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 168.17,
+    "close": 181.94,
+    "high": 195.99,
+    "low": 162.59,
+    "volume": 33351776,
+    "time": "2023-07-01T04:00:00Z",
+    "time_milliseconds": 1688184000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 178.63,
+    "close": 204.06,
+    "high": 211.65,
+    "low": 166.99,
+    "volume": 35499765,
+    "time": "2023-08-01T04:00:00Z",
+    "time_milliseconds": 1690862400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 203.41,
+    "close": 201.51,
+    "high": 215.77,
+    "low": 189.3,
+    "volume": 21325732,
+    "time": "2023-09-01T04:00:00Z",
+    "time_milliseconds": 1693540800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 201.8,
+    "close": 180.64,
+    "high": 208.86,
+    "low": 173.58,
+    "volume": 30914465,
+    "time": "2023-10-01T04:00:00Z",
+    "time_milliseconds": 1696132800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 180.7,
+    "close": 190.95,
+    "high": 200.33,
+    "low": 165.51,
+    "volume": 34353703,
+    "time": "2023-11-01T04:00:00Z",
+    "time_milliseconds": 1698811200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 190.25,
+    "close": 237.86,
+    "high": 248,
+    "low": 184.5,
+    "volume": 34050505,
+    "time": "2023-12-01T05:00:00Z",
+    "time_milliseconds": 1701406800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 235.01,
+    "close": 249.77,
+    "high": 258.69,
+    "low": 218.85,
+    "volume": 30749730,
+    "time": "2024-01-01T05:00:00Z",
+    "time_milliseconds": 1704085200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 253.5,
+    "close": 207.42,
+    "high": 256.88,
+    "low": 199.95,
+    "volume": 40376099,
+    "time": "2024-02-01T05:00:00Z",
+    "time_milliseconds": 1706763600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 207.42,
+    "close": 195.11,
+    "high": 217.82,
+    "low": 189.5,
+    "volume": 35553562,
+    "time": "2024-03-01T05:00:00Z",
+    "time_milliseconds": 1709269200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 195.2,
+    "close": 172.3,
+    "high": 217.46,
+    "low": 171,
+    "volume": 39163475,
+    "time": "2024-04-01T04:00:00Z",
+    "time_milliseconds": 1711944000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 173.36,
+    "close": 156.86,
+    "high": 189.48,
+    "low": 154.02,
+    "volume": 40933758,
+    "time": "2024-05-01T04:00:00Z",
+    "time_milliseconds": 1714536000000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 158.46,
+    "close": 176.88,
+    "high": 178.39,
+    "low": 152.34,
+    "volume": 29815488,
+    "time": "2024-06-01T04:00:00Z",
+    "time_milliseconds": 1717214400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 176.88,
+    "close": 176.57,
+    "high": 188.06,
+    "low": 167.25,
+    "volume": 28915468,
+    "time": "2024-07-01T04:00:00Z",
+    "time_milliseconds": 1719806400000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 176.73,
+    "close": 165.6,
+    "high": 179.19,
+    "low": 135.29,
+    "volume": 52142928,
+    "time": "2024-08-01T04:00:00Z",
+    "time_milliseconds": 1722484800000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 163.25,
+    "close": 158.81,
+    "high": 168.67,
+    "low": 154.07,
+    "volume": 34108750,
+    "time": "2024-09-01T04:00:00Z",
+    "time_milliseconds": 1725163200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 163.23,
+    "close": 188.54,
+    "high": 196.25,
+    "low": 155.37,
+    "volume": 41802112,
+    "time": "2024-10-01T04:00:00Z",
+    "time_milliseconds": 1727755200000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 225.45,
+    "close": 263.58,
+    "high": 269.4,
+    "low": 214.69,
+    "volume": 52750676,
+    "time": "2024-11-01T04:00:00Z",
+    "time_milliseconds": 1730433600000
+  },
+  {
+    "ticker": "TEAM",
+    "open": 263,
+    "close": 243.38,
+    "high": 287.97,
+    "low": 241.51,
+    "volume": 37822114,
+    "time": "2024-12-01T05:00:00Z",
+    "time_milliseconds": 1733029200000
+  }
+]
